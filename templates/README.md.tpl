@@ -5,7 +5,7 @@
 {{range rss "https://medium.com/feed/@gosev" 5}}
 - [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
 {{- end}}
-UC2DOovF-OjIQ6nHClUyLKKQ
+
 #### 📽 🇬🇧 My recent English videos
 {{range rss "https://www.youtube.com/feeds/videos.xml?channel_id=UC2DOovF-OjIQ6nHClUyLKKQ" 5}}
 - [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
@@ -13,7 +13,7 @@ UC2DOovF-OjIQ6nHClUyLKKQ
 
 #### 📜 🇫🇷 My recent French videos
 {{range rss "https://www.youtube.com/feeds/videos.xml?channel_id=UCzdX32OIhpfrdxQRhN2s98w" 10}}
-- [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
+- [{{.Title}}]({{.URL}}) {{slice .URL 32}}  ({{humanize .PublishedAt}})
 {{- end}}
 
 #### 👷 Check out what I'm currently working on
@@ -25,7 +25,6 @@ UC2DOovF-OjIQ6nHClUyLKKQ
 {{range recentRepos 10}}
 - [{{.Name}}]({{.URL}}) - {{.Description}}
 {{- end}}
-
 
 
 #### 🔭 Latest releases I've contributed to
