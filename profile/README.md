@@ -8,7 +8,27 @@
 - [Angular vs Vue.js vs React vs Svelte in 2022: What do the Numbers Say?](https://javascript.plainenglish.io/angular-vs-vue-js-vs-react-vs-svelte-in-2022-what-do-the-numbers-say-7ae38a549d8d?source=rss-e68daed69805------2) (1 week ago)
 - [React 18: What You Need to Know](https://javascript.plainenglish.io/react-18-what-you-need-to-know-d7bed3216e2e?source=rss-e68daed69805------2) (1 week ago)
 - [Use Gamedesign &amp; Flow to Hack Your Coding Productivity](https://levelup.gitconnected.com/using-gamedesign-to-hack-productivity-a78544c44a80?source=rss-e68daed69805------2) (2 weeks ago)
+UC2DOovF-OjIQ6nHClUyLKKQ
+#### 📽 🇬🇧 My recent English videos
 
+- [What is a REST API?](https://www.youtube.com/watch?v=2CpwxpLcxfU) (1 week ago)
+- [Frontend vs backend vs fullstack: which will you choose?](https://www.youtube.com/watch?v=83VZulS0H5g) (2 weeks ago)
+- [7 Productivity Tips  for Programmers (How to Make Coding Fun)](https://www.youtube.com/watch?v=RN2hUjA_RS4) (3 weeks ago)
+- [React 18: what you need to know](https://www.youtube.com/watch?v=kWI_CrWn8yU) (1 month ago)
+- [Angular vs React in 2022: which should you choose?](https://www.youtube.com/watch?v=CynLOUL9vsU) (1 month ago)
+
+#### 📜 🇫🇷 My recent French videos
+
+- [Pourquoi Solid JS (vs React &amp; Svelte) ?](https://www.youtube.com/watch?v=4Xnt2ASdFbA) (3 days ago)
+- [React vs Vue vs Angular vs Svelte : que disent les chiffres ?](https://www.youtube.com/watch?v=5Es-oq-o0Qg) (2 weeks ago)
+- [Remix vs Next JS : c&#39;est quoi Remix ?](https://www.youtube.com/watch?v=MfBXjOgef-U) (4 weeks ago)
+- [React 18 : ce qu&#39;il faut savoir !](https://www.youtube.com/watch?v=d6nkWVUo5vw) (1 month ago)
+- [Scope et closures en JS (et... hoisting ?)](https://www.youtube.com/watch?v=LYvQWwsKiME) (1 month ago)
+- [C&#39;est quoi un JWT ?](https://www.youtube.com/watch?v=5qNfPBcogCs) (2 months ago)
+- [PHP vs Ruby vs Python vs NodeJS : que disent les chiffres ?](https://www.youtube.com/watch?v=evT5fptnRSo) (2 months ago)
+- [DevActus 4 : Créer des vidéos sous React avec Remotion](https://www.youtube.com/watch?v=e4czORELN0A) (2 months ago)
+- [ActusDev 3 : L&#39;état du JavaScript, nouveautés React Native](https://www.youtube.com/watch?v=1qS8UzioAWI) (3 months ago)
+- [Cours JavaScript : 7 fonctions pour manipuler les tableaux](https://www.youtube.com/watch?v=-9nygSaeN40) (3 months ago)
 
 #### 👷 Check out what I'm currently working on
 
