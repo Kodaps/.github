@@ -8,12 +8,12 @@
 
 #### 📽 🇬🇧 My recent English videos
 {{range rss "https://www.youtube.com/feeds/videos.xml?channel_id=UC2DOovF-OjIQ6nHClUyLKKQ" 5}}
-- [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
+- [{{.Title}}]({{.URL}})  <img src="https://img.shields.io/youtube/views/{{slice .URL 32}}?style=social"> </img> ({{humanize .PublishedAt}})
 {{- end}}
 
 #### 📜 🇫🇷 My recent French videos
 {{range rss "https://www.youtube.com/feeds/videos.xml?channel_id=UCzdX32OIhpfrdxQRhN2s98w" 10}}
-- [{{.Title}}]({{.URL}}) {{slice .URL 32}}  ({{humanize .PublishedAt}})
+- [{{.Title}}]({{.URL}}) <img src="https://img.shields.io/youtube/views/{{slice .URL 32}}?style=social"> </img> ({{humanize .PublishedAt}})
 {{- end}}
 
 #### 👷 Check out what I'm currently working on
