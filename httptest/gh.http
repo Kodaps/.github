@@ -1,0 +1,4 @@
+
+
+GET https://{{$dotenv USER}}:{{$dotenv GITHUB_TOKEN}}@api.github.com/users/gosev
+

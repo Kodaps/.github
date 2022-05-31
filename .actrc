@@ -1,0 +1,4 @@
+# sample .actrc file
+#--env-file <file-name>
+--secret-file .env
+-j markscribe
