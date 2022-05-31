@@ -3,11 +3,11 @@
 
 #### 📜 My recent blog posts
 
+- [What is a REST API?](https://levelup.gitconnected.com/what-is-a-rest-api-6471b08eb575?source=rss-e68daed69805------2) (today)
 - [What Is a JWT (nd Why)?](https://levelup.gitconnected.com/what-is-a-jwt-nd-why-2bd0c74aa26f?source=rss-e68daed69805------2) (6 days ago)
 - [SolidJS: Looks Can Be Deceptive?](https://javascript.plainenglish.io/solidjs-looks-can-be-deceptive-65b2f91360fe?source=rss-e68daed69805------2) (6 days ago)
 - [Angular vs Vue.js vs React vs Svelte in 2022: What do the Numbers Say?](https://javascript.plainenglish.io/angular-vs-vue-js-vs-react-vs-svelte-in-2022-what-do-the-numbers-say-7ae38a549d8d?source=rss-e68daed69805------2) (1 week ago)
 - [React 18: What You Need to Know](https://javascript.plainenglish.io/react-18-what-you-need-to-know-d7bed3216e2e?source=rss-e68daed69805------2) (2 weeks ago)
-- [Use Gamedesign &amp; Flow to Hack Your Coding Productivity](https://levelup.gitconnected.com/using-gamedesign-to-hack-productivity-a78544c44a80?source=rss-e68daed69805------2) (2 weeks ago)
 
 #### 📽 🇬🇧 My recent English videos
 <img src="https://img.shields.io/youtube/channel/subscribers/UC2DOovF-OjIQ6nHClUyLKKQ?style=for-the-badge"></img>
