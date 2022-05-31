@@ -41,12 +41,12 @@
  <img src="https://img.shields.io/youtube/views/5qNfPBcogCs?style=flat-square"> </img>
 - [PHP vs Ruby vs Python vs NodeJS : que disent les chiffres ?](https://www.youtube.com/watch?v=evT5fptnRSo)(2 months ago)
  <img src="https://img.shields.io/youtube/views/evT5fptnRSo?style=flat-square"> </img>
-- [DevActus 4 : Créer des vidéos sous React avec Remotion](https://www.youtube.com/watch?v=e4czORELN0A)(2 months ago)
- <img src="https://img.shields.io/youtube/views/e4czORELN0A?style=flat-square"> </img>
-- [ActusDev 3 : L&#39;état du JavaScript, nouveautés React Native](https://www.youtube.com/watch?v=1qS8UzioAWI)(3 months ago)
- <img src="https://img.shields.io/youtube/views/1qS8UzioAWI?style=flat-square"> </img>
 - [Cours JavaScript : 7 fonctions pour manipuler les tableaux](https://www.youtube.com/watch?v=-9nygSaeN40)(3 months ago)
  <img src="https://img.shields.io/youtube/views/-9nygSaeN40?style=flat-square"> </img>
+- [DevActus : Remix &amp; les composants serveur React](https://www.youtube.com/watch?v=uC4Wd9OJNHY)(3 months ago)
+ <img src="https://img.shields.io/youtube/views/uC4Wd9OJNHY?style=flat-square"> </img>
+- [Productivité et motivation : 7 clefs inspirées du Game Design](https://www.youtube.com/watch?v=2b6OWB380Gw)(3 months ago)
+ <img src="https://img.shields.io/youtube/views/2b6OWB380Gw?style=flat-square"> </img>
 
 #### 👷 Check out what I'm currently working on
 
