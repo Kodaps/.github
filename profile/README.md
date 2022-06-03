@@ -3,7 +3,7 @@
 
 #### 📜 My recent blog posts
 
-- [What is a REST API?](https://levelup.gitconnected.com/what-is-a-rest-api-6471b08eb575?source=rss-e68daed69805------2) (2 days ago)
+- [What is a REST API?](https://levelup.gitconnected.com/what-is-a-rest-api-6471b08eb575?source=rss-e68daed69805------2) (3 days ago)
 - [What Is a JWT (nd Why)?](https://levelup.gitconnected.com/what-is-a-jwt-nd-why-2bd0c74aa26f?source=rss-e68daed69805------2) (1 week ago)
 - [SolidJS: Looks Can Be Deceptive?](https://javascript.plainenglish.io/solidjs-looks-can-be-deceptive-65b2f91360fe?source=rss-e68daed69805------2) (1 week ago)
 - [Angular vs Vue.js vs React vs Svelte in 2022: What do the Numbers Say?](https://javascript.plainenglish.io/angular-vs-vue-js-vs-react-vs-svelte-in-2022-what-do-the-numbers-say-7ae38a549d8d?source=rss-e68daed69805------2) (1 week ago)
@@ -15,7 +15,7 @@
 
 - [What is a REST API?](https://www.youtube.com/watch?v=2CpwxpLcxfU)  (1 week ago)
 <img src="https://img.shields.io/youtube/views/2CpwxpLcxfU?style=flat-square"> </img>
-- [Frontend vs backend vs fullstack: which will you choose?](https://www.youtube.com/watch?v=83VZulS0H5g)  (2 weeks ago)
+- [Frontend vs backend vs fullstack: which will you choose?](https://www.youtube.com/watch?v=83VZulS0H5g)  (3 weeks ago)
 <img src="https://img.shields.io/youtube/views/83VZulS0H5g?style=flat-square"> </img>
 - [7 Productivity Tips  for Programmers (How to Make Coding Fun)](https://www.youtube.com/watch?v=RN2hUjA_RS4)  (4 weeks ago)
 <img src="https://img.shields.io/youtube/views/RN2hUjA_RS4?style=flat-square"> </img>
@@ -27,7 +27,7 @@
 #### 📜 🇫🇷 My recent French videos
 <img src="https://img.shields.io/youtube/channel/subscribers/UCzdX32OIhpfrdxQRhN2s98w?style=for-the-badge"></img>
 
-- [Pourquoi Solid JS (vs React &amp; Svelte) ?](https://www.youtube.com/watch?v=4Xnt2ASdFbA)(6 days ago)
+- [Pourquoi Solid JS (vs React &amp; Svelte) ?](https://www.youtube.com/watch?v=4Xnt2ASdFbA)(1 week ago)
  <img src="https://img.shields.io/youtube/views/4Xnt2ASdFbA?style=flat-square"> </img>
 - [React vs Vue vs Angular vs Svelte : que disent les chiffres ?](https://www.youtube.com/watch?v=5Es-oq-o0Qg)(3 weeks ago)
  <img src="https://img.shields.io/youtube/views/5Es-oq-o0Qg?style=flat-square"> </img>
@@ -35,7 +35,7 @@
  <img src="https://img.shields.io/youtube/views/MfBXjOgef-U?style=flat-square"> </img>
 - [React 18 : ce qu&#39;il faut savoir !](https://www.youtube.com/watch?v=d6nkWVUo5vw)(1 month ago)
  <img src="https://img.shields.io/youtube/views/d6nkWVUo5vw?style=flat-square"> </img>
-- [Scope et closures en JS (et... hoisting ?)](https://www.youtube.com/watch?v=LYvQWwsKiME)(1 month ago)
+- [Scope et closures en JS (et... hoisting ?)](https://www.youtube.com/watch?v=LYvQWwsKiME)(2 months ago)
  <img src="https://img.shields.io/youtube/views/LYvQWwsKiME?style=flat-square"> </img>
 - [C&#39;est quoi un JWT ?](https://www.youtube.com/watch?v=5qNfPBcogCs)(2 months ago)
  <img src="https://img.shields.io/youtube/views/5qNfPBcogCs?style=flat-square"> </img>
@@ -50,8 +50,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Kodaps/.github](https://github.com/Kodaps/.github) - Public profile (2 days ago)
-- [Kodaps/GitFirstSteps](https://github.com/Kodaps/GitFirstSteps) - First steps with git - a tutorial repository (2 days ago)
+- [Kodaps/.github](https://github.com/Kodaps/.github) - Public profile (3 days ago)
+- [Kodaps/GitFirstSteps](https://github.com/Kodaps/GitFirstSteps) - First steps with git - a tutorial repository (3 days ago)
 - [Kodaps/JSFirstSteps](https://github.com/Kodaps/JSFirstSteps) - Contents for JS course (2 weeks ago)
 - [DavidKodaps/demo-package](https://github.com/DavidKodaps/demo-package) - Demo NPM package (4 months ago)
 - [Kodaps/Api-Typescript-Sls](https://github.com/Kodaps/Api-Typescript-Sls) - Serverless NodeJS &#43; Typescript API  (5 months ago)
