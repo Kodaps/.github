@@ -65,7 +65,7 @@
 
 #### 💬 Feedback
 
-Say Hello, I don't bite!
+Say Hello, I don't bite (much)!
 
 #### 📫 How to reach me
 
