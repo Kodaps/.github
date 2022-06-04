@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-#### 📜 My recent blog posts
+#### 📜 🇬🇧 My recent blog posts
 {{range rss "https://medium.com/feed/@gosev" 5}}
 - [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
 {{- end}}
@@ -69,8 +69,7 @@ Say Hello, I don't bite!
 
 #### 📫 How to reach me
 
-- Twitter: https://twitter.com/...
-- Fediverse: https://mastodon.social/@...
-- Blog: https://...
+- Twitter: https://twitter.com/@kodapsacademy
+- Blog  🇫🇷: https://kodaps.fr
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
