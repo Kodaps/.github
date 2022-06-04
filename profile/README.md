@@ -3,7 +3,7 @@
 
 #### 📜 My recent blog posts
 
-- [What is a REST API?](https://levelup.gitconnected.com/what-is-a-rest-api-6471b08eb575?source=rss-e68daed69805------2) (3 days ago)
+- [What is a REST API?](https://levelup.gitconnected.com/what-is-a-rest-api-6471b08eb575?source=rss-e68daed69805------2) (4 days ago)
 - [What Is a JWT (nd Why)?](https://levelup.gitconnected.com/what-is-a-jwt-nd-why-2bd0c74aa26f?source=rss-e68daed69805------2) (1 week ago)
 - [SolidJS: Looks Can Be Deceptive?](https://javascript.plainenglish.io/solidjs-looks-can-be-deceptive-65b2f91360fe?source=rss-e68daed69805------2) (1 week ago)
 - [Angular vs Vue.js vs React vs Svelte in 2022: What do the Numbers Say?](https://javascript.plainenglish.io/angular-vs-vue-js-vs-react-vs-svelte-in-2022-what-do-the-numbers-say-7ae38a549d8d?source=rss-e68daed69805------2) (1 week ago)
@@ -13,11 +13,11 @@
 <img src="https://img.shields.io/youtube/channel/subscribers/UC2DOovF-OjIQ6nHClUyLKKQ?style=for-the-badge"></img>
 
 
-- [What is a REST API?](https://www.youtube.com/watch?v=2CpwxpLcxfU)  (1 week ago)
+- [What is a REST API?](https://www.youtube.com/watch?v=2CpwxpLcxfU)  (2 weeks ago)
 <img src="https://img.shields.io/youtube/views/2CpwxpLcxfU?style=flat-square"> </img>
 - [Frontend vs backend vs fullstack: which will you choose?](https://www.youtube.com/watch?v=83VZulS0H5g)  (3 weeks ago)
 <img src="https://img.shields.io/youtube/views/83VZulS0H5g?style=flat-square"> </img>
-- [7 Productivity Tips  for Programmers (How to Make Coding Fun)](https://www.youtube.com/watch?v=RN2hUjA_RS4)  (4 weeks ago)
+- [7 Productivity Tips  for Programmers (How to Make Coding Fun)](https://www.youtube.com/watch?v=RN2hUjA_RS4)  (1 month ago)
 <img src="https://img.shields.io/youtube/views/RN2hUjA_RS4?style=flat-square"> </img>
 - [React 18: what you need to know](https://www.youtube.com/watch?v=kWI_CrWn8yU)  (1 month ago)
 <img src="https://img.shields.io/youtube/views/kWI_CrWn8yU?style=flat-square"> </img>
@@ -50,8 +50,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Kodaps/.github](https://github.com/Kodaps/.github) - Public profile (3 days ago)
-- [Kodaps/GitFirstSteps](https://github.com/Kodaps/GitFirstSteps) - First steps with git - a tutorial repository (3 days ago)
+- [Kodaps/.github](https://github.com/Kodaps/.github) - Public profile (4 days ago)
+- [Kodaps/GitFirstSteps](https://github.com/Kodaps/GitFirstSteps) - First steps with git - a tutorial repository (4 days ago)
 - [Kodaps/JSFirstSteps](https://github.com/Kodaps/JSFirstSteps) - Contents for JS course (2 weeks ago)
 - [DavidKodaps/demo-package](https://github.com/DavidKodaps/demo-package) - Demo NPM package (4 months ago)
 - [Kodaps/Api-Typescript-Sls](https://github.com/Kodaps/Api-Typescript-Sls) - Serverless NodeJS &#43; Typescript API  (5 months ago)
