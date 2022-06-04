@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-#### 📜 My recent blog posts
+#### 📜 🇬🇧 My recent blog posts
 
 - [What is a REST API?](https://levelup.gitconnected.com/what-is-a-rest-api-6471b08eb575?source=rss-e68daed69805------2) (4 days ago)
 - [What Is a JWT (nd Why)?](https://levelup.gitconnected.com/what-is-a-jwt-nd-why-2bd0c74aa26f?source=rss-e68daed69805------2) (1 week ago)
@@ -50,7 +50,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Kodaps/.github](https://github.com/Kodaps/.github) - Public profile (4 days ago)
+- [Kodaps/.github](https://github.com/Kodaps/.github) - Public profile (today)
 - [Kodaps/GitFirstSteps](https://github.com/Kodaps/GitFirstSteps) - First steps with git - a tutorial repository (4 days ago)
 - [Kodaps/JSFirstSteps](https://github.com/Kodaps/JSFirstSteps) - Contents for JS course (2 weeks ago)
 - [DavidKodaps/demo-package](https://github.com/DavidKodaps/demo-package) - Demo NPM package (4 months ago)
@@ -98,8 +98,7 @@ Say Hello, I don't bite!
 
 #### 📫 How to reach me
 
-- Twitter: https://twitter.com/...
-- Fediverse: https://mastodon.social/@...
-- Blog: https://...
+- Twitter: https://twitter.com/@kodapsacademy
+- Blog  🇫🇷: https://kodaps.fr
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
