@@ -20,7 +20,7 @@ jobs:
       - name: Render Template
         uses: muesli/readme-scribe@master
         env:
-          GITHUB_TOKEN: ${{ secrets.PERSONAL_GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           template: "templates/README.md.tpl"
           writeTo: "profile/README.md"
