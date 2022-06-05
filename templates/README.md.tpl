@@ -4,9 +4,14 @@
 
 
 #### 📜 🇬🇧 My recent blog posts
+<table>
 {{range rss "https://medium.com/feed/@gosev" 5}}
-- [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
+<tr>
+  <td>{{.Image}}</td>
+  <td>
+  <a href="{{.URL}}">{{.Title}}</a>({{humanize .PublishedAt}})</td>
 {{- end}}
+</table>
 
 #### 📽 🇬🇧 My recent English videos
 <img src="https://img.shields.io/youtube/channel/subscribers/UC2DOovF-OjIQ6nHClUyLKKQ?style=for-the-badge"></img>
@@ -24,11 +29,17 @@
 
 #### 📜 🇫🇷 My recent French videos
 <img src="https://img.shields.io/youtube/channel/subscribers/UCzdX32OIhpfrdxQRhN2s98w?style=for-the-badge"></img>
-{{range rss "https://www.youtube.com/feeds/videos.xml?channel_id=UCzdX32OIhpfrdxQRhN2s98w" 10}}
-<img src="https://img.youtube.com/vi/{{slice .URL 32}}/default.jpg"></img>
-- [{{.Title}}]({{.URL}})({{humanize .PublishedAt}})
- <img src="https://img.shields.io/youtube/views/{{slice .URL 32}}?style=flat-square"> </img> 
+<table>
+{{range rss "https://www.youtube.com/feeds/videos.xml?channel_id=UCzdX32OIhpfrdxQRhN2s98w" 5}}
+<tr>
+<td><img src="https://img.youtube.com/vi/{{slice .URL 32}}/default.jpg"></img></td>
+<td>
+<a href="{{.URL}}">{{.Title}}</a> ({{humanize .PublishedAt}}) <br/>
+<img src="https://img.shields.io/youtube/views/{{slice .URL 32}}?style=flat-square"> </img> 
+</td>
+</tr>
 {{- end}}
+</table>
 
 #### 👷 Check out what I'm currently working on
 {{range recentContributions 10}}
