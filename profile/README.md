@@ -15,44 +15,59 @@
 <img src="https://img.shields.io/youtube/channel/subscribers/UC2DOovF-OjIQ6nHClUyLKKQ?style=for-the-badge"></img>
 
 
-- [What is a REST API?](https://www.youtube.com/watch?v=2CpwxpLcxfU)  (2 weeks ago)
-<img src="https://img.shields.io/youtube/views/2CpwxpLcxfU?style=flat-square"> </img>
-- [Frontend vs backend vs fullstack: which will you choose?](https://www.youtube.com/watch?v=83VZulS0H5g)  (3 weeks ago)
-<img src="https://img.shields.io/youtube/views/83VZulS0H5g?style=flat-square"> </img>
-- [7 Productivity Tips  for Programmers (How to Make Coding Fun)](https://www.youtube.com/watch?v=RN2hUjA_RS4)  (1 month ago)
-<img src="https://img.shields.io/youtube/views/RN2hUjA_RS4?style=flat-square"> </img>
-- [React 18: what you need to know](https://www.youtube.com/watch?v=kWI_CrWn8yU)  (1 month ago)
-<img src="https://img.shields.io/youtube/views/kWI_CrWn8yU?style=flat-square"> </img>
-- [Angular vs React in 2022: which should you choose?](https://www.youtube.com/watch?v=CynLOUL9vsU)  (1 month ago)
-<img src="https://img.shields.io/youtube/views/CynLOUL9vsU?style=flat-square"> </img>
+<img src="https://img.youtube.com/vi/2CpwxpLcxfU/default.jpg"></img>
+<img src="https://img.shields.io/youtube/views/2CpwxpLcxfU?style=flat-square"> </img> 
+[What is a REST API?](https://www.youtube.com/watch?v=2CpwxpLcxfU)  (2 weeks ago)
+<img src="https://img.youtube.com/vi/83VZulS0H5g/default.jpg"></img>
+<img src="https://img.shields.io/youtube/views/83VZulS0H5g?style=flat-square"> </img> 
+[Frontend vs backend vs fullstack: which will you choose?](https://www.youtube.com/watch?v=83VZulS0H5g)  (3 weeks ago)
+<img src="https://img.youtube.com/vi/RN2hUjA_RS4/default.jpg"></img>
+<img src="https://img.shields.io/youtube/views/RN2hUjA_RS4?style=flat-square"> </img> 
+[7 Productivity Tips  for Programmers (How to Make Coding Fun)](https://www.youtube.com/watch?v=RN2hUjA_RS4)  (1 month ago)
+<img src="https://img.youtube.com/vi/kWI_CrWn8yU/default.jpg"></img>
+<img src="https://img.shields.io/youtube/views/kWI_CrWn8yU?style=flat-square"> </img> 
+[React 18: what you need to know](https://www.youtube.com/watch?v=kWI_CrWn8yU)  (1 month ago)
+<img src="https://img.youtube.com/vi/CynLOUL9vsU/default.jpg"></img>
+<img src="https://img.shields.io/youtube/views/CynLOUL9vsU?style=flat-square"> </img> 
+[Angular vs React in 2022: which should you choose?](https://www.youtube.com/watch?v=CynLOUL9vsU)  (1 month ago)
 
 #### 📜 🇫🇷 My recent French videos
 <img src="https://img.shields.io/youtube/channel/subscribers/UCzdX32OIhpfrdxQRhN2s98w?style=for-the-badge"></img>
 
+<img src="https://img.youtube.com/vi/4Xnt2ASdFbA/default.jpg"></img>
 - [Pourquoi Solid JS (vs React &amp; Svelte) ?](https://www.youtube.com/watch?v=4Xnt2ASdFbA)(1 week ago)
  <img src="https://img.shields.io/youtube/views/4Xnt2ASdFbA?style=flat-square"> </img>
+<img src="https://img.youtube.com/vi/5Es-oq-o0Qg/default.jpg"></img>
 - [React vs Vue vs Angular vs Svelte : que disent les chiffres ?](https://www.youtube.com/watch?v=5Es-oq-o0Qg)(3 weeks ago)
  <img src="https://img.shields.io/youtube/views/5Es-oq-o0Qg?style=flat-square"> </img>
+<img src="https://img.youtube.com/vi/MfBXjOgef-U/default.jpg"></img>
 - [Remix vs Next JS : c&#39;est quoi Remix ?](https://www.youtube.com/watch?v=MfBXjOgef-U)(1 month ago)
  <img src="https://img.shields.io/youtube/views/MfBXjOgef-U?style=flat-square"> </img>
+<img src="https://img.youtube.com/vi/d6nkWVUo5vw/default.jpg"></img>
 - [React 18 : ce qu&#39;il faut savoir !](https://www.youtube.com/watch?v=d6nkWVUo5vw)(1 month ago)
  <img src="https://img.shields.io/youtube/views/d6nkWVUo5vw?style=flat-square"> </img>
+<img src="https://img.youtube.com/vi/LYvQWwsKiME/default.jpg"></img>
 - [Scope et closures en JS (et... hoisting ?)](https://www.youtube.com/watch?v=LYvQWwsKiME)(2 months ago)
  <img src="https://img.shields.io/youtube/views/LYvQWwsKiME?style=flat-square"> </img>
+<img src="https://img.youtube.com/vi/5qNfPBcogCs/default.jpg"></img>
 - [C&#39;est quoi un JWT ?](https://www.youtube.com/watch?v=5qNfPBcogCs)(2 months ago)
  <img src="https://img.shields.io/youtube/views/5qNfPBcogCs?style=flat-square"> </img>
+<img src="https://img.youtube.com/vi/evT5fptnRSo/default.jpg"></img>
 - [PHP vs Ruby vs Python vs NodeJS : que disent les chiffres ?](https://www.youtube.com/watch?v=evT5fptnRSo)(2 months ago)
  <img src="https://img.shields.io/youtube/views/evT5fptnRSo?style=flat-square"> </img>
+<img src="https://img.youtube.com/vi/-9nygSaeN40/default.jpg"></img>
 - [Cours JavaScript : 7 fonctions pour manipuler les tableaux](https://www.youtube.com/watch?v=-9nygSaeN40)(3 months ago)
  <img src="https://img.shields.io/youtube/views/-9nygSaeN40?style=flat-square"> </img>
+<img src="https://img.youtube.com/vi/uC4Wd9OJNHY/default.jpg"></img>
 - [DevActus : Remix &amp; les composants serveur React](https://www.youtube.com/watch?v=uC4Wd9OJNHY)(3 months ago)
  <img src="https://img.shields.io/youtube/views/uC4Wd9OJNHY?style=flat-square"> </img>
+<img src="https://img.youtube.com/vi/2b6OWB380Gw/default.jpg"></img>
 - [Productivité et motivation : 7 clefs inspirées du Game Design](https://www.youtube.com/watch?v=2b6OWB380Gw)(4 months ago)
  <img src="https://img.shields.io/youtube/views/2b6OWB380Gw?style=flat-square"> </img>
 
 #### 👷 Check out what I'm currently working on
 
-- [Kodaps/.github](https://github.com/Kodaps/.github) - Public profile (1 day ago)
+- [Kodaps/.github](https://github.com/Kodaps/.github) - Public profile (today)
 - [Kodaps/GitFirstSteps](https://github.com/Kodaps/GitFirstSteps) - First steps with git - a tutorial repository (5 days ago)
 - [Kodaps/JSFirstSteps](https://github.com/Kodaps/JSFirstSteps) - Contents for JS course (2 weeks ago)
 - [DavidKodaps/demo-package](https://github.com/DavidKodaps/demo-package) - Demo NPM package (4 months ago)
