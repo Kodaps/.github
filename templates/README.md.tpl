@@ -15,7 +15,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/{{slice .URL 32}}/default.jpg"></img></td>
 <td>
-[{{.Title}}]({{.URL}})  ({{humanize .PublishedAt}})<br/>
+<a href="{{.URL}}">{{.Title}}</a> ({{humanize .PublishedAt}}) <br/>
 <img src="https://img.shields.io/youtube/views/{{slice .URL 32}}?style=flat-square"> </img> 
 </td>
 </tr>
