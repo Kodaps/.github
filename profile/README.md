@@ -5,16 +5,16 @@
 
 ## 📜 🇬🇧 My recent blog posts
 
-- [https://levelup.gitconnected.com/what-is-a-rest-api-6471b08eb575?source=rss-e68daed69805------2](What is a REST API?) (5 days ago)
-- [https://levelup.gitconnected.com/what-is-a-jwt-nd-why-2bd0c74aa26f?source=rss-e68daed69805------2](What Is a JWT (nd Why)?) (1 week ago)
-- [https://javascript.plainenglish.io/solidjs-looks-can-be-deceptive-65b2f91360fe?source=rss-e68daed69805------2](SolidJS: Looks Can Be Deceptive?) (1 week ago)
-- [https://javascript.plainenglish.io/angular-vs-vue-js-vs-react-vs-svelte-in-2022-what-do-the-numbers-say-7ae38a549d8d?source=rss-e68daed69805------2](Angular vs Vue.js vs React vs Svelte in 2022: What do the Numbers Say?) (1 week ago)
-- [https://javascript.plainenglish.io/react-18-what-you-need-to-know-d7bed3216e2e?source=rss-e68daed69805------2](React 18: What You Need to Know) (2 weeks ago)
-- [https://levelup.gitconnected.com/using-gamedesign-to-hack-productivity-a78544c44a80?source=rss-e68daed69805------2](Use Gamedesign &amp; Flow to Hack Your Coding Productivity) (3 weeks ago)
-- [https://levelup.gitconnected.com/php-vs-nodejs-vs-python-vs-ruby-what-do-the-numbers-say-efb19c986948?source=rss-e68daed69805------2](PHP vs NodeJS vs Python vs Ruby: what do the numbers say?) (2 months ago)
-- [https://levelup.gitconnected.com/flutter-vs-react-native-2e29e9a919e7?source=rss-e68daed69805------2](Flutter vs React Native) (6 months ago)
-- [https://gosev.medium.com/fun-tech-stuff-from-this-past-week-week-39-2021-4e7ec442bb35?source=rss-e68daed69805------2](Fun Tech Stuff From This Past Week — Week 39, 2021) (8 months ago)
-- [https://gosev.medium.com/want-to-make-a-native-mobile-game-try-solar2d-ef16e5747809?source=rss-e68daed69805------2](Want to Make a Native Mobile Game? Try Solar2D) (8 months ago)
+- [What is a REST API?](https://levelup.gitconnected.com/what-is-a-rest-api-6471b08eb575?source=rss-e68daed69805------2) (5 days ago)
+- [What Is a JWT (nd Why)?](https://levelup.gitconnected.com/what-is-a-jwt-nd-why-2bd0c74aa26f?source=rss-e68daed69805------2) (1 week ago)
+- [SolidJS: Looks Can Be Deceptive?](https://javascript.plainenglish.io/solidjs-looks-can-be-deceptive-65b2f91360fe?source=rss-e68daed69805------2) (1 week ago)
+- [Angular vs Vue.js vs React vs Svelte in 2022: What do the Numbers Say?](https://javascript.plainenglish.io/angular-vs-vue-js-vs-react-vs-svelte-in-2022-what-do-the-numbers-say-7ae38a549d8d?source=rss-e68daed69805------2) (1 week ago)
+- [React 18: What You Need to Know](https://javascript.plainenglish.io/react-18-what-you-need-to-know-d7bed3216e2e?source=rss-e68daed69805------2) (2 weeks ago)
+- [Use Gamedesign &amp; Flow to Hack Your Coding Productivity](https://levelup.gitconnected.com/using-gamedesign-to-hack-productivity-a78544c44a80?source=rss-e68daed69805------2) (3 weeks ago)
+- [PHP vs NodeJS vs Python vs Ruby: what do the numbers say?](https://levelup.gitconnected.com/php-vs-nodejs-vs-python-vs-ruby-what-do-the-numbers-say-efb19c986948?source=rss-e68daed69805------2) (2 months ago)
+- [Flutter vs React Native](https://levelup.gitconnected.com/flutter-vs-react-native-2e29e9a919e7?source=rss-e68daed69805------2) (6 months ago)
+- [Fun Tech Stuff From This Past Week — Week 39, 2021](https://gosev.medium.com/fun-tech-stuff-from-this-past-week-week-39-2021-4e7ec442bb35?source=rss-e68daed69805------2) (8 months ago)
+- [Want to Make a Native Mobile Game? Try Solar2D](https://gosev.medium.com/want-to-make-a-native-mobile-game-try-solar2d-ef16e5747809?source=rss-e68daed69805------2) (8 months ago)
 
 ## 📽 🇬🇧 My recent English videos
 <img src="https://img.shields.io/youtube/channel/subscribers/UC2DOovF-OjIQ6nHClUyLKKQ?style=for-the-badge"></img>
