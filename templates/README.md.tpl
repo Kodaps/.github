@@ -4,12 +4,9 @@
 
 
 ## 📜 🇬🇧 My recent blog posts
-<table>
 {{range rss "https://medium.com/feed/@gosev" 10}}
-<tr>
-  <a href="{{.URL}}">{{.Title}}</a>({{humanize .PublishedAt}})</td>
+- [{{.URL}}]({{.Title}}) ({{humanize .PublishedAt}})
 {{- end}}
-</table>
 
 ## 📽 🇬🇧 My recent English videos
 <img src="https://img.shields.io/youtube/channel/subscribers/UC2DOovF-OjIQ6nHClUyLKKQ?style=for-the-badge"></img>
