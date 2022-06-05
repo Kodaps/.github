@@ -10,12 +10,17 @@
 
 #### 📽 🇬🇧 My recent English videos
 <img src="https://img.shields.io/youtube/channel/subscribers/UC2DOovF-OjIQ6nHClUyLKKQ?style=for-the-badge"></img>
-
+<table>
 {{range rss "https://www.youtube.com/feeds/videos.xml?channel_id=UC2DOovF-OjIQ6nHClUyLKKQ" 5}}
-<img src="https://img.youtube.com/vi/{{slice .URL 32}}/default.jpg"></img>
+<tr>
+<td><img src="https://img.youtube.com/vi/{{slice .URL 32}}/default.jpg"></img></td>
+<td>
+[{{.Title}}]({{.URL}})  ({{humanize .PublishedAt}})<br/>
 <img src="https://img.shields.io/youtube/views/{{slice .URL 32}}?style=flat-square"> </img> 
-[{{.Title}}]({{.URL}})  ({{humanize .PublishedAt}})
+</td>
+</tr>
 {{- end}}
+</table>
 
 #### 📜 🇫🇷 My recent French videos
 <img src="https://img.shields.io/youtube/channel/subscribers/UCzdX32OIhpfrdxQRhN2s98w?style=for-the-badge"></img>
