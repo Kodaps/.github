@@ -1,19 +1,17 @@
 ![This is an image](images/header.jpg)
 
-### Hi there 👋
+## Hi there 👋
 
 
-#### 📜 🇬🇧 My recent blog posts
+## 📜 🇬🇧 My recent blog posts
 <table>
-{{range rss "https://medium.com/feed/@gosev" 5}}
+{{range rss "https://medium.com/feed/@gosev" 10}}
 <tr>
-  <td>{{.Image}}</td>
-  <td>
   <a href="{{.URL}}">{{.Title}}</a>({{humanize .PublishedAt}})</td>
 {{- end}}
 </table>
 
-#### 📽 🇬🇧 My recent English videos
+## 📽 🇬🇧 My recent English videos
 <img src="https://img.shields.io/youtube/channel/subscribers/UC2DOovF-OjIQ6nHClUyLKKQ?style=for-the-badge"></img>
 <table>
 {{range rss "https://www.youtube.com/feeds/videos.xml?channel_id=UC2DOovF-OjIQ6nHClUyLKKQ" 5}}
@@ -27,10 +25,10 @@
 {{- end}}
 </table>
 
-#### 📜 🇫🇷 My recent French videos
+## 📜 🇫🇷 My recent French videos
 <img src="https://img.shields.io/youtube/channel/subscribers/UCzdX32OIhpfrdxQRhN2s98w?style=for-the-badge"></img>
 <table>
-{{range rss "https://www.youtube.com/feeds/videos.xml?channel_id=UCzdX32OIhpfrdxQRhN2s98w" 5}}
+{{range rss "https://www.youtube.com/feeds/videos.xml?channel_id=UCzdX32OIhpfrdxQRhN2s98w" 10}}
 <tr>
 <td><img src="https://img.youtube.com/vi/{{slice .URL 32}}/default.jpg"></img></td>
 <td>
