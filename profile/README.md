@@ -13,23 +13,44 @@
 
 #### 📽 🇬🇧 My recent English videos
 <img src="https://img.shields.io/youtube/channel/subscribers/UC2DOovF-OjIQ6nHClUyLKKQ?style=for-the-badge"></img>
+<table>
 
-
-<img src="https://img.youtube.com/vi/2CpwxpLcxfU/default.jpg"></img>
+<tr>
+<td><img src="https://img.youtube.com/vi/2CpwxpLcxfU/default.jpg"></img></td>
+<td>
+[What is a REST API?](https://www.youtube.com/watch?v=2CpwxpLcxfU)  (2 weeks ago)<br/>
 <img src="https://img.shields.io/youtube/views/2CpwxpLcxfU?style=flat-square"> </img> 
-[What is a REST API?](https://www.youtube.com/watch?v=2CpwxpLcxfU)  (2 weeks ago)
-<img src="https://img.youtube.com/vi/83VZulS0H5g/default.jpg"></img>
+</td>
+</tr>
+<tr>
+<td><img src="https://img.youtube.com/vi/83VZulS0H5g/default.jpg"></img></td>
+<td>
+[Frontend vs backend vs fullstack: which will you choose?](https://www.youtube.com/watch?v=83VZulS0H5g)  (3 weeks ago)<br/>
 <img src="https://img.shields.io/youtube/views/83VZulS0H5g?style=flat-square"> </img> 
-[Frontend vs backend vs fullstack: which will you choose?](https://www.youtube.com/watch?v=83VZulS0H5g)  (3 weeks ago)
-<img src="https://img.youtube.com/vi/RN2hUjA_RS4/default.jpg"></img>
+</td>
+</tr>
+<tr>
+<td><img src="https://img.youtube.com/vi/RN2hUjA_RS4/default.jpg"></img></td>
+<td>
+[7 Productivity Tips  for Programmers (How to Make Coding Fun)](https://www.youtube.com/watch?v=RN2hUjA_RS4)  (1 month ago)<br/>
 <img src="https://img.shields.io/youtube/views/RN2hUjA_RS4?style=flat-square"> </img> 
-[7 Productivity Tips  for Programmers (How to Make Coding Fun)](https://www.youtube.com/watch?v=RN2hUjA_RS4)  (1 month ago)
-<img src="https://img.youtube.com/vi/kWI_CrWn8yU/default.jpg"></img>
+</td>
+</tr>
+<tr>
+<td><img src="https://img.youtube.com/vi/kWI_CrWn8yU/default.jpg"></img></td>
+<td>
+[React 18: what you need to know](https://www.youtube.com/watch?v=kWI_CrWn8yU)  (1 month ago)<br/>
 <img src="https://img.shields.io/youtube/views/kWI_CrWn8yU?style=flat-square"> </img> 
-[React 18: what you need to know](https://www.youtube.com/watch?v=kWI_CrWn8yU)  (1 month ago)
-<img src="https://img.youtube.com/vi/CynLOUL9vsU/default.jpg"></img>
+</td>
+</tr>
+<tr>
+<td><img src="https://img.youtube.com/vi/CynLOUL9vsU/default.jpg"></img></td>
+<td>
+[Angular vs React in 2022: which should you choose?](https://www.youtube.com/watch?v=CynLOUL9vsU)  (1 month ago)<br/>
 <img src="https://img.shields.io/youtube/views/CynLOUL9vsU?style=flat-square"> </img> 
-[Angular vs React in 2022: which should you choose?](https://www.youtube.com/watch?v=CynLOUL9vsU)  (1 month ago)
+</td>
+</tr>
+</table>
 
 #### 📜 🇫🇷 My recent French videos
 <img src="https://img.shields.io/youtube/channel/subscribers/UCzdX32OIhpfrdxQRhN2s98w?style=for-the-badge"></img>
