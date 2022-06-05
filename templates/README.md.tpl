@@ -5,7 +5,7 @@
 
 ## 📜 🇬🇧 My recent blog posts
 {{range rss "https://medium.com/feed/@gosev" 10}}
-- [{{.Title}}]({{.Url}}) ({{humanize .PublishedAt}})
+- [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
 {{- end}}
 
 ## 📽 🇬🇧 My recent English videos
