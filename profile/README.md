@@ -136,6 +136,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [Kodaps/.github](https://github.com/Kodaps/.github) - Public profile (1 day ago)
+- [Gosev/TestRepository](https://github.com/Gosev/TestRepository) -  (2 days ago)
 - [Kodaps/GitFirstSteps](https://github.com/Kodaps/GitFirstSteps) - First steps with git - a tutorial repository (6 days ago)
 - [Kodaps/JSFirstSteps](https://github.com/Kodaps/JSFirstSteps) - Contents for JS course (2 weeks ago)
 - [DavidKodaps/demo-package](https://github.com/DavidKodaps/demo-package) - Demo NPM package (4 months ago)
@@ -144,6 +145,7 @@
 
 #### 🌱 My latest projects
 
+- [Gosev/TestRepository](https://github.com/Gosev/TestRepository) - 
 - [Gosev/Api-Typescript-Sls](https://github.com/Gosev/Api-Typescript-Sls) - 
 - [Gosev/TestRepo](https://github.com/Gosev/TestRepo) - 
 - [Gosev/forestry-demo](https://github.com/Gosev/forestry-demo) - 
