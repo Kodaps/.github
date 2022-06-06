@@ -5,10 +5,10 @@
 
 ## 📜 🇬🇧 My recent blog posts
 
-- [What is a REST API?](https://levelup.gitconnected.com/what-is-a-rest-api-6471b08eb575?source=rss-e68daed69805------2) (5 days ago)
+- [What is a REST API?](https://levelup.gitconnected.com/what-is-a-rest-api-6471b08eb575?source=rss-e68daed69805------2) (6 days ago)
 - [What Is a JWT (nd Why)?](https://levelup.gitconnected.com/what-is-a-jwt-nd-why-2bd0c74aa26f?source=rss-e68daed69805------2) (1 week ago)
 - [SolidJS: Looks Can Be Deceptive?](https://javascript.plainenglish.io/solidjs-looks-can-be-deceptive-65b2f91360fe?source=rss-e68daed69805------2) (1 week ago)
-- [Angular vs Vue.js vs React vs Svelte in 2022: What do the Numbers Say?](https://javascript.plainenglish.io/angular-vs-vue-js-vs-react-vs-svelte-in-2022-what-do-the-numbers-say-7ae38a549d8d?source=rss-e68daed69805------2) (1 week ago)
+- [Angular vs Vue.js vs React vs Svelte in 2022: What do the Numbers Say?](https://javascript.plainenglish.io/angular-vs-vue-js-vs-react-vs-svelte-in-2022-what-do-the-numbers-say-7ae38a549d8d?source=rss-e68daed69805------2) (2 weeks ago)
 - [React 18: What You Need to Know](https://javascript.plainenglish.io/react-18-what-you-need-to-know-d7bed3216e2e?source=rss-e68daed69805------2) (2 weeks ago)
 - [Use Gamedesign &amp; Flow to Hack Your Coding Productivity](https://levelup.gitconnected.com/using-gamedesign-to-hack-productivity-a78544c44a80?source=rss-e68daed69805------2) (3 weeks ago)
 - [PHP vs NodeJS vs Python vs Ruby: what do the numbers say?](https://levelup.gitconnected.com/php-vs-nodejs-vs-python-vs-ruby-what-do-the-numbers-say-efb19c986948?source=rss-e68daed69805------2) (2 months ago)
@@ -106,7 +106,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/evT5fptnRSo/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=evT5fptnRSo">PHP vs Ruby vs Python vs NodeJS : que disent les chiffres ?</a> (2 months ago) <br/>
+<a href="https://www.youtube.com/watch?v=evT5fptnRSo">PHP vs Ruby vs Python vs NodeJS : que disent les chiffres ?</a> (3 months ago) <br/>
 <img src="https://img.shields.io/youtube/views/evT5fptnRSo?style=flat-square"> </img> 
 </td>
 </tr>
@@ -135,8 +135,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Kodaps/.github](https://github.com/Kodaps/.github) - Public profile (today)
-- [Kodaps/GitFirstSteps](https://github.com/Kodaps/GitFirstSteps) - First steps with git - a tutorial repository (5 days ago)
+- [Kodaps/.github](https://github.com/Kodaps/.github) - Public profile (1 day ago)
+- [Kodaps/GitFirstSteps](https://github.com/Kodaps/GitFirstSteps) - First steps with git - a tutorial repository (6 days ago)
 - [Kodaps/JSFirstSteps](https://github.com/Kodaps/JSFirstSteps) - Contents for JS course (2 weeks ago)
 - [DavidKodaps/demo-package](https://github.com/DavidKodaps/demo-package) - Demo NPM package (4 months ago)
 - [Kodaps/Api-Typescript-Sls](https://github.com/Kodaps/Api-Typescript-Sls) - Serverless NodeJS &#43; Typescript API  (5 months ago)
