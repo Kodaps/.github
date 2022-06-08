@@ -21,6 +21,13 @@
 <table>
 
 <tr>
+<td><img src="https://img.youtube.com/vi/A_dUsSzxwkI/default.jpg"></img></td>
+<td>
+<a href="https://www.youtube.com/watch?v=A_dUsSzxwkI">What is SolidJS (vs React and Svelte) ?</a> (today) <br/>
+<img src="https://img.shields.io/youtube/views/A_dUsSzxwkI?style=flat-square"> </img> 
+</td>
+</tr>
+<tr>
 <td><img src="https://img.youtube.com/vi/2CpwxpLcxfU/default.jpg"></img></td>
 <td>
 <a href="https://www.youtube.com/watch?v=2CpwxpLcxfU">What is a REST API?</a> (2 weeks ago) <br/>
@@ -46,13 +53,6 @@
 <td>
 <a href="https://www.youtube.com/watch?v=kWI_CrWn8yU">React 18: what you need to know</a> (1 month ago) <br/>
 <img src="https://img.shields.io/youtube/views/kWI_CrWn8yU?style=flat-square"> </img> 
-</td>
-</tr>
-<tr>
-<td><img src="https://img.youtube.com/vi/CynLOUL9vsU/default.jpg"></img></td>
-<td>
-<a href="https://www.youtube.com/watch?v=CynLOUL9vsU">Angular vs React in 2022: which should you choose?</a> (1 month ago) <br/>
-<img src="https://img.shields.io/youtube/views/CynLOUL9vsU?style=flat-square"> </img> 
 </td>
 </tr>
 </table>
