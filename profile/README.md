@@ -5,7 +5,7 @@
 
 ## 📜 🇬🇧 My recent blog posts
 
-- [How To Easily Automate Your Github Profile to Showcase Your Work](https://levelup.gitconnected.com/how-to-easily-automate-your-github-profile-to-showcase-your-work-126edab12d3c?source=rss-e68daed69805------2) (2 days ago)
+- [How To Easily Automate Your Github Profile to Showcase Your Work](https://levelup.gitconnected.com/how-to-easily-automate-your-github-profile-to-showcase-your-work-126edab12d3c?source=rss-e68daed69805------2) (3 days ago)
 - [What is a REST API?](https://levelup.gitconnected.com/what-is-a-rest-api-6471b08eb575?source=rss-e68daed69805------2) (1 week ago)
 - [What Is a JWT (nd Why)?](https://levelup.gitconnected.com/what-is-a-jwt-nd-why-2bd0c74aa26f?source=rss-e68daed69805------2) (2 weeks ago)
 - [SolidJS: Looks Can Be Deceptive?](https://javascript.plainenglish.io/solidjs-looks-can-be-deceptive-65b2f91360fe?source=rss-e68daed69805------2) (2 weeks ago)
@@ -23,7 +23,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/A_dUsSzxwkI/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=A_dUsSzxwkI">What is SolidJS (vs React and Svelte) ?</a> (today) <br/>
+<a href="https://www.youtube.com/watch?v=A_dUsSzxwkI">What is SolidJS (vs React and Svelte) ?</a> (1 day ago) <br/>
 <img src="https://img.shields.io/youtube/views/A_dUsSzxwkI?style=flat-square"> </img> 
 </td>
 </tr>
@@ -71,7 +71,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/5Es-oq-o0Qg/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=5Es-oq-o0Qg">React vs Vue vs Angular vs Svelte : que disent les chiffres ?</a> (3 weeks ago) <br/>
+<a href="https://www.youtube.com/watch?v=5Es-oq-o0Qg">React vs Vue vs Angular vs Svelte : que disent les chiffres ?</a> (4 weeks ago) <br/>
 <img src="https://img.shields.io/youtube/views/5Es-oq-o0Qg?style=flat-square"> </img> 
 </td>
 </tr>
@@ -135,8 +135,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Gosev/TestRepository](https://github.com/Gosev/TestRepository) -  (today)
-- [Kodaps/.github](https://github.com/Kodaps/.github) - Public profile (3 days ago)
+- [Gosev/TestRepository](https://github.com/Gosev/TestRepository) -  (1 day ago)
+- [Kodaps/.github](https://github.com/Kodaps/.github) - Public profile (4 days ago)
 - [Kodaps/GitFirstSteps](https://github.com/Kodaps/GitFirstSteps) - First steps with git - a tutorial repository (1 week ago)
 - [Kodaps/JSFirstSteps](https://github.com/Kodaps/JSFirstSteps) - Contents for JS course (3 weeks ago)
 - [DavidKodaps/demo-package](https://github.com/DavidKodaps/demo-package) - Demo NPM package (4 months ago)
