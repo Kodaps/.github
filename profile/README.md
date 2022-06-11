@@ -135,8 +135,8 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [Kodaps/.github](https://github.com/Kodaps/.github) - Public profile (today)
 - [Gosev/TestRepository](https://github.com/Gosev/TestRepository) -  (3 days ago)
-- [Kodaps/.github](https://github.com/Kodaps/.github) - Public profile (6 days ago)
 - [Kodaps/GitFirstSteps](https://github.com/Kodaps/GitFirstSteps) - First steps with git - a tutorial repository (1 week ago)
 - [Kodaps/JSFirstSteps](https://github.com/Kodaps/JSFirstSteps) - Contents for JS course (3 weeks ago)
 - [DavidKodaps/demo-package](https://github.com/DavidKodaps/demo-package) - Demo NPM package (4 months ago)
