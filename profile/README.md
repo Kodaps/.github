@@ -5,14 +5,14 @@
 
 ## 📜 🇬🇧 My recent blog posts
 
-- [How To Easily Automate Your Github Profile to Showcase Your Work](https://levelup.gitconnected.com/how-to-easily-automate-your-github-profile-to-showcase-your-work-126edab12d3c?source=rss-e68daed69805------2) (5 days ago)
+- [How To Easily Automate Your Github Profile to Showcase Your Work](https://levelup.gitconnected.com/how-to-easily-automate-your-github-profile-to-showcase-your-work-126edab12d3c?source=rss-e68daed69805------2) (6 days ago)
 - [What is a REST API?](https://levelup.gitconnected.com/what-is-a-rest-api-6471b08eb575?source=rss-e68daed69805------2) (1 week ago)
 - [What Is a JWT (nd Why)?](https://levelup.gitconnected.com/what-is-a-jwt-nd-why-2bd0c74aa26f?source=rss-e68daed69805------2) (2 weeks ago)
 - [SolidJS: Looks Can Be Deceptive?](https://javascript.plainenglish.io/solidjs-looks-can-be-deceptive-65b2f91360fe?source=rss-e68daed69805------2) (2 weeks ago)
 - [Angular vs Vue.js vs React vs Svelte in 2022: What do the Numbers Say?](https://javascript.plainenglish.io/angular-vs-vue-js-vs-react-vs-svelte-in-2022-what-do-the-numbers-say-7ae38a549d8d?source=rss-e68daed69805------2) (2 weeks ago)
 - [React 18: What You Need to Know](https://javascript.plainenglish.io/react-18-what-you-need-to-know-d7bed3216e2e?source=rss-e68daed69805------2) (3 weeks ago)
-- [Use Gamedesign &amp; Flow to Hack Your Coding Productivity](https://levelup.gitconnected.com/using-gamedesign-to-hack-productivity-a78544c44a80?source=rss-e68daed69805------2) (3 weeks ago)
-- [PHP vs NodeJS vs Python vs Ruby: what do the numbers say?](https://levelup.gitconnected.com/php-vs-nodejs-vs-python-vs-ruby-what-do-the-numbers-say-efb19c986948?source=rss-e68daed69805------2) (2 months ago)
+- [Use Gamedesign &amp; Flow to Hack Your Coding Productivity](https://levelup.gitconnected.com/using-gamedesign-to-hack-productivity-a78544c44a80?source=rss-e68daed69805------2) (4 weeks ago)
+- [PHP vs NodeJS vs Python vs Ruby: what do the numbers say?](https://levelup.gitconnected.com/php-vs-nodejs-vs-python-vs-ruby-what-do-the-numbers-say-efb19c986948?source=rss-e68daed69805------2) (3 months ago)
 - [Flutter vs React Native](https://levelup.gitconnected.com/flutter-vs-react-native-2e29e9a919e7?source=rss-e68daed69805------2) (6 months ago)
 - [Fun Tech Stuff From This Past Week — Week 39, 2021](https://gosev.medium.com/fun-tech-stuff-from-this-past-week-week-39-2021-4e7ec442bb35?source=rss-e68daed69805------2) (8 months ago)
 
@@ -23,7 +23,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/A_dUsSzxwkI/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=A_dUsSzxwkI">What is SolidJS (vs React and Svelte) ?</a> (3 days ago) <br/>
+<a href="https://www.youtube.com/watch?v=A_dUsSzxwkI">What is SolidJS (vs React and Svelte) ?</a> (4 days ago) <br/>
 <img src="https://img.shields.io/youtube/views/A_dUsSzxwkI?style=flat-square"> </img> 
 </td>
 </tr>
@@ -37,7 +37,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/83VZulS0H5g/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=83VZulS0H5g">Frontend vs backend vs fullstack: which will you choose?</a> (4 weeks ago) <br/>
+<a href="https://www.youtube.com/watch?v=83VZulS0H5g">Frontend vs backend vs fullstack: which will you choose?</a> (1 month ago) <br/>
 <img src="https://img.shields.io/youtube/views/83VZulS0H5g?style=flat-square"> </img> 
 </td>
 </tr>
@@ -85,7 +85,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/d6nkWVUo5vw/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=d6nkWVUo5vw">React 18 : ce qu&#39;il faut savoir !</a> (1 month ago) <br/>
+<a href="https://www.youtube.com/watch?v=d6nkWVUo5vw">React 18 : ce qu&#39;il faut savoir !</a> (2 months ago) <br/>
 <img src="https://img.shields.io/youtube/views/d6nkWVUo5vw?style=flat-square"> </img> 
 </td>
 </tr>
@@ -135,8 +135,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Kodaps/.github](https://github.com/Kodaps/.github) - Public profile (today)
-- [Gosev/TestRepository](https://github.com/Gosev/TestRepository) -  (3 days ago)
+- [Kodaps/.github](https://github.com/Kodaps/.github) - Public profile (1 day ago)
+- [Gosev/TestRepository](https://github.com/Gosev/TestRepository) -  (4 days ago)
 - [Kodaps/GitFirstSteps](https://github.com/Kodaps/GitFirstSteps) - First steps with git - a tutorial repository (1 week ago)
 - [Kodaps/JSFirstSteps](https://github.com/Kodaps/JSFirstSteps) - Contents for JS course (3 weeks ago)
 - [DavidKodaps/demo-package](https://github.com/DavidKodaps/demo-package) - Demo NPM package (4 months ago)
