@@ -62,6 +62,13 @@
 <table>
 
 <tr>
+<td><img src="https://img.youtube.com/vi/plN1GwhiO9c/default.jpg"></img></td>
+<td>
+<a href="https://www.youtube.com/watch?v=plN1GwhiO9c">Comment facilement automatiser son profil GitHub ?</a> (today) <br/>
+<img src="https://img.shields.io/youtube/views/plN1GwhiO9c?style=flat-square"> </img> 
+</td>
+</tr>
+<tr>
 <td><img src="https://img.youtube.com/vi/4Xnt2ASdFbA/default.jpg"></img></td>
 <td>
 <a href="https://www.youtube.com/watch?v=4Xnt2ASdFbA">Pourquoi Solid JS (vs React &amp; Svelte) ?</a> (2 weeks ago) <br/>
@@ -122,13 +129,6 @@
 <td>
 <a href="https://www.youtube.com/watch?v=uC4Wd9OJNHY">DevActus : Remix &amp; les composants serveur React</a> (4 months ago) <br/>
 <img src="https://img.shields.io/youtube/views/uC4Wd9OJNHY?style=flat-square"> </img> 
-</td>
-</tr>
-<tr>
-<td><img src="https://img.youtube.com/vi/2b6OWB380Gw/default.jpg"></img></td>
-<td>
-<a href="https://www.youtube.com/watch?v=2b6OWB380Gw">Productivité et motivation : 7 clefs inspirées du Game Design</a> (4 months ago) <br/>
-<img src="https://img.shields.io/youtube/views/2b6OWB380Gw?style=flat-square"> </img> 
 </td>
 </tr>
 </table>
