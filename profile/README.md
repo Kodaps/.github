@@ -64,7 +64,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/plN1GwhiO9c/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=plN1GwhiO9c">Comment facilement automatiser son profil GitHub ?</a> (1 day ago) <br/>
+<a href="https://www.youtube.com/watch?v=plN1GwhiO9c">Comment facilement automatiser son profil GitHub ?</a> (today) <br/>
 <img src="https://img.shields.io/youtube/views/plN1GwhiO9c?style=flat-square"> </img> 
 </td>
 </tr>
