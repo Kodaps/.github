@@ -7,8 +7,8 @@
 
 - [How To Easily Automate Your Github Profile to Showcase Your Work](https://levelup.gitconnected.com/how-to-easily-automate-your-github-profile-to-showcase-your-work-126edab12d3c?source=rss-e68daed69805------2) (1 week ago)
 - [What is a REST API?](https://levelup.gitconnected.com/what-is-a-rest-api-6471b08eb575?source=rss-e68daed69805------2) (2 weeks ago)
-- [What Is a JWT (nd Why)?](https://levelup.gitconnected.com/what-is-a-jwt-nd-why-2bd0c74aa26f?source=rss-e68daed69805------2) (2 weeks ago)
-- [SolidJS: Looks Can Be Deceptive?](https://javascript.plainenglish.io/solidjs-looks-can-be-deceptive-65b2f91360fe?source=rss-e68daed69805------2) (2 weeks ago)
+- [What Is a JWT (nd Why)?](https://levelup.gitconnected.com/what-is-a-jwt-nd-why-2bd0c74aa26f?source=rss-e68daed69805------2) (3 weeks ago)
+- [SolidJS: Looks Can Be Deceptive?](https://javascript.plainenglish.io/solidjs-looks-can-be-deceptive-65b2f91360fe?source=rss-e68daed69805------2) (3 weeks ago)
 - [Angular vs Vue.js vs React vs Svelte in 2022: What do the Numbers Say?](https://javascript.plainenglish.io/angular-vs-vue-js-vs-react-vs-svelte-in-2022-what-do-the-numbers-say-7ae38a549d8d?source=rss-e68daed69805------2) (3 weeks ago)
 - [React 18: What You Need to Know](https://javascript.plainenglish.io/react-18-what-you-need-to-know-d7bed3216e2e?source=rss-e68daed69805------2) (4 weeks ago)
 - [Use Gamedesign &amp; Flow to Hack Your Coding Productivity](https://levelup.gitconnected.com/using-gamedesign-to-hack-productivity-a78544c44a80?source=rss-e68daed69805------2) (1 month ago)
@@ -23,7 +23,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/A_dUsSzxwkI/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=A_dUsSzxwkI">What is SolidJS (vs React and Svelte) ?</a> (6 days ago) <br/>
+<a href="https://www.youtube.com/watch?v=A_dUsSzxwkI">What is SolidJS (vs React and Svelte) ?</a> (1 week ago) <br/>
 <img src="https://img.shields.io/youtube/views/A_dUsSzxwkI?style=flat-square"> </img> 
 </td>
 </tr>
@@ -64,7 +64,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/plN1GwhiO9c/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=plN1GwhiO9c">Comment facilement automatiser son profil GitHub ?</a> (1 day ago) <br/>
+<a href="https://www.youtube.com/watch?v=plN1GwhiO9c">Comment facilement automatiser son profil GitHub ?</a> (2 days ago) <br/>
 <img src="https://img.shields.io/youtube/views/plN1GwhiO9c?style=flat-square"> </img> 
 </td>
 </tr>
@@ -135,10 +135,10 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Kodaps/.github](https://github.com/Kodaps/.github) - Public profile (3 days ago)
-- [Gosev/TestRepository](https://github.com/Gosev/TestRepository) -  (6 days ago)
+- [Kodaps/.github](https://github.com/Kodaps/.github) - Public profile (4 days ago)
+- [Gosev/TestRepository](https://github.com/Gosev/TestRepository) -  (1 week ago)
 - [Kodaps/GitFirstSteps](https://github.com/Kodaps/GitFirstSteps) - First steps with git - a tutorial repository (2 weeks ago)
-- [Kodaps/JSFirstSteps](https://github.com/Kodaps/JSFirstSteps) - Contents for JS course (3 weeks ago)
+- [Kodaps/JSFirstSteps](https://github.com/Kodaps/JSFirstSteps) - Contents for JS course (4 weeks ago)
 - [DavidKodaps/demo-package](https://github.com/DavidKodaps/demo-package) - Demo NPM package (4 months ago)
 - [Kodaps/Api-Typescript-Sls](https://github.com/Kodaps/Api-Typescript-Sls) - Serverless NodeJS &#43; Typescript API  (5 months ago)
 - [Gosev/Api-Typescript-Sls](https://github.com/Gosev/Api-Typescript-Sls) -  (5 months ago)
