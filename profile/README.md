@@ -64,14 +64,14 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/plN1GwhiO9c/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=plN1GwhiO9c">Comment facilement automatiser son profil GitHub ?</a> (3 days ago) <br/>
+<a href="https://www.youtube.com/watch?v=plN1GwhiO9c">Comment facilement automatiser son profil GitHub ?</a> (4 days ago) <br/>
 <img src="https://img.shields.io/youtube/views/plN1GwhiO9c?style=flat-square"> </img> 
 </td>
 </tr>
 <tr>
 <td><img src="https://img.youtube.com/vi/4Xnt2ASdFbA/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=4Xnt2ASdFbA">Pourquoi Solid JS (vs React &amp; Svelte) ?</a> (2 weeks ago) <br/>
+<a href="https://www.youtube.com/watch?v=4Xnt2ASdFbA">Pourquoi Solid JS (vs React &amp; Svelte) ?</a> (3 weeks ago) <br/>
 <img src="https://img.shields.io/youtube/views/4Xnt2ASdFbA?style=flat-square"> </img> 
 </td>
 </tr>
@@ -135,11 +135,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Kodaps/.github](https://github.com/Kodaps/.github) - Public profile (5 days ago)
+- [Kodaps/.github](https://github.com/Kodaps/.github) - Public profile (6 days ago)
 - [Gosev/TestRepository](https://github.com/Gosev/TestRepository) -  (1 week ago)
 - [Kodaps/GitFirstSteps](https://github.com/Kodaps/GitFirstSteps) - First steps with git - a tutorial repository (2 weeks ago)
-- [Kodaps/JSFirstSteps](https://github.com/Kodaps/JSFirstSteps) - Contents for JS course (4 weeks ago)
-- [DavidKodaps/demo-package](https://github.com/DavidKodaps/demo-package) - Demo NPM package (4 months ago)
+- [Kodaps/JSFirstSteps](https://github.com/Kodaps/JSFirstSteps) - Contents for JS course (1 month ago)
+- [DavidKodaps/demo-package](https://github.com/DavidKodaps/demo-package) - Demo NPM package (5 months ago)
 - [Kodaps/Api-Typescript-Sls](https://github.com/Kodaps/Api-Typescript-Sls) - Serverless NodeJS &#43; Typescript API  (5 months ago)
 - [Gosev/Api-Typescript-Sls](https://github.com/Gosev/Api-Typescript-Sls) -  (5 months ago)
 
