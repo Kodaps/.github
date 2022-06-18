@@ -30,7 +30,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/2CpwxpLcxfU/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=2CpwxpLcxfU">What is a REST API?</a> (3 weeks ago) <br/>
+<a href="https://www.youtube.com/watch?v=2CpwxpLcxfU">What is a REST API?</a> (4 weeks ago) <br/>
 <img src="https://img.shields.io/youtube/views/2CpwxpLcxfU?style=flat-square"> </img> 
 </td>
 </tr>
@@ -64,7 +64,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/plN1GwhiO9c/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=plN1GwhiO9c">Comment facilement automatiser son profil GitHub ?</a> (4 days ago) <br/>
+<a href="https://www.youtube.com/watch?v=plN1GwhiO9c">Comment facilement automatiser son profil GitHub ?</a> (5 days ago) <br/>
 <img src="https://img.shields.io/youtube/views/plN1GwhiO9c?style=flat-square"> </img> 
 </td>
 </tr>
@@ -135,7 +135,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Kodaps/.github](https://github.com/Kodaps/.github) - Public profile (6 days ago)
+- [Kodaps/.github](https://github.com/Kodaps/.github) - Public profile (1 week ago)
 - [Gosev/TestRepository](https://github.com/Gosev/TestRepository) -  (1 week ago)
 - [Kodaps/GitFirstSteps](https://github.com/Kodaps/GitFirstSteps) - First steps with git - a tutorial repository (2 weeks ago)
 - [Kodaps/JSFirstSteps](https://github.com/Kodaps/JSFirstSteps) - Contents for JS course (1 month ago)
