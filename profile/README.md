@@ -51,7 +51,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/kWI_CrWn8yU/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=kWI_CrWn8yU">React 18: what you need to know</a> (1 month ago) <br/>
+<a href="https://www.youtube.com/watch?v=kWI_CrWn8yU">React 18: what you need to know</a> (2 months ago) <br/>
 <img src="https://img.shields.io/youtube/views/kWI_CrWn8yU?style=flat-square"> </img> 
 </td>
 </tr>
@@ -135,7 +135,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Kodaps/.github](https://github.com/Kodaps/.github) - Public profile (1 week ago)
+- [Kodaps/.github](https://github.com/Kodaps/.github) - Public profile (2 weeks ago)
 - [Gosev/TestRepository](https://github.com/Gosev/TestRepository) -  (2 weeks ago)
 - [Kodaps/GitFirstSteps](https://github.com/Kodaps/GitFirstSteps) - First steps with git - a tutorial repository (3 weeks ago)
 - [Kodaps/JSFirstSteps](https://github.com/Kodaps/JSFirstSteps) - Contents for JS course (1 month ago)
