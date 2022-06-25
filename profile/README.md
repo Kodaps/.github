@@ -21,6 +21,13 @@
 <table>
 
 <tr>
+<td><img src="https://img.youtube.com/vi/0zY-5z_8D4o/default.jpg"></img></td>
+<td>
+<a href="https://www.youtube.com/watch?v=0zY-5z_8D4o">Flutter vs React Native : which one is worth it, and why?</a> (today) <br/>
+<img src="https://img.shields.io/youtube/views/0zY-5z_8D4o?style=flat-square"> </img> 
+</td>
+</tr>
+<tr>
 <td><img src="https://img.youtube.com/vi/A_dUsSzxwkI/default.jpg"></img></td>
 <td>
 <a href="https://www.youtube.com/watch?v=A_dUsSzxwkI">What is SolidJS (vs React and Svelte) ?</a> (2 weeks ago) <br/>
@@ -46,13 +53,6 @@
 <td>
 <a href="https://www.youtube.com/watch?v=RN2hUjA_RS4">7 Productivity Tips  for Programmers (How to Make Coding Fun)</a> (1 month ago) <br/>
 <img src="https://img.shields.io/youtube/views/RN2hUjA_RS4?style=flat-square"> </img> 
-</td>
-</tr>
-<tr>
-<td><img src="https://img.youtube.com/vi/kWI_CrWn8yU/default.jpg"></img></td>
-<td>
-<a href="https://www.youtube.com/watch?v=kWI_CrWn8yU">React 18: what you need to know</a> (2 months ago) <br/>
-<img src="https://img.shields.io/youtube/views/kWI_CrWn8yU?style=flat-square"> </img> 
 </td>
 </tr>
 </table>
