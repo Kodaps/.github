@@ -5,7 +5,7 @@
 
 ## 📜 🇬🇧 My recent blog posts
 
-- [3 ways I kept going on the road to 1k YouTube subscribers](https://gosev.medium.com/3-ways-i-got-to-1k-youtube-subscribers-52c0680a46ab?source=rss-e68daed69805------2) (1 day ago)
+- [3 Ways I Kept Going to 1k YouTube Subscribers](https://gosev.medium.com/3-ways-i-got-to-1k-youtube-subscribers-52c0680a46ab?source=rss-e68daed69805------2) (1 day ago)
 - [How To Easily Automate Your Github Profile to Showcase Your Work](https://levelup.gitconnected.com/how-to-easily-automate-your-github-profile-to-showcase-your-work-126edab12d3c?source=rss-e68daed69805------2) (2 weeks ago)
 - [What is a REST API?](https://levelup.gitconnected.com/what-is-a-rest-api-6471b08eb575?source=rss-e68daed69805------2) (3 weeks ago)
 - [What Is a JWT (and Why)?](https://levelup.gitconnected.com/what-is-a-jwt-nd-why-2bd0c74aa26f?source=rss-e68daed69805------2) (1 month ago)
