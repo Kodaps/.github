@@ -5,10 +5,10 @@
 
 ## 📜 🇬🇧 My recent blog posts
 
-- [3 ways I got to 1k YouTube subscribers](https://gosev.medium.com/3-ways-i-got-to-1k-youtube-subscribers-52c0680a46ab?source=rss-e68daed69805------2) (today)
+- [3 ways I kept going on the road to 1k YouTube subscribers](https://gosev.medium.com/3-ways-i-got-to-1k-youtube-subscribers-52c0680a46ab?source=rss-e68daed69805------2) (1 day ago)
 - [How To Easily Automate Your Github Profile to Showcase Your Work](https://levelup.gitconnected.com/how-to-easily-automate-your-github-profile-to-showcase-your-work-126edab12d3c?source=rss-e68daed69805------2) (2 weeks ago)
 - [What is a REST API?](https://levelup.gitconnected.com/what-is-a-rest-api-6471b08eb575?source=rss-e68daed69805------2) (3 weeks ago)
-- [What Is a JWT (nd Why)?](https://levelup.gitconnected.com/what-is-a-jwt-nd-why-2bd0c74aa26f?source=rss-e68daed69805------2) (1 month ago)
+- [What Is a JWT (and Why)?](https://levelup.gitconnected.com/what-is-a-jwt-nd-why-2bd0c74aa26f?source=rss-e68daed69805------2) (1 month ago)
 - [SolidJS: Looks Can Be Deceptive?](https://javascript.plainenglish.io/solidjs-looks-can-be-deceptive-65b2f91360fe?source=rss-e68daed69805------2) (1 month ago)
 - [Angular vs Vue.js vs React vs Svelte in 2022: What do the Numbers Say?](https://javascript.plainenglish.io/angular-vs-vue-js-vs-react-vs-svelte-in-2022-what-do-the-numbers-say-7ae38a549d8d?source=rss-e68daed69805------2) (1 month ago)
 - [React 18: What You Need to Know](https://javascript.plainenglish.io/react-18-what-you-need-to-know-d7bed3216e2e?source=rss-e68daed69805------2) (1 month ago)
@@ -23,7 +23,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/0zY-5z_8D4o/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=0zY-5z_8D4o">Flutter vs React Native : which one is worth it, and why?</a> (today) <br/>
+<a href="https://www.youtube.com/watch?v=0zY-5z_8D4o">Flutter vs React Native : which one is worth it, and why?</a> (1 day ago) <br/>
 <img src="https://img.shields.io/youtube/views/0zY-5z_8D4o?style=flat-square"> </img> 
 </td>
 </tr>
@@ -71,7 +71,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/4Xnt2ASdFbA/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=4Xnt2ASdFbA">Pourquoi Solid JS (vs React &amp; Svelte) ?</a> (4 weeks ago) <br/>
+<a href="https://www.youtube.com/watch?v=4Xnt2ASdFbA">Pourquoi Solid JS (vs React &amp; Svelte) ?</a> (1 month ago) <br/>
 <img src="https://img.shields.io/youtube/views/4Xnt2ASdFbA?style=flat-square"> </img> 
 </td>
 </tr>
