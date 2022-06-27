@@ -5,8 +5,8 @@
 
 ## 📜 🇬🇧 My recent blog posts
 
-- [3 Ways I Kept Going to 1k YouTube Subscribers](https://gosev.medium.com/3-ways-i-got-to-1k-youtube-subscribers-52c0680a46ab?source=rss-e68daed69805------2) (1 day ago)
-- [How To Easily Automate Your Github Profile to Showcase Your Work](https://levelup.gitconnected.com/how-to-easily-automate-your-github-profile-to-showcase-your-work-126edab12d3c?source=rss-e68daed69805------2) (2 weeks ago)
+- [3 Ways I Kept Going to 1k YouTube Subscribers](https://gosev.medium.com/3-ways-i-got-to-1k-youtube-subscribers-52c0680a46ab?source=rss-e68daed69805------2) (2 days ago)
+- [How To Easily Automate Your Github Profile to Showcase Your Work](https://levelup.gitconnected.com/how-to-easily-automate-your-github-profile-to-showcase-your-work-126edab12d3c?source=rss-e68daed69805------2) (3 weeks ago)
 - [What is a REST API?](https://levelup.gitconnected.com/what-is-a-rest-api-6471b08eb575?source=rss-e68daed69805------2) (3 weeks ago)
 - [What Is a JWT (and Why)?](https://levelup.gitconnected.com/what-is-a-jwt-nd-why-2bd0c74aa26f?source=rss-e68daed69805------2) (1 month ago)
 - [SolidJS: Looks Can Be Deceptive?](https://javascript.plainenglish.io/solidjs-looks-can-be-deceptive-65b2f91360fe?source=rss-e68daed69805------2) (1 month ago)
@@ -14,7 +14,7 @@
 - [React 18: What You Need to Know](https://javascript.plainenglish.io/react-18-what-you-need-to-know-d7bed3216e2e?source=rss-e68daed69805------2) (1 month ago)
 - [Use Gamedesign &amp; Flow to Hack Your Coding Productivity](https://levelup.gitconnected.com/using-gamedesign-to-hack-productivity-a78544c44a80?source=rss-e68daed69805------2) (1 month ago)
 - [PHP vs NodeJS vs Python vs Ruby: what do the numbers say?](https://levelup.gitconnected.com/php-vs-nodejs-vs-python-vs-ruby-what-do-the-numbers-say-efb19c986948?source=rss-e68daed69805------2) (3 months ago)
-- [Flutter vs React Native](https://levelup.gitconnected.com/flutter-vs-react-native-2e29e9a919e7?source=rss-e68daed69805------2) (6 months ago)
+- [Flutter vs React Native](https://levelup.gitconnected.com/flutter-vs-react-native-2e29e9a919e7?source=rss-e68daed69805------2) (7 months ago)
 
 ## 📽 🇬🇧 My recent English videos
 <img src="https://img.shields.io/youtube/channel/subscribers/UC2DOovF-OjIQ6nHClUyLKKQ?style=for-the-badge"></img>
@@ -23,7 +23,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/0zY-5z_8D4o/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=0zY-5z_8D4o">Flutter vs React Native : which one is worth it, and why?</a> (1 day ago) <br/>
+<a href="https://www.youtube.com/watch?v=0zY-5z_8D4o">Flutter vs React Native : which one is worth it, and why?</a> (2 days ago) <br/>
 <img src="https://img.shields.io/youtube/views/0zY-5z_8D4o?style=flat-square"> </img> 
 </td>
 </tr>
@@ -64,7 +64,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/plN1GwhiO9c/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=plN1GwhiO9c">Comment facilement automatiser son profil GitHub ?</a> (1 week ago) <br/>
+<a href="https://www.youtube.com/watch?v=plN1GwhiO9c">Comment facilement automatiser son profil GitHub ?</a> (2 weeks ago) <br/>
 <img src="https://img.shields.io/youtube/views/plN1GwhiO9c?style=flat-square"> </img> 
 </td>
 </tr>
