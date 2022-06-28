@@ -21,6 +21,13 @@
 <table>
 
 <tr>
+<td><img src="https://img.youtube.com/vi/jFUVbiZrwlY/default.jpg"></img></td>
+<td>
+<a href="https://www.youtube.com/watch?v=jFUVbiZrwlY">Why Learn TypeScript (vs JavaScript)?</a> (today) <br/>
+<img src="https://img.shields.io/youtube/views/jFUVbiZrwlY?style=flat-square"> </img> 
+</td>
+</tr>
+<tr>
 <td><img src="https://img.youtube.com/vi/0zY-5z_8D4o/default.jpg"></img></td>
 <td>
 <a href="https://www.youtube.com/watch?v=0zY-5z_8D4o">Flutter vs React Native : which one is worth it, and why?</a> (3 days ago) <br/>
@@ -46,13 +53,6 @@
 <td>
 <a href="https://www.youtube.com/watch?v=83VZulS0H5g">Frontend vs backend vs fullstack: which will you choose?</a> (1 month ago) <br/>
 <img src="https://img.shields.io/youtube/views/83VZulS0H5g?style=flat-square"> </img> 
-</td>
-</tr>
-<tr>
-<td><img src="https://img.youtube.com/vi/RN2hUjA_RS4/default.jpg"></img></td>
-<td>
-<a href="https://www.youtube.com/watch?v=RN2hUjA_RS4">7 Productivity Tips  for Programmers (How to Make Coding Fun)</a> (1 month ago) <br/>
-<img src="https://img.shields.io/youtube/views/RN2hUjA_RS4?style=flat-square"> </img> 
 </td>
 </tr>
 </table>
