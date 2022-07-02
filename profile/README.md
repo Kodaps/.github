@@ -5,7 +5,6 @@
 
 ## 📜 🇬🇧 My recent blog posts
 
-- [3 Ways I Kept Going to 1k YouTube Subscribers](https://gosev.medium.com/3-ways-i-got-to-1k-youtube-subscribers-52c0680a46ab?source=rss-e68daed69805------2) (1 week ago)
 - [How To Easily Automate Your Github Profile to Showcase Your Work](https://levelup.gitconnected.com/how-to-easily-automate-your-github-profile-to-showcase-your-work-126edab12d3c?source=rss-e68daed69805------2) (3 weeks ago)
 - [What is a REST API?](https://levelup.gitconnected.com/what-is-a-rest-api-6471b08eb575?source=rss-e68daed69805------2) (1 month ago)
 - [What Is a JWT (and Why)?](https://levelup.gitconnected.com/what-is-a-jwt-nd-why-2bd0c74aa26f?source=rss-e68daed69805------2) (1 month ago)
@@ -15,6 +14,7 @@
 - [Use Gamedesign &amp; Flow to Hack Your Coding Productivity](https://levelup.gitconnected.com/using-gamedesign-to-hack-productivity-a78544c44a80?source=rss-e68daed69805------2) (1 month ago)
 - [PHP vs NodeJS vs Python vs Ruby: what do the numbers say?](https://levelup.gitconnected.com/php-vs-nodejs-vs-python-vs-ruby-what-do-the-numbers-say-efb19c986948?source=rss-e68daed69805------2) (3 months ago)
 - [Flutter vs React Native](https://levelup.gitconnected.com/flutter-vs-react-native-2e29e9a919e7?source=rss-e68daed69805------2) (7 months ago)
+- [Fun Tech Stuff From This Past Week — Week 39, 2021](https://gosev.medium.com/fun-tech-stuff-from-this-past-week-week-39-2021-4e7ec442bb35?source=rss-e68daed69805------2) (9 months ago)
 
 ## 📽 🇬🇧 My recent English videos
 <img src="https://img.shields.io/youtube/channel/subscribers/UC2DOovF-OjIQ6nHClUyLKKQ?style=for-the-badge"></img>
