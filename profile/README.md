@@ -23,7 +23,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/jFUVbiZrwlY/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=jFUVbiZrwlY">Why Learn TypeScript (vs JavaScript)?</a> (4 days ago) <br/>
+<a href="https://www.youtube.com/watch?v=jFUVbiZrwlY">Why Learn TypeScript (vs JavaScript)?</a> (5 days ago) <br/>
 <img src="https://img.shields.io/youtube/views/jFUVbiZrwlY?style=flat-square"> </img> 
 </td>
 </tr>
@@ -64,7 +64,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/gmWPWpVXoXU/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=gmWPWpVXoXU">Pourquoi apprendre le TypeScript (vs le JavaScript)?</a> (4 days ago) <br/>
+<a href="https://www.youtube.com/watch?v=gmWPWpVXoXU">Pourquoi apprendre le TypeScript (vs le JavaScript)?</a> (5 days ago) <br/>
 <img src="https://img.shields.io/youtube/views/gmWPWpVXoXU?style=flat-square"> </img> 
 </td>
 </tr>
@@ -106,7 +106,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/LYvQWwsKiME/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=LYvQWwsKiME">Scope et closures en JS (et... hoisting ?)</a> (2 months ago) <br/>
+<a href="https://www.youtube.com/watch?v=LYvQWwsKiME">Scope et closures en JS (et... hoisting ?)</a> (3 months ago) <br/>
 <img src="https://img.shields.io/youtube/views/LYvQWwsKiME?style=flat-square"> </img> 
 </td>
 </tr>
