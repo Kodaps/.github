@@ -23,7 +23,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/jFUVbiZrwlY/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=jFUVbiZrwlY">Why Learn TypeScript (vs JavaScript)?</a> (6 days ago) <br/>
+<a href="https://www.youtube.com/watch?v=jFUVbiZrwlY">Why Learn TypeScript (vs JavaScript)?</a> (today) <br/>
 <img src="https://img.shields.io/youtube/views/jFUVbiZrwlY?style=flat-square"> </img> 
 </td>
 </tr>
