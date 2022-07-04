@@ -5,7 +5,7 @@
 
 ## 📜 🇬🇧 My recent blog posts
 
-- [How To Easily Automate Your Github Profile to Showcase Your Work](https://levelup.gitconnected.com/how-to-easily-automate-your-github-profile-to-showcase-your-work-126edab12d3c?source=rss-e68daed69805------2) (3 weeks ago)
+- [How To Easily Automate Your Github Profile to Showcase Your Work](https://levelup.gitconnected.com/how-to-easily-automate-your-github-profile-to-showcase-your-work-126edab12d3c?source=rss-e68daed69805------2) (4 weeks ago)
 - [What is a REST API?](https://levelup.gitconnected.com/what-is-a-rest-api-6471b08eb575?source=rss-e68daed69805------2) (1 month ago)
 - [What Is a JWT (and Why)?](https://levelup.gitconnected.com/what-is-a-jwt-nd-why-2bd0c74aa26f?source=rss-e68daed69805------2) (1 month ago)
 - [SolidJS: Looks Can Be Deceptive?](https://javascript.plainenglish.io/solidjs-looks-can-be-deceptive-65b2f91360fe?source=rss-e68daed69805------2) (1 month ago)
@@ -23,7 +23,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/jFUVbiZrwlY/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=jFUVbiZrwlY">Why Learn TypeScript (vs JavaScript)?</a> (5 days ago) <br/>
+<a href="https://www.youtube.com/watch?v=jFUVbiZrwlY">Why Learn TypeScript (vs JavaScript)?</a> (6 days ago) <br/>
 <img src="https://img.shields.io/youtube/views/jFUVbiZrwlY?style=flat-square"> </img> 
 </td>
 </tr>
@@ -64,14 +64,14 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/gmWPWpVXoXU/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=gmWPWpVXoXU">Pourquoi apprendre le TypeScript (vs le JavaScript)?</a> (5 days ago) <br/>
+<a href="https://www.youtube.com/watch?v=gmWPWpVXoXU">Pourquoi apprendre le TypeScript (vs le JavaScript)?</a> (6 days ago) <br/>
 <img src="https://img.shields.io/youtube/views/gmWPWpVXoXU?style=flat-square"> </img> 
 </td>
 </tr>
 <tr>
 <td><img src="https://img.youtube.com/vi/plN1GwhiO9c/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=plN1GwhiO9c">Comment facilement automatiser son profil GitHub ?</a> (2 weeks ago) <br/>
+<a href="https://www.youtube.com/watch?v=plN1GwhiO9c">Comment facilement automatiser son profil GitHub ?</a> (3 weeks ago) <br/>
 <img src="https://img.shields.io/youtube/views/plN1GwhiO9c?style=flat-square"> </img> 
 </td>
 </tr>
