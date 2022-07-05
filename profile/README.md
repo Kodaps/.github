@@ -135,6 +135,7 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [Kodaps/faker](https://github.com/Kodaps/faker) - Test data for exercises based on SWAPI (today)
 - [Kodaps/.github](https://github.com/Kodaps/.github) - Public profile (3 weeks ago)
 - [Gosev/TestRepository](https://github.com/Gosev/TestRepository) -  (3 weeks ago)
 - [Kodaps/GitFirstSteps](https://github.com/Kodaps/GitFirstSteps) - First steps with git - a tutorial repository (1 month ago)
@@ -156,6 +157,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [Kodaps/faker](https://github.com/Kodaps/faker) ([0.0.4](https://github.com/Kodaps/faker/releases/tag/0.0.4), today) - Test data for exercises based on SWAPI
 
 #### 🔨 My recent Pull Requests
 
