@@ -5,8 +5,8 @@
 
 ## 📜 🇬🇧 My recent blog posts
 
-- [Why Learn TypeScript?](https://javascript.plainenglish.io/why-learn-typescript-19d71dfb12a5?source=rss-e68daed69805------2) (1 day ago)
-- [How To Easily Automate Your Github Profile to Showcase Your Work](https://levelup.gitconnected.com/how-to-easily-automate-your-github-profile-to-showcase-your-work-126edab12d3c?source=rss-e68daed69805------2) (4 weeks ago)
+- [Why Learn TypeScript?](https://javascript.plainenglish.io/why-learn-typescript-19d71dfb12a5?source=rss-e68daed69805------2) (2 days ago)
+- [How To Easily Automate Your Github Profile to Showcase Your Work](https://levelup.gitconnected.com/how-to-easily-automate-your-github-profile-to-showcase-your-work-126edab12d3c?source=rss-e68daed69805------2) (1 month ago)
 - [What is a REST API?](https://levelup.gitconnected.com/what-is-a-rest-api-6471b08eb575?source=rss-e68daed69805------2) (1 month ago)
 - [What Is a JWT (and Why)?](https://levelup.gitconnected.com/what-is-a-jwt-nd-why-2bd0c74aa26f?source=rss-e68daed69805------2) (1 month ago)
 - [SolidJS: Looks Can Be Deceptive?](https://javascript.plainenglish.io/solidjs-looks-can-be-deceptive-65b2f91360fe?source=rss-e68daed69805------2) (1 month ago)
@@ -23,7 +23,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/jFUVbiZrwlY/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=jFUVbiZrwlY">Why Learn TypeScript (vs JavaScript)?</a> (1 day ago) <br/>
+<a href="https://www.youtube.com/watch?v=jFUVbiZrwlY">Why Learn TypeScript (vs JavaScript)?</a> (2 days ago) <br/>
 <img src="https://img.shields.io/youtube/views/jFUVbiZrwlY?style=flat-square"> </img> 
 </td>
 </tr>
@@ -37,7 +37,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/A_dUsSzxwkI/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=A_dUsSzxwkI">What is SolidJS (vs React and Svelte) ?</a> (3 weeks ago) <br/>
+<a href="https://www.youtube.com/watch?v=A_dUsSzxwkI">What is SolidJS (vs React and Svelte) ?</a> (4 weeks ago) <br/>
 <img src="https://img.shields.io/youtube/views/A_dUsSzxwkI?style=flat-square"> </img> 
 </td>
 </tr>
@@ -120,7 +120,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/evT5fptnRSo/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=evT5fptnRSo">PHP vs Ruby vs Python vs NodeJS : que disent les chiffres ?</a> (3 months ago) <br/>
+<a href="https://www.youtube.com/watch?v=evT5fptnRSo">PHP vs Ruby vs Python vs NodeJS : que disent les chiffres ?</a> (4 months ago) <br/>
 <img src="https://img.shields.io/youtube/views/evT5fptnRSo?style=flat-square"> </img> 
 </td>
 </tr>
@@ -135,9 +135,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Kodaps/faker](https://github.com/Kodaps/faker) - Test data for exercises based on SWAPI (today)
+- [Kodaps/faker](https://github.com/Kodaps/faker) - Test data for exercises based on SWAPI (1 day ago)
 - [Kodaps/.github](https://github.com/Kodaps/.github) - Public profile (3 weeks ago)
-- [Gosev/TestRepository](https://github.com/Gosev/TestRepository) -  (3 weeks ago)
+- [Gosev/TestRepository](https://github.com/Gosev/TestRepository) -  (4 weeks ago)
 - [Kodaps/GitFirstSteps](https://github.com/Kodaps/GitFirstSteps) - First steps with git - a tutorial repository (1 month ago)
 - [Kodaps/JSFirstSteps](https://github.com/Kodaps/JSFirstSteps) - Contents for JS course (1 month ago)
 - [DavidKodaps/demo-package](https://github.com/DavidKodaps/demo-package) - Demo NPM package (5 months ago)
@@ -157,7 +157,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [Kodaps/faker](https://github.com/Kodaps/faker) ([0.0.4](https://github.com/Kodaps/faker/releases/tag/0.0.4), today) - Test data for exercises based on SWAPI
+- [Kodaps/faker](https://github.com/Kodaps/faker) ([0.0.4](https://github.com/Kodaps/faker/releases/tag/0.0.4), 1 day ago) - Test data for exercises based on SWAPI
 
 #### 🔨 My recent Pull Requests
 
