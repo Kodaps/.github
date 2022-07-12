@@ -5,7 +5,7 @@
 
 ## 📜 🇬🇧 My recent blog posts
 
-- [3 Ways I Kept Going to 1000 YouTube Subscribers](https://medium.com/new-writers-welcome/3-ways-i-kept-going-to-1000-youtube-subscribers-d316e2ca95b4?source=rss-e68daed69805------2) (3 days ago)
+- [3 Ways I Kept Going to 1000 YouTube Subscribers](https://medium.com/new-writers-welcome/3-ways-i-kept-going-to-1000-youtube-subscribers-d316e2ca95b4?source=rss-e68daed69805------2) (4 days ago)
 - [Why Learn TypeScript?](https://javascript.plainenglish.io/why-learn-typescript-19d71dfb12a5?source=rss-e68daed69805------2) (1 week ago)
 - [How To Easily Automate Your Github Profile to Showcase Your Work](https://levelup.gitconnected.com/how-to-easily-automate-your-github-profile-to-showcase-your-work-126edab12d3c?source=rss-e68daed69805------2) (1 month ago)
 - [What is a REST API?](https://levelup.gitconnected.com/what-is-a-rest-api-6471b08eb575?source=rss-e68daed69805------2) (1 month ago)
@@ -14,7 +14,7 @@
 - [Angular vs Vue.js vs React vs Svelte in 2022: What do the Numbers Say?](https://javascript.plainenglish.io/angular-vs-vue-js-vs-react-vs-svelte-in-2022-what-do-the-numbers-say-7ae38a549d8d?source=rss-e68daed69805------2) (1 month ago)
 - [React 18: What You Need to Know](https://javascript.plainenglish.io/react-18-what-you-need-to-know-d7bed3216e2e?source=rss-e68daed69805------2) (1 month ago)
 - [Use Gamedesign &amp; Flow to Hack Your Coding Productivity](https://levelup.gitconnected.com/using-gamedesign-to-hack-productivity-a78544c44a80?source=rss-e68daed69805------2) (1 month ago)
-- [PHP vs NodeJS vs Python vs Ruby: what do the numbers say?](https://levelup.gitconnected.com/php-vs-nodejs-vs-python-vs-ruby-what-do-the-numbers-say-efb19c986948?source=rss-e68daed69805------2) (3 months ago)
+- [PHP vs NodeJS vs Python vs Ruby: what do the numbers say?](https://levelup.gitconnected.com/php-vs-nodejs-vs-python-vs-ruby-what-do-the-numbers-say-efb19c986948?source=rss-e68daed69805------2) (4 months ago)
 
 ## 📽 🇬🇧 My recent English videos
 <img src="https://img.shields.io/youtube/channel/subscribers/UC2DOovF-OjIQ6nHClUyLKKQ?style=for-the-badge"></img>
@@ -51,7 +51,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/83VZulS0H5g/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=83VZulS0H5g">Frontend vs backend vs fullstack: which will you choose?</a> (1 month ago) <br/>
+<a href="https://www.youtube.com/watch?v=83VZulS0H5g">Frontend vs backend vs fullstack: which will you choose?</a> (2 months ago) <br/>
 <img src="https://img.shields.io/youtube/views/83VZulS0H5g?style=flat-square"> </img> 
 </td>
 </tr>
@@ -64,7 +64,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/gmWPWpVXoXU/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=gmWPWpVXoXU">Pourquoi apprendre le TypeScript (vs le JavaScript)?</a> (1 week ago) <br/>
+<a href="https://www.youtube.com/watch?v=gmWPWpVXoXU">Pourquoi apprendre le TypeScript (vs le JavaScript)?</a> (2 weeks ago) <br/>
 <img src="https://img.shields.io/youtube/views/gmWPWpVXoXU?style=flat-square"> </img> 
 </td>
 </tr>
@@ -99,7 +99,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/d6nkWVUo5vw/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=d6nkWVUo5vw">React 18 : ce qu&#39;il faut savoir !</a> (2 months ago) <br/>
+<a href="https://www.youtube.com/watch?v=d6nkWVUo5vw">React 18 : ce qu&#39;il faut savoir !</a> (3 months ago) <br/>
 <img src="https://img.shields.io/youtube/views/d6nkWVUo5vw?style=flat-square"> </img> 
 </td>
 </tr>
@@ -135,7 +135,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Kodaps/faker](https://github.com/Kodaps/faker) - Test data for exercises based on SWAPI (6 days ago)
+- [Kodaps/faker](https://github.com/Kodaps/faker) - Test data for exercises based on SWAPI (1 week ago)
 - [Kodaps/.github](https://github.com/Kodaps/.github) - Public profile (1 month ago)
 - [Gosev/TestRepository](https://github.com/Gosev/TestRepository) -  (1 month ago)
 - [Kodaps/GitFirstSteps](https://github.com/Kodaps/GitFirstSteps) - First steps with git - a tutorial repository (1 month ago)
@@ -157,7 +157,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [Kodaps/faker](https://github.com/Kodaps/faker) ([0.0.4](https://github.com/Kodaps/faker/releases/tag/0.0.4), 6 days ago) - Test data for exercises based on SWAPI
+- [Kodaps/faker](https://github.com/Kodaps/faker) ([0.0.4](https://github.com/Kodaps/faker/releases/tag/0.0.4), 1 week ago) - Test data for exercises based on SWAPI
 
 #### 🔨 My recent Pull Requests
 
