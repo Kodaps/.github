@@ -5,7 +5,7 @@
 
 ## 📜 🇬🇧 My recent blog posts
 
-- [3 Ways I Kept Going to 1000 YouTube Subscribers](https://medium.com/new-writers-welcome/3-ways-i-kept-going-to-1000-youtube-subscribers-d316e2ca95b4?source=rss-e68daed69805------2) (4 days ago)
+- [3 Ways I Kept Going to 1000 YouTube Subscribers](https://medium.com/new-writers-welcome/3-ways-i-kept-going-to-1000-youtube-subscribers-d316e2ca95b4?source=rss-e68daed69805------2) (5 days ago)
 - [Why Learn TypeScript?](https://javascript.plainenglish.io/why-learn-typescript-19d71dfb12a5?source=rss-e68daed69805------2) (1 week ago)
 - [How To Easily Automate Your Github Profile to Showcase Your Work](https://levelup.gitconnected.com/how-to-easily-automate-your-github-profile-to-showcase-your-work-126edab12d3c?source=rss-e68daed69805------2) (1 month ago)
 - [What is a REST API?](https://levelup.gitconnected.com/what-is-a-rest-api-6471b08eb575?source=rss-e68daed69805------2) (1 month ago)
@@ -71,7 +71,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/plN1GwhiO9c/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=plN1GwhiO9c">Comment facilement automatiser son profil GitHub ?</a> (4 weeks ago) <br/>
+<a href="https://www.youtube.com/watch?v=plN1GwhiO9c">Comment facilement automatiser son profil GitHub ?</a> (1 month ago) <br/>
 <img src="https://img.shields.io/youtube/views/plN1GwhiO9c?style=flat-square"> </img> 
 </td>
 </tr>
@@ -127,7 +127,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/-9nygSaeN40/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=-9nygSaeN40">Cours JavaScript : 7 fonctions pour manipuler les tableaux</a> (4 months ago) <br/>
+<a href="https://www.youtube.com/watch?v=-9nygSaeN40">Cours JavaScript : 7 fonctions pour manipuler les tableaux</a> (5 months ago) <br/>
 <img src="https://img.shields.io/youtube/views/-9nygSaeN40?style=flat-square"> </img> 
 </td>
 </tr>
