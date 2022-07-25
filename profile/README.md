@@ -5,11 +5,11 @@
 
 ## 📜 🇬🇧 My recent blog posts
 
-- [5 Tips to Have Fun Using MidJourney AI Image Generation — The First Steps](https://gosev.medium.com/5-tips-to-have-fun-using-midjourney-ai-image-generation-the-first-steps-81cf44a53931?source=rss-e68daed69805------2) (5 days ago)
+- [5 Tips to Have Fun Using MidJourney AI Image Generation — The First Steps](https://gosev.medium.com/5-tips-to-have-fun-using-midjourney-ai-image-generation-the-first-steps-81cf44a53931?source=rss-e68daed69805------2) (6 days ago)
 - [3 Lessons I Learned While Managing The Project From Hell](https://medium.com/illumination/3-lessons-i-learned-while-managing-the-project-from-hell-e31196db2d5f?source=rss-e68daed69805------2) (1 week ago)
 - [Why We Need To Learn To Communicate Effectively as a Developers (and Why It is Hard)](https://gosev.medium.com/why-we-need-to-learn-to-communicate-effectively-as-a-developers-and-why-it-is-hard-756871cd1b88?source=rss-e68daed69805------2) (1 week ago)
 - [3 Ways I Kept Going to 1000 YouTube Subscribers](https://medium.com/new-writers-welcome/3-ways-i-kept-going-to-1000-youtube-subscribers-d316e2ca95b4?source=rss-e68daed69805------2) (2 weeks ago)
-- [Why Learn TypeScript?](https://javascript.plainenglish.io/why-learn-typescript-19d71dfb12a5?source=rss-e68daed69805------2) (2 weeks ago)
+- [Why Learn TypeScript?](https://javascript.plainenglish.io/why-learn-typescript-19d71dfb12a5?source=rss-e68daed69805------2) (3 weeks ago)
 - [How To Easily Automate Your Github Profile to Showcase Your Work](https://levelup.gitconnected.com/how-to-easily-automate-your-github-profile-to-showcase-your-work-126edab12d3c?source=rss-e68daed69805------2) (1 month ago)
 - [What is a REST API?](https://levelup.gitconnected.com/what-is-a-rest-api-6471b08eb575?source=rss-e68daed69805------2) (1 month ago)
 - [What Is a JWT (and Why)?](https://levelup.gitconnected.com/what-is-a-jwt-nd-why-2bd0c74aa26f?source=rss-e68daed69805------2) (2 months ago)
@@ -23,21 +23,21 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/LF4xogh9sko/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=LF4xogh9sko">What is a JWT?</a> (5 days ago) <br/>
+<a href="https://www.youtube.com/watch?v=LF4xogh9sko">What is a JWT?</a> (6 days ago) <br/>
 <img src="https://img.shields.io/youtube/views/LF4xogh9sko?style=flat-square"> </img> 
 </td>
 </tr>
 <tr>
 <td><img src="https://img.youtube.com/vi/jFUVbiZrwlY/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=jFUVbiZrwlY">Why Learn TypeScript (vs JavaScript)?</a> (2 weeks ago) <br/>
+<a href="https://www.youtube.com/watch?v=jFUVbiZrwlY">Why Learn TypeScript (vs JavaScript)?</a> (3 weeks ago) <br/>
 <img src="https://img.shields.io/youtube/views/jFUVbiZrwlY?style=flat-square"> </img> 
 </td>
 </tr>
 <tr>
 <td><img src="https://img.youtube.com/vi/0zY-5z_8D4o/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=0zY-5z_8D4o">Flutter vs React Native : which one is worth it, and why?</a> (4 weeks ago) <br/>
+<a href="https://www.youtube.com/watch?v=0zY-5z_8D4o">Flutter vs React Native : which one is worth it, and why?</a> (1 month ago) <br/>
 <img src="https://img.shields.io/youtube/views/0zY-5z_8D4o?style=flat-square"> </img> 
 </td>
 </tr>
@@ -64,7 +64,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/A3lJWEyo088/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=A3lJWEyo088">Entretien avec une IA : est-elle consciente ?</a> (5 days ago) <br/>
+<a href="https://www.youtube.com/watch?v=A3lJWEyo088">Entretien avec une IA : est-elle consciente ?</a> (6 days ago) <br/>
 <img src="https://img.shields.io/youtube/views/A3lJWEyo088?style=flat-square"> </img> 
 </td>
 </tr>
