@@ -157,7 +157,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [Kodaps/faker](https://github.com/Kodaps/faker) ([0.0.6](https://github.com/Kodaps/faker/releases/tag/0.0.6), today) - Test data for exercises based on SWAPI
+- [Kodaps/faker](https://github.com/Kodaps/faker) ([0.0.8](https://github.com/Kodaps/faker/releases/tag/0.0.8), today) - Test data for exercises based on SWAPI
 
 #### 🔨 My recent Pull Requests
 
