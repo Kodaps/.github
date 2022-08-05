@@ -6,11 +6,11 @@
 ## 📜 🇬🇧 My recent blog posts
 
 - [5 Tips to Have Fun Using MidJourney AI Image Generation — The First Steps](https://gosev.medium.com/5-tips-to-have-fun-using-midjourney-ai-image-generation-the-first-steps-81cf44a53931?source=rss-e68daed69805------2) (2 weeks ago)
-- [3 Lessons I Learned While Managing The Project From Hell](https://medium.com/illumination/3-lessons-i-learned-while-managing-the-project-from-hell-e31196db2d5f?source=rss-e68daed69805------2) (2 weeks ago)
-- [Why We Need To Learn To Communicate Effectively as a Developers (and Why It is Hard)](https://gosev.medium.com/why-we-need-to-learn-to-communicate-effectively-as-a-developers-and-why-it-is-hard-756871cd1b88?source=rss-e68daed69805------2) (2 weeks ago)
-- [3 Ways I Kept Going to 1000 YouTube Subscribers](https://medium.com/new-writers-welcome/3-ways-i-kept-going-to-1000-youtube-subscribers-d316e2ca95b4?source=rss-e68daed69805------2) (3 weeks ago)
+- [3 Lessons I Learned While Managing The Project From Hell](https://medium.com/illumination/3-lessons-i-learned-while-managing-the-project-from-hell-e31196db2d5f?source=rss-e68daed69805------2) (3 weeks ago)
+- [Why We Need To Learn To Communicate Effectively as a Developers (and Why It is Hard)](https://gosev.medium.com/why-we-need-to-learn-to-communicate-effectively-as-a-developers-and-why-it-is-hard-756871cd1b88?source=rss-e68daed69805------2) (3 weeks ago)
+- [3 Ways I Kept Going to 1000 YouTube Subscribers](https://medium.com/new-writers-welcome/3-ways-i-kept-going-to-1000-youtube-subscribers-d316e2ca95b4?source=rss-e68daed69805------2) (4 weeks ago)
 - [Why Learn TypeScript?](https://javascript.plainenglish.io/why-learn-typescript-19d71dfb12a5?source=rss-e68daed69805------2) (1 month ago)
-- [How To Easily Automate Your Github Profile to Showcase Your Work](https://levelup.gitconnected.com/how-to-easily-automate-your-github-profile-to-showcase-your-work-126edab12d3c?source=rss-e68daed69805------2) (1 month ago)
+- [How To Easily Automate Your Github Profile to Showcase Your Work](https://levelup.gitconnected.com/how-to-easily-automate-your-github-profile-to-showcase-your-work-126edab12d3c?source=rss-e68daed69805------2) (2 months ago)
 - [What is a REST API?](https://levelup.gitconnected.com/what-is-a-rest-api-6471b08eb575?source=rss-e68daed69805------2) (2 months ago)
 - [What Is a JWT (and Why)?](https://levelup.gitconnected.com/what-is-a-jwt-nd-why-2bd0c74aa26f?source=rss-e68daed69805------2) (2 months ago)
 - [SolidJS: Looks Can Be Deceptive?](https://javascript.plainenglish.io/solidjs-looks-can-be-deceptive-65b2f91360fe?source=rss-e68daed69805------2) (2 months ago)
@@ -127,7 +127,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/evT5fptnRSo/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=evT5fptnRSo">PHP vs Ruby vs Python vs NodeJS : que disent les chiffres ?</a> (4 months ago) <br/>
+<a href="https://www.youtube.com/watch?v=evT5fptnRSo">PHP vs Ruby vs Python vs NodeJS : que disent les chiffres ?</a> (5 months ago) <br/>
 <img src="https://img.shields.io/youtube/views/evT5fptnRSo?style=flat-square"> </img> 
 </td>
 </tr>
@@ -135,7 +135,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Kodaps/faker](https://github.com/Kodaps/faker) - Test data for exercises based on SWAPI (1 day ago)
+- [Kodaps/faker](https://github.com/Kodaps/faker) - Test data for exercises based on SWAPI (2 days ago)
 - [Kodaps/.github](https://github.com/Kodaps/.github) - Public profile (1 month ago)
 - [Gosev/TestRepository](https://github.com/Gosev/TestRepository) -  (1 month ago)
 - [Kodaps/GitFirstSteps](https://github.com/Kodaps/GitFirstSteps) - First steps with git - a tutorial repository (2 months ago)
