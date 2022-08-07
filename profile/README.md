@@ -5,6 +5,7 @@
 
 ## 📜 🇬🇧 My recent blog posts
 
+- [How to Release Your Code Into the Wild](https://levelup.gitconnected.com/how-to-release-your-code-into-the-wild-dd144218cb9b?source=rss-e68daed69805------2) (today)
 - [5 Tips to Have Fun Using MidJourney AI Image Generation — The First Steps](https://gosev.medium.com/5-tips-to-have-fun-using-midjourney-ai-image-generation-the-first-steps-81cf44a53931?source=rss-e68daed69805------2) (2 weeks ago)
 - [3 Lessons I Learned While Managing The Project From Hell](https://medium.com/illumination/3-lessons-i-learned-while-managing-the-project-from-hell-e31196db2d5f?source=rss-e68daed69805------2) (3 weeks ago)
 - [Why We Need To Learn To Communicate Effectively as a Developers (and Why It is Hard)](https://gosev.medium.com/why-we-need-to-learn-to-communicate-effectively-as-a-developers-and-why-it-is-hard-756871cd1b88?source=rss-e68daed69805------2) (3 weeks ago)
@@ -14,7 +15,6 @@
 - [What is a REST API?](https://levelup.gitconnected.com/what-is-a-rest-api-6471b08eb575?source=rss-e68daed69805------2) (2 months ago)
 - [What Is a JWT (and Why)?](https://levelup.gitconnected.com/what-is-a-jwt-nd-why-2bd0c74aa26f?source=rss-e68daed69805------2) (2 months ago)
 - [SolidJS: Looks Can Be Deceptive?](https://javascript.plainenglish.io/solidjs-looks-can-be-deceptive-65b2f91360fe?source=rss-e68daed69805------2) (2 months ago)
-- [Angular vs Vue.js vs React vs Svelte in 2022: What do the Numbers Say?](https://javascript.plainenglish.io/angular-vs-vue-js-vs-react-vs-svelte-in-2022-what-do-the-numbers-say-7ae38a549d8d?source=rss-e68daed69805------2) (2 months ago)
 
 ## 📽 🇬🇧 My recent English videos
 <img src="https://img.shields.io/youtube/channel/subscribers/UC2DOovF-OjIQ6nHClUyLKKQ?style=for-the-badge"></img>
