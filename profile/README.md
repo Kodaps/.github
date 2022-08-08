@@ -5,7 +5,7 @@
 
 ## 📜 🇬🇧 My recent blog posts
 
-- [How to Release Your Code Into the Wild](https://levelup.gitconnected.com/how-to-release-your-code-into-the-wild-dd144218cb9b?source=rss-e68daed69805------2) (today)
+- [How to Release Your Code Into the Wild](https://levelup.gitconnected.com/how-to-release-your-code-into-the-wild-dd144218cb9b?source=rss-e68daed69805------2) (1 day ago)
 - [5 Tips to Have Fun Using MidJourney AI Image Generation — The First Steps](https://gosev.medium.com/5-tips-to-have-fun-using-midjourney-ai-image-generation-the-first-steps-81cf44a53931?source=rss-e68daed69805------2) (2 weeks ago)
 - [3 Lessons I Learned While Managing The Project From Hell](https://medium.com/illumination/3-lessons-i-learned-while-managing-the-project-from-hell-e31196db2d5f?source=rss-e68daed69805------2) (3 weeks ago)
 - [Why We Need To Learn To Communicate Effectively as a Developers (and Why It is Hard)](https://gosev.medium.com/why-we-need-to-learn-to-communicate-effectively-as-a-developers-and-why-it-is-hard-756871cd1b88?source=rss-e68daed69805------2) (3 weeks ago)
@@ -135,7 +135,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Kodaps/faker](https://github.com/Kodaps/faker) - Test data for exercises based on SWAPI (1 day ago)
+- [Kodaps/faker](https://github.com/Kodaps/faker) - Test data for exercises based on SWAPI (2 days ago)
 - [Kodaps/.github](https://github.com/Kodaps/.github) - Public profile (1 month ago)
 - [Gosev/TestRepository](https://github.com/Gosev/TestRepository) -  (2 months ago)
 - [Kodaps/GitFirstSteps](https://github.com/Kodaps/GitFirstSteps) - First steps with git - a tutorial repository (2 months ago)
@@ -157,7 +157,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [Kodaps/faker](https://github.com/Kodaps/faker) ([0.0.10](https://github.com/Kodaps/faker/releases/tag/0.0.10), 1 day ago) - Test data for exercises based on SWAPI
+- [Kodaps/faker](https://github.com/Kodaps/faker) ([0.0.10](https://github.com/Kodaps/faker/releases/tag/0.0.10), 2 days ago) - Test data for exercises based on SWAPI
 
 #### 🔨 My recent Pull Requests
 
@@ -166,7 +166,7 @@
 #### 📓 Gists I wrote
 
 - [](https://gist.github.com/ce3defb6415b67ec03f48fa11fc158f0) (1 year ago)
-- [pages/jokes.tsx in NextJS : useEffect &#43; useState &#43; Axios ](https://gist.github.com/fbd960d5a653bf0f527678f038d5bee1) (1 year ago)
+- [pages/jokes.tsx in NextJS : useEffect &#43; useState &#43; Axios ](https://gist.github.com/fbd960d5a653bf0f527678f038d5bee1) (2 years ago)
 - [NextJS copy index.html files to their folder name](https://gist.github.com/e04abeb6079273b3be54ee6496a0b309) (2 years ago)
 - [](https://gist.github.com/a144834b9542ab523a10) (6 years ago)
 
