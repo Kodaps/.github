@@ -135,6 +135,7 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [Gosev/AstroBlog](https://github.com/Gosev/AstroBlog) -  (today)
 - [Kodaps/faker](https://github.com/Kodaps/faker) - Test data for exercises based on SWAPI (4 days ago)
 - [Kodaps/.github](https://github.com/Kodaps/.github) - Public profile (2 months ago)
 - [Gosev/TestRepository](https://github.com/Gosev/TestRepository) -  (2 months ago)
@@ -146,6 +147,7 @@
 
 #### 🌱 My latest projects
 
+- [Gosev/AstroBlog](https://github.com/Gosev/AstroBlog) - 
 - [Gosev/TestRepository](https://github.com/Gosev/TestRepository) - 
 - [Gosev/Api-Typescript-Sls](https://github.com/Gosev/Api-Typescript-Sls) - 
 - [Gosev/TestRepo](https://github.com/Gosev/TestRepo) - 
