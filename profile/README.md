@@ -64,7 +64,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/Zl6hAdB2LVE/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=Zl6hAdB2LVE">L&#39;IA qui crée de l’art ? (Un aperçu de MidJourney)</a> (today) <br/>
+<a href="https://www.youtube.com/watch?v=Zl6hAdB2LVE">Une IA qui crée de l’art ? (Un aperçu de MidJourney)</a> (today) <br/>
 <img src="https://img.shields.io/youtube/views/Zl6hAdB2LVE?style=flat-square"> </img> 
 </td>
 </tr>
