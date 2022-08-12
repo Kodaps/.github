@@ -62,6 +62,13 @@
 <table>
 
 <tr>
+<td><img src="https://img.youtube.com/vi/Zl6hAdB2LVE/default.jpg"></img></td>
+<td>
+<a href="https://www.youtube.com/watch?v=Zl6hAdB2LVE">L&#39;IA qui crée de l’art ? (Un aperçu de MidJourney)</a> (today) <br/>
+<img src="https://img.shields.io/youtube/views/Zl6hAdB2LVE?style=flat-square"> </img> 
+</td>
+</tr>
+<tr>
 <td><img src="https://img.youtube.com/vi/A3lJWEyo088/default.jpg"></img></td>
 <td>
 <a href="https://www.youtube.com/watch?v=A3lJWEyo088">Entretien avec une IA : est-elle consciente ?</a> (3 weeks ago) <br/>
@@ -122,13 +129,6 @@
 <td>
 <a href="https://www.youtube.com/watch?v=5qNfPBcogCs">C&#39;est quoi un JWT ?</a> (4 months ago) <br/>
 <img src="https://img.shields.io/youtube/views/5qNfPBcogCs?style=flat-square"> </img> 
-</td>
-</tr>
-<tr>
-<td><img src="https://img.youtube.com/vi/evT5fptnRSo/default.jpg"></img></td>
-<td>
-<a href="https://www.youtube.com/watch?v=evT5fptnRSo">PHP vs Ruby vs Python vs NodeJS : que disent les chiffres ?</a> (5 months ago) <br/>
-<img src="https://img.shields.io/youtube/views/evT5fptnRSo?style=flat-square"> </img> 
 </td>
 </tr>
 </table>
