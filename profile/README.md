@@ -5,9 +5,9 @@
 
 ## 📜 🇬🇧 My recent blog posts
 
-- [What is Art?](https://gosev.medium.com/what-is-art-2dce12548091?source=rss-e68daed69805------2) (3 days ago)
+- [What is Art?](https://gosev.medium.com/what-is-art-2dce12548091?source=rss-e68daed69805------2) (4 days ago)
 - [How to Release Your Code Into the Wild](https://levelup.gitconnected.com/how-to-release-your-code-into-the-wild-dd144218cb9b?source=rss-e68daed69805------2) (1 week ago)
-- [5 Tips to Have Fun Using MidJourney AI Image Generation — The First Steps](https://gosev.medium.com/5-tips-to-have-fun-using-midjourney-ai-image-generation-the-first-steps-81cf44a53931?source=rss-e68daed69805------2) (4 weeks ago)
+- [5 Tips to Have Fun Using MidJourney AI Image Generation — The First Steps](https://gosev.medium.com/5-tips-to-have-fun-using-midjourney-ai-image-generation-the-first-steps-81cf44a53931?source=rss-e68daed69805------2) (1 month ago)
 - [3 Lessons I Learned While Managing The Project From Hell](https://medium.com/illumination/3-lessons-i-learned-while-managing-the-project-from-hell-e31196db2d5f?source=rss-e68daed69805------2) (1 month ago)
 - [Why We Need To Learn To Communicate Effectively as a Developers (and Why It is Hard)](https://gosev.medium.com/why-we-need-to-learn-to-communicate-effectively-as-a-developers-and-why-it-is-hard-756871cd1b88?source=rss-e68daed69805------2) (1 month ago)
 - [3 Ways I Kept Going to 1000 YouTube Subscribers](https://medium.com/new-writers-welcome/3-ways-i-kept-going-to-1000-youtube-subscribers-d316e2ca95b4?source=rss-e68daed69805------2) (1 month ago)
@@ -23,14 +23,14 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/FQNnj4CJagQ/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=FQNnj4CJagQ">Can an Artificial Intelligence create art? (a closer look at MidJourney)</a> (4 days ago) <br/>
+<a href="https://www.youtube.com/watch?v=FQNnj4CJagQ">Can an Artificial Intelligence create art? (a closer look at MidJourney)</a> (5 days ago) <br/>
 <img src="https://img.shields.io/youtube/views/FQNnj4CJagQ?style=flat-square"> </img> 
 </td>
 </tr>
 <tr>
 <td><img src="https://img.youtube.com/vi/LF4xogh9sko/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=LF4xogh9sko">What is a JWT?</a> (4 weeks ago) <br/>
+<a href="https://www.youtube.com/watch?v=LF4xogh9sko">What is a JWT?</a> (1 month ago) <br/>
 <img src="https://img.shields.io/youtube/views/LF4xogh9sko?style=flat-square"> </img> 
 </td>
 </tr>
@@ -64,14 +64,14 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/Zl6hAdB2LVE/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=Zl6hAdB2LVE">Une IA qui crée de l’art ? (Un aperçu de MidJourney)</a> (5 days ago) <br/>
+<a href="https://www.youtube.com/watch?v=Zl6hAdB2LVE">Une IA qui crée de l’art ? (Un aperçu de MidJourney)</a> (6 days ago) <br/>
 <img src="https://img.shields.io/youtube/views/Zl6hAdB2LVE?style=flat-square"> </img> 
 </td>
 </tr>
 <tr>
 <td><img src="https://img.youtube.com/vi/A3lJWEyo088/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=A3lJWEyo088">Entretien avec une IA : est-elle consciente ?</a> (4 weeks ago) <br/>
+<a href="https://www.youtube.com/watch?v=A3lJWEyo088">Entretien avec une IA : est-elle consciente ?</a> (1 month ago) <br/>
 <img src="https://img.shields.io/youtube/views/A3lJWEyo088?style=flat-square"> </img> 
 </td>
 </tr>
@@ -135,7 +135,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Gosev/AstroBlog](https://github.com/Gosev/AstroBlog) -  (1 day ago)
+- [Gosev/AstroBlog](https://github.com/Gosev/AstroBlog) -  (2 days ago)
 - [Kodaps/faker](https://github.com/Kodaps/faker) - Test data for exercises based on SWAPI (1 week ago)
 - [Kodaps/.github](https://github.com/Kodaps/.github) - Public profile (2 months ago)
 - [Gosev/TestRepository](https://github.com/Gosev/TestRepository) -  (2 months ago)
@@ -174,7 +174,7 @@
 
 #### ⭐ Recent Stars
 
-- [onwidget/astrowind](https://github.com/onwidget/astrowind) - 🚀 A template to make your website using Astro &#43; Tailwind CSS. (3 days ago)
+- [onwidget/astrowind](https://github.com/onwidget/astrowind) - 🚀 A template to make your website using Astro &#43; Tailwind CSS. (4 days ago)
 - [coronalabs/CoronaViewer](https://github.com/coronalabs/CoronaViewer) - CoronaViewer for SDK/Enterprise (7 years ago)
 - [Gosev/Jump](https://github.com/Gosev/Jump) - Jump website (10 years ago)
 
