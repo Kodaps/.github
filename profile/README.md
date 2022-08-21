@@ -5,8 +5,8 @@
 
 ## 📜 🇬🇧 My recent blog posts
 
-- [What is Art?](https://gosev.medium.com/what-is-art-2dce12548091?source=rss-e68daed69805------2) (6 days ago)
-- [How to Release Your Code Into the Wild](https://levelup.gitconnected.com/how-to-release-your-code-into-the-wild-dd144218cb9b?source=rss-e68daed69805------2) (1 week ago)
+- [What is Art?](https://gosev.medium.com/what-is-art-2dce12548091?source=rss-e68daed69805------2) (1 week ago)
+- [How to Release Your Code Into the Wild](https://levelup.gitconnected.com/how-to-release-your-code-into-the-wild-dd144218cb9b?source=rss-e68daed69805------2) (2 weeks ago)
 - [5 Tips to Have Fun Using MidJourney AI Image Generation — The First Steps](https://gosev.medium.com/5-tips-to-have-fun-using-midjourney-ai-image-generation-the-first-steps-81cf44a53931?source=rss-e68daed69805------2) (1 month ago)
 - [3 Lessons I Learned While Managing The Project From Hell](https://medium.com/illumination/3-lessons-i-learned-while-managing-the-project-from-hell-e31196db2d5f?source=rss-e68daed69805------2) (1 month ago)
 - [Why We Need To Learn To Communicate Effectively as a Developers (and Why It is Hard)](https://gosev.medium.com/why-we-need-to-learn-to-communicate-effectively-as-a-developers-and-why-it-is-hard-756871cd1b88?source=rss-e68daed69805------2) (1 month ago)
@@ -127,7 +127,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/5qNfPBcogCs/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=5qNfPBcogCs">C&#39;est quoi un JWT ?</a> (4 months ago) <br/>
+<a href="https://www.youtube.com/watch?v=5qNfPBcogCs">C&#39;est quoi un JWT ?</a> (5 months ago) <br/>
 <img src="https://img.shields.io/youtube/views/5qNfPBcogCs?style=flat-square"> </img> 
 </td>
 </tr>
@@ -135,9 +135,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Gosev/nextjs-blog](https://github.com/Gosev/nextjs-blog) -  (today)
-- [Kodaps/faker](https://github.com/Kodaps/faker) - Test data for exercises based on SWAPI (2 days ago)
-- [Gosev/AstroBlog](https://github.com/Gosev/AstroBlog) -  (4 days ago)
+- [Gosev/nextjs-blog](https://github.com/Gosev/nextjs-blog) -  (1 day ago)
+- [Kodaps/faker](https://github.com/Kodaps/faker) - Test data for exercises based on SWAPI (3 days ago)
+- [Gosev/AstroBlog](https://github.com/Gosev/AstroBlog) -  (5 days ago)
 - [Kodaps/.github](https://github.com/Kodaps/.github) - Public profile (2 months ago)
 - [Gosev/TestRepository](https://github.com/Gosev/TestRepository) -  (2 months ago)
 - [Kodaps/GitFirstSteps](https://github.com/Kodaps/GitFirstSteps) - First steps with git - a tutorial repository (2 months ago)
@@ -161,7 +161,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [Kodaps/faker](https://github.com/Kodaps/faker) ([0.0.11](https://github.com/Kodaps/faker/releases/tag/0.0.11), 2 days ago) - Test data for exercises based on SWAPI
+- [Kodaps/faker](https://github.com/Kodaps/faker) ([0.0.11](https://github.com/Kodaps/faker/releases/tag/0.0.11), 3 days ago) - Test data for exercises based on SWAPI
 
 #### 🔨 My recent Pull Requests
 
@@ -176,7 +176,7 @@
 
 #### ⭐ Recent Stars
 
-- [onwidget/astrowind](https://github.com/onwidget/astrowind) - 🚀 A template to make your website using Astro &#43; Tailwind CSS. (6 days ago)
+- [onwidget/astrowind](https://github.com/onwidget/astrowind) - 🚀 A template to make your website using Astro &#43; Tailwind CSS. (1 week ago)
 - [coronalabs/CoronaViewer](https://github.com/coronalabs/CoronaViewer) - CoronaViewer for SDK/Enterprise (8 years ago)
 - [Gosev/Jump](https://github.com/Gosev/Jump) - Jump website (10 years ago)
 
