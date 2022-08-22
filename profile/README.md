@@ -135,9 +135,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Gosev/nextjs-blog](https://github.com/Gosev/nextjs-blog) -  (1 day ago)
-- [Kodaps/faker](https://github.com/Kodaps/faker) - Test data for exercises based on SWAPI (3 days ago)
-- [Gosev/AstroBlog](https://github.com/Gosev/AstroBlog) -  (5 days ago)
+- [Gosev/nextjs-blog](https://github.com/Gosev/nextjs-blog) -  (2 days ago)
+- [Kodaps/faker](https://github.com/Kodaps/faker) - Test data for exercises based on SWAPI (4 days ago)
+- [Gosev/AstroBlog](https://github.com/Gosev/AstroBlog) -  (6 days ago)
 - [Kodaps/.github](https://github.com/Kodaps/.github) - Public profile (2 months ago)
 - [Gosev/TestRepository](https://github.com/Gosev/TestRepository) -  (2 months ago)
 - [Kodaps/GitFirstSteps](https://github.com/Kodaps/GitFirstSteps) - First steps with git - a tutorial repository (2 months ago)
@@ -161,7 +161,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [Kodaps/faker](https://github.com/Kodaps/faker) ([0.0.11](https://github.com/Kodaps/faker/releases/tag/0.0.11), 3 days ago) - Test data for exercises based on SWAPI
+- [Kodaps/faker](https://github.com/Kodaps/faker) ([0.0.11](https://github.com/Kodaps/faker/releases/tag/0.0.11), 4 days ago) - Test data for exercises based on SWAPI
 
 #### 🔨 My recent Pull Requests
 
