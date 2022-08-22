@@ -62,6 +62,13 @@
 <table>
 
 <tr>
+<td><img src="https://img.youtube.com/vi/TJIYao7_B6w/default.jpg"></img></td>
+<td>
+<a href="https://www.youtube.com/watch?v=TJIYao7_B6w">Automatisez vos mises en ligne avec GitHub Actions (et release-it)</a> (today) <br/>
+<img src="https://img.shields.io/youtube/views/TJIYao7_B6w?style=flat-square"> </img> 
+</td>
+</tr>
+<tr>
 <td><img src="https://img.youtube.com/vi/Zl6hAdB2LVE/default.jpg"></img></td>
 <td>
 <a href="https://www.youtube.com/watch?v=Zl6hAdB2LVE">Une IA qui crée de l’art ? (Un aperçu de MidJourney)</a> (1 week ago) <br/>
@@ -122,13 +129,6 @@
 <td>
 <a href="https://www.youtube.com/watch?v=LYvQWwsKiME">Scope et closures en JS (et... hoisting ?)</a> (4 months ago) <br/>
 <img src="https://img.shields.io/youtube/views/LYvQWwsKiME?style=flat-square"> </img> 
-</td>
-</tr>
-<tr>
-<td><img src="https://img.youtube.com/vi/5qNfPBcogCs/default.jpg"></img></td>
-<td>
-<a href="https://www.youtube.com/watch?v=5qNfPBcogCs">C&#39;est quoi un JWT ?</a> (5 months ago) <br/>
-<img src="https://img.shields.io/youtube/views/5qNfPBcogCs?style=flat-square"> </img> 
 </td>
 </tr>
 </table>
