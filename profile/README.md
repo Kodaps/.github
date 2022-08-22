@@ -64,7 +64,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/TJIYao7_B6w/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=TJIYao7_B6w">Automatisez vos mises en ligne avec GitHub Actions (et release-it)</a> (today) <br/>
+<a href="https://www.youtube.com/watch?v=TJIYao7_B6w">Facilitez-vous la vie avec GitHub Actions (et release-it)</a> (today) <br/>
 <img src="https://img.shields.io/youtube/views/TJIYao7_B6w?style=flat-square"> </img> 
 </td>
 </tr>
