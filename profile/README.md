@@ -21,6 +21,13 @@
 <table>
 
 <tr>
+<td><img src="https://img.youtube.com/vi/7pBcuT7j_A0/default.jpg"></img></td>
+<td>
+<a href="https://www.youtube.com/watch?v=7pBcuT7j_A0">How to use GitHub Actions &amp; Release-It to Easily Release Your Code</a> (today) <br/>
+<img src="https://img.shields.io/youtube/views/7pBcuT7j_A0?style=flat-square"> </img> 
+</td>
+</tr>
+<tr>
 <td><img src="https://img.youtube.com/vi/FQNnj4CJagQ/default.jpg"></img></td>
 <td>
 <a href="https://www.youtube.com/watch?v=FQNnj4CJagQ">Can an Artificial Intelligence create art? (a closer look at MidJourney)</a> (1 week ago) <br/>
@@ -46,13 +53,6 @@
 <td>
 <a href="https://www.youtube.com/watch?v=0zY-5z_8D4o">Flutter vs React Native : which one is worth it, and why?</a> (1 month ago) <br/>
 <img src="https://img.shields.io/youtube/views/0zY-5z_8D4o?style=flat-square"> </img> 
-</td>
-</tr>
-<tr>
-<td><img src="https://img.youtube.com/vi/A_dUsSzxwkI/default.jpg"></img></td>
-<td>
-<a href="https://www.youtube.com/watch?v=A_dUsSzxwkI">What is SolidJS (vs React and Svelte) ?</a> (2 months ago) <br/>
-<img src="https://img.shields.io/youtube/views/A_dUsSzxwkI?style=flat-square"> </img> 
 </td>
 </tr>
 </table>
