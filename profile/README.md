@@ -23,7 +23,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/7pBcuT7j_A0/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=7pBcuT7j_A0">How to use GitHub Actions &amp; Release-It to Easily Release Your Code</a> (1 day ago) <br/>
+<a href="https://www.youtube.com/watch?v=7pBcuT7j_A0">How to use GitHub Actions &amp; Release-It to Easily Release Your Code</a> (2 days ago) <br/>
 <img src="https://img.shields.io/youtube/views/7pBcuT7j_A0?style=flat-square"> </img> 
 </td>
 </tr>
@@ -51,7 +51,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/0zY-5z_8D4o/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=0zY-5z_8D4o">Flutter vs React Native : which one is worth it, and why?</a> (1 month ago) <br/>
+<a href="https://www.youtube.com/watch?v=0zY-5z_8D4o">Flutter vs React Native : which one is worth it, and why?</a> (2 months ago) <br/>
 <img src="https://img.shields.io/youtube/views/0zY-5z_8D4o?style=flat-square"> </img> 
 </td>
 </tr>
@@ -64,7 +64,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/TJIYao7_B6w/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=TJIYao7_B6w">Facilitez-vous la vie avec GitHub Actions (et release-it)</a> (1 day ago) <br/>
+<a href="https://www.youtube.com/watch?v=TJIYao7_B6w">Facilitez-vous la vie avec GitHub Actions (et release-it)</a> (2 days ago) <br/>
 <img src="https://img.shields.io/youtube/views/TJIYao7_B6w?style=flat-square"> </img> 
 </td>
 </tr>
@@ -135,8 +135,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Gosev/nextjs-blog](https://github.com/Gosev/nextjs-blog) -  (3 days ago)
-- [Kodaps/faker](https://github.com/Kodaps/faker) - Test data for exercises based on SWAPI (5 days ago)
+- [Gosev/nextjs-blog](https://github.com/Gosev/nextjs-blog) -  (4 days ago)
+- [Kodaps/faker](https://github.com/Kodaps/faker) - Test data for exercises based on SWAPI (6 days ago)
 - [Gosev/AstroBlog](https://github.com/Gosev/AstroBlog) -  (1 week ago)
 - [Kodaps/.github](https://github.com/Kodaps/.github) - Public profile (2 months ago)
 - [Gosev/TestRepository](https://github.com/Gosev/TestRepository) -  (2 months ago)
@@ -161,7 +161,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [Kodaps/faker](https://github.com/Kodaps/faker) ([0.0.11](https://github.com/Kodaps/faker/releases/tag/0.0.11), 5 days ago) - Test data for exercises based on SWAPI
+- [Kodaps/faker](https://github.com/Kodaps/faker) ([0.0.11](https://github.com/Kodaps/faker/releases/tag/0.0.11), 6 days ago) - Test data for exercises based on SWAPI
 
 #### 🔨 My recent Pull Requests
 
