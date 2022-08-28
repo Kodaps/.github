@@ -5,9 +5,9 @@
 
 ## 📜 🇬🇧 My recent blog posts
 
-- [What is Astro?](https://javascript.plainenglish.io/what-is-astro-aa3369d5a7f4?source=rss-e68daed69805------2) (3 days ago)
-- [What is Art?](https://gosev.medium.com/what-is-art-2dce12548091?source=rss-e68daed69805------2) (1 week ago)
-- [How to Release Your Code Into the Wild](https://levelup.gitconnected.com/how-to-release-your-code-into-the-wild-dd144218cb9b?source=rss-e68daed69805------2) (2 weeks ago)
+- [What is Astro?](https://javascript.plainenglish.io/what-is-astro-aa3369d5a7f4?source=rss-e68daed69805------2) (4 days ago)
+- [What is Art?](https://gosev.medium.com/what-is-art-2dce12548091?source=rss-e68daed69805------2) (2 weeks ago)
+- [How to Release Your Code Into the Wild](https://levelup.gitconnected.com/how-to-release-your-code-into-the-wild-dd144218cb9b?source=rss-e68daed69805------2) (3 weeks ago)
 - [5 Tips to Have Fun Using MidJourney AI Image Generation — The First Steps](https://gosev.medium.com/5-tips-to-have-fun-using-midjourney-ai-image-generation-the-first-steps-81cf44a53931?source=rss-e68daed69805------2) (1 month ago)
 - [3 Lessons I Learned While Managing The Project From Hell](https://medium.com/illumination/3-lessons-i-learned-while-managing-the-project-from-hell-e31196db2d5f?source=rss-e68daed69805------2) (1 month ago)
 - [Why We Need To Learn To Communicate Effectively as a Developers (and Why It is Hard)](https://gosev.medium.com/why-we-need-to-learn-to-communicate-effectively-as-a-developers-and-why-it-is-hard-756871cd1b88?source=rss-e68daed69805------2) (1 month ago)
@@ -23,7 +23,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/7pBcuT7j_A0/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=7pBcuT7j_A0">How to use GitHub Actions &amp; Release-It to Easily Release Your Code</a> (5 days ago) <br/>
+<a href="https://www.youtube.com/watch?v=7pBcuT7j_A0">How to use GitHub Actions &amp; Release-It to Easily Release Your Code</a> (6 days ago) <br/>
 <img src="https://img.shields.io/youtube/views/7pBcuT7j_A0?style=flat-square"> </img> 
 </td>
 </tr>
@@ -64,7 +64,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/TJIYao7_B6w/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=TJIYao7_B6w">Facilitez-vous la vie avec GitHub Actions (et release-it)</a> (5 days ago) <br/>
+<a href="https://www.youtube.com/watch?v=TJIYao7_B6w">Facilitez-vous la vie avec GitHub Actions (et release-it)</a> (6 days ago) <br/>
 <img src="https://img.shields.io/youtube/views/TJIYao7_B6w?style=flat-square"> </img> 
 </td>
 </tr>
@@ -176,7 +176,7 @@
 
 #### ⭐ Recent Stars
 
-- [onwidget/astrowind](https://github.com/onwidget/astrowind) - 🚀 A template to make your website using Astro &#43; Tailwind CSS. (1 week ago)
+- [onwidget/astrowind](https://github.com/onwidget/astrowind) - 🚀 A template to make your website using Astro &#43; Tailwind CSS. (2 weeks ago)
 - [coronalabs/CoronaViewer](https://github.com/coronalabs/CoronaViewer) - CoronaViewer for SDK/Enterprise (8 years ago)
 - [Gosev/Jump](https://github.com/Gosev/Jump) - Jump website (10 years ago)
 
