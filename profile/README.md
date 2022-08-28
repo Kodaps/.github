@@ -21,6 +21,13 @@
 <table>
 
 <tr>
+<td><img src="https://img.youtube.com/vi/qPcUvpbjF18/default.jpg"></img></td>
+<td>
+<a href="https://www.youtube.com/watch?v=qPcUvpbjF18">Why use Astro JS?</a> (today) <br/>
+<img src="https://img.shields.io/youtube/views/qPcUvpbjF18?style=flat-square"> </img> 
+</td>
+</tr>
+<tr>
 <td><img src="https://img.youtube.com/vi/7pBcuT7j_A0/default.jpg"></img></td>
 <td>
 <a href="https://www.youtube.com/watch?v=7pBcuT7j_A0">How to use GitHub Actions &amp; Release-It to Easily Release Your Code</a> (6 days ago) <br/>
@@ -46,13 +53,6 @@
 <td>
 <a href="https://www.youtube.com/watch?v=jFUVbiZrwlY">Why Learn TypeScript (vs JavaScript)?</a> (1 month ago) <br/>
 <img src="https://img.shields.io/youtube/views/jFUVbiZrwlY?style=flat-square"> </img> 
-</td>
-</tr>
-<tr>
-<td><img src="https://img.youtube.com/vi/0zY-5z_8D4o/default.jpg"></img></td>
-<td>
-<a href="https://www.youtube.com/watch?v=0zY-5z_8D4o">Flutter vs React Native : which one is worth it, and why?</a> (2 months ago) <br/>
-<img src="https://img.shields.io/youtube/views/0zY-5z_8D4o?style=flat-square"> </img> 
 </td>
 </tr>
 </table>
