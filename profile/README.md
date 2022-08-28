@@ -62,6 +62,13 @@
 <table>
 
 <tr>
+<td><img src="https://img.youtube.com/vi/I4ckSYkS8MU/default.jpg"></img></td>
+<td>
+<a href="https://www.youtube.com/watch?v=I4ckSYkS8MU">C&#39;est quoi Astro JS ?</a> (today) <br/>
+<img src="https://img.shields.io/youtube/views/I4ckSYkS8MU?style=flat-square"> </img> 
+</td>
+</tr>
+<tr>
 <td><img src="https://img.youtube.com/vi/TJIYao7_B6w/default.jpg"></img></td>
 <td>
 <a href="https://www.youtube.com/watch?v=TJIYao7_B6w">Facilitez-vous la vie avec GitHub Actions (et release-it)</a> (6 days ago) <br/>
@@ -122,13 +129,6 @@
 <td>
 <a href="https://www.youtube.com/watch?v=d6nkWVUo5vw">React 18 : ce qu&#39;il faut savoir !</a> (4 months ago) <br/>
 <img src="https://img.shields.io/youtube/views/d6nkWVUo5vw?style=flat-square"> </img> 
-</td>
-</tr>
-<tr>
-<td><img src="https://img.youtube.com/vi/LYvQWwsKiME/default.jpg"></img></td>
-<td>
-<a href="https://www.youtube.com/watch?v=LYvQWwsKiME">Scope et closures en JS (et... hoisting ?)</a> (4 months ago) <br/>
-<img src="https://img.shields.io/youtube/views/LYvQWwsKiME?style=flat-square"> </img> 
 </td>
 </tr>
 </table>
