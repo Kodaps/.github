@@ -135,9 +135,9 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [Gosev/AstroBlog](https://github.com/Gosev/AstroBlog) -  (today)
 - [Gosev/nextjs-blog](https://github.com/Gosev/nextjs-blog) -  (1 week ago)
 - [Kodaps/faker](https://github.com/Kodaps/faker) - Test data for exercises based on SWAPI (1 week ago)
-- [Gosev/AstroBlog](https://github.com/Gosev/AstroBlog) -  (1 week ago)
 - [Kodaps/.github](https://github.com/Kodaps/.github) - Public profile (2 months ago)
 - [Gosev/TestRepository](https://github.com/Gosev/TestRepository) -  (2 months ago)
 - [Kodaps/GitFirstSteps](https://github.com/Kodaps/GitFirstSteps) - First steps with git - a tutorial repository (3 months ago)
