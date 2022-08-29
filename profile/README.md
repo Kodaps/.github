@@ -5,7 +5,7 @@
 
 ## 📜 🇬🇧 My recent blog posts
 
-- [What is Astro?](https://javascript.plainenglish.io/what-is-astro-aa3369d5a7f4?source=rss-e68daed69805------2) (4 days ago)
+- [What is Astro?](https://javascript.plainenglish.io/what-is-astro-aa3369d5a7f4?source=rss-e68daed69805------2) (5 days ago)
 - [What is Art?](https://gosev.medium.com/what-is-art-2dce12548091?source=rss-e68daed69805------2) (2 weeks ago)
 - [How to Release Your Code Into the Wild](https://levelup.gitconnected.com/how-to-release-your-code-into-the-wild-dd144218cb9b?source=rss-e68daed69805------2) (3 weeks ago)
 - [5 Tips to Have Fun Using MidJourney AI Image Generation — The First Steps](https://gosev.medium.com/5-tips-to-have-fun-using-midjourney-ai-image-generation-the-first-steps-81cf44a53931?source=rss-e68daed69805------2) (1 month ago)
@@ -14,7 +14,7 @@
 - [3 Ways I Kept Going to 1000 YouTube Subscribers](https://medium.com/new-writers-welcome/3-ways-i-kept-going-to-1000-youtube-subscribers-d316e2ca95b4?source=rss-e68daed69805------2) (1 month ago)
 - [Why Learn TypeScript?](https://javascript.plainenglish.io/why-learn-typescript-19d71dfb12a5?source=rss-e68daed69805------2) (1 month ago)
 - [How To Easily Automate Your Github Profile to Showcase Your Work](https://levelup.gitconnected.com/how-to-easily-automate-your-github-profile-to-showcase-your-work-126edab12d3c?source=rss-e68daed69805------2) (2 months ago)
-- [What is a REST API?](https://levelup.gitconnected.com/what-is-a-rest-api-6471b08eb575?source=rss-e68daed69805------2) (2 months ago)
+- [What is a REST API?](https://levelup.gitconnected.com/what-is-a-rest-api-6471b08eb575?source=rss-e68daed69805------2) (3 months ago)
 
 ## 📽 🇬🇧 My recent English videos
 <img src="https://img.shields.io/youtube/channel/subscribers/UC2DOovF-OjIQ6nHClUyLKKQ?style=for-the-badge"></img>
@@ -23,14 +23,14 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/qPcUvpbjF18/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=qPcUvpbjF18">Why use Astro JS?</a> (today) <br/>
+<a href="https://www.youtube.com/watch?v=qPcUvpbjF18">Why use Astro JS?</a> (1 day ago) <br/>
 <img src="https://img.shields.io/youtube/views/qPcUvpbjF18?style=flat-square"> </img> 
 </td>
 </tr>
 <tr>
 <td><img src="https://img.youtube.com/vi/7pBcuT7j_A0/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=7pBcuT7j_A0">How to use GitHub Actions &amp; Release-It to Easily Release Your Code</a> (6 days ago) <br/>
+<a href="https://www.youtube.com/watch?v=7pBcuT7j_A0">How to use GitHub Actions &amp; Release-It to Easily Release Your Code</a> (1 week ago) <br/>
 <img src="https://img.shields.io/youtube/views/7pBcuT7j_A0?style=flat-square"> </img> 
 </td>
 </tr>
@@ -64,14 +64,14 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/I4ckSYkS8MU/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=I4ckSYkS8MU">C&#39;est quoi Astro JS ?</a> (today) <br/>
+<a href="https://www.youtube.com/watch?v=I4ckSYkS8MU">C&#39;est quoi Astro JS ?</a> (1 day ago) <br/>
 <img src="https://img.shields.io/youtube/views/I4ckSYkS8MU?style=flat-square"> </img> 
 </td>
 </tr>
 <tr>
 <td><img src="https://img.youtube.com/vi/TJIYao7_B6w/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=TJIYao7_B6w">Facilitez-vous la vie avec GitHub Actions (et release-it)</a> (6 days ago) <br/>
+<a href="https://www.youtube.com/watch?v=TJIYao7_B6w">Facilitez-vous la vie avec GitHub Actions (et release-it)</a> (1 week ago) <br/>
 <img src="https://img.shields.io/youtube/views/TJIYao7_B6w?style=flat-square"> </img> 
 </td>
 </tr>
@@ -140,7 +140,7 @@
 - [Gosev/AstroBlog](https://github.com/Gosev/AstroBlog) -  (1 week ago)
 - [Kodaps/.github](https://github.com/Kodaps/.github) - Public profile (2 months ago)
 - [Gosev/TestRepository](https://github.com/Gosev/TestRepository) -  (2 months ago)
-- [Kodaps/GitFirstSteps](https://github.com/Kodaps/GitFirstSteps) - First steps with git - a tutorial repository (2 months ago)
+- [Kodaps/GitFirstSteps](https://github.com/Kodaps/GitFirstSteps) - First steps with git - a tutorial repository (3 months ago)
 - [Kodaps/JSFirstSteps](https://github.com/Kodaps/JSFirstSteps) - Contents for JS course (3 months ago)
 - [DavidKodaps/demo-package](https://github.com/DavidKodaps/demo-package) - Demo NPM package (7 months ago)
 - [Kodaps/Api-Typescript-Sls](https://github.com/Kodaps/Api-Typescript-Sls) - Serverless NodeJS &#43; Typescript API  (8 months ago)
