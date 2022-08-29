@@ -64,7 +64,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/I4ckSYkS8MU/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=I4ckSYkS8MU">C&#39;est quoi Astro JS ?</a> (1 day ago) <br/>
+<a href="https://www.youtube.com/watch?v=I4ckSYkS8MU">C&#39;est quoi Astro JS ?</a> (today) <br/>
 <img src="https://img.shields.io/youtube/views/I4ckSYkS8MU?style=flat-square"> </img> 
 </td>
 </tr>
