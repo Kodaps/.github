@@ -161,6 +161,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [Gosev/AstroBlog](https://github.com/Gosev/AstroBlog) ([0.0.7](https://github.com/Gosev/AstroBlog/releases/tag/0.0.7), today) - 
 - [Kodaps/faker](https://github.com/Kodaps/faker) ([0.0.11](https://github.com/Kodaps/faker/releases/tag/0.0.11), 1 week ago) - Test data for exercises based on SWAPI
 
 #### 🔨 My recent Pull Requests
