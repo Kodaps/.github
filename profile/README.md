@@ -5,7 +5,7 @@
 
 ## 📜 🇬🇧 My recent blog posts
 
-- [What is Astro?](https://javascript.plainenglish.io/what-is-astro-aa3369d5a7f4?source=rss-e68daed69805------2) (6 days ago)
+- [What is Astro?](https://javascript.plainenglish.io/what-is-astro-aa3369d5a7f4?source=rss-e68daed69805------2) (1 week ago)
 - [What is Art?](https://gosev.medium.com/what-is-art-2dce12548091?source=rss-e68daed69805------2) (2 weeks ago)
 - [How to Release Your Code Into the Wild](https://levelup.gitconnected.com/how-to-release-your-code-into-the-wild-dd144218cb9b?source=rss-e68daed69805------2) (3 weeks ago)
 - [5 Tips to Have Fun Using MidJourney AI Image Generation — The First Steps](https://gosev.medium.com/5-tips-to-have-fun-using-midjourney-ai-image-generation-the-first-steps-81cf44a53931?source=rss-e68daed69805------2) (1 month ago)
@@ -23,7 +23,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/oQDErNNzdwU/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=oQDErNNzdwU">What is Astro?</a> (1 day ago) <br/>
+<a href="https://www.youtube.com/watch?v=oQDErNNzdwU">What is Astro?</a> (2 days ago) <br/>
 <img src="https://img.shields.io/youtube/views/oQDErNNzdwU?style=flat-square"> </img> 
 </td>
 </tr>
@@ -64,7 +64,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/I4ckSYkS8MU/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=I4ckSYkS8MU">C&#39;est quoi Astro JS ?</a> (1 day ago) <br/>
+<a href="https://www.youtube.com/watch?v=I4ckSYkS8MU">C&#39;est quoi Astro JS ?</a> (2 days ago) <br/>
 <img src="https://img.shields.io/youtube/views/I4ckSYkS8MU?style=flat-square"> </img> 
 </td>
 </tr>
@@ -135,7 +135,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Gosev/AstroBlog](https://github.com/Gosev/AstroBlog) -  (1 day ago)
+- [Gosev/AstroBlog](https://github.com/Gosev/AstroBlog) -  (2 days ago)
 - [Gosev/nextjs-blog](https://github.com/Gosev/nextjs-blog) -  (1 week ago)
 - [Kodaps/faker](https://github.com/Kodaps/faker) - Test data for exercises based on SWAPI (1 week ago)
 - [Kodaps/.github](https://github.com/Kodaps/.github) - Public profile (2 months ago)
@@ -161,7 +161,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [Gosev/AstroBlog](https://github.com/Gosev/AstroBlog) ([0.0.8](https://github.com/Gosev/AstroBlog/releases/tag/0.0.8), 1 day ago) - 
+- [Gosev/AstroBlog](https://github.com/Gosev/AstroBlog) ([0.0.8](https://github.com/Gosev/AstroBlog/releases/tag/0.0.8), 2 days ago) - 
 - [Kodaps/faker](https://github.com/Kodaps/faker) ([0.0.11](https://github.com/Kodaps/faker/releases/tag/0.0.11), 1 week ago) - Test data for exercises based on SWAPI
 
 #### 🔨 My recent Pull Requests
