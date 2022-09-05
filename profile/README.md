@@ -5,7 +5,7 @@
 
 ## 📜 🇬🇧 My recent blog posts
 
-- [GraphQL vs REST](https://levelup.gitconnected.com/graphql-vs-rest-e918d9e0e271?source=rss-e68daed69805------2) (2 days ago)
+- [GraphQL vs REST](https://levelup.gitconnected.com/graphql-vs-rest-e918d9e0e271?source=rss-e68daed69805------2) (3 days ago)
 - [What is Astro?](https://javascript.plainenglish.io/what-is-astro-aa3369d5a7f4?source=rss-e68daed69805------2) (1 week ago)
 - [What is Art?](https://gosev.medium.com/what-is-art-2dce12548091?source=rss-e68daed69805------2) (3 weeks ago)
 - [How to Release Your Code Into the Wild](https://levelup.gitconnected.com/how-to-release-your-code-into-the-wild-dd144218cb9b?source=rss-e68daed69805------2) (4 weeks ago)
@@ -23,14 +23,14 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/oQDErNNzdwU/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=oQDErNNzdwU">What is Astro?</a> (6 days ago) <br/>
+<a href="https://www.youtube.com/watch?v=oQDErNNzdwU">What is Astro?</a> (1 week ago) <br/>
 <img src="https://img.shields.io/youtube/views/oQDErNNzdwU?style=flat-square"> </img> 
 </td>
 </tr>
 <tr>
 <td><img src="https://img.youtube.com/vi/7pBcuT7j_A0/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=7pBcuT7j_A0">How to use GitHub Actions &amp; Release-It to Easily Release Your Code</a> (1 week ago) <br/>
+<a href="https://www.youtube.com/watch?v=7pBcuT7j_A0">How to use GitHub Actions &amp; Release-It to Easily Release Your Code</a> (2 weeks ago) <br/>
 <img src="https://img.shields.io/youtube/views/7pBcuT7j_A0?style=flat-square"> </img> 
 </td>
 </tr>
@@ -64,14 +64,14 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/I4ckSYkS8MU/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=I4ckSYkS8MU">C&#39;est quoi Astro JS ?</a> (6 days ago) <br/>
+<a href="https://www.youtube.com/watch?v=I4ckSYkS8MU">C&#39;est quoi Astro JS ?</a> (1 week ago) <br/>
 <img src="https://img.shields.io/youtube/views/I4ckSYkS8MU?style=flat-square"> </img> 
 </td>
 </tr>
 <tr>
 <td><img src="https://img.youtube.com/vi/TJIYao7_B6w/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=TJIYao7_B6w">Facilitez-vous la vie avec GitHub Actions (et release-it)</a> (1 week ago) <br/>
+<a href="https://www.youtube.com/watch?v=TJIYao7_B6w">Facilitez-vous la vie avec GitHub Actions (et release-it)</a> (2 weeks ago) <br/>
 <img src="https://img.shields.io/youtube/views/TJIYao7_B6w?style=flat-square"> </img> 
 </td>
 </tr>
@@ -135,7 +135,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Gosev/AstroBlog](https://github.com/Gosev/AstroBlog) -  (6 days ago)
+- [Gosev/AstroBlog](https://github.com/Gosev/AstroBlog) -  (1 week ago)
 - [Gosev/nextjs-blog](https://github.com/Gosev/nextjs-blog) -  (2 weeks ago)
 - [Kodaps/faker](https://github.com/Kodaps/faker) - Test data for exercises based on SWAPI (2 weeks ago)
 - [Kodaps/.github](https://github.com/Kodaps/.github) - Public profile (2 months ago)
@@ -161,7 +161,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [Gosev/AstroBlog](https://github.com/Gosev/AstroBlog) ([0.0.8](https://github.com/Gosev/AstroBlog/releases/tag/0.0.8), 6 days ago) - 
+- [Gosev/AstroBlog](https://github.com/Gosev/AstroBlog) ([0.0.8](https://github.com/Gosev/AstroBlog/releases/tag/0.0.8), 1 week ago) - 
 - [Kodaps/faker](https://github.com/Kodaps/faker) ([0.0.11](https://github.com/Kodaps/faker/releases/tag/0.0.11), 2 weeks ago) - Test data for exercises based on SWAPI
 
 #### 🔨 My recent Pull Requests
