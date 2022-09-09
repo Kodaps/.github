@@ -5,7 +5,7 @@
 
 ## 📜 🇬🇧 My recent blog posts
 
-- [GraphQL vs REST](https://levelup.gitconnected.com/graphql-vs-rest-e918d9e0e271?source=rss-e68daed69805------2) (6 days ago)
+- [GraphQL vs REST](https://levelup.gitconnected.com/graphql-vs-rest-e918d9e0e271?source=rss-e68daed69805------2) (1 week ago)
 - [What is Astro?](https://javascript.plainenglish.io/what-is-astro-aa3369d5a7f4?source=rss-e68daed69805------2) (2 weeks ago)
 - [What is Art?](https://gosev.medium.com/what-is-art-2dce12548091?source=rss-e68daed69805------2) (3 weeks ago)
 - [How to Release Your Code Into the Wild](https://levelup.gitconnected.com/how-to-release-your-code-into-the-wild-dd144218cb9b?source=rss-e68daed69805------2) (1 month ago)
@@ -78,7 +78,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/Zl6hAdB2LVE/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=Zl6hAdB2LVE">Une IA qui crée de l’art ? (Un aperçu de MidJourney)</a> (3 weeks ago) <br/>
+<a href="https://www.youtube.com/watch?v=Zl6hAdB2LVE">Une IA qui crée de l’art ? (Un aperçu de MidJourney)</a> (4 weeks ago) <br/>
 <img src="https://img.shields.io/youtube/views/Zl6hAdB2LVE?style=flat-square"> </img> 
 </td>
 </tr>
@@ -113,7 +113,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/5Es-oq-o0Qg/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=5Es-oq-o0Qg">React vs Vue vs Angular vs Svelte : que disent les chiffres ?</a> (3 months ago) <br/>
+<a href="https://www.youtube.com/watch?v=5Es-oq-o0Qg">React vs Vue vs Angular vs Svelte : que disent les chiffres ?</a> (4 months ago) <br/>
 <img src="https://img.shields.io/youtube/views/5Es-oq-o0Qg?style=flat-square"> </img> 
 </td>
 </tr>
@@ -138,7 +138,7 @@
 - [Gosev/AstroBlog](https://github.com/Gosev/AstroBlog) -  (1 week ago)
 - [Gosev/nextjs-blog](https://github.com/Gosev/nextjs-blog) -  (2 weeks ago)
 - [Kodaps/faker](https://github.com/Kodaps/faker) - Test data for exercises based on SWAPI (3 weeks ago)
-- [Kodaps/.github](https://github.com/Kodaps/.github) - Public profile (2 months ago)
+- [Kodaps/.github](https://github.com/Kodaps/.github) - Public profile (3 months ago)
 - [Gosev/TestRepository](https://github.com/Gosev/TestRepository) -  (3 months ago)
 - [Kodaps/GitFirstSteps](https://github.com/Kodaps/GitFirstSteps) - First steps with git - a tutorial repository (3 months ago)
 - [Kodaps/JSFirstSteps](https://github.com/Kodaps/JSFirstSteps) - Contents for JS course (3 months ago)
