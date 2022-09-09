@@ -21,6 +21,13 @@
 <table>
 
 <tr>
+<td><img src="https://img.youtube.com/vi/x6r4IzofPVc/default.jpg"></img></td>
+<td>
+<a href="https://www.youtube.com/watch?v=x6r4IzofPVc">GraphQL vs REST: 4 strengths &amp; 2 weaknesses</a> (today) <br/>
+<img src="https://img.shields.io/youtube/views/x6r4IzofPVc?style=flat-square"> </img> 
+</td>
+</tr>
+<tr>
 <td><img src="https://img.youtube.com/vi/oQDErNNzdwU/default.jpg"></img></td>
 <td>
 <a href="https://www.youtube.com/watch?v=oQDErNNzdwU">What is Astro?</a> (1 week ago) <br/>
@@ -46,13 +53,6 @@
 <td>
 <a href="https://www.youtube.com/watch?v=LF4xogh9sko">What is a JWT?</a> (1 month ago) <br/>
 <img src="https://img.shields.io/youtube/views/LF4xogh9sko?style=flat-square"> </img> 
-</td>
-</tr>
-<tr>
-<td><img src="https://img.youtube.com/vi/jFUVbiZrwlY/default.jpg"></img></td>
-<td>
-<a href="https://www.youtube.com/watch?v=jFUVbiZrwlY">Why Learn TypeScript (vs JavaScript)?</a> (2 months ago) <br/>
-<img src="https://img.shields.io/youtube/views/jFUVbiZrwlY?style=flat-square"> </img> 
 </td>
 </tr>
 </table>
