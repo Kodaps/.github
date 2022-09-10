@@ -23,7 +23,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/x6r4IzofPVc/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=x6r4IzofPVc">GraphQL vs REST: 4 strengths &amp; 2 weaknesses</a> (today) <br/>
+<a href="https://www.youtube.com/watch?v=x6r4IzofPVc">GraphQL vs REST: 4 strengths &amp; 2 weaknesses</a> (1 day ago) <br/>
 <img src="https://img.shields.io/youtube/views/x6r4IzofPVc?style=flat-square"> </img> 
 </td>
 </tr>
@@ -44,7 +44,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/FQNnj4CJagQ/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=FQNnj4CJagQ">Can an Artificial Intelligence create art? (a closer look at MidJourney)</a> (3 weeks ago) <br/>
+<a href="https://www.youtube.com/watch?v=FQNnj4CJagQ">Can an Artificial Intelligence create art? (a closer look at MidJourney)</a> (4 weeks ago) <br/>
 <img src="https://img.shields.io/youtube/views/FQNnj4CJagQ?style=flat-square"> </img> 
 </td>
 </tr>
@@ -127,7 +127,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/d6nkWVUo5vw/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=d6nkWVUo5vw">React 18 : ce qu&#39;il faut savoir !</a> (4 months ago) <br/>
+<a href="https://www.youtube.com/watch?v=d6nkWVUo5vw">React 18 : ce qu&#39;il faut savoir !</a> (5 months ago) <br/>
 <img src="https://img.shields.io/youtube/views/d6nkWVUo5vw?style=flat-square"> </img> 
 </td>
 </tr>
@@ -136,7 +136,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [Gosev/AstroBlog](https://github.com/Gosev/AstroBlog) -  (1 week ago)
-- [Gosev/nextjs-blog](https://github.com/Gosev/nextjs-blog) -  (2 weeks ago)
+- [Gosev/nextjs-blog](https://github.com/Gosev/nextjs-blog) -  (3 weeks ago)
 - [Kodaps/faker](https://github.com/Kodaps/faker) - Test data for exercises based on SWAPI (3 weeks ago)
 - [Kodaps/.github](https://github.com/Kodaps/.github) - Public profile (3 months ago)
 - [Gosev/TestRepository](https://github.com/Gosev/TestRepository) -  (3 months ago)
