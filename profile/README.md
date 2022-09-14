@@ -5,9 +5,9 @@
 
 ## 📜 🇬🇧 My recent blog posts
 
-- [What is 42, the school with no teachers?](https://levelup.gitconnected.com/what-is-42-the-school-with-no-teachers-7e4d0f9a80c1?source=rss-e68daed69805------2) (today)
+- [What is 42, the school with no teachers?](https://levelup.gitconnected.com/what-is-42-the-school-with-no-teachers-7e4d0f9a80c1?source=rss-e68daed69805------2) (1 day ago)
 - [GraphQL vs REST](https://levelup.gitconnected.com/graphql-vs-rest-e918d9e0e271?source=rss-e68daed69805------2) (1 week ago)
-- [What is Astro?](https://javascript.plainenglish.io/what-is-astro-aa3369d5a7f4?source=rss-e68daed69805------2) (2 weeks ago)
+- [What is Astro?](https://javascript.plainenglish.io/what-is-astro-aa3369d5a7f4?source=rss-e68daed69805------2) (3 weeks ago)
 - [What is Art?](https://gosev.medium.com/what-is-art-2dce12548091?source=rss-e68daed69805------2) (1 month ago)
 - [How to Release Your Code Into the Wild](https://levelup.gitconnected.com/how-to-release-your-code-into-the-wild-dd144218cb9b?source=rss-e68daed69805------2) (1 month ago)
 - [5 Tips to Have Fun Using MidJourney AI Image Generation — The First Steps](https://gosev.medium.com/5-tips-to-have-fun-using-midjourney-ai-image-generation-the-first-steps-81cf44a53931?source=rss-e68daed69805------2) (1 month ago)
@@ -23,7 +23,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/x6r4IzofPVc/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=x6r4IzofPVc">GraphQL vs REST: 4 strengths &amp; 2 weaknesses</a> (4 days ago) <br/>
+<a href="https://www.youtube.com/watch?v=x6r4IzofPVc">GraphQL vs REST: 4 strengths &amp; 2 weaknesses</a> (5 days ago) <br/>
 <img src="https://img.shields.io/youtube/views/x6r4IzofPVc?style=flat-square"> </img> 
 </td>
 </tr>
