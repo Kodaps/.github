@@ -5,7 +5,7 @@
 
 ## 📜 🇬🇧 My recent blog posts
 
-- [What is 42, the School With No Teachers?](https://levelup.gitconnected.com/what-is-42-the-school-with-no-teachers-7e4d0f9a80c1?source=rss-e68daed69805------2) (1 day ago)
+- [What is 42, the School With No Teachers?](https://levelup.gitconnected.com/what-is-42-the-school-with-no-teachers-7e4d0f9a80c1?source=rss-e68daed69805------2) (2 days ago)
 - [GraphQL vs REST](https://levelup.gitconnected.com/graphql-vs-rest-e918d9e0e271?source=rss-e68daed69805------2) (1 week ago)
 - [What is Astro?](https://javascript.plainenglish.io/what-is-astro-aa3369d5a7f4?source=rss-e68daed69805------2) (3 weeks ago)
 - [What is Art?](https://gosev.medium.com/what-is-art-2dce12548091?source=rss-e68daed69805------2) (1 month ago)
@@ -23,7 +23,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/x6r4IzofPVc/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=x6r4IzofPVc">GraphQL vs REST: 4 strengths &amp; 2 weaknesses</a> (5 days ago) <br/>
+<a href="https://www.youtube.com/watch?v=x6r4IzofPVc">GraphQL vs REST: 4 strengths &amp; 2 weaknesses</a> (6 days ago) <br/>
 <img src="https://img.shields.io/youtube/views/x6r4IzofPVc?style=flat-square"> </img> 
 </td>
 </tr>
@@ -137,12 +137,12 @@
 
 - [Gosev/AstroBlog](https://github.com/Gosev/AstroBlog) -  (2 weeks ago)
 - [Gosev/nextjs-blog](https://github.com/Gosev/nextjs-blog) -  (3 weeks ago)
-- [Kodaps/faker](https://github.com/Kodaps/faker) - Test data for exercises based on SWAPI (3 weeks ago)
+- [Kodaps/faker](https://github.com/Kodaps/faker) - Test data for exercises based on SWAPI (4 weeks ago)
 - [Kodaps/.github](https://github.com/Kodaps/.github) - Public profile (3 months ago)
 - [Gosev/TestRepository](https://github.com/Gosev/TestRepository) -  (3 months ago)
 - [Kodaps/GitFirstSteps](https://github.com/Kodaps/GitFirstSteps) - First steps with git - a tutorial repository (3 months ago)
-- [Kodaps/JSFirstSteps](https://github.com/Kodaps/JSFirstSteps) - Contents for JS course (3 months ago)
-- [DavidKodaps/demo-package](https://github.com/DavidKodaps/demo-package) - Demo NPM package (7 months ago)
+- [Kodaps/JSFirstSteps](https://github.com/Kodaps/JSFirstSteps) - Contents for JS course (4 months ago)
+- [DavidKodaps/demo-package](https://github.com/DavidKodaps/demo-package) - Demo NPM package (8 months ago)
 - [Kodaps/Api-Typescript-Sls](https://github.com/Kodaps/Api-Typescript-Sls) - Serverless NodeJS &#43; Typescript API  (8 months ago)
 - [Gosev/Api-Typescript-Sls](https://github.com/Gosev/Api-Typescript-Sls) -  (8 months ago)
 
@@ -162,7 +162,7 @@
 #### 🔭 Latest releases I've contributed to
 
 - [Gosev/AstroBlog](https://github.com/Gosev/AstroBlog) ([0.0.8](https://github.com/Gosev/AstroBlog/releases/tag/0.0.8), 2 weeks ago) - 
-- [Kodaps/faker](https://github.com/Kodaps/faker) ([0.0.11](https://github.com/Kodaps/faker/releases/tag/0.0.11), 3 weeks ago) - Test data for exercises based on SWAPI
+- [Kodaps/faker](https://github.com/Kodaps/faker) ([0.0.11](https://github.com/Kodaps/faker/releases/tag/0.0.11), 4 weeks ago) - Test data for exercises based on SWAPI
 
 #### 🔨 My recent Pull Requests
 
