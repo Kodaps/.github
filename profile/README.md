@@ -5,12 +5,12 @@
 
 ## 📜 🇬🇧 My recent blog posts
 
-- [What is 42, the School With No Teachers?](https://levelup.gitconnected.com/what-is-42-the-school-with-no-teachers-7e4d0f9a80c1?source=rss-e68daed69805------2) (3 days ago)
+- [What is 42, the School With No Teachers?](https://levelup.gitconnected.com/what-is-42-the-school-with-no-teachers-7e4d0f9a80c1?source=rss-e68daed69805------2) (4 days ago)
 - [GraphQL vs REST](https://levelup.gitconnected.com/graphql-vs-rest-e918d9e0e271?source=rss-e68daed69805------2) (2 weeks ago)
 - [What is Astro?](https://javascript.plainenglish.io/what-is-astro-aa3369d5a7f4?source=rss-e68daed69805------2) (3 weeks ago)
 - [What is Art?](https://gosev.medium.com/what-is-art-2dce12548091?source=rss-e68daed69805------2) (1 month ago)
 - [How to Release Your Code Into the Wild](https://levelup.gitconnected.com/how-to-release-your-code-into-the-wild-dd144218cb9b?source=rss-e68daed69805------2) (1 month ago)
-- [5 Tips to Have Fun Using MidJourney AI Image Generation — The First Steps](https://gosev.medium.com/5-tips-to-have-fun-using-midjourney-ai-image-generation-the-first-steps-81cf44a53931?source=rss-e68daed69805------2) (1 month ago)
+- [5 Tips to Have Fun Using MidJourney AI Image Generation — The First Steps](https://gosev.medium.com/5-tips-to-have-fun-using-midjourney-ai-image-generation-the-first-steps-81cf44a53931?source=rss-e68daed69805------2) (2 months ago)
 - [3 Lessons I Learned While Managing The Project From Hell](https://medium.com/illumination/3-lessons-i-learned-while-managing-the-project-from-hell-e31196db2d5f?source=rss-e68daed69805------2) (2 months ago)
 - [Why We Need To Learn To Communicate Effectively as a Developers (and Why It is Hard)](https://gosev.medium.com/why-we-need-to-learn-to-communicate-effectively-as-a-developers-and-why-it-is-hard-756871cd1b88?source=rss-e68daed69805------2) (2 months ago)
 - [3 Ways I Kept Going to 1000 YouTube Subscribers](https://medium.com/new-writers-welcome/3-ways-i-kept-going-to-1000-youtube-subscribers-d316e2ca95b4?source=rss-e68daed69805------2) (2 months ago)
@@ -51,7 +51,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/LF4xogh9sko/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=LF4xogh9sko">What is a JWT?</a> (1 month ago) <br/>
+<a href="https://www.youtube.com/watch?v=LF4xogh9sko">What is a JWT?</a> (2 months ago) <br/>
 <img src="https://img.shields.io/youtube/views/LF4xogh9sko?style=flat-square"> </img> 
 </td>
 </tr>
@@ -85,7 +85,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/A3lJWEyo088/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=A3lJWEyo088">Entretien avec une IA : est-elle consciente ?</a> (1 month ago) <br/>
+<a href="https://www.youtube.com/watch?v=A3lJWEyo088">Entretien avec une IA : est-elle consciente ?</a> (2 months ago) <br/>
 <img src="https://img.shields.io/youtube/views/A3lJWEyo088?style=flat-square"> </img> 
 </td>
 </tr>
@@ -136,8 +136,8 @@
 #### 👷 Check out what I'm currently working on
 
 - [Gosev/AstroBlog](https://github.com/Gosev/AstroBlog) -  (2 weeks ago)
-- [Gosev/nextjs-blog](https://github.com/Gosev/nextjs-blog) -  (3 weeks ago)
-- [Kodaps/faker](https://github.com/Kodaps/faker) - Test data for exercises based on SWAPI (4 weeks ago)
+- [Gosev/nextjs-blog](https://github.com/Gosev/nextjs-blog) -  (4 weeks ago)
+- [Kodaps/faker](https://github.com/Kodaps/faker) - Test data for exercises based on SWAPI (1 month ago)
 - [Kodaps/.github](https://github.com/Kodaps/.github) - Public profile (3 months ago)
 - [Gosev/TestRepository](https://github.com/Gosev/TestRepository) -  (3 months ago)
 - [Kodaps/GitFirstSteps](https://github.com/Kodaps/GitFirstSteps) - First steps with git - a tutorial repository (3 months ago)
@@ -162,7 +162,7 @@
 #### 🔭 Latest releases I've contributed to
 
 - [Gosev/AstroBlog](https://github.com/Gosev/AstroBlog) ([0.0.8](https://github.com/Gosev/AstroBlog/releases/tag/0.0.8), 2 weeks ago) - 
-- [Kodaps/faker](https://github.com/Kodaps/faker) ([0.0.11](https://github.com/Kodaps/faker/releases/tag/0.0.11), 4 weeks ago) - Test data for exercises based on SWAPI
+- [Kodaps/faker](https://github.com/Kodaps/faker) ([0.0.11](https://github.com/Kodaps/faker/releases/tag/0.0.11), 1 month ago) - Test data for exercises based on SWAPI
 
 #### 🔨 My recent Pull Requests
 
