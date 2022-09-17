@@ -44,7 +44,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/FQNnj4CJagQ/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=FQNnj4CJagQ">Can an Artificial Intelligence create art? (a closer look at MidJourney)</a> (1 month ago) <br/>
+<a href="https://www.youtube.com/watch?v=FQNnj4CJagQ">Can an AI create art? (a closer look at MidJourney)</a> (1 month ago) <br/>
 <img src="https://img.shields.io/youtube/views/FQNnj4CJagQ?style=flat-square"> </img> 
 </td>
 </tr>
