@@ -21,6 +21,13 @@
 <table>
 
 <tr>
+<td><img src="https://img.youtube.com/vi/nGvnbO8ys3A/default.jpg"></img></td>
+<td>
+<a href="https://www.youtube.com/watch?v=nGvnbO8ys3A">What is 42, the Coding School With No Teachers?</a> (today) <br/>
+<img src="https://img.shields.io/youtube/views/nGvnbO8ys3A?style=flat-square"> </img> 
+</td>
+</tr>
+<tr>
 <td><img src="https://img.youtube.com/vi/x6r4IzofPVc/default.jpg"></img></td>
 <td>
 <a href="https://www.youtube.com/watch?v=x6r4IzofPVc">GraphQL vs REST: what you need to know</a> (1 week ago) <br/>
@@ -46,13 +53,6 @@
 <td>
 <a href="https://www.youtube.com/watch?v=FQNnj4CJagQ">Can an AI create art? (a closer look at MidJourney)</a> (1 month ago) <br/>
 <img src="https://img.shields.io/youtube/views/FQNnj4CJagQ?style=flat-square"> </img> 
-</td>
-</tr>
-<tr>
-<td><img src="https://img.youtube.com/vi/LF4xogh9sko/default.jpg"></img></td>
-<td>
-<a href="https://www.youtube.com/watch?v=LF4xogh9sko">What is a JWT?</a> (2 months ago) <br/>
-<img src="https://img.shields.io/youtube/views/LF4xogh9sko?style=flat-square"> </img> 
 </td>
 </tr>
 </table>
