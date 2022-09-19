@@ -62,6 +62,13 @@
 <table>
 
 <tr>
+<td><img src="https://img.youtube.com/vi/YTezImw4xKU/default.jpg"></img></td>
+<td>
+<a href="https://www.youtube.com/watch?v=YTezImw4xKU">Que vaut 42, l&#39;école de code sans profs ?</a> (2 days ago) <br/>
+<img src="https://img.shields.io/youtube/views/YTezImw4xKU?style=flat-square"> </img> 
+</td>
+</tr>
+<tr>
 <td><img src="https://img.youtube.com/vi/I4ckSYkS8MU/default.jpg"></img></td>
 <td>
 <a href="https://www.youtube.com/watch?v=I4ckSYkS8MU">C&#39;est quoi Astro JS ?</a> (3 weeks ago) <br/>
@@ -122,13 +129,6 @@
 <td>
 <a href="https://www.youtube.com/watch?v=MfBXjOgef-U">Remix vs Next JS : c&#39;est quoi Remix ?</a> (4 months ago) <br/>
 <img src="https://img.shields.io/youtube/views/MfBXjOgef-U?style=flat-square"> </img> 
-</td>
-</tr>
-<tr>
-<td><img src="https://img.youtube.com/vi/d6nkWVUo5vw/default.jpg"></img></td>
-<td>
-<a href="https://www.youtube.com/watch?v=d6nkWVUo5vw">React 18 : ce qu&#39;il faut savoir !</a> (5 months ago) <br/>
-<img src="https://img.shields.io/youtube/views/d6nkWVUo5vw?style=flat-square"> </img> 
 </td>
 </tr>
 </table>
