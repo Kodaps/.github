@@ -23,7 +23,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/nGvnbO8ys3A/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=nGvnbO8ys3A">42: the Coding School With No Teachers!</a> (2 days ago) <br/>
+<a href="https://www.youtube.com/watch?v=nGvnbO8ys3A">42: the Coding School With No Teachers!</a> (3 days ago) <br/>
 <img src="https://img.shields.io/youtube/views/nGvnbO8ys3A?style=flat-square"> </img> 
 </td>
 </tr>
@@ -64,7 +64,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/YTezImw4xKU/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=YTezImw4xKU">Que vaut 42, l&#39;école de code sans profs ?</a> (2 days ago) <br/>
+<a href="https://www.youtube.com/watch?v=YTezImw4xKU">Que vaut 42, l&#39;école de code sans profs ?</a> (3 days ago) <br/>
 <img src="https://img.shields.io/youtube/views/YTezImw4xKU?style=flat-square"> </img> 
 </td>
 </tr>
