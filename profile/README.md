@@ -23,7 +23,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/nGvnbO8ys3A/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=nGvnbO8ys3A">42: the Coding School With No Teachers!</a> (4 days ago) <br/>
+<a href="https://www.youtube.com/watch?v=nGvnbO8ys3A">42: the Coding School With No Teachers!</a> (5 days ago) <br/>
 <img src="https://img.shields.io/youtube/views/nGvnbO8ys3A?style=flat-square"> </img> 
 </td>
 </tr>
@@ -64,7 +64,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/YTezImw4xKU/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=YTezImw4xKU">Que vaut 42, l&#39;école de code sans profs ?</a> (4 days ago) <br/>
+<a href="https://www.youtube.com/watch?v=YTezImw4xKU">Que vaut 42, l&#39;école de code sans profs ?</a> (5 days ago) <br/>
 <img src="https://img.shields.io/youtube/views/YTezImw4xKU?style=flat-square"> </img> 
 </td>
 </tr>
@@ -113,7 +113,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/4Xnt2ASdFbA/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=4Xnt2ASdFbA">Pourquoi Solid JS (vs React &amp; Svelte) ?</a> (3 months ago) <br/>
+<a href="https://www.youtube.com/watch?v=4Xnt2ASdFbA">Pourquoi Solid JS (vs React &amp; Svelte) ?</a> (4 months ago) <br/>
 <img src="https://img.shields.io/youtube/views/4Xnt2ASdFbA?style=flat-square"> </img> 
 </td>
 </tr>
