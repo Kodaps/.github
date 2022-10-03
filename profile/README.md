@@ -23,7 +23,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/ab3ZFyeBUhw/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=ab3ZFyeBUhw">Promises : What they are, how to use them ?</a> (today) <br/>
+<a href="https://www.youtube.com/watch?v=ab3ZFyeBUhw">Promises in javascript &amp; async / await : What you need to know</a> (today) <br/>
 <img src="https://img.shields.io/youtube/views/ab3ZFyeBUhw?style=flat-square"> </img> 
 </td>
 </tr>
