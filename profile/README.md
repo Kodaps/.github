@@ -21,6 +21,13 @@
 <table>
 
 <tr>
+<td><img src="https://img.youtube.com/vi/ab3ZFyeBUhw/default.jpg"></img></td>
+<td>
+<a href="https://www.youtube.com/watch?v=ab3ZFyeBUhw">Promises : What they are, how to use them ?</a> (today) <br/>
+<img src="https://img.shields.io/youtube/views/ab3ZFyeBUhw?style=flat-square"> </img> 
+</td>
+</tr>
+<tr>
 <td><img src="https://img.youtube.com/vi/nGvnbO8ys3A/default.jpg"></img></td>
 <td>
 <a href="https://www.youtube.com/watch?v=nGvnbO8ys3A">42: the Coding School With No Teachers!</a> (2 weeks ago) <br/>
@@ -46,13 +53,6 @@
 <td>
 <a href="https://www.youtube.com/watch?v=7pBcuT7j_A0">How to use GitHub Actions &amp; Release-It to Easily Release Your Code</a> (1 month ago) <br/>
 <img src="https://img.shields.io/youtube/views/7pBcuT7j_A0?style=flat-square"> </img> 
-</td>
-</tr>
-<tr>
-<td><img src="https://img.youtube.com/vi/FQNnj4CJagQ/default.jpg"></img></td>
-<td>
-<a href="https://www.youtube.com/watch?v=FQNnj4CJagQ">Can an AI create art? (a closer look at MidJourney)</a> (1 month ago) <br/>
-<img src="https://img.shields.io/youtube/views/FQNnj4CJagQ?style=flat-square"> </img> 
 </td>
 </tr>
 </table>
