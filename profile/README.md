@@ -5,8 +5,8 @@
 
 ## 📜 🇬🇧 My recent blog posts
 
-- [What are JavaScript Promises &amp; How to Use Them](https://javascript.plainenglish.io/what-are-javascript-promises-how-to-use-them-84fdff5757b9?source=rss-e68daed69805------2) (4 days ago)
-- [What is 42, the School With No Teachers?](https://levelup.gitconnected.com/what-is-42-the-school-with-no-teachers-7e4d0f9a80c1?source=rss-e68daed69805------2) (2 weeks ago)
+- [What are JavaScript Promises &amp; How to Use Them](https://javascript.plainenglish.io/what-are-javascript-promises-how-to-use-them-84fdff5757b9?source=rss-e68daed69805------2) (5 days ago)
+- [What is 42, the School With No Teachers?](https://levelup.gitconnected.com/what-is-42-the-school-with-no-teachers-7e4d0f9a80c1?source=rss-e68daed69805------2) (3 weeks ago)
 - [GraphQL vs REST](https://levelup.gitconnected.com/graphql-vs-rest-e918d9e0e271?source=rss-e68daed69805------2) (1 month ago)
 - [What is Astro?](https://javascript.plainenglish.io/what-is-astro-aa3369d5a7f4?source=rss-e68daed69805------2) (1 month ago)
 - [What is Art?](https://gosev.medium.com/what-is-art-2dce12548091?source=rss-e68daed69805------2) (1 month ago)
@@ -23,7 +23,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/ab3ZFyeBUhw/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=ab3ZFyeBUhw">Promises in javascript &amp; async / await : What you need to know</a> (today) <br/>
+<a href="https://www.youtube.com/watch?v=ab3ZFyeBUhw">Promises in javascript &amp; async / await : What you need to know</a> (1 day ago) <br/>
 <img src="https://img.shields.io/youtube/views/ab3ZFyeBUhw?style=flat-square"> </img> 
 </td>
 </tr>
@@ -64,7 +64,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/HrrBtXKWtlg/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=HrrBtXKWtlg">JavaScript : 7 choses à maîtriser pour React</a> (today) <br/>
+<a href="https://www.youtube.com/watch?v=HrrBtXKWtlg">JavaScript : 7 choses à maîtriser pour React</a> (1 day ago) <br/>
 <img src="https://img.shields.io/youtube/views/HrrBtXKWtlg?style=flat-square"> </img> 
 </td>
 </tr>
