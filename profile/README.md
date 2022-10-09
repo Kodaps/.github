@@ -5,7 +5,7 @@
 
 ## 📜 🇬🇧 My recent blog posts
 
-- [The 7 JavaScript Skills You Need for React](https://javascript.plainenglish.io/the-7-javascript-skills-you-need-for-react-9244169ca80a?source=rss-e68daed69805------2) (1 day ago)
+- [The 7 JavaScript Skills You Need for React](https://javascript.plainenglish.io/the-7-javascript-skills-you-need-for-react-9244169ca80a?source=rss-e68daed69805------2) (2 days ago)
 - [What are JavaScript Promises &amp; How to Use Them](https://javascript.plainenglish.io/what-are-javascript-promises-how-to-use-them-84fdff5757b9?source=rss-e68daed69805------2) (1 week ago)
 - [What is 42, the School With No Teachers?](https://levelup.gitconnected.com/what-is-42-the-school-with-no-teachers-7e4d0f9a80c1?source=rss-e68daed69805------2) (3 weeks ago)
 - [GraphQL vs REST](https://levelup.gitconnected.com/graphql-vs-rest-e918d9e0e271?source=rss-e68daed69805------2) (1 month ago)
@@ -23,7 +23,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/ab3ZFyeBUhw/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=ab3ZFyeBUhw">Promises in JS &amp; async / await : What you need to know</a> (5 days ago) <br/>
+<a href="https://www.youtube.com/watch?v=ab3ZFyeBUhw">Promises in JS &amp; async / await : What you need to know</a> (6 days ago) <br/>
 <img src="https://img.shields.io/youtube/views/ab3ZFyeBUhw?style=flat-square"> </img> 
 </td>
 </tr>
@@ -37,7 +37,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/x6r4IzofPVc/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=x6r4IzofPVc">GraphQL vs REST: what you need to know</a> (4 weeks ago) <br/>
+<a href="https://www.youtube.com/watch?v=x6r4IzofPVc">GraphQL vs REST: what you need to know</a> (1 month ago) <br/>
 <img src="https://img.shields.io/youtube/views/x6r4IzofPVc?style=flat-square"> </img> 
 </td>
 </tr>
@@ -64,7 +64,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/HrrBtXKWtlg/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=HrrBtXKWtlg">JavaScript : 7 choses à maîtriser pour React</a> (5 days ago) <br/>
+<a href="https://www.youtube.com/watch?v=HrrBtXKWtlg">JavaScript : 7 choses à maîtriser pour React</a> (6 days ago) <br/>
 <img src="https://img.shields.io/youtube/views/HrrBtXKWtlg?style=flat-square"> </img> 
 </td>
 </tr>
@@ -127,7 +127,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/5Es-oq-o0Qg/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=5Es-oq-o0Qg">React vs Vue vs Angular vs Svelte : que disent les chiffres ?</a> (4 months ago) <br/>
+<a href="https://www.youtube.com/watch?v=5Es-oq-o0Qg">React vs Vue vs Angular vs Svelte : que disent les chiffres ?</a> (5 months ago) <br/>
 <img src="https://img.shields.io/youtube/views/5Es-oq-o0Qg?style=flat-square"> </img> 
 </td>
 </tr>
@@ -138,7 +138,7 @@
 - [Gosev/AstroBlog](https://github.com/Gosev/AstroBlog) -  (1 month ago)
 - [Gosev/nextjs-blog](https://github.com/Gosev/nextjs-blog) -  (1 month ago)
 - [Kodaps/faker](https://github.com/Kodaps/faker) - Test data for exercises based on SWAPI (1 month ago)
-- [Kodaps/.github](https://github.com/Kodaps/.github) - Public profile (3 months ago)
+- [Kodaps/.github](https://github.com/Kodaps/.github) - Public profile (4 months ago)
 - [Gosev/TestRepository](https://github.com/Gosev/TestRepository) -  (4 months ago)
 - [Kodaps/GitFirstSteps](https://github.com/Kodaps/GitFirstSteps) - First steps with git - a tutorial repository (4 months ago)
 - [Kodaps/JSFirstSteps](https://github.com/Kodaps/JSFirstSteps) - Contents for JS course (4 months ago)
