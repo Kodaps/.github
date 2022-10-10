@@ -5,7 +5,7 @@
 
 ## 📜 🇬🇧 My recent blog posts
 
-- [The 7 JavaScript Skills You Need for React](https://javascript.plainenglish.io/the-7-javascript-skills-you-need-for-react-9244169ca80a?source=rss-e68daed69805------2) (2 days ago)
+- [The 7 JavaScript Skills You Need for React](https://javascript.plainenglish.io/the-7-javascript-skills-you-need-for-react-9244169ca80a?source=rss-e68daed69805------2) (3 days ago)
 - [What are JavaScript Promises &amp; How to Use Them](https://javascript.plainenglish.io/what-are-javascript-promises-how-to-use-them-84fdff5757b9?source=rss-e68daed69805------2) (1 week ago)
 - [What is 42, the School With No Teachers?](https://levelup.gitconnected.com/what-is-42-the-school-with-no-teachers-7e4d0f9a80c1?source=rss-e68daed69805------2) (3 weeks ago)
 - [GraphQL vs REST](https://levelup.gitconnected.com/graphql-vs-rest-e918d9e0e271?source=rss-e68daed69805------2) (1 month ago)
@@ -23,14 +23,14 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/ab3ZFyeBUhw/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=ab3ZFyeBUhw">Promises in JS &amp; async / await : What you need to know</a> (6 days ago) <br/>
+<a href="https://www.youtube.com/watch?v=ab3ZFyeBUhw">Promises in JS &amp; async / await : What you need to know</a> (1 week ago) <br/>
 <img src="https://img.shields.io/youtube/views/ab3ZFyeBUhw?style=flat-square"> </img> 
 </td>
 </tr>
 <tr>
 <td><img src="https://img.youtube.com/vi/nGvnbO8ys3A/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=nGvnbO8ys3A">42: the Coding School With No Teachers!</a> (2 weeks ago) <br/>
+<a href="https://www.youtube.com/watch?v=nGvnbO8ys3A">42: the Coding School With No Teachers!</a> (3 weeks ago) <br/>
 <img src="https://img.shields.io/youtube/views/nGvnbO8ys3A?style=flat-square"> </img> 
 </td>
 </tr>
@@ -64,14 +64,14 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/HrrBtXKWtlg/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=HrrBtXKWtlg">JavaScript : 7 choses à maîtriser pour React</a> (6 days ago) <br/>
+<a href="https://www.youtube.com/watch?v=HrrBtXKWtlg">JavaScript : 7 choses à maîtriser pour React</a> (1 week ago) <br/>
 <img src="https://img.shields.io/youtube/views/HrrBtXKWtlg?style=flat-square"> </img> 
 </td>
 </tr>
 <tr>
 <td><img src="https://img.youtube.com/vi/YTezImw4xKU/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=YTezImw4xKU">Que vaut 42, l&#39;école de code sans profs ?</a> (2 weeks ago) <br/>
+<a href="https://www.youtube.com/watch?v=YTezImw4xKU">Que vaut 42, l&#39;école de code sans profs ?</a> (3 weeks ago) <br/>
 <img src="https://img.shields.io/youtube/views/YTezImw4xKU?style=flat-square"> </img> 
 </td>
 </tr>
