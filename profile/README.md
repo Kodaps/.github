@@ -21,6 +21,13 @@
 <table>
 
 <tr>
+<td><img src="https://img.youtube.com/vi/aEvFUMpwlJ8/default.jpg"></img></td>
+<td>
+<a href="https://www.youtube.com/watch?v=aEvFUMpwlJ8">7 JavaScript Skills You need For React!</a> (today) <br/>
+<img src="https://img.shields.io/youtube/views/aEvFUMpwlJ8?style=flat-square"> </img> 
+</td>
+</tr>
+<tr>
 <td><img src="https://img.youtube.com/vi/ab3ZFyeBUhw/default.jpg"></img></td>
 <td>
 <a href="https://www.youtube.com/watch?v=ab3ZFyeBUhw">Promises in JS &amp; async / await : What you need to know</a> (1 week ago) <br/>
@@ -46,13 +53,6 @@
 <td>
 <a href="https://www.youtube.com/watch?v=oQDErNNzdwU">What is Astro?</a> (1 month ago) <br/>
 <img src="https://img.shields.io/youtube/views/oQDErNNzdwU?style=flat-square"> </img> 
-</td>
-</tr>
-<tr>
-<td><img src="https://img.youtube.com/vi/7pBcuT7j_A0/default.jpg"></img></td>
-<td>
-<a href="https://www.youtube.com/watch?v=7pBcuT7j_A0">How to use GitHub Actions &amp; Release-It to Easily Release Your Code</a> (1 month ago) <br/>
-<img src="https://img.shields.io/youtube/views/7pBcuT7j_A0?style=flat-square"> </img> 
 </td>
 </tr>
 </table>
