@@ -23,7 +23,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/aEvFUMpwlJ8/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=aEvFUMpwlJ8">7 JavaScript Skills You need For React!</a> (1 day ago) <br/>
+<a href="https://www.youtube.com/watch?v=aEvFUMpwlJ8">The 7 JavaScript Skills You Need For React!</a> (1 day ago) <br/>
 <img src="https://img.shields.io/youtube/views/aEvFUMpwlJ8?style=flat-square"> </img> 
 </td>
 </tr>
