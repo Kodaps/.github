@@ -12,7 +12,7 @@
 - [What is Astro?](https://javascript.plainenglish.io/what-is-astro-aa3369d5a7f4?source=rss-e68daed69805------2) (1 month ago)
 - [What is Art?](https://gosev.medium.com/what-is-art-2dce12548091?source=rss-e68daed69805------2) (2 months ago)
 - [How to Release Your Code Into the Wild](https://levelup.gitconnected.com/how-to-release-your-code-into-the-wild-dd144218cb9b?source=rss-e68daed69805------2) (2 months ago)
-- [5 Tips to Have Fun Using MidJourney AI Image Generation — The First Steps](https://gosev.medium.com/5-tips-to-have-fun-using-midjourney-ai-image-generation-the-first-steps-81cf44a53931?source=rss-e68daed69805------2) (2 months ago)
+- [5 Tips to Have Fun Using MidJourney AI Image Generation — The First Steps](https://gosev.medium.com/5-tips-to-have-fun-using-midjourney-ai-image-generation-the-first-steps-81cf44a53931?source=rss-e68daed69805------2) (3 months ago)
 - [3 Lessons I Learned While Managing The Project From Hell](https://medium.com/illumination/3-lessons-i-learned-while-managing-the-project-from-hell-e31196db2d5f?source=rss-e68daed69805------2) (3 months ago)
 - [Why We Need To Learn To Communicate Effectively as a Developers (and Why It is Hard)](https://gosev.medium.com/why-we-need-to-learn-to-communicate-effectively-as-a-developers-and-why-it-is-hard-756871cd1b88?source=rss-e68daed69805------2) (3 months ago)
 
@@ -23,21 +23,21 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/pL703Vv-9bY/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=pL703Vv-9bY">The 7 JavaScript Skills You Need For React!</a> (4 days ago) <br/>
+<a href="https://www.youtube.com/watch?v=pL703Vv-9bY">The 7 JavaScript Skills You Need For React!</a> (5 days ago) <br/>
 <img src="https://img.shields.io/youtube/views/pL703Vv-9bY?style=flat-square"> </img> 
 </td>
 </tr>
 <tr>
 <td><img src="https://img.youtube.com/vi/ab3ZFyeBUhw/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=ab3ZFyeBUhw">Promises in JS &amp; async / await : What you need to know</a> (1 week ago) <br/>
+<a href="https://www.youtube.com/watch?v=ab3ZFyeBUhw">Promises in JS &amp; async / await : What you need to know</a> (2 weeks ago) <br/>
 <img src="https://img.shields.io/youtube/views/ab3ZFyeBUhw?style=flat-square"> </img> 
 </td>
 </tr>
 <tr>
 <td><img src="https://img.youtube.com/vi/nGvnbO8ys3A/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=nGvnbO8ys3A">42: the Coding School With No Teachers!</a> (3 weeks ago) <br/>
+<a href="https://www.youtube.com/watch?v=nGvnbO8ys3A">42: the Coding School With No Teachers!</a> (4 weeks ago) <br/>
 <img src="https://img.shields.io/youtube/views/nGvnbO8ys3A?style=flat-square"> </img> 
 </td>
 </tr>
@@ -64,14 +64,14 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/HrrBtXKWtlg/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=HrrBtXKWtlg">JavaScript : 7 choses à maîtriser pour React</a> (1 week ago) <br/>
+<a href="https://www.youtube.com/watch?v=HrrBtXKWtlg">JavaScript : 7 choses à maîtriser pour React</a> (2 weeks ago) <br/>
 <img src="https://img.shields.io/youtube/views/HrrBtXKWtlg?style=flat-square"> </img> 
 </td>
 </tr>
 <tr>
 <td><img src="https://img.youtube.com/vi/YTezImw4xKU/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=YTezImw4xKU">42, une l&#39;école de code sans profs ?</a> (3 weeks ago) <br/>
+<a href="https://www.youtube.com/watch?v=YTezImw4xKU">42, une l&#39;école de code sans profs ?</a> (4 weeks ago) <br/>
 <img src="https://img.shields.io/youtube/views/YTezImw4xKU?style=flat-square"> </img> 
 </td>
 </tr>
@@ -99,7 +99,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/A3lJWEyo088/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=A3lJWEyo088">Entretien avec une IA : est-elle consciente ?</a> (2 months ago) <br/>
+<a href="https://www.youtube.com/watch?v=A3lJWEyo088">Entretien avec une IA : est-elle consciente ?</a> (3 months ago) <br/>
 <img src="https://img.shields.io/youtube/views/A3lJWEyo088?style=flat-square"> </img> 
 </td>
 </tr>
@@ -137,7 +137,7 @@
 
 - [Gosev/AstroBlog](https://github.com/Gosev/AstroBlog) -  (1 month ago)
 - [Gosev/nextjs-blog](https://github.com/Gosev/nextjs-blog) -  (1 month ago)
-- [Kodaps/faker](https://github.com/Kodaps/faker) - Test data for exercises based on SWAPI (1 month ago)
+- [Kodaps/faker](https://github.com/Kodaps/faker) - Test data for exercises based on SWAPI (2 months ago)
 - [Kodaps/.github](https://github.com/Kodaps/.github) - Public profile (4 months ago)
 - [Gosev/TestRepository](https://github.com/Gosev/TestRepository) -  (4 months ago)
 - [Kodaps/GitFirstSteps](https://github.com/Kodaps/GitFirstSteps) - First steps with git - a tutorial repository (4 months ago)
@@ -162,7 +162,7 @@
 #### 🔭 Latest releases I've contributed to
 
 - [Gosev/AstroBlog](https://github.com/Gosev/AstroBlog) ([0.0.8](https://github.com/Gosev/AstroBlog/releases/tag/0.0.8), 1 month ago) - 
-- [Kodaps/faker](https://github.com/Kodaps/faker) ([0.0.11](https://github.com/Kodaps/faker/releases/tag/0.0.11), 1 month ago) - Test data for exercises based on SWAPI
+- [Kodaps/faker](https://github.com/Kodaps/faker) ([0.0.11](https://github.com/Kodaps/faker/releases/tag/0.0.11), 2 months ago) - Test data for exercises based on SWAPI
 
 #### 🔨 My recent Pull Requests
 
