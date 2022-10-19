@@ -23,7 +23,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/pL703Vv-9bY/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=pL703Vv-9bY">The 7 JavaScript Skills You Need For React!</a> (6 days ago) <br/>
+<a href="https://www.youtube.com/watch?v=pL703Vv-9bY">The 7 JavaScript Skills You Need For React!</a> (1 week ago) <br/>
 <img src="https://img.shields.io/youtube/views/pL703Vv-9bY?style=flat-square"> </img> 
 </td>
 </tr>
@@ -37,7 +37,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/nGvnbO8ys3A/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=nGvnbO8ys3A">42: the Coding School With No Teachers!</a> (4 weeks ago) <br/>
+<a href="https://www.youtube.com/watch?v=nGvnbO8ys3A">42: the Coding School With No Teachers!</a> (1 month ago) <br/>
 <img src="https://img.shields.io/youtube/views/nGvnbO8ys3A?style=flat-square"> </img> 
 </td>
 </tr>
@@ -71,7 +71,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/YTezImw4xKU/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=YTezImw4xKU">42, une l&#39;école de code sans profs ?</a> (4 weeks ago) <br/>
+<a href="https://www.youtube.com/watch?v=YTezImw4xKU">42, une l&#39;école de code sans profs ?</a> (1 month ago) <br/>
 <img src="https://img.shields.io/youtube/views/YTezImw4xKU?style=flat-square"> </img> 
 </td>
 </tr>
@@ -136,7 +136,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [Gosev/AstroBlog](https://github.com/Gosev/AstroBlog) -  (1 month ago)
-- [Gosev/nextjs-blog](https://github.com/Gosev/nextjs-blog) -  (1 month ago)
+- [Gosev/nextjs-blog](https://github.com/Gosev/nextjs-blog) -  (2 months ago)
 - [Kodaps/faker](https://github.com/Kodaps/faker) - Test data for exercises based on SWAPI (2 months ago)
 - [Kodaps/.github](https://github.com/Kodaps/.github) - Public profile (4 months ago)
 - [Gosev/TestRepository](https://github.com/Gosev/TestRepository) -  (4 months ago)
