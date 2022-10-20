@@ -62,6 +62,13 @@
 <table>
 
 <tr>
+<td><img src="https://img.youtube.com/vi/gd-ydj-B7GU/default.jpg"></img></td>
+<td>
+<a href="https://www.youtube.com/watch?v=gd-ydj-B7GU">React Native vs Flutter en 2023 : que disent les chiffres ?</a> (today) <br/>
+<img src="https://img.shields.io/youtube/views/gd-ydj-B7GU?style=flat-square"> </img> 
+</td>
+</tr>
+<tr>
 <td><img src="https://img.youtube.com/vi/HrrBtXKWtlg/default.jpg"></img></td>
 <td>
 <a href="https://www.youtube.com/watch?v=HrrBtXKWtlg">JavaScript : 7 choses à maîtriser pour React</a> (2 weeks ago) <br/>
@@ -122,13 +129,6 @@
 <td>
 <a href="https://www.youtube.com/watch?v=4Xnt2ASdFbA">Pourquoi Solid JS (vs React &amp; Svelte) ?</a> (4 months ago) <br/>
 <img src="https://img.shields.io/youtube/views/4Xnt2ASdFbA?style=flat-square"> </img> 
-</td>
-</tr>
-<tr>
-<td><img src="https://img.youtube.com/vi/5Es-oq-o0Qg/default.jpg"></img></td>
-<td>
-<a href="https://www.youtube.com/watch?v=5Es-oq-o0Qg">React vs Vue vs Angular vs Svelte : que disent les chiffres ?</a> (5 months ago) <br/>
-<img src="https://img.shields.io/youtube/views/5Es-oq-o0Qg?style=flat-square"> </img> 
 </td>
 </tr>
 </table>
