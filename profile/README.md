@@ -64,7 +64,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/gd-ydj-B7GU/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=gd-ydj-B7GU">React Native vs Flutter en 2023 : que disent les chiffres ?</a> (today) <br/>
+<a href="https://www.youtube.com/watch?v=gd-ydj-B7GU">React Native vs Flutter : que disent les chiffres ?</a> (today) <br/>
 <img src="https://img.shields.io/youtube/views/gd-ydj-B7GU?style=flat-square"> </img> 
 </td>
 </tr>
