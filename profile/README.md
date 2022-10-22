@@ -21,6 +21,13 @@
 <table>
 
 <tr>
+<td><img src="https://img.youtube.com/vi/mMUFPn8Mxn4/default.jpg"></img></td>
+<td>
+<a href="https://www.youtube.com/watch?v=mMUFPn8Mxn4">React Native vs Flutter: what do the numbers say?</a> (today) <br/>
+<img src="https://img.shields.io/youtube/views/mMUFPn8Mxn4?style=flat-square"> </img> 
+</td>
+</tr>
+<tr>
 <td><img src="https://img.youtube.com/vi/pL703Vv-9bY/default.jpg"></img></td>
 <td>
 <a href="https://www.youtube.com/watch?v=pL703Vv-9bY">The 7 JavaScript Skills You Need For React!</a> (1 week ago) <br/>
@@ -46,13 +53,6 @@
 <td>
 <a href="https://www.youtube.com/watch?v=x6r4IzofPVc">GraphQL vs REST: what you need to know</a> (1 month ago) <br/>
 <img src="https://img.shields.io/youtube/views/x6r4IzofPVc?style=flat-square"> </img> 
-</td>
-</tr>
-<tr>
-<td><img src="https://img.youtube.com/vi/oQDErNNzdwU/default.jpg"></img></td>
-<td>
-<a href="https://www.youtube.com/watch?v=oQDErNNzdwU">What is Astro?</a> (1 month ago) <br/>
-<img src="https://img.shields.io/youtube/views/oQDErNNzdwU?style=flat-square"> </img> 
 </td>
 </tr>
 </table>
