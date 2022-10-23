@@ -62,6 +62,13 @@
 <table>
 
 <tr>
+<td><img src="https://img.youtube.com/vi/QRxm-v35HUU/default.jpg"></img></td>
+<td>
+<a href="https://www.youtube.com/watch?v=QRxm-v35HUU">Comment créer des prompts pour MidJourney</a> (today) <br/>
+<img src="https://img.shields.io/youtube/views/QRxm-v35HUU?style=flat-square"> </img> 
+</td>
+</tr>
+<tr>
 <td><img src="https://img.youtube.com/vi/gd-ydj-B7GU/default.jpg"></img></td>
 <td>
 <a href="https://www.youtube.com/watch?v=gd-ydj-B7GU">React Native vs Flutter : que disent les chiffres ?</a> (3 days ago) <br/>
@@ -122,13 +129,6 @@
 <td>
 <a href="https://www.youtube.com/watch?v=plN1GwhiO9c">Comment facilement automatiser son profil GitHub ?</a> (4 months ago) <br/>
 <img src="https://img.shields.io/youtube/views/plN1GwhiO9c?style=flat-square"> </img> 
-</td>
-</tr>
-<tr>
-<td><img src="https://img.youtube.com/vi/4Xnt2ASdFbA/default.jpg"></img></td>
-<td>
-<a href="https://www.youtube.com/watch?v=4Xnt2ASdFbA">Pourquoi Solid JS (vs React &amp; Svelte) ?</a> (4 months ago) <br/>
-<img src="https://img.shields.io/youtube/views/4Xnt2ASdFbA?style=flat-square"> </img> 
 </td>
 </tr>
 </table>
