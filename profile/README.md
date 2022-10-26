@@ -23,14 +23,14 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/mMUFPn8Mxn4/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=mMUFPn8Mxn4">React Native vs Flutter: what do the numbers say?</a> (2 days ago) <br/>
+<a href="https://www.youtube.com/watch?v=mMUFPn8Mxn4">React Native vs Flutter: what do the numbers say?</a> (3 days ago) <br/>
 <img src="https://img.shields.io/youtube/views/mMUFPn8Mxn4?style=flat-square"> </img> 
 </td>
 </tr>
 <tr>
 <td><img src="https://img.youtube.com/vi/pL703Vv-9bY/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=pL703Vv-9bY">The 7 JavaScript Skills You Need For React!</a> (1 week ago) <br/>
+<a href="https://www.youtube.com/watch?v=pL703Vv-9bY">The 7 JavaScript Skills You Need For React!</a> (2 weeks ago) <br/>
 <img src="https://img.shields.io/youtube/views/pL703Vv-9bY?style=flat-square"> </img> 
 </td>
 </tr>
@@ -64,14 +64,14 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/QRxm-v35HUU/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=QRxm-v35HUU">Comment créer des prompts pour MidJourney</a> (2 days ago) <br/>
+<a href="https://www.youtube.com/watch?v=QRxm-v35HUU">Comment créer des prompts pour MidJourney</a> (3 days ago) <br/>
 <img src="https://img.shields.io/youtube/views/QRxm-v35HUU?style=flat-square"> </img> 
 </td>
 </tr>
 <tr>
 <td><img src="https://img.youtube.com/vi/gd-ydj-B7GU/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=gd-ydj-B7GU">React Native vs Flutter : que disent les chiffres ?</a> (5 days ago) <br/>
+<a href="https://www.youtube.com/watch?v=gd-ydj-B7GU">React Native vs Flutter : que disent les chiffres ?</a> (6 days ago) <br/>
 <img src="https://img.shields.io/youtube/views/gd-ydj-B7GU?style=flat-square"> </img> 
 </td>
 </tr>
@@ -120,7 +120,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/gmWPWpVXoXU/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=gmWPWpVXoXU">Pourquoi apprendre le TypeScript (vs le JavaScript)?</a> (3 months ago) <br/>
+<a href="https://www.youtube.com/watch?v=gmWPWpVXoXU">Pourquoi apprendre le TypeScript (vs le JavaScript)?</a> (4 months ago) <br/>
 <img src="https://img.shields.io/youtube/views/gmWPWpVXoXU?style=flat-square"> </img> 
 </td>
 </tr>
@@ -143,8 +143,8 @@
 - [Kodaps/GitFirstSteps](https://github.com/Kodaps/GitFirstSteps) - First steps with git - a tutorial repository (4 months ago)
 - [Kodaps/JSFirstSteps](https://github.com/Kodaps/JSFirstSteps) - Contents for JS course (5 months ago)
 - [DavidKodaps/demo-package](https://github.com/DavidKodaps/demo-package) - Demo NPM package (9 months ago)
-- [Kodaps/Api-Typescript-Sls](https://github.com/Kodaps/Api-Typescript-Sls) - Serverless NodeJS &#43; Typescript API  (9 months ago)
-- [Gosev/Api-Typescript-Sls](https://github.com/Gosev/Api-Typescript-Sls) -  (9 months ago)
+- [Kodaps/Api-Typescript-Sls](https://github.com/Kodaps/Api-Typescript-Sls) - Serverless NodeJS &#43; Typescript API  (10 months ago)
+- [Gosev/Api-Typescript-Sls](https://github.com/Gosev/Api-Typescript-Sls) -  (10 months ago)
 
 #### 🌱 My latest projects
 
