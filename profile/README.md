@@ -6,7 +6,7 @@
 ## 📜 🇬🇧 My recent blog posts
 
 - [The 7 JavaScript Skills You Need for React](https://javascript.plainenglish.io/the-7-javascript-skills-you-need-for-react-9244169ca80a?source=rss-e68daed69805------2) (2 weeks ago)
-- [What are JavaScript Promises &amp; How to Use Them](https://javascript.plainenglish.io/what-are-javascript-promises-how-to-use-them-84fdff5757b9?source=rss-e68daed69805------2) (3 weeks ago)
+- [What are JavaScript Promises &amp; How to Use Them](https://javascript.plainenglish.io/what-are-javascript-promises-how-to-use-them-84fdff5757b9?source=rss-e68daed69805------2) (4 weeks ago)
 - [What is 42, the School With No Teachers?](https://levelup.gitconnected.com/what-is-42-the-school-with-no-teachers-7e4d0f9a80c1?source=rss-e68daed69805------2) (1 month ago)
 - [GraphQL vs REST](https://levelup.gitconnected.com/graphql-vs-rest-e918d9e0e271?source=rss-e68daed69805------2) (1 month ago)
 - [What is Astro?](https://javascript.plainenglish.io/what-is-astro-aa3369d5a7f4?source=rss-e68daed69805------2) (2 months ago)
@@ -23,7 +23,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/mMUFPn8Mxn4/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=mMUFPn8Mxn4">React Native vs Flutter: what do the numbers say?</a> (3 days ago) <br/>
+<a href="https://www.youtube.com/watch?v=mMUFPn8Mxn4">React Native vs Flutter: what do the numbers say?</a> (4 days ago) <br/>
 <img src="https://img.shields.io/youtube/views/mMUFPn8Mxn4?style=flat-square"> </img> 
 </td>
 </tr>
@@ -64,14 +64,14 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/QRxm-v35HUU/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=QRxm-v35HUU">Comment créer des prompts pour MidJourney</a> (3 days ago) <br/>
+<a href="https://www.youtube.com/watch?v=QRxm-v35HUU">Comment créer des prompts pour MidJourney</a> (4 days ago) <br/>
 <img src="https://img.shields.io/youtube/views/QRxm-v35HUU?style=flat-square"> </img> 
 </td>
 </tr>
 <tr>
 <td><img src="https://img.youtube.com/vi/gd-ydj-B7GU/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=gd-ydj-B7GU">React Native vs Flutter : que disent les chiffres ?</a> (6 days ago) <br/>
+<a href="https://www.youtube.com/watch?v=gd-ydj-B7GU">React Native vs Flutter : que disent les chiffres ?</a> (1 week ago) <br/>
 <img src="https://img.shields.io/youtube/views/gd-ydj-B7GU?style=flat-square"> </img> 
 </td>
 </tr>
