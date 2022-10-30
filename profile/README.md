@@ -23,7 +23,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/mMUFPn8Mxn4/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=mMUFPn8Mxn4">React Native vs Flutter: what do the numbers say?</a> (6 days ago) <br/>
+<a href="https://www.youtube.com/watch?v=mMUFPn8Mxn4">React Native vs Flutter: what do the numbers say?</a> (1 week ago) <br/>
 <img src="https://img.shields.io/youtube/views/mMUFPn8Mxn4?style=flat-square"> </img> 
 </td>
 </tr>
@@ -64,7 +64,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/QRxm-v35HUU/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=QRxm-v35HUU">Comment créer des prompts pour MidJourney</a> (6 days ago) <br/>
+<a href="https://www.youtube.com/watch?v=QRxm-v35HUU">Comment créer des prompts pour MidJourney</a> (1 week ago) <br/>
 <img src="https://img.shields.io/youtube/views/QRxm-v35HUU?style=flat-square"> </img> 
 </td>
 </tr>
