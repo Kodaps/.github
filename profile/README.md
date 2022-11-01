@@ -21,6 +21,13 @@
 <table>
 
 <tr>
+<td><img src="https://img.youtube.com/vi/r4i6ULOzNpA/default.jpg"></img></td>
+<td>
+<a href="https://www.youtube.com/watch?v=r4i6ULOzNpA">DevTips : Code you wrote 6 months ago might as well be someone else’s #shorts</a> (today) <br/>
+<img src="https://img.shields.io/youtube/views/r4i6ULOzNpA?style=flat-square"> </img> 
+</td>
+</tr>
+<tr>
 <td><img src="https://img.youtube.com/vi/mMUFPn8Mxn4/default.jpg"></img></td>
 <td>
 <a href="https://www.youtube.com/watch?v=mMUFPn8Mxn4">React Native vs Flutter: what do the numbers say?</a> (1 week ago) <br/>
@@ -46,13 +53,6 @@
 <td>
 <a href="https://www.youtube.com/watch?v=nGvnbO8ys3A">42: the Coding School With No Teachers!</a> (1 month ago) <br/>
 <img src="https://img.shields.io/youtube/views/nGvnbO8ys3A?style=flat-square"> </img> 
-</td>
-</tr>
-<tr>
-<td><img src="https://img.youtube.com/vi/x6r4IzofPVc/default.jpg"></img></td>
-<td>
-<a href="https://www.youtube.com/watch?v=x6r4IzofPVc">GraphQL vs REST: what you need to know</a> (1 month ago) <br/>
-<img src="https://img.shields.io/youtube/views/x6r4IzofPVc?style=flat-square"> </img> 
 </td>
 </tr>
 </table>
