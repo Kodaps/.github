@@ -23,7 +23,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/r4i6ULOzNpA/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=r4i6ULOzNpA">DevTips : Code you wrote 6 months ago might as well be someone else’s #shorts</a> (today) <br/>
+<a href="https://www.youtube.com/watch?v=r4i6ULOzNpA">DevTips : Code you wrote 6 months ago might as well be someone else’s #shorts</a> (1 day ago) <br/>
 <img src="https://img.shields.io/youtube/views/r4i6ULOzNpA?style=flat-square"> </img> 
 </td>
 </tr>
@@ -37,14 +37,14 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/pL703Vv-9bY/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=pL703Vv-9bY">The 7 JavaScript Skills You Need For React!</a> (2 weeks ago) <br/>
+<a href="https://www.youtube.com/watch?v=pL703Vv-9bY">The 7 JavaScript Skills You Need For React!</a> (3 weeks ago) <br/>
 <img src="https://img.shields.io/youtube/views/pL703Vv-9bY?style=flat-square"> </img> 
 </td>
 </tr>
 <tr>
 <td><img src="https://img.youtube.com/vi/ab3ZFyeBUhw/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=ab3ZFyeBUhw">Promises in JS &amp; async / await : What you need to know</a> (4 weeks ago) <br/>
+<a href="https://www.youtube.com/watch?v=ab3ZFyeBUhw">Promises in JS &amp; async / await : What you need to know</a> (1 month ago) <br/>
 <img src="https://img.shields.io/youtube/views/ab3ZFyeBUhw?style=flat-square"> </img> 
 </td>
 </tr>
@@ -78,7 +78,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/HrrBtXKWtlg/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=HrrBtXKWtlg">JavaScript : 7 choses à maîtriser pour React</a> (4 weeks ago) <br/>
+<a href="https://www.youtube.com/watch?v=HrrBtXKWtlg">JavaScript : 7 choses à maîtriser pour React</a> (1 month ago) <br/>
 <img src="https://img.shields.io/youtube/views/HrrBtXKWtlg?style=flat-square"> </img> 
 </td>
 </tr>
