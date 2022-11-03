@@ -21,6 +21,13 @@
 <table>
 
 <tr>
+<td><img src="https://img.youtube.com/vi/cdZV8Nd8PVY/default.jpg"></img></td>
+<td>
+<a href="https://www.youtube.com/watch?v=cdZV8Nd8PVY">Is NextJS the future of React?</a> (today) <br/>
+<img src="https://img.shields.io/youtube/views/cdZV8Nd8PVY?style=flat-square"> </img> 
+</td>
+</tr>
+<tr>
 <td><img src="https://img.youtube.com/vi/EYqqFlmmQhg/default.jpg"></img></td>
 <td>
 <a href="https://www.youtube.com/watch?v=EYqqFlmmQhg">DevTips : using the Boolean operators for more than conditions</a> (today) <br/>
@@ -46,13 +53,6 @@
 <td>
 <a href="https://www.youtube.com/watch?v=mMUFPn8Mxn4">React Native vs Flutter: what do the numbers say?</a> (1 week ago) <br/>
 <img src="https://img.shields.io/youtube/views/mMUFPn8Mxn4?style=flat-square"> </img> 
-</td>
-</tr>
-<tr>
-<td><img src="https://img.youtube.com/vi/pL703Vv-9bY/default.jpg"></img></td>
-<td>
-<a href="https://www.youtube.com/watch?v=pL703Vv-9bY">The 7 JavaScript Skills You Need For React!</a> (3 weeks ago) <br/>
-<img src="https://img.shields.io/youtube/views/pL703Vv-9bY?style=flat-square"> </img> 
 </td>
 </tr>
 </table>
