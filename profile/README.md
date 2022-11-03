@@ -21,6 +21,13 @@
 <table>
 
 <tr>
+<td><img src="https://img.youtube.com/vi/EYqqFlmmQhg/default.jpg"></img></td>
+<td>
+<a href="https://www.youtube.com/watch?v=EYqqFlmmQhg">DevTips : using the Boolean operators for more than conditions</a> (today) <br/>
+<img src="https://img.shields.io/youtube/views/EYqqFlmmQhg?style=flat-square"> </img> 
+</td>
+</tr>
+<tr>
 <td><img src="https://img.youtube.com/vi/JOPLphSb6uI/default.jpg"></img></td>
 <td>
 <a href="https://www.youtube.com/watch?v=JOPLphSb6uI">What is worse than a bug in your code?</a> (1 day ago) <br/>
@@ -46,13 +53,6 @@
 <td>
 <a href="https://www.youtube.com/watch?v=pL703Vv-9bY">The 7 JavaScript Skills You Need For React!</a> (3 weeks ago) <br/>
 <img src="https://img.shields.io/youtube/views/pL703Vv-9bY?style=flat-square"> </img> 
-</td>
-</tr>
-<tr>
-<td><img src="https://img.youtube.com/vi/ab3ZFyeBUhw/default.jpg"></img></td>
-<td>
-<a href="https://www.youtube.com/watch?v=ab3ZFyeBUhw">Promises in JS &amp; async / await : What you need to know</a> (1 month ago) <br/>
-<img src="https://img.shields.io/youtube/views/ab3ZFyeBUhw?style=flat-square"> </img> 
 </td>
 </tr>
 </table>
