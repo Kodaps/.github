@@ -23,14 +23,14 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/JOPLphSb6uI/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=JOPLphSb6uI">What is worse than a bug in your code?</a> (today) <br/>
+<a href="https://www.youtube.com/watch?v=JOPLphSb6uI">What is worse than a bug in your code?</a> (1 day ago) <br/>
 <img src="https://img.shields.io/youtube/views/JOPLphSb6uI?style=flat-square"> </img> 
 </td>
 </tr>
 <tr>
 <td><img src="https://img.youtube.com/vi/r4i6ULOzNpA/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=r4i6ULOzNpA">DevTips : Code you wrote 6 months ago might as well be someone else’s #shorts</a> (1 day ago) <br/>
+<a href="https://www.youtube.com/watch?v=r4i6ULOzNpA">DevTips : Code you wrote 6 months ago might as well be someone else’s #shorts</a> (2 days ago) <br/>
 <img src="https://img.shields.io/youtube/views/r4i6ULOzNpA?style=flat-square"> </img> 
 </td>
 </tr>
@@ -71,7 +71,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/gd-ydj-B7GU/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=gd-ydj-B7GU">React Native vs Flutter : que disent les chiffres ?</a> (1 week ago) <br/>
+<a href="https://www.youtube.com/watch?v=gd-ydj-B7GU">React Native vs Flutter : que disent les chiffres ?</a> (2 weeks ago) <br/>
 <img src="https://img.shields.io/youtube/views/gd-ydj-B7GU?style=flat-square"> </img> 
 </td>
 </tr>
