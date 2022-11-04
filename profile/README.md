@@ -5,7 +5,7 @@
 
 ## 📜 🇬🇧 My recent blog posts
 
-- [The 7 JavaScript Skills You Need for React](https://javascript.plainenglish.io/the-7-javascript-skills-you-need-for-react-9244169ca80a?source=rss-e68daed69805------2) (3 weeks ago)
+- [The 7 JavaScript Skills You Need for React](https://javascript.plainenglish.io/the-7-javascript-skills-you-need-for-react-9244169ca80a?source=rss-e68daed69805------2) (4 weeks ago)
 - [What are JavaScript Promises &amp; How to Use Them](https://javascript.plainenglish.io/what-are-javascript-promises-how-to-use-them-84fdff5757b9?source=rss-e68daed69805------2) (1 month ago)
 - [What is 42, the School With No Teachers?](https://levelup.gitconnected.com/what-is-42-the-school-with-no-teachers-7e4d0f9a80c1?source=rss-e68daed69805------2) (1 month ago)
 - [GraphQL vs REST](https://levelup.gitconnected.com/graphql-vs-rest-e918d9e0e271?source=rss-e68daed69805------2) (2 months ago)
@@ -23,28 +23,28 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/cdZV8Nd8PVY/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=cdZV8Nd8PVY">Is NextJS the future of React?</a> (today) <br/>
+<a href="https://www.youtube.com/watch?v=cdZV8Nd8PVY">Is NextJS the future of React?</a> (1 day ago) <br/>
 <img src="https://img.shields.io/youtube/views/cdZV8Nd8PVY?style=flat-square"> </img> 
 </td>
 </tr>
 <tr>
 <td><img src="https://img.youtube.com/vi/EYqqFlmmQhg/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=EYqqFlmmQhg">DevTips : using the Boolean operators for more than conditions</a> (today) <br/>
+<a href="https://www.youtube.com/watch?v=EYqqFlmmQhg">DevTips : using the Boolean operators for more than conditions</a> (1 day ago) <br/>
 <img src="https://img.shields.io/youtube/views/EYqqFlmmQhg?style=flat-square"> </img> 
 </td>
 </tr>
 <tr>
 <td><img src="https://img.youtube.com/vi/JOPLphSb6uI/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=JOPLphSb6uI">What is worse than a bug in your code?</a> (1 day ago) <br/>
+<a href="https://www.youtube.com/watch?v=JOPLphSb6uI">What is worse than a bug in your code?</a> (2 days ago) <br/>
 <img src="https://img.shields.io/youtube/views/JOPLphSb6uI?style=flat-square"> </img> 
 </td>
 </tr>
 <tr>
 <td><img src="https://img.youtube.com/vi/r4i6ULOzNpA/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=r4i6ULOzNpA">DevTips : Code you wrote 6 months ago might as well be someone else’s #shorts</a> (2 days ago) <br/>
+<a href="https://www.youtube.com/watch?v=r4i6ULOzNpA">DevTips : Code you wrote 6 months ago might as well be someone else’s #shorts</a> (3 days ago) <br/>
 <img src="https://img.shields.io/youtube/views/r4i6ULOzNpA?style=flat-square"> </img> 
 </td>
 </tr>
