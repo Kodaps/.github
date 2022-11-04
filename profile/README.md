@@ -21,6 +21,13 @@
 <table>
 
 <tr>
+<td><img src="https://img.youtube.com/vi/it2Hy8KsnSc/default.jpg"></img></td>
+<td>
+<a href="https://www.youtube.com/watch?v=it2Hy8KsnSc">The first 90% of task …</a> (today) <br/>
+<img src="https://img.shields.io/youtube/views/it2Hy8KsnSc?style=flat-square"> </img> 
+</td>
+</tr>
+<tr>
 <td><img src="https://img.youtube.com/vi/cdZV8Nd8PVY/default.jpg"></img></td>
 <td>
 <a href="https://www.youtube.com/watch?v=cdZV8Nd8PVY">Is NextJS the future of React?</a> (1 day ago) <br/>
@@ -46,13 +53,6 @@
 <td>
 <a href="https://www.youtube.com/watch?v=r4i6ULOzNpA">DevTips : Code you wrote 6 months ago might as well be someone else’s #shorts</a> (3 days ago) <br/>
 <img src="https://img.shields.io/youtube/views/r4i6ULOzNpA?style=flat-square"> </img> 
-</td>
-</tr>
-<tr>
-<td><img src="https://img.youtube.com/vi/mMUFPn8Mxn4/default.jpg"></img></td>
-<td>
-<a href="https://www.youtube.com/watch?v=mMUFPn8Mxn4">React Native vs Flutter: what do the numbers say?</a> (1 week ago) <br/>
-<img src="https://img.shields.io/youtube/views/mMUFPn8Mxn4?style=flat-square"> </img> 
 </td>
 </tr>
 </table>
