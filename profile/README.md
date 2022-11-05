@@ -11,7 +11,7 @@
 - [GraphQL vs REST](https://levelup.gitconnected.com/graphql-vs-rest-e918d9e0e271?source=rss-e68daed69805------2) (2 months ago)
 - [What is Astro?](https://javascript.plainenglish.io/what-is-astro-aa3369d5a7f4?source=rss-e68daed69805------2) (2 months ago)
 - [What is Art?](https://gosev.medium.com/what-is-art-2dce12548091?source=rss-e68daed69805------2) (2 months ago)
-- [How to Release Your Code Into the Wild](https://levelup.gitconnected.com/how-to-release-your-code-into-the-wild-dd144218cb9b?source=rss-e68daed69805------2) (2 months ago)
+- [How to Release Your Code Into the Wild](https://levelup.gitconnected.com/how-to-release-your-code-into-the-wild-dd144218cb9b?source=rss-e68daed69805------2) (3 months ago)
 - [5 Tips to Have Fun Using MidJourney AI Image Generation — The First Steps](https://gosev.medium.com/5-tips-to-have-fun-using-midjourney-ai-image-generation-the-first-steps-81cf44a53931?source=rss-e68daed69805------2) (3 months ago)
 - [3 Lessons I Learned While Managing The Project From Hell](https://medium.com/illumination/3-lessons-i-learned-while-managing-the-project-from-hell-e31196db2d5f?source=rss-e68daed69805------2) (3 months ago)
 - [Why We Need To Learn To Communicate Effectively as a Developers (and Why It is Hard)](https://gosev.medium.com/why-we-need-to-learn-to-communicate-effectively-as-a-developers-and-why-it-is-hard-756871cd1b88?source=rss-e68daed69805------2) (3 months ago)
@@ -23,35 +23,35 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/it2Hy8KsnSc/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=it2Hy8KsnSc">The first 90% of task …</a> (today) <br/>
+<a href="https://www.youtube.com/watch?v=it2Hy8KsnSc">The first 90% of task …</a> (1 day ago) <br/>
 <img src="https://img.shields.io/youtube/views/it2Hy8KsnSc?style=flat-square"> </img> 
 </td>
 </tr>
 <tr>
 <td><img src="https://img.youtube.com/vi/cdZV8Nd8PVY/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=cdZV8Nd8PVY">Is NextJS the future of React?</a> (1 day ago) <br/>
+<a href="https://www.youtube.com/watch?v=cdZV8Nd8PVY">Is NextJS the future of React?</a> (2 days ago) <br/>
 <img src="https://img.shields.io/youtube/views/cdZV8Nd8PVY?style=flat-square"> </img> 
 </td>
 </tr>
 <tr>
 <td><img src="https://img.youtube.com/vi/EYqqFlmmQhg/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=EYqqFlmmQhg">DevTips : using the Boolean operators for more than conditions</a> (1 day ago) <br/>
+<a href="https://www.youtube.com/watch?v=EYqqFlmmQhg">DevTips : using the Boolean operators for more than conditions</a> (2 days ago) <br/>
 <img src="https://img.shields.io/youtube/views/EYqqFlmmQhg?style=flat-square"> </img> 
 </td>
 </tr>
 <tr>
 <td><img src="https://img.youtube.com/vi/JOPLphSb6uI/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=JOPLphSb6uI">What is worse than a bug in your code?</a> (2 days ago) <br/>
+<a href="https://www.youtube.com/watch?v=JOPLphSb6uI">What is worse than a bug in your code?</a> (3 days ago) <br/>
 <img src="https://img.shields.io/youtube/views/JOPLphSb6uI?style=flat-square"> </img> 
 </td>
 </tr>
 <tr>
 <td><img src="https://img.youtube.com/vi/r4i6ULOzNpA/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=r4i6ULOzNpA">DevTips : Code you wrote 6 months ago might as well be someone else’s #shorts</a> (3 days ago) <br/>
+<a href="https://www.youtube.com/watch?v=r4i6ULOzNpA">DevTips : Code you wrote 6 months ago might as well be someone else’s #shorts</a> (4 days ago) <br/>
 <img src="https://img.shields.io/youtube/views/r4i6ULOzNpA?style=flat-square"> </img> 
 </td>
 </tr>
@@ -139,7 +139,7 @@
 - [Gosev/nextjs-blog](https://github.com/Gosev/nextjs-blog) -  (2 months ago)
 - [Kodaps/faker](https://github.com/Kodaps/faker) - Test data for exercises based on SWAPI (2 months ago)
 - [Kodaps/.github](https://github.com/Kodaps/.github) - Public profile (4 months ago)
-- [Gosev/TestRepository](https://github.com/Gosev/TestRepository) -  (4 months ago)
+- [Gosev/TestRepository](https://github.com/Gosev/TestRepository) -  (5 months ago)
 - [Kodaps/GitFirstSteps](https://github.com/Kodaps/GitFirstSteps) - First steps with git - a tutorial repository (5 months ago)
 - [Kodaps/JSFirstSteps](https://github.com/Kodaps/JSFirstSteps) - Contents for JS course (5 months ago)
 - [DavidKodaps/demo-package](https://github.com/DavidKodaps/demo-package) - Demo NPM package (9 months ago)
