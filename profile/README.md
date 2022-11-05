@@ -21,6 +21,13 @@
 <table>
 
 <tr>
+<td><img src="https://img.youtube.com/vi/yjqoNhX0Hcg/default.jpg"></img></td>
+<td>
+<a href="https://www.youtube.com/watch?v=yjqoNhX0Hcg">Useful VS Code extensions: GitLens</a> (today) <br/>
+<img src="https://img.shields.io/youtube/views/yjqoNhX0Hcg?style=flat-square"> </img> 
+</td>
+</tr>
+<tr>
 <td><img src="https://img.youtube.com/vi/it2Hy8KsnSc/default.jpg"></img></td>
 <td>
 <a href="https://www.youtube.com/watch?v=it2Hy8KsnSc">The first 90% of task …</a> (1 day ago) <br/>
@@ -46,13 +53,6 @@
 <td>
 <a href="https://www.youtube.com/watch?v=JOPLphSb6uI">What is worse than a bug in your code?</a> (3 days ago) <br/>
 <img src="https://img.shields.io/youtube/views/JOPLphSb6uI?style=flat-square"> </img> 
-</td>
-</tr>
-<tr>
-<td><img src="https://img.youtube.com/vi/r4i6ULOzNpA/default.jpg"></img></td>
-<td>
-<a href="https://www.youtube.com/watch?v=r4i6ULOzNpA">DevTips : Code you wrote 6 months ago might as well be someone else’s #shorts</a> (4 days ago) <br/>
-<img src="https://img.shields.io/youtube/views/r4i6ULOzNpA?style=flat-square"> </img> 
 </td>
 </tr>
 </table>
