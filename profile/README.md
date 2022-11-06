@@ -5,7 +5,7 @@
 
 ## 📜 🇬🇧 My recent blog posts
 
-- [The 7 JavaScript Skills You Need for React](https://javascript.plainenglish.io/the-7-javascript-skills-you-need-for-react-9244169ca80a?source=rss-e68daed69805------2) (4 weeks ago)
+- [The 7 JavaScript Skills You Need for React](https://javascript.plainenglish.io/the-7-javascript-skills-you-need-for-react-9244169ca80a?source=rss-e68daed69805------2) (1 month ago)
 - [What are JavaScript Promises &amp; How to Use Them](https://javascript.plainenglish.io/what-are-javascript-promises-how-to-use-them-84fdff5757b9?source=rss-e68daed69805------2) (1 month ago)
 - [What is 42, the School With No Teachers?](https://levelup.gitconnected.com/what-is-42-the-school-with-no-teachers-7e4d0f9a80c1?source=rss-e68daed69805------2) (1 month ago)
 - [GraphQL vs REST](https://levelup.gitconnected.com/graphql-vs-rest-e918d9e0e271?source=rss-e68daed69805------2) (2 months ago)
@@ -23,35 +23,35 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/yjqoNhX0Hcg/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=yjqoNhX0Hcg">Useful VS Code extensions: GitLens</a> (today) <br/>
+<a href="https://www.youtube.com/watch?v=yjqoNhX0Hcg">Useful VS Code extensions: GitLens</a> (1 day ago) <br/>
 <img src="https://img.shields.io/youtube/views/yjqoNhX0Hcg?style=flat-square"> </img> 
 </td>
 </tr>
 <tr>
 <td><img src="https://img.youtube.com/vi/it2Hy8KsnSc/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=it2Hy8KsnSc">The first 90% of task …</a> (1 day ago) <br/>
+<a href="https://www.youtube.com/watch?v=it2Hy8KsnSc">The first 90% of task …</a> (2 days ago) <br/>
 <img src="https://img.shields.io/youtube/views/it2Hy8KsnSc?style=flat-square"> </img> 
 </td>
 </tr>
 <tr>
 <td><img src="https://img.youtube.com/vi/cdZV8Nd8PVY/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=cdZV8Nd8PVY">Is NextJS the future of React?</a> (2 days ago) <br/>
+<a href="https://www.youtube.com/watch?v=cdZV8Nd8PVY">Is NextJS the future of React?</a> (3 days ago) <br/>
 <img src="https://img.shields.io/youtube/views/cdZV8Nd8PVY?style=flat-square"> </img> 
 </td>
 </tr>
 <tr>
 <td><img src="https://img.youtube.com/vi/EYqqFlmmQhg/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=EYqqFlmmQhg">DevTips : using the Boolean operators for more than conditions</a> (2 days ago) <br/>
+<a href="https://www.youtube.com/watch?v=EYqqFlmmQhg">DevTips : using the Boolean operators for more than conditions</a> (3 days ago) <br/>
 <img src="https://img.shields.io/youtube/views/EYqqFlmmQhg?style=flat-square"> </img> 
 </td>
 </tr>
 <tr>
 <td><img src="https://img.youtube.com/vi/JOPLphSb6uI/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=JOPLphSb6uI">What is worse than a bug in your code?</a> (3 days ago) <br/>
+<a href="https://www.youtube.com/watch?v=JOPLphSb6uI">What is worse than a bug in your code?</a> (4 days ago) <br/>
 <img src="https://img.shields.io/youtube/views/JOPLphSb6uI?style=flat-square"> </img> 
 </td>
 </tr>
@@ -64,7 +64,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/QRxm-v35HUU/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=QRxm-v35HUU">Comment créer des prompts pour MidJourney</a> (1 week ago) <br/>
+<a href="https://www.youtube.com/watch?v=QRxm-v35HUU">Comment créer des prompts pour MidJourney</a> (2 weeks ago) <br/>
 <img src="https://img.shields.io/youtube/views/QRxm-v35HUU?style=flat-square"> </img> 
 </td>
 </tr>
