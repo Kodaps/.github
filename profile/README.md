@@ -21,6 +21,13 @@
 <table>
 
 <tr>
+<td><img src="https://img.youtube.com/vi/PlekPc95lfk/default.jpg"></img></td>
+<td>
+<a href="https://www.youtube.com/watch?v=PlekPc95lfk">7 November 2022</a> (today) <br/>
+<img src="https://img.shields.io/youtube/views/PlekPc95lfk?style=flat-square"> </img> 
+</td>
+</tr>
+<tr>
 <td><img src="https://img.youtube.com/vi/yjqoNhX0Hcg/default.jpg"></img></td>
 <td>
 <a href="https://www.youtube.com/watch?v=yjqoNhX0Hcg">Useful VS Code extensions: GitLens</a> (2 days ago) <br/>
@@ -46,13 +53,6 @@
 <td>
 <a href="https://www.youtube.com/watch?v=EYqqFlmmQhg">DevTips : using the Boolean operators for more than conditions</a> (4 days ago) <br/>
 <img src="https://img.shields.io/youtube/views/EYqqFlmmQhg?style=flat-square"> </img> 
-</td>
-</tr>
-<tr>
-<td><img src="https://img.youtube.com/vi/JOPLphSb6uI/default.jpg"></img></td>
-<td>
-<a href="https://www.youtube.com/watch?v=JOPLphSb6uI">What is worse than a bug in your code?</a> (5 days ago) <br/>
-<img src="https://img.shields.io/youtube/views/JOPLphSb6uI?style=flat-square"> </img> 
 </td>
 </tr>
 </table>
