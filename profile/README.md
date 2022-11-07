@@ -23,35 +23,35 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/yjqoNhX0Hcg/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=yjqoNhX0Hcg">Useful VS Code extensions: GitLens</a> (1 day ago) <br/>
+<a href="https://www.youtube.com/watch?v=yjqoNhX0Hcg">Useful VS Code extensions: GitLens</a> (2 days ago) <br/>
 <img src="https://img.shields.io/youtube/views/yjqoNhX0Hcg?style=flat-square"> </img> 
 </td>
 </tr>
 <tr>
 <td><img src="https://img.youtube.com/vi/it2Hy8KsnSc/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=it2Hy8KsnSc">The first 90% of task …</a> (2 days ago) <br/>
+<a href="https://www.youtube.com/watch?v=it2Hy8KsnSc">The first 90% of task …</a> (3 days ago) <br/>
 <img src="https://img.shields.io/youtube/views/it2Hy8KsnSc?style=flat-square"> </img> 
 </td>
 </tr>
 <tr>
 <td><img src="https://img.youtube.com/vi/cdZV8Nd8PVY/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=cdZV8Nd8PVY">Is NextJS the future of React?</a> (3 days ago) <br/>
+<a href="https://www.youtube.com/watch?v=cdZV8Nd8PVY">Is NextJS the future of React?</a> (4 days ago) <br/>
 <img src="https://img.shields.io/youtube/views/cdZV8Nd8PVY?style=flat-square"> </img> 
 </td>
 </tr>
 <tr>
 <td><img src="https://img.youtube.com/vi/EYqqFlmmQhg/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=EYqqFlmmQhg">DevTips : using the Boolean operators for more than conditions</a> (3 days ago) <br/>
+<a href="https://www.youtube.com/watch?v=EYqqFlmmQhg">DevTips : using the Boolean operators for more than conditions</a> (4 days ago) <br/>
 <img src="https://img.shields.io/youtube/views/EYqqFlmmQhg?style=flat-square"> </img> 
 </td>
 </tr>
 <tr>
 <td><img src="https://img.youtube.com/vi/JOPLphSb6uI/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=JOPLphSb6uI">What is worse than a bug in your code?</a> (4 days ago) <br/>
+<a href="https://www.youtube.com/watch?v=JOPLphSb6uI">What is worse than a bug in your code?</a> (5 days ago) <br/>
 <img src="https://img.shields.io/youtube/views/JOPLphSb6uI?style=flat-square"> </img> 
 </td>
 </tr>
@@ -64,7 +64,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/_ITJN_dqtEs/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=_ITJN_dqtEs">NextJS : l&#39;avenir de React ?</a> (today) <br/>
+<a href="https://www.youtube.com/watch?v=_ITJN_dqtEs">NextJS : l&#39;avenir de React ?</a> (1 day ago) <br/>
 <img src="https://img.shields.io/youtube/views/_ITJN_dqtEs?style=flat-square"> </img> 
 </td>
 </tr>
