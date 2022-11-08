@@ -21,6 +21,13 @@
 <table>
 
 <tr>
+<td><img src="https://img.youtube.com/vi/Pic_te8-STw/default.jpg"></img></td>
+<td>
+<a href="https://www.youtube.com/watch?v=Pic_te8-STw">Typescript is weird .. it adds constraints which make coding more fun</a> (today) <br/>
+<img src="https://img.shields.io/youtube/views/Pic_te8-STw?style=flat-square"> </img> 
+</td>
+</tr>
+<tr>
 <td><img src="https://img.youtube.com/vi/PlekPc95lfk/default.jpg"></img></td>
 <td>
 <a href="https://www.youtube.com/watch?v=PlekPc95lfk">7 November 2022</a> (1 day ago) <br/>
@@ -46,13 +53,6 @@
 <td>
 <a href="https://www.youtube.com/watch?v=cdZV8Nd8PVY">Is NextJS the future of React?</a> (5 days ago) <br/>
 <img src="https://img.shields.io/youtube/views/cdZV8Nd8PVY?style=flat-square"> </img> 
-</td>
-</tr>
-<tr>
-<td><img src="https://img.youtube.com/vi/EYqqFlmmQhg/default.jpg"></img></td>
-<td>
-<a href="https://www.youtube.com/watch?v=EYqqFlmmQhg">DevTips : using the Boolean operators for more than conditions</a> (5 days ago) <br/>
-<img src="https://img.shields.io/youtube/views/EYqqFlmmQhg?style=flat-square"> </img> 
 </td>
 </tr>
 </table>
