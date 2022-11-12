@@ -7,14 +7,14 @@
 
 - [The 7 JavaScript Skills You Need for React](https://javascript.plainenglish.io/the-7-javascript-skills-you-need-for-react-9244169ca80a?source=rss-e68daed69805------2) (1 month ago)
 - [What are JavaScript Promises &amp; How to Use Them](https://javascript.plainenglish.io/what-are-javascript-promises-how-to-use-them-84fdff5757b9?source=rss-e68daed69805------2) (1 month ago)
-- [What is 42, the School With No Teachers?](https://levelup.gitconnected.com/what-is-42-the-school-with-no-teachers-7e4d0f9a80c1?source=rss-e68daed69805------2) (1 month ago)
+- [What is 42, the School With No Teachers?](https://levelup.gitconnected.com/what-is-42-the-school-with-no-teachers-7e4d0f9a80c1?source=rss-e68daed69805------2) (2 months ago)
 - [GraphQL vs REST](https://levelup.gitconnected.com/graphql-vs-rest-e918d9e0e271?source=rss-e68daed69805------2) (2 months ago)
 - [What is Astro?](https://javascript.plainenglish.io/what-is-astro-aa3369d5a7f4?source=rss-e68daed69805------2) (2 months ago)
-- [What is Art?](https://gosev.medium.com/what-is-art-2dce12548091?source=rss-e68daed69805------2) (2 months ago)
+- [What is Art?](https://gosev.medium.com/what-is-art-2dce12548091?source=rss-e68daed69805------2) (3 months ago)
 - [How to Release Your Code Into the Wild](https://levelup.gitconnected.com/how-to-release-your-code-into-the-wild-dd144218cb9b?source=rss-e68daed69805------2) (3 months ago)
 - [5 Tips to Have Fun Using MidJourney AI Image Generation — The First Steps](https://gosev.medium.com/5-tips-to-have-fun-using-midjourney-ai-image-generation-the-first-steps-81cf44a53931?source=rss-e68daed69805------2) (3 months ago)
-- [3 Lessons I Learned While Managing The Project From Hell](https://medium.com/illumination/3-lessons-i-learned-while-managing-the-project-from-hell-e31196db2d5f?source=rss-e68daed69805------2) (3 months ago)
-- [Why We Need To Learn To Communicate Effectively as a Developers (and Why It is Hard)](https://gosev.medium.com/why-we-need-to-learn-to-communicate-effectively-as-a-developers-and-why-it-is-hard-756871cd1b88?source=rss-e68daed69805------2) (3 months ago)
+- [3 Lessons I Learned While Managing The Project From Hell](https://medium.com/illumination/3-lessons-i-learned-while-managing-the-project-from-hell-e31196db2d5f?source=rss-e68daed69805------2) (4 months ago)
+- [Why We Need To Learn To Communicate Effectively as a Developers (and Why It is Hard)](https://gosev.medium.com/why-we-need-to-learn-to-communicate-effectively-as-a-developers-and-why-it-is-hard-756871cd1b88?source=rss-e68daed69805------2) (4 months ago)
 
 ## 📽 🇬🇧 My recent English videos
 <img src="https://img.shields.io/youtube/channel/subscribers/UC2DOovF-OjIQ6nHClUyLKKQ?style=for-the-badge"></img>
@@ -23,21 +23,21 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/Pic_te8-STw/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=Pic_te8-STw">Typescript is weird .. it adds constraints which make coding more fun</a> (3 days ago) <br/>
+<a href="https://www.youtube.com/watch?v=Pic_te8-STw">Typescript is weird .. it adds constraints which make coding more fun</a> (4 days ago) <br/>
 <img src="https://img.shields.io/youtube/views/Pic_te8-STw?style=flat-square"> </img> 
 </td>
 </tr>
 <tr>
 <td><img src="https://img.youtube.com/vi/PlekPc95lfk/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=PlekPc95lfk">7 November 2022</a> (4 days ago) <br/>
+<a href="https://www.youtube.com/watch?v=PlekPc95lfk">7 November 2022</a> (5 days ago) <br/>
 <img src="https://img.shields.io/youtube/views/PlekPc95lfk?style=flat-square"> </img> 
 </td>
 </tr>
 <tr>
 <td><img src="https://img.youtube.com/vi/yjqoNhX0Hcg/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=yjqoNhX0Hcg">Useful VS Code extensions: GitLens</a> (6 days ago) <br/>
+<a href="https://www.youtube.com/watch?v=yjqoNhX0Hcg">Useful VS Code extensions: GitLens</a> (1 week ago) <br/>
 <img src="https://img.shields.io/youtube/views/yjqoNhX0Hcg?style=flat-square"> </img> 
 </td>
 </tr>
@@ -64,7 +64,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/_ITJN_dqtEs/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=_ITJN_dqtEs">NextJS : l&#39;avenir de React ?</a> (4 days ago) <br/>
+<a href="https://www.youtube.com/watch?v=_ITJN_dqtEs">NextJS : l&#39;avenir de React ?</a> (5 days ago) <br/>
 <img src="https://img.shields.io/youtube/views/_ITJN_dqtEs?style=flat-square"> </img> 
 </td>
 </tr>
@@ -177,7 +177,7 @@
 
 #### ⭐ Recent Stars
 
-- [onwidget/astrowind](https://github.com/onwidget/astrowind) - 🚀 A template to make your website using Astro &#43; Tailwind CSS. (2 months ago)
+- [onwidget/astrowind](https://github.com/onwidget/astrowind) - 🚀 A template to make your website using Astro &#43; Tailwind CSS. (3 months ago)
 - [coronalabs/CoronaViewer](https://github.com/coronalabs/CoronaViewer) - CoronaViewer for SDK/Enterprise (8 years ago)
 - [Gosev/Jump](https://github.com/Gosev/Jump) - Jump website (10 years ago)
 
