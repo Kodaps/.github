@@ -23,14 +23,14 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/Pic_te8-STw/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=Pic_te8-STw">Typescript is weird .. it adds constraints which make coding more fun</a> (4 days ago) <br/>
+<a href="https://www.youtube.com/watch?v=Pic_te8-STw">Typescript is weird .. it adds constraints which make coding more fun</a> (5 days ago) <br/>
 <img src="https://img.shields.io/youtube/views/Pic_te8-STw?style=flat-square"> </img> 
 </td>
 </tr>
 <tr>
 <td><img src="https://img.youtube.com/vi/PlekPc95lfk/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=PlekPc95lfk">7 November 2022</a> (5 days ago) <br/>
+<a href="https://www.youtube.com/watch?v=PlekPc95lfk">7 November 2022</a> (6 days ago) <br/>
 <img src="https://img.shields.io/youtube/views/PlekPc95lfk?style=flat-square"> </img> 
 </td>
 </tr>
@@ -64,14 +64,14 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/_ITJN_dqtEs/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=_ITJN_dqtEs">NextJS : l&#39;avenir de React ?</a> (5 days ago) <br/>
+<a href="https://www.youtube.com/watch?v=_ITJN_dqtEs">NextJS : l&#39;avenir de React ?</a> (6 days ago) <br/>
 <img src="https://img.shields.io/youtube/views/_ITJN_dqtEs?style=flat-square"> </img> 
 </td>
 </tr>
 <tr>
 <td><img src="https://img.youtube.com/vi/QRxm-v35HUU/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=QRxm-v35HUU">Comment créer des prompts pour MidJourney</a> (2 weeks ago) <br/>
+<a href="https://www.youtube.com/watch?v=QRxm-v35HUU">Comment créer des prompts pour MidJourney</a> (3 weeks ago) <br/>
 <img src="https://img.shields.io/youtube/views/QRxm-v35HUU?style=flat-square"> </img> 
 </td>
 </tr>
