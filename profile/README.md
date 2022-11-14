@@ -23,14 +23,14 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/Pic_te8-STw/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=Pic_te8-STw">Typescript is weird .. it adds constraints which make coding more fun</a> (5 days ago) <br/>
+<a href="https://www.youtube.com/watch?v=Pic_te8-STw">Typescript is weird .. it adds constraints which make coding more fun</a> (6 days ago) <br/>
 <img src="https://img.shields.io/youtube/views/Pic_te8-STw?style=flat-square"> </img> 
 </td>
 </tr>
 <tr>
 <td><img src="https://img.youtube.com/vi/PlekPc95lfk/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=PlekPc95lfk">7 November 2022</a> (6 days ago) <br/>
+<a href="https://www.youtube.com/watch?v=PlekPc95lfk">7 November 2022</a> (1 week ago) <br/>
 <img src="https://img.shields.io/youtube/views/PlekPc95lfk?style=flat-square"> </img> 
 </td>
 </tr>
@@ -64,7 +64,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/_ITJN_dqtEs/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=_ITJN_dqtEs">NextJS : l&#39;avenir de React ?</a> (6 days ago) <br/>
+<a href="https://www.youtube.com/watch?v=_ITJN_dqtEs">NextJS : l&#39;avenir de React ?</a> (1 week ago) <br/>
 <img src="https://img.shields.io/youtube/views/_ITJN_dqtEs?style=flat-square"> </img> 
 </td>
 </tr>
@@ -141,8 +141,8 @@
 - [Kodaps/.github](https://github.com/Kodaps/.github) - Public profile (5 months ago)
 - [Gosev/TestRepository](https://github.com/Gosev/TestRepository) -  (5 months ago)
 - [Kodaps/GitFirstSteps](https://github.com/Kodaps/GitFirstSteps) - First steps with git - a tutorial repository (5 months ago)
-- [Kodaps/JSFirstSteps](https://github.com/Kodaps/JSFirstSteps) - Contents for JS course (5 months ago)
-- [DavidKodaps/demo-package](https://github.com/DavidKodaps/demo-package) - Demo NPM package (9 months ago)
+- [Kodaps/JSFirstSteps](https://github.com/Kodaps/JSFirstSteps) - Contents for JS course (6 months ago)
+- [DavidKodaps/demo-package](https://github.com/DavidKodaps/demo-package) - Demo NPM package (10 months ago)
 - [Kodaps/Api-Typescript-Sls](https://github.com/Kodaps/Api-Typescript-Sls) - Serverless NodeJS &#43; Typescript API  (10 months ago)
 - [Gosev/Api-Typescript-Sls](https://github.com/Gosev/Api-Typescript-Sls) -  (10 months ago)
 
