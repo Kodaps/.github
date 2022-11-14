@@ -21,6 +21,13 @@
 <table>
 
 <tr>
+<td><img src="https://img.youtube.com/vi/EgGyBnVsVmA/default.jpg"></img></td>
+<td>
+<a href="https://www.youtube.com/watch?v=EgGyBnVsVmA">Coding is about imagining all the problems</a> (today) <br/>
+<img src="https://img.shields.io/youtube/views/EgGyBnVsVmA?style=flat-square"> </img> 
+</td>
+</tr>
+<tr>
 <td><img src="https://img.youtube.com/vi/Pic_te8-STw/default.jpg"></img></td>
 <td>
 <a href="https://www.youtube.com/watch?v=Pic_te8-STw">Typescript is weird .. it adds constraints which make coding more fun</a> (6 days ago) <br/>
@@ -46,13 +53,6 @@
 <td>
 <a href="https://www.youtube.com/watch?v=it2Hy8KsnSc">The first 90% of task …</a> (1 week ago) <br/>
 <img src="https://img.shields.io/youtube/views/it2Hy8KsnSc?style=flat-square"> </img> 
-</td>
-</tr>
-<tr>
-<td><img src="https://img.youtube.com/vi/cdZV8Nd8PVY/default.jpg"></img></td>
-<td>
-<a href="https://www.youtube.com/watch?v=cdZV8Nd8PVY">Is NextJS the future of React?</a> (1 week ago) <br/>
-<img src="https://img.shields.io/youtube/views/cdZV8Nd8PVY?style=flat-square"> </img> 
 </td>
 </tr>
 </table>
