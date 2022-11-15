@@ -21,6 +21,13 @@
 <table>
 
 <tr>
+<td><img src="https://img.youtube.com/vi/yqoqz87Z_Ns/default.jpg"></img></td>
+<td>
+<a href="https://www.youtube.com/watch?v=yqoqz87Z_Ns">Automated testing has hidden benefits</a> (today) <br/>
+<img src="https://img.shields.io/youtube/views/yqoqz87Z_Ns?style=flat-square"> </img> 
+</td>
+</tr>
+<tr>
 <td><img src="https://img.youtube.com/vi/EgGyBnVsVmA/default.jpg"></img></td>
 <td>
 <a href="https://www.youtube.com/watch?v=EgGyBnVsVmA">Coding is about imagining all the problems</a> (1 day ago) <br/>
@@ -46,13 +53,6 @@
 <td>
 <a href="https://www.youtube.com/watch?v=yjqoNhX0Hcg">Useful VS Code extensions: GitLens</a> (1 week ago) <br/>
 <img src="https://img.shields.io/youtube/views/yjqoNhX0Hcg?style=flat-square"> </img> 
-</td>
-</tr>
-<tr>
-<td><img src="https://img.youtube.com/vi/it2Hy8KsnSc/default.jpg"></img></td>
-<td>
-<a href="https://www.youtube.com/watch?v=it2Hy8KsnSc">The first 90% of task …</a> (1 week ago) <br/>
-<img src="https://img.shields.io/youtube/views/it2Hy8KsnSc?style=flat-square"> </img> 
 </td>
 </tr>
 </table>
