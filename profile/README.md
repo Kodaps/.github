@@ -23,14 +23,14 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/EgGyBnVsVmA/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=EgGyBnVsVmA">Coding is about imagining all the problems</a> (today) <br/>
+<a href="https://www.youtube.com/watch?v=EgGyBnVsVmA">Coding is about imagining all the problems</a> (1 day ago) <br/>
 <img src="https://img.shields.io/youtube/views/EgGyBnVsVmA?style=flat-square"> </img> 
 </td>
 </tr>
 <tr>
 <td><img src="https://img.youtube.com/vi/Pic_te8-STw/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=Pic_te8-STw">Typescript is weird .. it adds constraints which make coding more fun</a> (6 days ago) <br/>
+<a href="https://www.youtube.com/watch?v=Pic_te8-STw">Typescript is weird .. it adds constraints which make coding more fun</a> (1 week ago) <br/>
 <img src="https://img.shields.io/youtube/views/Pic_te8-STw?style=flat-square"> </img> 
 </td>
 </tr>
