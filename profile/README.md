@@ -21,6 +21,13 @@
 <table>
 
 <tr>
+<td><img src="https://img.youtube.com/vi/vDUuABkES9k/default.jpg"></img></td>
+<td>
+<a href="https://www.youtube.com/watch?v=vDUuABkES9k">In job interviews, make sure you ask the right questions</a> (today) <br/>
+<img src="https://img.shields.io/youtube/views/vDUuABkES9k?style=flat-square"> </img> 
+</td>
+</tr>
+<tr>
 <td><img src="https://img.youtube.com/vi/yqoqz87Z_Ns/default.jpg"></img></td>
 <td>
 <a href="https://www.youtube.com/watch?v=yqoqz87Z_Ns">Automated testing has hidden benefits</a> (1 day ago) <br/>
@@ -46,13 +53,6 @@
 <td>
 <a href="https://www.youtube.com/watch?v=PlekPc95lfk">7 November 2022</a> (1 week ago) <br/>
 <img src="https://img.shields.io/youtube/views/PlekPc95lfk?style=flat-square"> </img> 
-</td>
-</tr>
-<tr>
-<td><img src="https://img.youtube.com/vi/yjqoNhX0Hcg/default.jpg"></img></td>
-<td>
-<a href="https://www.youtube.com/watch?v=yjqoNhX0Hcg">Useful VS Code extensions: GitLens</a> (1 week ago) <br/>
-<img src="https://img.shields.io/youtube/views/yjqoNhX0Hcg?style=flat-square"> </img> 
 </td>
 </tr>
 </table>
