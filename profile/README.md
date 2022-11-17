@@ -21,6 +21,13 @@
 <table>
 
 <tr>
+<td><img src="https://img.youtube.com/vi/IA1WiiXwMiE/default.jpg"></img></td>
+<td>
+<a href="https://www.youtube.com/watch?v=IA1WiiXwMiE">Create responsive images with srcset and sizes</a> (today) <br/>
+<img src="https://img.shields.io/youtube/views/IA1WiiXwMiE?style=flat-square"> </img> 
+</td>
+</tr>
+<tr>
 <td><img src="https://img.youtube.com/vi/vDUuABkES9k/default.jpg"></img></td>
 <td>
 <a href="https://www.youtube.com/watch?v=vDUuABkES9k">In job interviews, make sure you ask the right questions</a> (1 day ago) <br/>
@@ -46,13 +53,6 @@
 <td>
 <a href="https://www.youtube.com/watch?v=Pic_te8-STw">Typescript is weird .. it adds constraints which make coding more fun</a> (1 week ago) <br/>
 <img src="https://img.shields.io/youtube/views/Pic_te8-STw?style=flat-square"> </img> 
-</td>
-</tr>
-<tr>
-<td><img src="https://img.youtube.com/vi/PlekPc95lfk/default.jpg"></img></td>
-<td>
-<a href="https://www.youtube.com/watch?v=PlekPc95lfk">7 November 2022</a> (1 week ago) <br/>
-<img src="https://img.shields.io/youtube/views/PlekPc95lfk?style=flat-square"> </img> 
 </td>
 </tr>
 </table>
