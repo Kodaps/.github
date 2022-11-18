@@ -21,6 +21,13 @@
 <table>
 
 <tr>
+<td><img src="https://img.youtube.com/vi/C8Bs_qm8cbQ/default.jpg"></img></td>
+<td>
+<a href="https://www.youtube.com/watch?v=C8Bs_qm8cbQ">console.log not working?</a> (today) <br/>
+<img src="https://img.shields.io/youtube/views/C8Bs_qm8cbQ?style=flat-square"> </img> 
+</td>
+</tr>
+<tr>
 <td><img src="https://img.youtube.com/vi/IA1WiiXwMiE/default.jpg"></img></td>
 <td>
 <a href="https://www.youtube.com/watch?v=IA1WiiXwMiE">Create responsive images with srcset and sizes</a> (1 day ago) <br/>
@@ -46,13 +53,6 @@
 <td>
 <a href="https://www.youtube.com/watch?v=EgGyBnVsVmA">Coding is about imagining all the problems</a> (4 days ago) <br/>
 <img src="https://img.shields.io/youtube/views/EgGyBnVsVmA?style=flat-square"> </img> 
-</td>
-</tr>
-<tr>
-<td><img src="https://img.youtube.com/vi/Pic_te8-STw/default.jpg"></img></td>
-<td>
-<a href="https://www.youtube.com/watch?v=Pic_te8-STw">Typescript is weird .. it adds constraints which make coding more fun</a> (1 week ago) <br/>
-<img src="https://img.shields.io/youtube/views/Pic_te8-STw?style=flat-square"> </img> 
 </td>
 </tr>
 </table>
