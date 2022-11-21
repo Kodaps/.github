@@ -23,35 +23,35 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/Y6SIs3agbWY/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=Y6SIs3agbWY">How to make sure your code works (and keeps working)?</a> (today) <br/>
+<a href="https://www.youtube.com/watch?v=Y6SIs3agbWY">How to make sure your code works (and keeps working)?</a> (1 day ago) <br/>
 <img src="https://img.shields.io/youtube/views/Y6SIs3agbWY?style=flat-square"> </img> 
 </td>
 </tr>
 <tr>
 <td><img src="https://img.youtube.com/vi/C8Bs_qm8cbQ/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=C8Bs_qm8cbQ">console.log not working?</a> (2 days ago) <br/>
+<a href="https://www.youtube.com/watch?v=C8Bs_qm8cbQ">console.log not working?</a> (3 days ago) <br/>
 <img src="https://img.shields.io/youtube/views/C8Bs_qm8cbQ?style=flat-square"> </img> 
 </td>
 </tr>
 <tr>
 <td><img src="https://img.youtube.com/vi/IA1WiiXwMiE/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=IA1WiiXwMiE">Create responsive images with srcset and sizes</a> (3 days ago) <br/>
+<a href="https://www.youtube.com/watch?v=IA1WiiXwMiE">Create responsive images with srcset and sizes</a> (4 days ago) <br/>
 <img src="https://img.shields.io/youtube/views/IA1WiiXwMiE?style=flat-square"> </img> 
 </td>
 </tr>
 <tr>
 <td><img src="https://img.youtube.com/vi/vDUuABkES9k/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=vDUuABkES9k">In job interviews, make sure you ask the right questions</a> (4 days ago) <br/>
+<a href="https://www.youtube.com/watch?v=vDUuABkES9k">In job interviews, make sure you ask the right questions</a> (5 days ago) <br/>
 <img src="https://img.shields.io/youtube/views/vDUuABkES9k?style=flat-square"> </img> 
 </td>
 </tr>
 <tr>
 <td><img src="https://img.youtube.com/vi/yqoqz87Z_Ns/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=yqoqz87Z_Ns">Automated testing has hidden benefits</a> (5 days ago) <br/>
+<a href="https://www.youtube.com/watch?v=yqoqz87Z_Ns">Automated testing has hidden benefits</a> (6 days ago) <br/>
 <img src="https://img.shields.io/youtube/views/yqoqz87Z_Ns?style=flat-square"> </img> 
 </td>
 </tr>
@@ -64,7 +64,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/_ITJN_dqtEs/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=_ITJN_dqtEs">NextJS : l&#39;avenir de React ?</a> (1 week ago) <br/>
+<a href="https://www.youtube.com/watch?v=_ITJN_dqtEs">NextJS : l&#39;avenir de React ?</a> (2 weeks ago) <br/>
 <img src="https://img.shields.io/youtube/views/_ITJN_dqtEs?style=flat-square"> </img> 
 </td>
 </tr>
