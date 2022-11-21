@@ -23,7 +23,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/Y6SIs3agbWY/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=Y6SIs3agbWY">How to make sure your code works (and keeps working)?</a> (1 day ago) <br/>
+<a href="https://www.youtube.com/watch?v=Y6SIs3agbWY">How to make sure your code works (and keeps working)?</a> (today) <br/>
 <img src="https://img.shields.io/youtube/views/Y6SIs3agbWY?style=flat-square"> </img> 
 </td>
 </tr>
