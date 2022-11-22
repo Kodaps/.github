@@ -9,7 +9,7 @@
 - [What are JavaScript Promises &amp; How to Use Them](https://javascript.plainenglish.io/what-are-javascript-promises-how-to-use-them-84fdff5757b9?source=rss-e68daed69805------2) (1 month ago)
 - [What is 42, the School With No Teachers?](https://levelup.gitconnected.com/what-is-42-the-school-with-no-teachers-7e4d0f9a80c1?source=rss-e68daed69805------2) (2 months ago)
 - [GraphQL vs REST](https://levelup.gitconnected.com/graphql-vs-rest-e918d9e0e271?source=rss-e68daed69805------2) (2 months ago)
-- [What is Astro?](https://javascript.plainenglish.io/what-is-astro-aa3369d5a7f4?source=rss-e68daed69805------2) (2 months ago)
+- [What is Astro?](https://javascript.plainenglish.io/what-is-astro-aa3369d5a7f4?source=rss-e68daed69805------2) (3 months ago)
 - [What is Art?](https://gosev.medium.com/what-is-art-2dce12548091?source=rss-e68daed69805------2) (3 months ago)
 - [How to Release Your Code Into the Wild](https://levelup.gitconnected.com/how-to-release-your-code-into-the-wild-dd144218cb9b?source=rss-e68daed69805------2) (3 months ago)
 - [5 Tips to Have Fun Using MidJourney AI Image Generation — The First Steps](https://gosev.medium.com/5-tips-to-have-fun-using-midjourney-ai-image-generation-the-first-steps-81cf44a53931?source=rss-e68daed69805------2) (4 months ago)
@@ -23,35 +23,35 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/Y6SIs3agbWY/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=Y6SIs3agbWY">Is your code fragile?</a> (today) <br/>
+<a href="https://www.youtube.com/watch?v=Y6SIs3agbWY">Is your code fragile?</a> (1 day ago) <br/>
 <img src="https://img.shields.io/youtube/views/Y6SIs3agbWY?style=flat-square"> </img> 
 </td>
 </tr>
 <tr>
 <td><img src="https://img.youtube.com/vi/C8Bs_qm8cbQ/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=C8Bs_qm8cbQ">console.log not working?</a> (3 days ago) <br/>
+<a href="https://www.youtube.com/watch?v=C8Bs_qm8cbQ">console.log not working?</a> (4 days ago) <br/>
 <img src="https://img.shields.io/youtube/views/C8Bs_qm8cbQ?style=flat-square"> </img> 
 </td>
 </tr>
 <tr>
 <td><img src="https://img.youtube.com/vi/IA1WiiXwMiE/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=IA1WiiXwMiE">Create responsive images with srcset and sizes</a> (4 days ago) <br/>
+<a href="https://www.youtube.com/watch?v=IA1WiiXwMiE">Create responsive images with srcset and sizes</a> (5 days ago) <br/>
 <img src="https://img.shields.io/youtube/views/IA1WiiXwMiE?style=flat-square"> </img> 
 </td>
 </tr>
 <tr>
 <td><img src="https://img.youtube.com/vi/vDUuABkES9k/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=vDUuABkES9k">In job interviews, make sure you ask the right questions</a> (5 days ago) <br/>
+<a href="https://www.youtube.com/watch?v=vDUuABkES9k">In job interviews, make sure you ask the right questions</a> (6 days ago) <br/>
 <img src="https://img.shields.io/youtube/views/vDUuABkES9k?style=flat-square"> </img> 
 </td>
 </tr>
 <tr>
 <td><img src="https://img.youtube.com/vi/yqoqz87Z_Ns/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=yqoqz87Z_Ns">Automated testing has hidden benefits</a> (6 days ago) <br/>
+<a href="https://www.youtube.com/watch?v=yqoqz87Z_Ns">Automated testing has hidden benefits</a> (1 week ago) <br/>
 <img src="https://img.shields.io/youtube/views/yqoqz87Z_Ns?style=flat-square"> </img> 
 </td>
 </tr>
@@ -64,7 +64,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/jklfwTnfYbE/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=jklfwTnfYbE">Comment faire du code solide ?</a> (today) <br/>
+<a href="https://www.youtube.com/watch?v=jklfwTnfYbE">Comment faire du code solide ?</a> (1 day ago) <br/>
 <img src="https://img.shields.io/youtube/views/jklfwTnfYbE?style=flat-square"> </img> 
 </td>
 </tr>
@@ -78,7 +78,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/QRxm-v35HUU/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=QRxm-v35HUU">Comment créer des prompts pour MidJourney</a> (4 weeks ago) <br/>
+<a href="https://www.youtube.com/watch?v=QRxm-v35HUU">Comment créer des prompts pour MidJourney</a> (1 month ago) <br/>
 <img src="https://img.shields.io/youtube/views/QRxm-v35HUU?style=flat-square"> </img> 
 </td>
 </tr>
