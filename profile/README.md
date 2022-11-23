@@ -23,7 +23,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/Y6SIs3agbWY/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=Y6SIs3agbWY">Is your code fragile?</a> (2 days ago) <br/>
+<a href="https://www.youtube.com/watch?v=Y6SIs3agbWY">How to write bug free code?</a> (2 days ago) <br/>
 <img src="https://img.shields.io/youtube/views/Y6SIs3agbWY?style=flat-square"> </img> 
 </td>
 </tr>
