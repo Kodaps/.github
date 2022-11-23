@@ -23,28 +23,28 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/Y6SIs3agbWY/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=Y6SIs3agbWY">Is your code fragile?</a> (1 day ago) <br/>
+<a href="https://www.youtube.com/watch?v=Y6SIs3agbWY">Is your code fragile?</a> (2 days ago) <br/>
 <img src="https://img.shields.io/youtube/views/Y6SIs3agbWY?style=flat-square"> </img> 
 </td>
 </tr>
 <tr>
 <td><img src="https://img.youtube.com/vi/C8Bs_qm8cbQ/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=C8Bs_qm8cbQ">console.log not working?</a> (4 days ago) <br/>
+<a href="https://www.youtube.com/watch?v=C8Bs_qm8cbQ">console.log not working?</a> (5 days ago) <br/>
 <img src="https://img.shields.io/youtube/views/C8Bs_qm8cbQ?style=flat-square"> </img> 
 </td>
 </tr>
 <tr>
 <td><img src="https://img.youtube.com/vi/IA1WiiXwMiE/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=IA1WiiXwMiE">Create responsive images with srcset and sizes</a> (5 days ago) <br/>
+<a href="https://www.youtube.com/watch?v=IA1WiiXwMiE">Create responsive images with srcset and sizes</a> (6 days ago) <br/>
 <img src="https://img.shields.io/youtube/views/IA1WiiXwMiE?style=flat-square"> </img> 
 </td>
 </tr>
 <tr>
 <td><img src="https://img.youtube.com/vi/vDUuABkES9k/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=vDUuABkES9k">In job interviews, make sure you ask the right questions</a> (6 days ago) <br/>
+<a href="https://www.youtube.com/watch?v=vDUuABkES9k">In job interviews, make sure you ask the right questions</a> (1 week ago) <br/>
 <img src="https://img.shields.io/youtube/views/vDUuABkES9k?style=flat-square"> </img> 
 </td>
 </tr>
@@ -64,7 +64,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/jklfwTnfYbE/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=jklfwTnfYbE">Comment faire du code solide ?</a> (1 day ago) <br/>
+<a href="https://www.youtube.com/watch?v=jklfwTnfYbE">Comment faire du code solide ?</a> (2 days ago) <br/>
 <img src="https://img.shields.io/youtube/views/jklfwTnfYbE?style=flat-square"> </img> 
 </td>
 </tr>
@@ -170,7 +170,7 @@
 
 #### 📓 Gists I wrote
 
-- [](https://gist.github.com/ce3defb6415b67ec03f48fa11fc158f0) (1 year ago)
+- [](https://gist.github.com/ce3defb6415b67ec03f48fa11fc158f0) (2 years ago)
 - [pages/jokes.tsx in NextJS : useEffect &#43; useState &#43; Axios ](https://gist.github.com/fbd960d5a653bf0f527678f038d5bee1) (2 years ago)
 - [NextJS copy index.html files to their folder name](https://gist.github.com/e04abeb6079273b3be54ee6496a0b309) (2 years ago)
 - [](https://gist.github.com/a144834b9542ab523a10) (6 years ago)
