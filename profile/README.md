@@ -6,7 +6,7 @@
 ## 📜 🇬🇧 My recent blog posts
 
 - [The 7 JavaScript Skills You Need for React](https://javascript.plainenglish.io/the-7-javascript-skills-you-need-for-react-9244169ca80a?source=rss-e68daed69805------2) (1 month ago)
-- [What are JavaScript Promises &amp; How to Use Them](https://javascript.plainenglish.io/what-are-javascript-promises-how-to-use-them-84fdff5757b9?source=rss-e68daed69805------2) (1 month ago)
+- [What are JavaScript Promises &amp; How to Use Them](https://javascript.plainenglish.io/what-are-javascript-promises-how-to-use-them-84fdff5757b9?source=rss-e68daed69805------2) (2 months ago)
 - [What is 42, the School With No Teachers?](https://levelup.gitconnected.com/what-is-42-the-school-with-no-teachers-7e4d0f9a80c1?source=rss-e68daed69805------2) (2 months ago)
 - [GraphQL vs REST](https://levelup.gitconnected.com/graphql-vs-rest-e918d9e0e271?source=rss-e68daed69805------2) (2 months ago)
 - [What is Astro?](https://javascript.plainenglish.io/what-is-astro-aa3369d5a7f4?source=rss-e68daed69805------2) (3 months ago)
@@ -23,7 +23,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/Y6SIs3agbWY/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=Y6SIs3agbWY">How to write bug free code?</a> (6 days ago) <br/>
+<a href="https://www.youtube.com/watch?v=Y6SIs3agbWY">How to write bug free code?</a> (1 week ago) <br/>
 <img src="https://img.shields.io/youtube/views/Y6SIs3agbWY?style=flat-square"> </img> 
 </td>
 </tr>
@@ -64,14 +64,14 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/jklfwTnfYbE/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=jklfwTnfYbE">Comment faire du code solide ?</a> (6 days ago) <br/>
+<a href="https://www.youtube.com/watch?v=jklfwTnfYbE">Comment faire du code solide ?</a> (1 week ago) <br/>
 <img src="https://img.shields.io/youtube/views/jklfwTnfYbE?style=flat-square"> </img> 
 </td>
 </tr>
 <tr>
 <td><img src="https://img.youtube.com/vi/_ITJN_dqtEs/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=_ITJN_dqtEs">NextJS : l&#39;avenir de React ?</a> (2 weeks ago) <br/>
+<a href="https://www.youtube.com/watch?v=_ITJN_dqtEs">NextJS : l&#39;avenir de React ?</a> (3 weeks ago) <br/>
 <img src="https://img.shields.io/youtube/views/_ITJN_dqtEs?style=flat-square"> </img> 
 </td>
 </tr>
