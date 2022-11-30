@@ -44,7 +44,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/vDUuABkES9k/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=vDUuABkES9k">In job interviews, make sure you ask the right questions</a> (1 week ago) <br/>
+<a href="https://www.youtube.com/watch?v=vDUuABkES9k">In job interviews, make sure you ask the right questions</a> (2 weeks ago) <br/>
 <img src="https://img.shields.io/youtube/views/vDUuABkES9k?style=flat-square"> </img> 
 </td>
 </tr>
