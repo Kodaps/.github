@@ -30,7 +30,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/C8Bs_qm8cbQ/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=C8Bs_qm8cbQ">console.log not working?</a> (1 week ago) <br/>
+<a href="https://www.youtube.com/watch?v=C8Bs_qm8cbQ">console.log not working?</a> (2 weeks ago) <br/>
 <img src="https://img.shields.io/youtube/views/C8Bs_qm8cbQ?style=flat-square"> </img> 
 </td>
 </tr>
@@ -92,7 +92,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/HrrBtXKWtlg/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=HrrBtXKWtlg">JavaScript : 7 choses à maîtriser pour React</a> (1 month ago) <br/>
+<a href="https://www.youtube.com/watch?v=HrrBtXKWtlg">JavaScript : 7 choses à maîtriser pour React</a> (2 months ago) <br/>
 <img src="https://img.shields.io/youtube/views/HrrBtXKWtlg?style=flat-square"> </img> 
 </td>
 </tr>
