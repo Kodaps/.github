@@ -21,6 +21,13 @@
 <table>
 
 <tr>
+<td><img src="https://img.youtube.com/vi/zUFjC8uEwxQ/default.jpg"></img></td>
+<td>
+<a href="https://www.youtube.com/watch?v=zUFjC8uEwxQ">Are slow pages killing your website?</a> (today) <br/>
+<img src="https://img.shields.io/youtube/views/zUFjC8uEwxQ?style=flat-square"> </img> 
+</td>
+</tr>
+<tr>
 <td><img src="https://img.youtube.com/vi/Y6SIs3agbWY/default.jpg"></img></td>
 <td>
 <a href="https://www.youtube.com/watch?v=Y6SIs3agbWY">How to write bug free code?</a> (3 weeks ago) <br/>
@@ -46,13 +53,6 @@
 <td>
 <a href="https://www.youtube.com/watch?v=vDUuABkES9k">In job interviews, make sure you ask the right questions</a> (3 weeks ago) <br/>
 <img src="https://img.shields.io/youtube/views/vDUuABkES9k?style=flat-square"> </img> 
-</td>
-</tr>
-<tr>
-<td><img src="https://img.youtube.com/vi/yqoqz87Z_Ns/default.jpg"></img></td>
-<td>
-<a href="https://www.youtube.com/watch?v=yqoqz87Z_Ns">Automated testing has hidden benefits</a> (3 weeks ago) <br/>
-<img src="https://img.shields.io/youtube/views/yqoqz87Z_Ns?style=flat-square"> </img> 
 </td>
 </tr>
 </table>
