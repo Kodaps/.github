@@ -23,7 +23,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/zUFjC8uEwxQ/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=zUFjC8uEwxQ">Are slow pages killing your website?</a> (today) <br/>
+<a href="https://www.youtube.com/watch?v=zUFjC8uEwxQ">Are slow pages killing your website?</a> (1 day ago) <br/>
 <img src="https://img.shields.io/youtube/views/zUFjC8uEwxQ?style=flat-square"> </img> 
 </td>
 </tr>
