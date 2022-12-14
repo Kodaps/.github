@@ -23,7 +23,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/zUFjC8uEwxQ/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=zUFjC8uEwxQ">9 Tips to Speed Up Your Website!</a> (1 day ago) <br/>
+<a href="https://www.youtube.com/watch?v=zUFjC8uEwxQ">9 Tips to Speed Up Your Website!</a> (2 days ago) <br/>
 <img src="https://img.shields.io/youtube/views/zUFjC8uEwxQ?style=flat-square"> </img> 
 </td>
 </tr>
@@ -51,7 +51,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/vDUuABkES9k/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=vDUuABkES9k">In job interviews, make sure you ask the right questions</a> (3 weeks ago) <br/>
+<a href="https://www.youtube.com/watch?v=vDUuABkES9k">In job interviews, make sure you ask the right questions</a> (4 weeks ago) <br/>
 <img src="https://img.shields.io/youtube/views/vDUuABkES9k?style=flat-square"> </img> 
 </td>
 </tr>
@@ -142,8 +142,8 @@
 - [Kodaps/.github](https://github.com/Kodaps/.github) - Public profile (6 months ago)
 - [Gosev/TestRepository](https://github.com/Gosev/TestRepository) -  (6 months ago)
 - [Kodaps/GitFirstSteps](https://github.com/Kodaps/GitFirstSteps) - First steps with git - a tutorial repository (6 months ago)
-- [Kodaps/JSFirstSteps](https://github.com/Kodaps/JSFirstSteps) - Contents for JS course (6 months ago)
-- [DavidKodaps/demo-package](https://github.com/DavidKodaps/demo-package) - Demo NPM package (10 months ago)
+- [Kodaps/JSFirstSteps](https://github.com/Kodaps/JSFirstSteps) - Contents for JS course (7 months ago)
+- [DavidKodaps/demo-package](https://github.com/DavidKodaps/demo-package) - Demo NPM package (11 months ago)
 - [Kodaps/Api-Typescript-Sls](https://github.com/Kodaps/Api-Typescript-Sls) - Serverless NodeJS &#43; Typescript API  (11 months ago)
 
 #### 🌱 My latest projects
