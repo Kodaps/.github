@@ -62,6 +62,13 @@
 <table>
 
 <tr>
+<td><img src="https://img.youtube.com/vi/jIp9ghB9eRg/default.jpg"></img></td>
+<td>
+<a href="https://www.youtube.com/watch?v=jIp9ghB9eRg">Comment coder des pages rapides ? Essayez CECI !</a> (today) <br/>
+<img src="https://img.shields.io/youtube/views/jIp9ghB9eRg?style=flat-square"> </img> 
+</td>
+</tr>
+<tr>
 <td><img src="https://img.youtube.com/vi/jklfwTnfYbE/default.jpg"></img></td>
 <td>
 <a href="https://www.youtube.com/watch?v=jklfwTnfYbE">Comment faire du code solide ?</a> (3 weeks ago) <br/>
@@ -122,13 +129,6 @@
 <td>
 <a href="https://www.youtube.com/watch?v=Zl6hAdB2LVE">Une IA qui crée de l’art ? (Un aperçu de MidJourney)</a> (4 months ago) <br/>
 <img src="https://img.shields.io/youtube/views/Zl6hAdB2LVE?style=flat-square"> </img> 
-</td>
-</tr>
-<tr>
-<td><img src="https://img.youtube.com/vi/A3lJWEyo088/default.jpg"></img></td>
-<td>
-<a href="https://www.youtube.com/watch?v=A3lJWEyo088">Entretien avec une IA : est-elle consciente ?</a> (4 months ago) <br/>
-<img src="https://img.shields.io/youtube/views/A3lJWEyo088?style=flat-square"> </img> 
 </td>
 </tr>
 </table>
