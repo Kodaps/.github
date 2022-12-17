@@ -23,7 +23,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/zUFjC8uEwxQ/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=zUFjC8uEwxQ">9 Tips to Speed Up Your Website!</a> (4 days ago) <br/>
+<a href="https://www.youtube.com/watch?v=zUFjC8uEwxQ">9 Tips to Speed Up Your Website!</a> (5 days ago) <br/>
 <img src="https://img.shields.io/youtube/views/zUFjC8uEwxQ?style=flat-square"> </img> 
 </td>
 </tr>
@@ -44,7 +44,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/IA1WiiXwMiE/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=IA1WiiXwMiE">Create responsive images with srcset and sizes</a> (4 weeks ago) <br/>
+<a href="https://www.youtube.com/watch?v=IA1WiiXwMiE">Create responsive images with srcset and sizes</a> (1 month ago) <br/>
 <img src="https://img.shields.io/youtube/views/IA1WiiXwMiE?style=flat-square"> </img> 
 </td>
 </tr>
@@ -64,7 +64,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/jIp9ghB9eRg/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=jIp9ghB9eRg">Comment coder des pages rapides ? Essayez CECI !</a> (today) <br/>
+<a href="https://www.youtube.com/watch?v=jIp9ghB9eRg">Comment coder des pages rapides ? Essayez CECI !</a> (1 day ago) <br/>
 <img src="https://img.shields.io/youtube/views/jIp9ghB9eRg?style=flat-square"> </img> 
 </td>
 </tr>
@@ -135,7 +135,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Gosev/QwikTailwind](https://github.com/Gosev/QwikTailwind) - Test of QuickCity &#43; Tailwind template  (1 week ago)
+- [Gosev/QwikTailwind](https://github.com/Gosev/QwikTailwind) - Test of QuickCity &#43; Tailwind template  (2 weeks ago)
 - [Gosev/AstroBlog](https://github.com/Gosev/AstroBlog) -  (3 months ago)
 - [Gosev/nextjs-blog](https://github.com/Gosev/nextjs-blog) -  (3 months ago)
 - [Kodaps/faker](https://github.com/Kodaps/faker) - Test data for exercises based on SWAPI (4 months ago)
