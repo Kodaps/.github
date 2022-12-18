@@ -23,7 +23,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/zUFjC8uEwxQ/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=zUFjC8uEwxQ">9 Tips to Speed Up Your Website!</a> (5 days ago) <br/>
+<a href="https://www.youtube.com/watch?v=zUFjC8uEwxQ">9 Tips to Speed Up Your Website!</a> (6 days ago) <br/>
 <img src="https://img.shields.io/youtube/views/zUFjC8uEwxQ?style=flat-square"> </img> 
 </td>
 </tr>
@@ -37,7 +37,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/C8Bs_qm8cbQ/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=C8Bs_qm8cbQ">console.log not working?</a> (4 weeks ago) <br/>
+<a href="https://www.youtube.com/watch?v=C8Bs_qm8cbQ">console.log not working?</a> (1 month ago) <br/>
 <img src="https://img.shields.io/youtube/views/C8Bs_qm8cbQ?style=flat-square"> </img> 
 </td>
 </tr>
@@ -64,7 +64,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/jIp9ghB9eRg/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=jIp9ghB9eRg">Comment coder des pages rapides ? Essayez CECI !</a> (1 day ago) <br/>
+<a href="https://www.youtube.com/watch?v=jIp9ghB9eRg">Comment coder des pages rapides ? Essayez CECI !</a> (2 days ago) <br/>
 <img src="https://img.shields.io/youtube/views/jIp9ghB9eRg?style=flat-square"> </img> 
 </td>
 </tr>
@@ -106,7 +106,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/YTezImw4xKU/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=YTezImw4xKU">42, une l&#39;école de code sans profs ?</a> (2 months ago) <br/>
+<a href="https://www.youtube.com/watch?v=YTezImw4xKU">42, une l&#39;école de code sans profs ?</a> (3 months ago) <br/>
 <img src="https://img.shields.io/youtube/views/YTezImw4xKU?style=flat-square"> </img> 
 </td>
 </tr>
@@ -137,7 +137,7 @@
 
 - [Gosev/QwikTailwind](https://github.com/Gosev/QwikTailwind) - Test of QuickCity &#43; Tailwind template  (2 weeks ago)
 - [Gosev/AstroBlog](https://github.com/Gosev/AstroBlog) -  (3 months ago)
-- [Gosev/nextjs-blog](https://github.com/Gosev/nextjs-blog) -  (3 months ago)
+- [Gosev/nextjs-blog](https://github.com/Gosev/nextjs-blog) -  (4 months ago)
 - [Kodaps/faker](https://github.com/Kodaps/faker) - Test data for exercises based on SWAPI (4 months ago)
 - [Kodaps/.github](https://github.com/Kodaps/.github) - Public profile (6 months ago)
 - [Gosev/TestRepository](https://github.com/Gosev/TestRepository) -  (6 months ago)
