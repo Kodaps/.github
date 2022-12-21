@@ -30,7 +30,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/Y6SIs3agbWY/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=Y6SIs3agbWY">Testing: How To Write Solid Code</a> (4 weeks ago) <br/>
+<a href="https://www.youtube.com/watch?v=Y6SIs3agbWY">Testing: How To Write Solid Code</a> (1 month ago) <br/>
 <img src="https://img.shields.io/youtube/views/Y6SIs3agbWY?style=flat-square"> </img> 
 </td>
 </tr>
@@ -64,14 +64,14 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/jIp9ghB9eRg/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=jIp9ghB9eRg">Comment coder des pages rapides ? Essayez CECI !</a> (4 days ago) <br/>
+<a href="https://www.youtube.com/watch?v=jIp9ghB9eRg">Comment coder des pages rapides ? Essayez CECI !</a> (5 days ago) <br/>
 <img src="https://img.shields.io/youtube/views/jIp9ghB9eRg?style=flat-square"> </img> 
 </td>
 </tr>
 <tr>
 <td><img src="https://img.youtube.com/vi/jklfwTnfYbE/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=jklfwTnfYbE">Comment faire du code solide ?</a> (4 weeks ago) <br/>
+<a href="https://www.youtube.com/watch?v=jklfwTnfYbE">Comment faire du code solide ?</a> (1 month ago) <br/>
 <img src="https://img.shields.io/youtube/views/jklfwTnfYbE?style=flat-square"> </img> 
 </td>
 </tr>
