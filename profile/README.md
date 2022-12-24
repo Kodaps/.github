@@ -135,7 +135,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Gosev/QwikTailwind](https://github.com/Gosev/QwikTailwind) - Test of QuickCity &#43; Tailwind template  (2 weeks ago)
+- [Gosev/QwikTailwind](https://github.com/Gosev/QwikTailwind) - Test of QuickCity &#43; Tailwind template  (3 weeks ago)
 - [Gosev/AstroBlog](https://github.com/Gosev/AstroBlog) -  (3 months ago)
 - [Gosev/nextjs-blog](https://github.com/Gosev/nextjs-blog) -  (4 months ago)
 - [Kodaps/faker](https://github.com/Kodaps/faker) - Test data for exercises based on SWAPI (4 months ago)
