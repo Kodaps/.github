@@ -21,9 +21,16 @@
 <table>
 
 <tr>
+<td><img src="https://img.youtube.com/vi/QrIS__S1Q7A/default.jpg"></img></td>
+<td>
+<a href="https://www.youtube.com/watch?v=QrIS__S1Q7A">What Is Redis?</a> (today) <br/>
+<img src="https://img.shields.io/youtube/views/QrIS__S1Q7A?style=flat-square"> </img> 
+</td>
+</tr>
+<tr>
 <td><img src="https://img.youtube.com/vi/zUFjC8uEwxQ/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=zUFjC8uEwxQ">9 Tips to Speed Up Your Website!</a> (2 weeks ago) <br/>
+<a href="https://www.youtube.com/watch?v=zUFjC8uEwxQ">9 Tips For a Faster (and Greener) Website!</a> (2 weeks ago) <br/>
 <img src="https://img.shields.io/youtube/views/zUFjC8uEwxQ?style=flat-square"> </img> 
 </td>
 </tr>
@@ -46,13 +53,6 @@
 <td>
 <a href="https://www.youtube.com/watch?v=IA1WiiXwMiE">Create responsive images with srcset and sizes</a> (1 month ago) <br/>
 <img src="https://img.shields.io/youtube/views/IA1WiiXwMiE?style=flat-square"> </img> 
-</td>
-</tr>
-<tr>
-<td><img src="https://img.youtube.com/vi/vDUuABkES9k/default.jpg"></img></td>
-<td>
-<a href="https://www.youtube.com/watch?v=vDUuABkES9k">In job interviews, make sure you ask the right questions</a> (1 month ago) <br/>
-<img src="https://img.shields.io/youtube/views/vDUuABkES9k?style=flat-square"> </img> 
 </td>
 </tr>
 </table>
