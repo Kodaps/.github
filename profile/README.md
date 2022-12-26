@@ -23,7 +23,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/QrIS__S1Q7A/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=QrIS__S1Q7A">What Is Redis?</a> (today) <br/>
+<a href="https://www.youtube.com/watch?v=QrIS__S1Q7A">What Is Redis? (and why use it?)</a> (today) <br/>
 <img src="https://img.shields.io/youtube/views/QrIS__S1Q7A?style=flat-square"> </img> 
 </td>
 </tr>
