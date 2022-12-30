@@ -23,7 +23,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/QrIS__S1Q7A/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=QrIS__S1Q7A">What Is Redis? (and why use it?)</a> (3 days ago) <br/>
+<a href="https://www.youtube.com/watch?v=QrIS__S1Q7A">What Is Redis? (and why use it?)</a> (4 days ago) <br/>
 <img src="https://img.shields.io/youtube/views/QrIS__S1Q7A?style=flat-square"> </img> 
 </td>
 </tr>
@@ -64,7 +64,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/jIp9ghB9eRg/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=jIp9ghB9eRg">Eco conception et pages web rapides ? Essayez CECI !</a> (1 week ago) <br/>
+<a href="https://www.youtube.com/watch?v=jIp9ghB9eRg">Eco conception et pages web rapides ? Essayez CECI !</a> (2 weeks ago) <br/>
 <img src="https://img.shields.io/youtube/views/jIp9ghB9eRg?style=flat-square"> </img> 
 </td>
 </tr>
