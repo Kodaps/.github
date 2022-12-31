@@ -8,7 +8,7 @@
 - [The 7 JavaScript Skills You Need for React](https://javascript.plainenglish.io/the-7-javascript-skills-you-need-for-react-9244169ca80a?source=rss-e68daed69805------2) (2 months ago)
 - [What are JavaScript Promises &amp; How to Use Them](https://javascript.plainenglish.io/what-are-javascript-promises-how-to-use-them-84fdff5757b9?source=rss-e68daed69805------2) (3 months ago)
 - [What is 42, the School With No Teachers?](https://levelup.gitconnected.com/what-is-42-the-school-with-no-teachers-7e4d0f9a80c1?source=rss-e68daed69805------2) (3 months ago)
-- [GraphQL vs REST](https://levelup.gitconnected.com/graphql-vs-rest-e918d9e0e271?source=rss-e68daed69805------2) (3 months ago)
+- [GraphQL vs REST](https://levelup.gitconnected.com/graphql-vs-rest-e918d9e0e271?source=rss-e68daed69805------2) (4 months ago)
 - [What is Astro?](https://javascript.plainenglish.io/what-is-astro-aa3369d5a7f4?source=rss-e68daed69805------2) (4 months ago)
 - [What is Art?](https://gosev.medium.com/what-is-art-2dce12548091?source=rss-e68daed69805------2) (4 months ago)
 - [How to Release Your Code Into the Wild](https://levelup.gitconnected.com/how-to-release-your-code-into-the-wild-dd144218cb9b?source=rss-e68daed69805------2) (4 months ago)
@@ -23,7 +23,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/QrIS__S1Q7A/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=QrIS__S1Q7A">What Is Redis? (and why use it?)</a> (4 days ago) <br/>
+<a href="https://www.youtube.com/watch?v=QrIS__S1Q7A">What Is Redis? (and why use it?)</a> (5 days ago) <br/>
 <img src="https://img.shields.io/youtube/views/QrIS__S1Q7A?style=flat-square"> </img> 
 </td>
 </tr>
@@ -135,7 +135,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Gosev/QwikTailwind](https://github.com/Gosev/QwikTailwind) - Test of QuickCity &#43; Tailwind template  (3 weeks ago)
+- [Gosev/QwikTailwind](https://github.com/Gosev/QwikTailwind) - Test of QuickCity &#43; Tailwind template  (4 weeks ago)
 - [Gosev/AstroBlog](https://github.com/Gosev/AstroBlog) -  (4 months ago)
 - [Gosev/nextjs-blog](https://github.com/Gosev/nextjs-blog) -  (4 months ago)
 - [Kodaps/faker](https://github.com/Kodaps/faker) - Test data for exercises based on SWAPI (4 months ago)
