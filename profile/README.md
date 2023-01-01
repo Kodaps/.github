@@ -21,6 +21,13 @@
 <table>
 
 <tr>
+<td><img src="https://img.youtube.com/vi/Oc_gDCbSG5o/default.jpg"></img></td>
+<td>
+<a href="https://www.youtube.com/watch?v=Oc_gDCbSG5o">Tech trends of 2022 to watch out for in 2023</a> (today) <br/>
+<img src="https://img.shields.io/youtube/views/Oc_gDCbSG5o?style=flat-square"> </img> 
+</td>
+</tr>
+<tr>
 <td><img src="https://img.youtube.com/vi/QrIS__S1Q7A/default.jpg"></img></td>
 <td>
 <a href="https://www.youtube.com/watch?v=QrIS__S1Q7A">What Is Redis? (and why use it?)</a> (6 days ago) <br/>
@@ -48,19 +55,19 @@
 <img src="https://img.shields.io/youtube/views/C8Bs_qm8cbQ?style=flat-square"> </img> 
 </td>
 </tr>
-<tr>
-<td><img src="https://img.youtube.com/vi/IA1WiiXwMiE/default.jpg"></img></td>
-<td>
-<a href="https://www.youtube.com/watch?v=IA1WiiXwMiE">Create responsive images with srcset and sizes</a> (1 month ago) <br/>
-<img src="https://img.shields.io/youtube/views/IA1WiiXwMiE?style=flat-square"> </img> 
-</td>
-</tr>
 </table>
 
 ## 📜 🇫🇷 My recent French videos
 <img src="https://img.shields.io/youtube/channel/subscribers/UCzdX32OIhpfrdxQRhN2s98w?style=for-the-badge"></img>
 <table>
 
+<tr>
+<td><img src="https://img.youtube.com/vi/AX-Ucc2CZJw/default.jpg"></img></td>
+<td>
+<a href="https://www.youtube.com/watch?v=AX-Ucc2CZJw">Le tendances de 2022 à surveiller en 2023</a> (today) <br/>
+<img src="https://img.shields.io/youtube/views/AX-Ucc2CZJw?style=flat-square"> </img> 
+</td>
+</tr>
 <tr>
 <td><img src="https://img.youtube.com/vi/jIp9ghB9eRg/default.jpg"></img></td>
 <td>
@@ -122,13 +129,6 @@
 <td>
 <a href="https://www.youtube.com/watch?v=TJIYao7_B6w">Facilitez-vous la vie avec GitHub Actions (et release-it)</a> (4 months ago) <br/>
 <img src="https://img.shields.io/youtube/views/TJIYao7_B6w?style=flat-square"> </img> 
-</td>
-</tr>
-<tr>
-<td><img src="https://img.youtube.com/vi/Zl6hAdB2LVE/default.jpg"></img></td>
-<td>
-<a href="https://www.youtube.com/watch?v=Zl6hAdB2LVE">Une IA qui crée de l’art ? (Un aperçu de MidJourney)</a> (4 months ago) <br/>
-<img src="https://img.shields.io/youtube/views/Zl6hAdB2LVE?style=flat-square"> </img> 
 </td>
 </tr>
 </table>
