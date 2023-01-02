@@ -23,7 +23,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/Oc_gDCbSG5o/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=Oc_gDCbSG5o">Tech trends of 2022 to watch out for in 2023</a> (1 day ago) <br/>
+<a href="https://www.youtube.com/watch?v=Oc_gDCbSG5o">Tech trends of 2022 to watch out for in 2023</a> (today) <br/>
 <img src="https://img.shields.io/youtube/views/Oc_gDCbSG5o?style=flat-square"> </img> 
 </td>
 </tr>
