@@ -23,7 +23,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/Oc_gDCbSG5o/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=Oc_gDCbSG5o">Tech trends of 2022 to watch out for in 2023</a> (3 days ago) <br/>
+<a href="https://www.youtube.com/watch?v=Oc_gDCbSG5o">Tech trends of 2022 to watch out for in 2023</a> (4 days ago) <br/>
 <img src="https://img.shields.io/youtube/views/Oc_gDCbSG5o?style=flat-square"> </img> 
 </td>
 </tr>
@@ -64,14 +64,14 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/AX-Ucc2CZJw/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=AX-Ucc2CZJw">Les tendances de 2022 à surveiller en 2023</a> (3 days ago) <br/>
+<a href="https://www.youtube.com/watch?v=AX-Ucc2CZJw">Les tendances de 2022 à surveiller en 2023</a> (4 days ago) <br/>
 <img src="https://img.shields.io/youtube/views/AX-Ucc2CZJw?style=flat-square"> </img> 
 </td>
 </tr>
 <tr>
 <td><img src="https://img.youtube.com/vi/jIp9ghB9eRg/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=jIp9ghB9eRg">Eco conception et pages web rapides ? Essayez CECI !</a> (2 weeks ago) <br/>
+<a href="https://www.youtube.com/watch?v=jIp9ghB9eRg">Eco conception et pages web rapides ? Essayez CECI !</a> (3 weeks ago) <br/>
 <img src="https://img.shields.io/youtube/views/jIp9ghB9eRg?style=flat-square"> </img> 
 </td>
 </tr>
@@ -85,7 +85,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/_ITJN_dqtEs/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=_ITJN_dqtEs">NextJS : l&#39;avenir de React ?</a> (1 month ago) <br/>
+<a href="https://www.youtube.com/watch?v=_ITJN_dqtEs">NextJS : l&#39;avenir de React ?</a> (2 months ago) <br/>
 <img src="https://img.shields.io/youtube/views/_ITJN_dqtEs?style=flat-square"> </img> 
 </td>
 </tr>
