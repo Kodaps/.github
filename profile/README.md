@@ -23,7 +23,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/Oc_gDCbSG5o/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=Oc_gDCbSG5o">Tech trends of 2022 to watch out for in 2023</a> (4 days ago) <br/>
+<a href="https://www.youtube.com/watch?v=Oc_gDCbSG5o">Tech trends of 2022 to watch out for in 2023</a> (5 days ago) <br/>
 <img src="https://img.shields.io/youtube/views/Oc_gDCbSG5o?style=flat-square"> </img> 
 </td>
 </tr>
@@ -64,7 +64,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/AX-Ucc2CZJw/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=AX-Ucc2CZJw">Les tendances de 2022 à surveiller en 2023</a> (4 days ago) <br/>
+<a href="https://www.youtube.com/watch?v=AX-Ucc2CZJw">Les tendances de 2022 à surveiller en 2023</a> (5 days ago) <br/>
 <img src="https://img.shields.io/youtube/views/AX-Ucc2CZJw?style=flat-square"> </img> 
 </td>
 </tr>
@@ -139,7 +139,7 @@
 - [Gosev/AstroBlog](https://github.com/Gosev/AstroBlog) -  (4 months ago)
 - [Gosev/nextjs-blog](https://github.com/Gosev/nextjs-blog) -  (4 months ago)
 - [Kodaps/faker](https://github.com/Kodaps/faker) - Test data for exercises based on SWAPI (4 months ago)
-- [Kodaps/.github](https://github.com/Kodaps/.github) - Public profile (6 months ago)
+- [Kodaps/.github](https://github.com/Kodaps/.github) - Public profile (7 months ago)
 - [Gosev/TestRepository](https://github.com/Gosev/TestRepository) -  (7 months ago)
 - [Kodaps/GitFirstSteps](https://github.com/Kodaps/GitFirstSteps) - First steps with git - a tutorial repository (7 months ago)
 - [Kodaps/JSFirstSteps](https://github.com/Kodaps/JSFirstSteps) - Contents for JS course (7 months ago)
