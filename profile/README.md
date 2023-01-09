@@ -23,28 +23,28 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/0vyKi08jLcw/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=0vyKi08jLcw">Lessons Learned from Managing a Disaster of a Project</a> (today) <br/>
+<a href="https://www.youtube.com/watch?v=0vyKi08jLcw">Lessons Learned from Managing a Disaster of a Project</a> (1 day ago) <br/>
 <img src="https://img.shields.io/youtube/views/0vyKi08jLcw?style=flat-square"> </img> 
 </td>
 </tr>
 <tr>
 <td><img src="https://img.youtube.com/vi/Oc_gDCbSG5o/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=Oc_gDCbSG5o">Tech trends of 2022 to watch out for in 2023</a> (6 days ago) <br/>
+<a href="https://www.youtube.com/watch?v=Oc_gDCbSG5o">Tech trends of 2022 to watch out for in 2023</a> (1 week ago) <br/>
 <img src="https://img.shields.io/youtube/views/Oc_gDCbSG5o?style=flat-square"> </img> 
 </td>
 </tr>
 <tr>
 <td><img src="https://img.youtube.com/vi/QrIS__S1Q7A/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=QrIS__S1Q7A">What Is Redis? (and why use it?)</a> (1 week ago) <br/>
+<a href="https://www.youtube.com/watch?v=QrIS__S1Q7A">What Is Redis? (and why use it?)</a> (2 weeks ago) <br/>
 <img src="https://img.shields.io/youtube/views/QrIS__S1Q7A?style=flat-square"> </img> 
 </td>
 </tr>
 <tr>
 <td><img src="https://img.youtube.com/vi/zUFjC8uEwxQ/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=zUFjC8uEwxQ">9 Tips For a Faster (and Greener) Website!</a> (3 weeks ago) <br/>
+<a href="https://www.youtube.com/watch?v=zUFjC8uEwxQ">9 Tips For a Faster (and Greener) Website!</a> (4 weeks ago) <br/>
 <img src="https://img.shields.io/youtube/views/zUFjC8uEwxQ?style=flat-square"> </img> 
 </td>
 </tr>
@@ -64,14 +64,14 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/nrfm7T8fnWk/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=nrfm7T8fnWk">Le Projet Infernal (et ce que j&#39;en ai appris)</a> (today) <br/>
+<a href="https://www.youtube.com/watch?v=nrfm7T8fnWk">Le Projet Infernal (et ce que j&#39;en ai appris)</a> (1 day ago) <br/>
 <img src="https://img.shields.io/youtube/views/nrfm7T8fnWk?style=flat-square"> </img> 
 </td>
 </tr>
 <tr>
 <td><img src="https://img.youtube.com/vi/AX-Ucc2CZJw/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=AX-Ucc2CZJw">Les tendances de 2022 à surveiller en 2023</a> (6 days ago) <br/>
+<a href="https://www.youtube.com/watch?v=AX-Ucc2CZJw">Les tendances de 2022 à surveiller en 2023</a> (1 week ago) <br/>
 <img src="https://img.shields.io/youtube/views/AX-Ucc2CZJw?style=flat-square"> </img> 
 </td>
 </tr>
