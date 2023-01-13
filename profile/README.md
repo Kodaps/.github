@@ -23,7 +23,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/0vyKi08jLcw/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=0vyKi08jLcw">The Disaster Project &amp; the Lessons Learned</a> (3 days ago) <br/>
+<a href="https://www.youtube.com/watch?v=0vyKi08jLcw">The Disaster Project &amp; the Lessons Learned</a> (4 days ago) <br/>
 <img src="https://img.shields.io/youtube/views/0vyKi08jLcw?style=flat-square"> </img> 
 </td>
 </tr>
@@ -64,7 +64,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/nrfm7T8fnWk/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=nrfm7T8fnWk">Le Projet Infernal de Jeux Video (&amp; 3 Lessons que j&#39;en tire)</a> (3 days ago) <br/>
+<a href="https://www.youtube.com/watch?v=nrfm7T8fnWk">Le Projet Infernal de Jeux Video (&amp; 3 Lessons que j&#39;en tire)</a> (4 days ago) <br/>
 <img src="https://img.shields.io/youtube/views/nrfm7T8fnWk?style=flat-square"> </img> 
 </td>
 </tr>
@@ -78,7 +78,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/jIp9ghB9eRg/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=jIp9ghB9eRg">Eco conception et pages web rapides ? Essayez CECI !</a> (3 weeks ago) <br/>
+<a href="https://www.youtube.com/watch?v=jIp9ghB9eRg">Eco conception et pages web rapides ? Essayez CECI !</a> (4 weeks ago) <br/>
 <img src="https://img.shields.io/youtube/views/jIp9ghB9eRg?style=flat-square"> </img> 
 </td>
 </tr>
@@ -142,8 +142,8 @@
 - [Kodaps/.github](https://github.com/Kodaps/.github) - Public profile (7 months ago)
 - [Gosev/TestRepository](https://github.com/Gosev/TestRepository) -  (7 months ago)
 - [Kodaps/GitFirstSteps](https://github.com/Kodaps/GitFirstSteps) - First steps with git - a tutorial repository (7 months ago)
-- [Kodaps/JSFirstSteps](https://github.com/Kodaps/JSFirstSteps) - Contents for JS course (7 months ago)
-- [DavidKodaps/demo-package](https://github.com/DavidKodaps/demo-package) - Demo NPM package (11 months ago)
+- [Kodaps/JSFirstSteps](https://github.com/Kodaps/JSFirstSteps) - Contents for JS course (8 months ago)
+- [DavidKodaps/demo-package](https://github.com/DavidKodaps/demo-package) - Demo NPM package (1 year ago)
 
 #### 🌱 My latest projects
 
