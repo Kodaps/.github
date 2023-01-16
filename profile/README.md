@@ -62,6 +62,13 @@
 <table>
 
 <tr>
+<td><img src="https://img.youtube.com/vi/pAFTSkGUfiI/default.jpg"></img></td>
+<td>
+<a href="https://www.youtube.com/watch?v=pAFTSkGUfiI">5 Projets de Dev Web A Découvrir (&amp; Suivre De Près)</a> (today) <br/>
+<img src="https://img.shields.io/youtube/views/pAFTSkGUfiI?style=flat-square"> </img> 
+</td>
+</tr>
+<tr>
 <td><img src="https://img.youtube.com/vi/nrfm7T8fnWk/default.jpg"></img></td>
 <td>
 <a href="https://www.youtube.com/watch?v=nrfm7T8fnWk">Le Projet Infernal de Jeux Video (&amp; 3 Lessons que j&#39;en tire)</a> (1 week ago) <br/>
@@ -122,13 +129,6 @@
 <td>
 <a href="https://www.youtube.com/watch?v=YTezImw4xKU">42, une l&#39;école de code sans profs ?</a> (3 months ago) <br/>
 <img src="https://img.shields.io/youtube/views/YTezImw4xKU?style=flat-square"> </img> 
-</td>
-</tr>
-<tr>
-<td><img src="https://img.youtube.com/vi/I4ckSYkS8MU/default.jpg"></img></td>
-<td>
-<a href="https://www.youtube.com/watch?v=I4ckSYkS8MU">C&#39;est quoi Astro JS ?</a> (4 months ago) <br/>
-<img src="https://img.shields.io/youtube/views/I4ckSYkS8MU?style=flat-square"> </img> 
 </td>
 </tr>
 </table>
