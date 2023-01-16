@@ -21,6 +21,13 @@
 <table>
 
 <tr>
+<td><img src="https://img.youtube.com/vi/S4xa5n28seE/default.jpg"></img></td>
+<td>
+<a href="https://www.youtube.com/watch?v=S4xa5n28seE">5 Web-Dev Projects To Discover (&amp; Keep An Eye On!)</a> (today) <br/>
+<img src="https://img.shields.io/youtube/views/S4xa5n28seE?style=flat-square"> </img> 
+</td>
+</tr>
+<tr>
 <td><img src="https://img.youtube.com/vi/0vyKi08jLcw/default.jpg"></img></td>
 <td>
 <a href="https://www.youtube.com/watch?v=0vyKi08jLcw">The Disaster Project &amp; the Lessons Learned</a> (1 week ago) <br/>
@@ -46,13 +53,6 @@
 <td>
 <a href="https://www.youtube.com/watch?v=zUFjC8uEwxQ">9 Tips For a Faster (and Greener) Website!</a> (1 month ago) <br/>
 <img src="https://img.shields.io/youtube/views/zUFjC8uEwxQ?style=flat-square"> </img> 
-</td>
-</tr>
-<tr>
-<td><img src="https://img.youtube.com/vi/Y6SIs3agbWY/default.jpg"></img></td>
-<td>
-<a href="https://www.youtube.com/watch?v=Y6SIs3agbWY">Testing: How To Write Solid Code</a> (1 month ago) <br/>
-<img src="https://img.shields.io/youtube/views/Y6SIs3agbWY?style=flat-square"> </img> 
 </td>
 </tr>
 </table>
