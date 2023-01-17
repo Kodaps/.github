@@ -23,7 +23,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/S4xa5n28seE/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=S4xa5n28seE">5 Web-Dev Projects To Discover (&amp; Keep An Eye On!)</a> (today) <br/>
+<a href="https://www.youtube.com/watch?v=S4xa5n28seE">5 Web-Dev Projects To Discover (&amp; Keep An Eye On!)</a> (1 day ago) <br/>
 <img src="https://img.shields.io/youtube/views/S4xa5n28seE?style=flat-square"> </img> 
 </td>
 </tr>
@@ -64,7 +64,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/pAFTSkGUfiI/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=pAFTSkGUfiI">5 Projets de Dev Web A Découvrir (&amp; Suivre De Près)</a> (today) <br/>
+<a href="https://www.youtube.com/watch?v=pAFTSkGUfiI">5 Projets de Dev Web A Découvrir (&amp; Suivre De Près)</a> (1 day ago) <br/>
 <img src="https://img.shields.io/youtube/views/pAFTSkGUfiI?style=flat-square"> </img> 
 </td>
 </tr>
@@ -127,7 +127,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/YTezImw4xKU/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=YTezImw4xKU">42, une l&#39;école de code sans profs ?</a> (3 months ago) <br/>
+<a href="https://www.youtube.com/watch?v=YTezImw4xKU">42, une l&#39;école de code sans profs ?</a> (4 months ago) <br/>
 <img src="https://img.shields.io/youtube/views/YTezImw4xKU?style=flat-square"> </img> 
 </td>
 </tr>
@@ -137,7 +137,7 @@
 
 - [Gosev/QwikTailwind](https://github.com/Gosev/QwikTailwind) - Test of QuickCity &#43; Tailwind template  (1 month ago)
 - [Gosev/AstroBlog](https://github.com/Gosev/AstroBlog) -  (4 months ago)
-- [Gosev/nextjs-blog](https://github.com/Gosev/nextjs-blog) -  (4 months ago)
+- [Gosev/nextjs-blog](https://github.com/Gosev/nextjs-blog) -  (5 months ago)
 - [Kodaps/faker](https://github.com/Kodaps/faker) - Test data for exercises based on SWAPI (5 months ago)
 - [Kodaps/.github](https://github.com/Kodaps/.github) - Public profile (7 months ago)
 - [Gosev/TestRepository](https://github.com/Gosev/TestRepository) -  (7 months ago)
