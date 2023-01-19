@@ -23,7 +23,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/S4xa5n28seE/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=S4xa5n28seE">5 Web-Dev Projects To Discover (&amp; Keep An Eye On!)</a> (2 days ago) <br/>
+<a href="https://www.youtube.com/watch?v=S4xa5n28seE">5 Web-Dev Projects To Discover (&amp; Keep An Eye On!)</a> (3 days ago) <br/>
 <img src="https://img.shields.io/youtube/views/S4xa5n28seE?style=flat-square"> </img> 
 </td>
 </tr>
@@ -64,7 +64,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/pAFTSkGUfiI/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=pAFTSkGUfiI">5 Projets de Dev Web A Découvrir (&amp; Suivre De Près)</a> (2 days ago) <br/>
+<a href="https://www.youtube.com/watch?v=pAFTSkGUfiI">5 Projets de Dev Web A Découvrir (&amp; Suivre De Près)</a> (3 days ago) <br/>
 <img src="https://img.shields.io/youtube/views/pAFTSkGUfiI?style=flat-square"> </img> 
 </td>
 </tr>
