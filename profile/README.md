@@ -62,6 +62,13 @@
 <table>
 
 <tr>
+<td><img src="https://img.youtube.com/vi/zZWPSMVi6io/default.jpg"></img></td>
+<td>
+<a href="https://www.youtube.com/watch?v=zZWPSMVi6io">ChatGPT :  la face obscure</a> (today) <br/>
+<img src="https://img.shields.io/youtube/views/zZWPSMVi6io?style=flat-square"> </img> 
+</td>
+</tr>
+<tr>
 <td><img src="https://img.youtube.com/vi/pAFTSkGUfiI/default.jpg"></img></td>
 <td>
 <a href="https://www.youtube.com/watch?v=pAFTSkGUfiI">5 Projets de Dev Web A Découvrir (&amp; Suivre De Près)</a> (1 week ago) <br/>
@@ -122,13 +129,6 @@
 <td>
 <a href="https://www.youtube.com/watch?v=HrrBtXKWtlg">JavaScript : 7 choses à maîtriser pour React</a> (3 months ago) <br/>
 <img src="https://img.shields.io/youtube/views/HrrBtXKWtlg?style=flat-square"> </img> 
-</td>
-</tr>
-<tr>
-<td><img src="https://img.youtube.com/vi/YTezImw4xKU/default.jpg"></img></td>
-<td>
-<a href="https://www.youtube.com/watch?v=YTezImw4xKU">42, une l&#39;école de code sans profs ?</a> (4 months ago) <br/>
-<img src="https://img.shields.io/youtube/views/YTezImw4xKU?style=flat-square"> </img> 
 </td>
 </tr>
 </table>
