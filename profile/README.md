@@ -9,7 +9,7 @@
 - [The 7 JavaScript Skills You Need for React](https://javascript.plainenglish.io/the-7-javascript-skills-you-need-for-react-9244169ca80a?source=rss-e68daed69805------2) (3 months ago)
 - [What are JavaScript Promises &amp; How to Use Them](https://javascript.plainenglish.io/what-are-javascript-promises-how-to-use-them-84fdff5757b9?source=rss-e68daed69805------2) (4 months ago)
 - [What is 42, the School With No Teachers?](https://levelup.gitconnected.com/what-is-42-the-school-with-no-teachers-7e4d0f9a80c1?source=rss-e68daed69805------2) (4 months ago)
-- [GraphQL vs REST](https://levelup.gitconnected.com/graphql-vs-rest-e918d9e0e271?source=rss-e68daed69805------2) (4 months ago)
+- [GraphQL vs REST](https://levelup.gitconnected.com/graphql-vs-rest-e918d9e0e271?source=rss-e68daed69805------2) (5 months ago)
 - [What is Astro?](https://javascript.plainenglish.io/what-is-astro-aa3369d5a7f4?source=rss-e68daed69805------2) (5 months ago)
 - [What is Art?](https://gosev.medium.com/what-is-art-2dce12548091?source=rss-e68daed69805------2) (5 months ago)
 - [How to Release Your Code Into the Wild](https://levelup.gitconnected.com/how-to-release-your-code-into-the-wild-dd144218cb9b?source=rss-e68daed69805------2) (5 months ago)
@@ -23,28 +23,28 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/DcKXmuejZqY/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=DcKXmuejZqY">The Dark Side of ChatGPT</a> (6 days ago) <br/>
+<a href="https://www.youtube.com/watch?v=DcKXmuejZqY">The Dark Side of ChatGPT</a> (1 week ago) <br/>
 <img src="https://img.shields.io/youtube/views/DcKXmuejZqY?style=flat-square"> </img> 
 </td>
 </tr>
 <tr>
 <td><img src="https://img.youtube.com/vi/S4xa5n28seE/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=S4xa5n28seE">5 Web-Dev Projects To Discover (&amp; Keep An Eye On!)</a> (1 week ago) <br/>
+<a href="https://www.youtube.com/watch?v=S4xa5n28seE">5 Web-Dev Projects To Discover (&amp; Keep An Eye On!)</a> (2 weeks ago) <br/>
 <img src="https://img.shields.io/youtube/views/S4xa5n28seE?style=flat-square"> </img> 
 </td>
 </tr>
 <tr>
 <td><img src="https://img.youtube.com/vi/0vyKi08jLcw/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=0vyKi08jLcw">The Disaster Project &amp; the Lessons Learned</a> (2 weeks ago) <br/>
+<a href="https://www.youtube.com/watch?v=0vyKi08jLcw">The Disaster Project &amp; the Lessons Learned</a> (3 weeks ago) <br/>
 <img src="https://img.shields.io/youtube/views/0vyKi08jLcw?style=flat-square"> </img> 
 </td>
 </tr>
 <tr>
 <td><img src="https://img.youtube.com/vi/Oc_gDCbSG5o/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=Oc_gDCbSG5o">Tech trends of 2022 to watch out for in 2023</a> (3 weeks ago) <br/>
+<a href="https://www.youtube.com/watch?v=Oc_gDCbSG5o">Tech trends of 2022 to watch out for in 2023</a> (4 weeks ago) <br/>
 <img src="https://img.shields.io/youtube/views/Oc_gDCbSG5o?style=flat-square"> </img> 
 </td>
 </tr>
@@ -64,28 +64,28 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/zZWPSMVi6io/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=zZWPSMVi6io">ChatGPT :  la face obscure</a> (6 days ago) <br/>
+<a href="https://www.youtube.com/watch?v=zZWPSMVi6io">ChatGPT :  la face obscure</a> (1 week ago) <br/>
 <img src="https://img.shields.io/youtube/views/zZWPSMVi6io?style=flat-square"> </img> 
 </td>
 </tr>
 <tr>
 <td><img src="https://img.youtube.com/vi/pAFTSkGUfiI/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=pAFTSkGUfiI">5 Projets de Dev Web A Découvrir (&amp; Suivre De Près)</a> (1 week ago) <br/>
+<a href="https://www.youtube.com/watch?v=pAFTSkGUfiI">5 Projets de Dev Web A Découvrir (&amp; Suivre De Près)</a> (2 weeks ago) <br/>
 <img src="https://img.shields.io/youtube/views/pAFTSkGUfiI?style=flat-square"> </img> 
 </td>
 </tr>
 <tr>
 <td><img src="https://img.youtube.com/vi/nrfm7T8fnWk/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=nrfm7T8fnWk">Le Projet Infernal de Jeux Video (&amp; 3 Lessons que j&#39;en tire)</a> (2 weeks ago) <br/>
+<a href="https://www.youtube.com/watch?v=nrfm7T8fnWk">Le Projet Infernal de Jeux Video (&amp; 3 Lessons que j&#39;en tire)</a> (3 weeks ago) <br/>
 <img src="https://img.shields.io/youtube/views/nrfm7T8fnWk?style=flat-square"> </img> 
 </td>
 </tr>
 <tr>
 <td><img src="https://img.youtube.com/vi/AX-Ucc2CZJw/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=AX-Ucc2CZJw">Les tendances de 2022 à surveiller en 2023</a> (3 weeks ago) <br/>
+<a href="https://www.youtube.com/watch?v=AX-Ucc2CZJw">Les tendances de 2022 à surveiller en 2023</a> (4 weeks ago) <br/>
 <img src="https://img.shields.io/youtube/views/AX-Ucc2CZJw?style=flat-square"> </img> 
 </td>
 </tr>
