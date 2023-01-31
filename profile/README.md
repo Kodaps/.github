@@ -21,6 +21,13 @@
 <table>
 
 <tr>
+<td><img src="https://img.youtube.com/vi/BHgeNz1LsVE/default.jpg"></img></td>
+<td>
+<a href="https://www.youtube.com/watch?v=BHgeNz1LsVE">React, Angular, Vue, Svelte, Solid, Qwick:  What do the surveys say?</a> (today) <br/>
+<img src="https://img.shields.io/youtube/views/BHgeNz1LsVE?style=flat-square"> </img> 
+</td>
+</tr>
+<tr>
 <td><img src="https://img.youtube.com/vi/DcKXmuejZqY/default.jpg"></img></td>
 <td>
 <a href="https://www.youtube.com/watch?v=DcKXmuejZqY">The Dark Side of ChatGPT</a> (1 week ago) <br/>
@@ -46,13 +53,6 @@
 <td>
 <a href="https://www.youtube.com/watch?v=Oc_gDCbSG5o">Tech trends of 2022 to watch out for in 2023</a> (4 weeks ago) <br/>
 <img src="https://img.shields.io/youtube/views/Oc_gDCbSG5o?style=flat-square"> </img> 
-</td>
-</tr>
-<tr>
-<td><img src="https://img.youtube.com/vi/QrIS__S1Q7A/default.jpg"></img></td>
-<td>
-<a href="https://www.youtube.com/watch?v=QrIS__S1Q7A">What Is Redis &amp; Why Learn It?</a> (1 month ago) <br/>
-<img src="https://img.shields.io/youtube/views/QrIS__S1Q7A?style=flat-square"> </img> 
 </td>
 </tr>
 </table>
