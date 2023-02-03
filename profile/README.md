@@ -12,7 +12,7 @@
 - [GraphQL vs REST](https://levelup.gitconnected.com/graphql-vs-rest-e918d9e0e271?source=rss-e68daed69805------2) (5 months ago)
 - [What is Astro?](https://javascript.plainenglish.io/what-is-astro-aa3369d5a7f4?source=rss-e68daed69805------2) (5 months ago)
 - [What is Art?](https://gosev.medium.com/what-is-art-2dce12548091?source=rss-e68daed69805------2) (5 months ago)
-- [How to Release Your Code Into the Wild](https://levelup.gitconnected.com/how-to-release-your-code-into-the-wild-dd144218cb9b?source=rss-e68daed69805------2) (5 months ago)
+- [How to Release Your Code Into the Wild](https://levelup.gitconnected.com/how-to-release-your-code-into-the-wild-dd144218cb9b?source=rss-e68daed69805------2) (6 months ago)
 - [5 Tips to Have Fun Using MidJourney AI Image Generation — The First Steps](https://gosev.medium.com/5-tips-to-have-fun-using-midjourney-ai-image-generation-the-first-steps-81cf44a53931?source=rss-e68daed69805------2) (6 months ago)
 - [3 Lessons I Learned While Managing The Project From Hell](https://medium.com/illumination/3-lessons-i-learned-while-managing-the-project-from-hell-e31196db2d5f?source=rss-e68daed69805------2) (6 months ago)
 
@@ -23,7 +23,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/BHgeNz1LsVE/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=BHgeNz1LsVE">React, Angular, Vue, Svelte, Solid, Qwik:  What Do The Surveys Say?</a> (2 days ago) <br/>
+<a href="https://www.youtube.com/watch?v=BHgeNz1LsVE">React, Angular, Vue, Svelte, Solid, Qwik:  What Do The Surveys Say?</a> (3 days ago) <br/>
 <img src="https://img.shields.io/youtube/views/BHgeNz1LsVE?style=flat-square"> </img> 
 </td>
 </tr>
@@ -64,7 +64,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/k-SM7b_OmbI/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=k-SM7b_OmbI">React, Angular, Vue, Svelte, Solid, Qwik : que disent les sondages?</a> (2 days ago) <br/>
+<a href="https://www.youtube.com/watch?v=k-SM7b_OmbI">React, Angular, Vue, Svelte, Solid, Qwik : que disent les sondages?</a> (3 days ago) <br/>
 <img src="https://img.shields.io/youtube/views/k-SM7b_OmbI?style=flat-square"> </img> 
 </td>
 </tr>
@@ -141,7 +141,7 @@
 - [Gosev/nextjs-blog](https://github.com/Gosev/nextjs-blog) -  (5 months ago)
 - [Kodaps/faker](https://github.com/Kodaps/faker) - Test data for exercises based on SWAPI (5 months ago)
 - [Kodaps/.github](https://github.com/Kodaps/.github) - Public profile (7 months ago)
-- [Gosev/TestRepository](https://github.com/Gosev/TestRepository) -  (7 months ago)
+- [Gosev/TestRepository](https://github.com/Gosev/TestRepository) -  (8 months ago)
 - [Kodaps/GitFirstSteps](https://github.com/Kodaps/GitFirstSteps) - First steps with git - a tutorial repository (8 months ago)
 - [Kodaps/JSFirstSteps](https://github.com/Kodaps/JSFirstSteps) - Contents for JS course (8 months ago)
 
