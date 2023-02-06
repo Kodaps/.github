@@ -21,6 +21,13 @@
 <table>
 
 <tr>
+<td><img src="https://img.youtube.com/vi/vHt2LC1EM3Q/default.jpg"></img></td>
+<td>
+<a href="https://www.youtube.com/watch?v=vHt2LC1EM3Q">Prisma, Eloquent, Doctrine: Why Use an ORM?</a> (today) <br/>
+<img src="https://img.shields.io/youtube/views/vHt2LC1EM3Q?style=flat-square"> </img> 
+</td>
+</tr>
+<tr>
 <td><img src="https://img.youtube.com/vi/BHgeNz1LsVE/default.jpg"></img></td>
 <td>
 <a href="https://www.youtube.com/watch?v=BHgeNz1LsVE">React, Angular, Vue, Svelte, Solid, Qwik:  What Do The Surveys Say?</a> (6 days ago) <br/>
@@ -46,13 +53,6 @@
 <td>
 <a href="https://www.youtube.com/watch?v=0vyKi08jLcw">The Disaster Project &amp; the Lessons Learned</a> (4 weeks ago) <br/>
 <img src="https://img.shields.io/youtube/views/0vyKi08jLcw?style=flat-square"> </img> 
-</td>
-</tr>
-<tr>
-<td><img src="https://img.youtube.com/vi/Oc_gDCbSG5o/default.jpg"></img></td>
-<td>
-<a href="https://www.youtube.com/watch?v=Oc_gDCbSG5o">Tech trends of 2022 to watch out for in 2023</a> (1 month ago) <br/>
-<img src="https://img.shields.io/youtube/views/Oc_gDCbSG5o?style=flat-square"> </img> 
 </td>
 </tr>
 </table>
