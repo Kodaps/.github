@@ -23,7 +23,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/vHt2LC1EM3Q/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=vHt2LC1EM3Q">Prisma, Eloquent, Doctrine: Why Use an ORM?</a> (1 day ago) <br/>
+<a href="https://www.youtube.com/watch?v=vHt2LC1EM3Q">Prisma, Eloquent, Doctrine: Why Use an ORM?</a> (2 days ago) <br/>
 <img src="https://img.shields.io/youtube/views/vHt2LC1EM3Q?style=flat-square"> </img> 
 </td>
 </tr>
@@ -51,7 +51,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/0vyKi08jLcw/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=0vyKi08jLcw">The Disaster Project &amp; the Lessons Learned</a> (4 weeks ago) <br/>
+<a href="https://www.youtube.com/watch?v=0vyKi08jLcw">The Disaster Project &amp; the Lessons Learned</a> (1 month ago) <br/>
 <img src="https://img.shields.io/youtube/views/0vyKi08jLcw?style=flat-square"> </img> 
 </td>
 </tr>
@@ -64,7 +64,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/DXk73GfyV9I/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=DXk73GfyV9I">Prisma, Doctrine: Pourquoi utiliser un ORM ?</a> (today) <br/>
+<a href="https://www.youtube.com/watch?v=DXk73GfyV9I">Prisma, Doctrine: Pourquoi utiliser un ORM ?</a> (1 day ago) <br/>
 <img src="https://img.shields.io/youtube/views/DXk73GfyV9I?style=flat-square"> </img> 
 </td>
 </tr>
@@ -92,7 +92,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/nrfm7T8fnWk/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=nrfm7T8fnWk">Le Projet Infernal de Jeux Video (&amp; 3 Lessons que j&#39;en tire)</a> (4 weeks ago) <br/>
+<a href="https://www.youtube.com/watch?v=nrfm7T8fnWk">Le Projet Infernal de Jeux Video (&amp; 3 Lessons que j&#39;en tire)</a> (1 month ago) <br/>
 <img src="https://img.shields.io/youtube/views/nrfm7T8fnWk?style=flat-square"> </img> 
 </td>
 </tr>
@@ -135,7 +135,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Kodaps/t3-cross-app](https://github.com/Kodaps/t3-cross-app) - T3 (Next &#43; RN) base app  (4 days ago)
+- [Kodaps/t3-cross-app](https://github.com/Kodaps/t3-cross-app) - T3 (Next &#43; RN) base app  (5 days ago)
 - [Kodaps/js-first-steps](https://github.com/Kodaps/js-first-steps) - First steps with JS (2 weeks ago)
 - [Gosev/QwikTailwind](https://github.com/Gosev/QwikTailwind) - Test of QuickCity &#43; Tailwind template  (2 months ago)
 - [Gosev/AstroBlog](https://github.com/Gosev/AstroBlog) -  (5 months ago)
