@@ -5,7 +5,7 @@
 
 ## 📜 🇬🇧 My recent blog posts
 
-- [5 Exciting Projects &amp; Tools to Discover in 2023](https://gosev.medium.com/5-exciting-projects-tools-to-discover-in-2023-d5b6f5886740?source=rss-e68daed69805------2) (2 weeks ago)
+- [5 Exciting Projects &amp; Tools to Discover in 2023](https://gosev.medium.com/5-exciting-projects-tools-to-discover-in-2023-d5b6f5886740?source=rss-e68daed69805------2) (3 weeks ago)
 - [The 7 JavaScript Skills You Need for React](https://javascript.plainenglish.io/the-7-javascript-skills-you-need-for-react-9244169ca80a?source=rss-e68daed69805------2) (4 months ago)
 - [What are JavaScript Promises &amp; How to Use Them](https://javascript.plainenglish.io/what-are-javascript-promises-how-to-use-them-84fdff5757b9?source=rss-e68daed69805------2) (4 months ago)
 - [What is 42, the School With No Teachers?](https://levelup.gitconnected.com/what-is-42-the-school-with-no-teachers-7e4d0f9a80c1?source=rss-e68daed69805------2) (5 months ago)
@@ -23,7 +23,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/vHt2LC1EM3Q/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=vHt2LC1EM3Q">Prisma, Eloquent, Doctrine: Why Use an ORM?</a> (4 days ago) <br/>
+<a href="https://www.youtube.com/watch?v=vHt2LC1EM3Q">Prisma, Eloquent, Doctrine: Why Use an ORM?</a> (5 days ago) <br/>
 <img src="https://img.shields.io/youtube/views/vHt2LC1EM3Q?style=flat-square"> </img> 
 </td>
 </tr>
@@ -64,7 +64,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/DXk73GfyV9I/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=DXk73GfyV9I">Prisma, Doctrine: Pourquoi utiliser un ORM ?</a> (3 days ago) <br/>
+<a href="https://www.youtube.com/watch?v=DXk73GfyV9I">Prisma, Doctrine: Pourquoi utiliser un ORM ?</a> (4 days ago) <br/>
 <img src="https://img.shields.io/youtube/views/DXk73GfyV9I?style=flat-square"> </img> 
 </td>
 </tr>
