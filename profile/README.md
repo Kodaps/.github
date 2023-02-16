@@ -23,7 +23,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/lYYGhm7p74Q/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=lYYGhm7p74Q">Understanding Svelte (vs React)</a> (today) <br/>
+<a href="https://www.youtube.com/watch?v=lYYGhm7p74Q">Understanding Svelte (vs React)</a> (1 day ago) <br/>
 <img src="https://img.shields.io/youtube/views/lYYGhm7p74Q?style=flat-square"> </img> 
 </td>
 </tr>
@@ -136,10 +136,10 @@
 #### 👷 Check out what I'm currently working on
 
 - [Kodaps/t3-cross-app](https://github.com/Kodaps/t3-cross-app) - T3 (Next &#43; RN) base app  (1 week ago)
-- [Kodaps/js-first-steps](https://github.com/Kodaps/js-first-steps) - First steps with JS (3 weeks ago)
+- [Kodaps/js-first-steps](https://github.com/Kodaps/js-first-steps) - First steps with JS (4 weeks ago)
 - [Gosev/QwikTailwind](https://github.com/Gosev/QwikTailwind) - Test of QuickCity &#43; Tailwind template  (2 months ago)
 - [Gosev/AstroBlog](https://github.com/Gosev/AstroBlog) -  (5 months ago)
-- [Gosev/nextjs-blog](https://github.com/Gosev/nextjs-blog) -  (5 months ago)
+- [Gosev/nextjs-blog](https://github.com/Gosev/nextjs-blog) -  (6 months ago)
 - [Kodaps/faker](https://github.com/Kodaps/faker) - Test data for exercises based on SWAPI (6 months ago)
 - [Kodaps/.github](https://github.com/Kodaps/.github) - Public profile (8 months ago)
 - [Gosev/TestRepository](https://github.com/Gosev/TestRepository) -  (8 months ago)
