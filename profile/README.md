@@ -23,7 +23,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/lYYGhm7p74Q/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=lYYGhm7p74Q">Understanding Svelte (vs React)</a> (5 days ago) <br/>
+<a href="https://www.youtube.com/watch?v=lYYGhm7p74Q">Understanding Svelte (vs React)</a> (6 days ago) <br/>
 <img src="https://img.shields.io/youtube/views/lYYGhm7p74Q?style=flat-square"> </img> 
 </td>
 </tr>
@@ -37,7 +37,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/BHgeNz1LsVE/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=BHgeNz1LsVE">React, Angular, Vue, Svelte, Solid, Qwik:  What Do The Surveys Say?</a> (2 weeks ago) <br/>
+<a href="https://www.youtube.com/watch?v=BHgeNz1LsVE">React, Angular, Vue, Svelte, Solid, Qwik:  What Do The Surveys Say?</a> (3 weeks ago) <br/>
 <img src="https://img.shields.io/youtube/views/BHgeNz1LsVE?style=flat-square"> </img> 
 </td>
 </tr>
@@ -64,21 +64,21 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/VSHdmXaEGKo/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=VSHdmXaEGKo">Comprendre Svelte (vs React)</a> (4 days ago) <br/>
+<a href="https://www.youtube.com/watch?v=VSHdmXaEGKo">Comprendre Svelte (vs React)</a> (5 days ago) <br/>
 <img src="https://img.shields.io/youtube/views/VSHdmXaEGKo?style=flat-square"> </img> 
 </td>
 </tr>
 <tr>
 <td><img src="https://img.youtube.com/vi/DXk73GfyV9I/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=DXk73GfyV9I">Prisma, Doctrine: Pourquoi utiliser un ORM ?</a> (1 week ago) <br/>
+<a href="https://www.youtube.com/watch?v=DXk73GfyV9I">Prisma, Doctrine: Pourquoi utiliser un ORM ?</a> (2 weeks ago) <br/>
 <img src="https://img.shields.io/youtube/views/DXk73GfyV9I?style=flat-square"> </img> 
 </td>
 </tr>
 <tr>
 <td><img src="https://img.youtube.com/vi/k-SM7b_OmbI/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=k-SM7b_OmbI">React, Angular, Vue, Svelte, Solid, Qwik : que disent les sondages?</a> (2 weeks ago) <br/>
+<a href="https://www.youtube.com/watch?v=k-SM7b_OmbI">React, Angular, Vue, Svelte, Solid, Qwik : que disent les sondages?</a> (3 weeks ago) <br/>
 <img src="https://img.shields.io/youtube/views/k-SM7b_OmbI?style=flat-square"> </img> 
 </td>
 </tr>
