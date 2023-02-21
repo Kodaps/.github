@@ -62,6 +62,13 @@
 <table>
 
 <tr>
+<td><img src="https://img.youtube.com/vi/i5ujev590Xw/default.jpg"></img></td>
+<td>
+<a href="https://www.youtube.com/watch?v=i5ujev590Xw">tRPC : l&#39;API révolutionnaire?</a> (today) <br/>
+<img src="https://img.shields.io/youtube/views/i5ujev590Xw?style=flat-square"> </img> 
+</td>
+</tr>
+<tr>
 <td><img src="https://img.youtube.com/vi/VSHdmXaEGKo/default.jpg"></img></td>
 <td>
 <a href="https://www.youtube.com/watch?v=VSHdmXaEGKo">Comprendre Svelte (vs React)</a> (5 days ago) <br/>
@@ -122,13 +129,6 @@
 <td>
 <a href="https://www.youtube.com/watch?v=jklfwTnfYbE">Comment faire du code solide ?</a> (3 months ago) <br/>
 <img src="https://img.shields.io/youtube/views/jklfwTnfYbE?style=flat-square"> </img> 
-</td>
-</tr>
-<tr>
-<td><img src="https://img.youtube.com/vi/_ITJN_dqtEs/default.jpg"></img></td>
-<td>
-<a href="https://www.youtube.com/watch?v=_ITJN_dqtEs">NextJS : l&#39;avenir de React ?</a> (3 months ago) <br/>
-<img src="https://img.shields.io/youtube/views/_ITJN_dqtEs?style=flat-square"> </img> 
 </td>
 </tr>
 </table>
