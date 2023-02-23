@@ -23,7 +23,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/a6XwC22TMYY/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=a6XwC22TMYY">tRPC: the API Game-Changer?</a> (1 day ago) <br/>
+<a href="https://www.youtube.com/watch?v=a6XwC22TMYY">tRPC: the API Game-Changer?</a> (2 days ago) <br/>
 <img src="https://img.shields.io/youtube/views/a6XwC22TMYY?style=flat-square"> </img> 
 </td>
 </tr>
@@ -64,14 +64,14 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/i5ujev590Xw/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=i5ujev590Xw">tRPC : l&#39;API révolutionnaire?</a> (1 day ago) <br/>
+<a href="https://www.youtube.com/watch?v=i5ujev590Xw">tRPC : l&#39;API révolutionnaire?</a> (2 days ago) <br/>
 <img src="https://img.shields.io/youtube/views/i5ujev590Xw?style=flat-square"> </img> 
 </td>
 </tr>
 <tr>
 <td><img src="https://img.youtube.com/vi/VSHdmXaEGKo/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=VSHdmXaEGKo">Comprendre Svelte (vs React)</a> (6 days ago) <br/>
+<a href="https://www.youtube.com/watch?v=VSHdmXaEGKo">Comprendre Svelte (vs React)</a> (1 week ago) <br/>
 <img src="https://img.shields.io/youtube/views/VSHdmXaEGKo?style=flat-square"> </img> 
 </td>
 </tr>
