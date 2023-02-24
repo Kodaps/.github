@@ -135,6 +135,7 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [Kodaps/okr-app](https://github.com/Kodaps/okr-app) - OKR app (today)
 - [Kodaps/t3-cross-app](https://github.com/Kodaps/t3-cross-app) - T3 (Next &#43; RN) base app  (3 weeks ago)
 - [Kodaps/js-first-steps](https://github.com/Kodaps/js-first-steps) - First steps with JS (1 month ago)
 - [Gosev/QwikTailwind](https://github.com/Gosev/QwikTailwind) - Test of QuickCity &#43; Tailwind template  (2 months ago)
@@ -144,7 +145,6 @@
 - [Kodaps/.github](https://github.com/Kodaps/.github) - Public profile (8 months ago)
 - [Gosev/TestRepository](https://github.com/Gosev/TestRepository) -  (8 months ago)
 - [Kodaps/GitFirstSteps](https://github.com/Kodaps/GitFirstSteps) - First steps with git - a tutorial repository (8 months ago)
-- [Kodaps/JSFirstSteps](https://github.com/Kodaps/JSFirstSteps) - Contents for JS course (9 months ago)
 
 #### 🌱 My latest projects
 
