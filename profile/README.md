@@ -21,6 +21,13 @@
 <table>
 
 <tr>
+<td><img src="https://img.youtube.com/vi/AaQfCKJLMGY/default.jpg"></img></td>
+<td>
+<a href="https://www.youtube.com/watch?v=AaQfCKJLMGY">Next JS Project: Setup and First Steps</a> (today) <br/>
+<img src="https://img.shields.io/youtube/views/AaQfCKJLMGY?style=flat-square"> </img> 
+</td>
+</tr>
+<tr>
 <td><img src="https://img.youtube.com/vi/a6XwC22TMYY/default.jpg"></img></td>
 <td>
 <a href="https://www.youtube.com/watch?v=a6XwC22TMYY">tRPC: the API Game-Changer?</a> (6 days ago) <br/>
@@ -46,13 +53,6 @@
 <td>
 <a href="https://www.youtube.com/watch?v=BHgeNz1LsVE">React, Angular, Vue, Svelte, Solid, Qwik:  What Do The Surveys Say?</a> (3 weeks ago) <br/>
 <img src="https://img.shields.io/youtube/views/BHgeNz1LsVE?style=flat-square"> </img> 
-</td>
-</tr>
-<tr>
-<td><img src="https://img.youtube.com/vi/DcKXmuejZqY/default.jpg"></img></td>
-<td>
-<a href="https://www.youtube.com/watch?v=DcKXmuejZqY">The Dark Side of ChatGPT</a> (1 month ago) <br/>
-<img src="https://img.shields.io/youtube/views/DcKXmuejZqY?style=flat-square"> </img> 
 </td>
 </tr>
 </table>
