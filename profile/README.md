@@ -23,7 +23,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/a6XwC22TMYY/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=a6XwC22TMYY">tRPC: the API Game-Changer?</a> (5 days ago) <br/>
+<a href="https://www.youtube.com/watch?v=a6XwC22TMYY">tRPC: the API Game-Changer?</a> (6 days ago) <br/>
 <img src="https://img.shields.io/youtube/views/a6XwC22TMYY?style=flat-square"> </img> 
 </td>
 </tr>
@@ -37,7 +37,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/vHt2LC1EM3Q/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=vHt2LC1EM3Q">Prisma, Eloquent, Doctrine: Why Use an ORM?</a> (2 weeks ago) <br/>
+<a href="https://www.youtube.com/watch?v=vHt2LC1EM3Q">Prisma, Eloquent, Doctrine: Why Use an ORM?</a> (3 weeks ago) <br/>
 <img src="https://img.shields.io/youtube/views/vHt2LC1EM3Q?style=flat-square"> </img> 
 </td>
 </tr>
@@ -64,7 +64,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/i5ujev590Xw/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=i5ujev590Xw">tRPC : l&#39;API révolutionnaire?</a> (5 days ago) <br/>
+<a href="https://www.youtube.com/watch?v=i5ujev590Xw">tRPC : l&#39;API révolutionnaire?</a> (6 days ago) <br/>
 <img src="https://img.shields.io/youtube/views/i5ujev590Xw?style=flat-square"> </img> 
 </td>
 </tr>
@@ -135,7 +135,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Kodaps/okr-app](https://github.com/Kodaps/okr-app) - OKR app (2 days ago)
+- [Kodaps/okr-app](https://github.com/Kodaps/okr-app) - OKR app (3 days ago)
 - [Kodaps/t3-cross-app](https://github.com/Kodaps/t3-cross-app) - T3 (Next &#43; RN) base app  (3 weeks ago)
 - [Kodaps/js-first-steps](https://github.com/Kodaps/js-first-steps) - First steps with JS (1 month ago)
 - [Gosev/QwikTailwind](https://github.com/Gosev/QwikTailwind) - Test of QuickCity &#43; Tailwind template  (2 months ago)
