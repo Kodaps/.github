@@ -62,6 +62,13 @@
 <table>
 
 <tr>
+<td><img src="https://img.youtube.com/vi/-SrqXDcjxKs/default.jpg"></img></td>
+<td>
+<a href="https://www.youtube.com/watch?v=-SrqXDcjxKs">Next JS Project : Installation et Premier Pas</a> (today) <br/>
+<img src="https://img.shields.io/youtube/views/-SrqXDcjxKs?style=flat-square"> </img> 
+</td>
+</tr>
+<tr>
 <td><img src="https://img.youtube.com/vi/i5ujev590Xw/default.jpg"></img></td>
 <td>
 <a href="https://www.youtube.com/watch?v=i5ujev590Xw">tRPC : l&#39;API révolutionnaire?</a> (1 week ago) <br/>
@@ -122,13 +129,6 @@
 <td>
 <a href="https://www.youtube.com/watch?v=jIp9ghB9eRg">Eco-conception web ? Essayez CECI !</a> (2 months ago) <br/>
 <img src="https://img.shields.io/youtube/views/jIp9ghB9eRg?style=flat-square"> </img> 
-</td>
-</tr>
-<tr>
-<td><img src="https://img.youtube.com/vi/jklfwTnfYbE/default.jpg"></img></td>
-<td>
-<a href="https://www.youtube.com/watch?v=jklfwTnfYbE">Comment faire du code solide ?</a> (3 months ago) <br/>
-<img src="https://img.shields.io/youtube/views/jklfwTnfYbE?style=flat-square"> </img> 
 </td>
 </tr>
 </table>
