@@ -9,7 +9,7 @@
 - [The 7 JavaScript Skills You Need for React](https://javascript.plainenglish.io/the-7-javascript-skills-you-need-for-react-9244169ca80a?source=rss-e68daed69805------2) (4 months ago)
 - [What are JavaScript Promises &amp; How to Use Them](https://javascript.plainenglish.io/what-are-javascript-promises-how-to-use-them-84fdff5757b9?source=rss-e68daed69805------2) (5 months ago)
 - [What is 42, the School With No Teachers?](https://levelup.gitconnected.com/what-is-42-the-school-with-no-teachers-7e4d0f9a80c1?source=rss-e68daed69805------2) (5 months ago)
-- [GraphQL vs REST](https://levelup.gitconnected.com/graphql-vs-rest-e918d9e0e271?source=rss-e68daed69805------2) (5 months ago)
+- [GraphQL vs REST](https://levelup.gitconnected.com/graphql-vs-rest-e918d9e0e271?source=rss-e68daed69805------2) (6 months ago)
 - [What is Astro?](https://javascript.plainenglish.io/what-is-astro-aa3369d5a7f4?source=rss-e68daed69805------2) (6 months ago)
 - [What is Art?](https://gosev.medium.com/what-is-art-2dce12548091?source=rss-e68daed69805------2) (6 months ago)
 - [How to Release Your Code Into the Wild](https://levelup.gitconnected.com/how-to-release-your-code-into-the-wild-dd144218cb9b?source=rss-e68daed69805------2) (6 months ago)
@@ -23,7 +23,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/AaQfCKJLMGY/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=AaQfCKJLMGY">Next JS Project: Setup and First Steps</a> (1 day ago) <br/>
+<a href="https://www.youtube.com/watch?v=AaQfCKJLMGY">Next JS Project: Setup and First Steps</a> (2 days ago) <br/>
 <img src="https://img.shields.io/youtube/views/AaQfCKJLMGY?style=flat-square"> </img> 
 </td>
 </tr>
@@ -37,7 +37,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/lYYGhm7p74Q/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=lYYGhm7p74Q">Understanding Svelte (vs React)</a> (1 week ago) <br/>
+<a href="https://www.youtube.com/watch?v=lYYGhm7p74Q">Understanding Svelte (vs React)</a> (2 weeks ago) <br/>
 <img src="https://img.shields.io/youtube/views/lYYGhm7p74Q?style=flat-square"> </img> 
 </td>
 </tr>
@@ -64,7 +64,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/-SrqXDcjxKs/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=-SrqXDcjxKs">Next JS Project : Installation et Premier Pas</a> (today) <br/>
+<a href="https://www.youtube.com/watch?v=-SrqXDcjxKs">Next JS Project : Installation et Premier Pas</a> (1 day ago) <br/>
 <img src="https://img.shields.io/youtube/views/-SrqXDcjxKs?style=flat-square"> </img> 
 </td>
 </tr>
@@ -135,7 +135,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Kodaps/okr-app](https://github.com/Kodaps/okr-app) - OKR app (4 days ago)
+- [Kodaps/okr-app](https://github.com/Kodaps/okr-app) - OKR app (5 days ago)
 - [Kodaps/t3-cross-app](https://github.com/Kodaps/t3-cross-app) - T3 (Next &#43; RN) base app  (3 weeks ago)
 - [Kodaps/js-first-steps](https://github.com/Kodaps/js-first-steps) - First steps with JS (1 month ago)
 - [Gosev/QwikTailwind](https://github.com/Gosev/QwikTailwind) - Test of QuickCity &#43; Tailwind template  (2 months ago)
