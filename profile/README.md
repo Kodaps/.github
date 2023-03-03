@@ -23,7 +23,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/AaQfCKJLMGY/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=AaQfCKJLMGY">Next JS Project: Setup and First Steps</a> (3 days ago) <br/>
+<a href="https://www.youtube.com/watch?v=AaQfCKJLMGY">Next JS Project: Setup and First Steps</a> (4 days ago) <br/>
 <img src="https://img.shields.io/youtube/views/AaQfCKJLMGY?style=flat-square"> </img> 
 </td>
 </tr>
@@ -64,7 +64,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/-SrqXDcjxKs/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=-SrqXDcjxKs">Next JS Project : Installation et Premier Pas</a> (2 days ago) <br/>
+<a href="https://www.youtube.com/watch?v=-SrqXDcjxKs">Next JS Project : Installation et Premier Pas</a> (3 days ago) <br/>
 <img src="https://img.shields.io/youtube/views/-SrqXDcjxKs?style=flat-square"> </img> 
 </td>
 </tr>
@@ -120,7 +120,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/AX-Ucc2CZJw/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=AX-Ucc2CZJw">Les tendances de 2022 à surveiller en 2023</a> (1 month ago) <br/>
+<a href="https://www.youtube.com/watch?v=AX-Ucc2CZJw">Les tendances de 2022 à surveiller en 2023</a> (2 months ago) <br/>
 <img src="https://img.shields.io/youtube/views/AX-Ucc2CZJw?style=flat-square"> </img> 
 </td>
 </tr>
@@ -135,10 +135,10 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Kodaps/okr-app](https://github.com/Kodaps/okr-app) - OKR app (6 days ago)
-- [Kodaps/t3-cross-app](https://github.com/Kodaps/t3-cross-app) - T3 (Next &#43; RN) base app  (3 weeks ago)
+- [Kodaps/okr-app](https://github.com/Kodaps/okr-app) - OKR app (1 week ago)
+- [Kodaps/t3-cross-app](https://github.com/Kodaps/t3-cross-app) - T3 (Next &#43; RN) base app  (4 weeks ago)
 - [Kodaps/js-first-steps](https://github.com/Kodaps/js-first-steps) - First steps with JS (1 month ago)
-- [Gosev/QwikTailwind](https://github.com/Gosev/QwikTailwind) - Test of QuickCity &#43; Tailwind template  (2 months ago)
+- [Gosev/QwikTailwind](https://github.com/Gosev/QwikTailwind) - Test of QuickCity &#43; Tailwind template  (3 months ago)
 - [Gosev/AstroBlog](https://github.com/Gosev/AstroBlog) -  (6 months ago)
 - [Gosev/nextjs-blog](https://github.com/Gosev/nextjs-blog) -  (6 months ago)
 - [Kodaps/faker](https://github.com/Kodaps/faker) - Test data for exercises based on SWAPI (6 months ago)
