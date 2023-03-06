@@ -6,7 +6,7 @@
 ## 📜 🇬🇧 My recent blog posts
 
 - [5 Exciting Projects &amp; Tools to Discover in 2023](https://gosev.medium.com/5-exciting-projects-tools-to-discover-in-2023-d5b6f5886740?source=rss-e68daed69805------2) (1 month ago)
-- [The 7 JavaScript Skills You Need for React](https://javascript.plainenglish.io/the-7-javascript-skills-you-need-for-react-9244169ca80a?source=rss-e68daed69805------2) (4 months ago)
+- [The 7 JavaScript Skills You Need for React](https://javascript.plainenglish.io/the-7-javascript-skills-you-need-for-react-9244169ca80a?source=rss-e68daed69805------2) (5 months ago)
 - [What are JavaScript Promises &amp; How to Use Them](https://javascript.plainenglish.io/what-are-javascript-promises-how-to-use-them-84fdff5757b9?source=rss-e68daed69805------2) (5 months ago)
 - [What is 42, the School With No Teachers?](https://levelup.gitconnected.com/what-is-42-the-school-with-no-teachers-7e4d0f9a80c1?source=rss-e68daed69805------2) (5 months ago)
 - [GraphQL vs REST](https://levelup.gitconnected.com/graphql-vs-rest-e918d9e0e271?source=rss-e68daed69805------2) (6 months ago)
@@ -23,7 +23,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/AaQfCKJLMGY/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=AaQfCKJLMGY">Next JS Project: Setup and First Steps</a> (6 days ago) <br/>
+<a href="https://www.youtube.com/watch?v=AaQfCKJLMGY">Next JS Project: Setup and First Steps</a> (1 week ago) <br/>
 <img src="https://img.shields.io/youtube/views/AaQfCKJLMGY?style=flat-square"> </img> 
 </td>
 </tr>
@@ -44,7 +44,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/vHt2LC1EM3Q/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=vHt2LC1EM3Q">Prisma, Eloquent, Doctrine: Why Use an ORM?</a> (3 weeks ago) <br/>
+<a href="https://www.youtube.com/watch?v=vHt2LC1EM3Q">Prisma, Eloquent, Doctrine: Why Use an ORM?</a> (4 weeks ago) <br/>
 <img src="https://img.shields.io/youtube/views/vHt2LC1EM3Q?style=flat-square"> </img> 
 </td>
 </tr>
@@ -64,7 +64,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/-SrqXDcjxKs/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=-SrqXDcjxKs">Next JS Project : Installation et Premier Pas</a> (5 days ago) <br/>
+<a href="https://www.youtube.com/watch?v=-SrqXDcjxKs">Next JS Project : Installation et Premier Pas</a> (6 days ago) <br/>
 <img src="https://img.shields.io/youtube/views/-SrqXDcjxKs?style=flat-square"> </img> 
 </td>
 </tr>
