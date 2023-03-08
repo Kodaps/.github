@@ -37,14 +37,14 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/lYYGhm7p74Q/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=lYYGhm7p74Q">Understanding Svelte (vs React)</a> (2 weeks ago) <br/>
+<a href="https://www.youtube.com/watch?v=lYYGhm7p74Q">Understanding Svelte (vs React)</a> (3 weeks ago) <br/>
 <img src="https://img.shields.io/youtube/views/lYYGhm7p74Q?style=flat-square"> </img> 
 </td>
 </tr>
 <tr>
 <td><img src="https://img.youtube.com/vi/vHt2LC1EM3Q/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=vHt2LC1EM3Q">Prisma, Eloquent, Doctrine: Why Use an ORM?</a> (4 weeks ago) <br/>
+<a href="https://www.youtube.com/watch?v=vHt2LC1EM3Q">Prisma, Eloquent, Doctrine: Why Use an ORM?</a> (1 month ago) <br/>
 <img src="https://img.shields.io/youtube/views/vHt2LC1EM3Q?style=flat-square"> </img> 
 </td>
 </tr>
@@ -142,7 +142,7 @@
 - [Gosev/AstroBlog](https://github.com/Gosev/AstroBlog) -  (6 months ago)
 - [Gosev/nextjs-blog](https://github.com/Gosev/nextjs-blog) -  (6 months ago)
 - [Kodaps/faker](https://github.com/Kodaps/faker) - Test data for exercises based on SWAPI (6 months ago)
-- [Kodaps/.github](https://github.com/Kodaps/.github) - Public profile (8 months ago)
+- [Kodaps/.github](https://github.com/Kodaps/.github) - Public profile (9 months ago)
 - [Gosev/TestRepository](https://github.com/Gosev/TestRepository) -  (9 months ago)
 - [Kodaps/GitFirstSteps](https://github.com/Kodaps/GitFirstSteps) - First steps with git - a tutorial repository (9 months ago)
 
