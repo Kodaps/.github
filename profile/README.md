@@ -135,6 +135,7 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [Kodaps/nextjs-fullstack](https://github.com/Kodaps/nextjs-fullstack) -  (1 week ago)
 - [Kodaps/okr-app](https://github.com/Kodaps/okr-app) - OKR app (1 week ago)
 - [Kodaps/t3-cross-app](https://github.com/Kodaps/t3-cross-app) - T3 (Next &#43; RN) base app  (1 month ago)
 - [Kodaps/js-first-steps](https://github.com/Kodaps/js-first-steps) - First steps with JS (1 month ago)
@@ -144,7 +145,6 @@
 - [Kodaps/faker](https://github.com/Kodaps/faker) - Test data for exercises based on SWAPI (6 months ago)
 - [Kodaps/.github](https://github.com/Kodaps/.github) - Public profile (9 months ago)
 - [Gosev/TestRepository](https://github.com/Gosev/TestRepository) -  (9 months ago)
-- [Kodaps/GitFirstSteps](https://github.com/Kodaps/GitFirstSteps) - First steps with git - a tutorial repository (9 months ago)
 
 #### 🌱 My latest projects
 
