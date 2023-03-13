@@ -62,6 +62,13 @@
 <table>
 
 <tr>
+<td><img src="https://img.youtube.com/vi/eKRzywQCDaM/default.jpg"></img></td>
+<td>
+<a href="https://www.youtube.com/watch?v=eKRzywQCDaM">Next JS: Routage et Navigation &#43; le Header</a> (today) <br/>
+<img src="https://img.shields.io/youtube/views/eKRzywQCDaM?style=flat-square"> </img> 
+</td>
+</tr>
+<tr>
 <td><img src="https://img.youtube.com/vi/-SrqXDcjxKs/default.jpg"></img></td>
 <td>
 <a href="https://www.youtube.com/watch?v=-SrqXDcjxKs">Next JS Project : Installation et Premier Pas</a> (1 week ago) <br/>
@@ -122,13 +129,6 @@
 <td>
 <a href="https://www.youtube.com/watch?v=AX-Ucc2CZJw">Les tendances de 2022 à surveiller en 2023</a> (2 months ago) <br/>
 <img src="https://img.shields.io/youtube/views/AX-Ucc2CZJw?style=flat-square"> </img> 
-</td>
-</tr>
-<tr>
-<td><img src="https://img.youtube.com/vi/jIp9ghB9eRg/default.jpg"></img></td>
-<td>
-<a href="https://www.youtube.com/watch?v=jIp9ghB9eRg">Eco-conception web ? Essayez CECI !</a> (2 months ago) <br/>
-<img src="https://img.shields.io/youtube/views/jIp9ghB9eRg?style=flat-square"> </img> 
 </td>
 </tr>
 </table>
