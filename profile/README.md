@@ -64,7 +64,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/eKRzywQCDaM/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=eKRzywQCDaM">Next JS: Routage et Navigation &#43; le Header</a> (today) <br/>
+<a href="https://www.youtube.com/watch?v=eKRzywQCDaM">Next JS Project: Routage, Navigation &amp; NavBar</a> (today) <br/>
 <img src="https://img.shields.io/youtube/views/eKRzywQCDaM?style=flat-square"> </img> 
 </td>
 </tr>
