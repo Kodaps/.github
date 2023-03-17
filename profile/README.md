@@ -23,7 +23,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/KKqwh0gce30/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=KKqwh0gce30">NextJS Project: Routing &amp; Navigation &#43;  the NavBar</a> (today) <br/>
+<a href="https://www.youtube.com/watch?v=KKqwh0gce30">NextJS Project: Routing &amp; Navigation &#43;  the NavBar</a> (1 day ago) <br/>
 <img src="https://img.shields.io/youtube/views/KKqwh0gce30?style=flat-square"> </img> 
 </td>
 </tr>
@@ -44,7 +44,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/lYYGhm7p74Q/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=lYYGhm7p74Q">Understanding Svelte (vs React)</a> (4 weeks ago) <br/>
+<a href="https://www.youtube.com/watch?v=lYYGhm7p74Q">Understanding Svelte (vs React)</a> (1 month ago) <br/>
 <img src="https://img.shields.io/youtube/views/lYYGhm7p74Q?style=flat-square"> </img> 
 </td>
 </tr>
@@ -64,7 +64,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/eKRzywQCDaM/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=eKRzywQCDaM">NextJS: Routage, Navigation &amp; NavBar</a> (3 days ago) <br/>
+<a href="https://www.youtube.com/watch?v=eKRzywQCDaM">NextJS: Routage, Navigation &amp; NavBar</a> (4 days ago) <br/>
 <img src="https://img.shields.io/youtube/views/eKRzywQCDaM?style=flat-square"> </img> 
 </td>
 </tr>
@@ -113,7 +113,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/pAFTSkGUfiI/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=pAFTSkGUfiI">5 Projets de Dev Web A Découvrir (&amp; Suivre De Près)</a> (1 month ago) <br/>
+<a href="https://www.youtube.com/watch?v=pAFTSkGUfiI">5 Projets de Dev Web A Découvrir (&amp; Suivre De Près)</a> (2 months ago) <br/>
 <img src="https://img.shields.io/youtube/views/pAFTSkGUfiI?style=flat-square"> </img> 
 </td>
 </tr>
@@ -136,7 +136,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [Kodaps/nextjs-fullstack](https://github.com/Kodaps/nextjs-fullstack) -  (2 weeks ago)
-- [Kodaps/okr-app](https://github.com/Kodaps/okr-app) - OKR app (2 weeks ago)
+- [Kodaps/okr-app](https://github.com/Kodaps/okr-app) - OKR app (3 weeks ago)
 - [Kodaps/t3-cross-app](https://github.com/Kodaps/t3-cross-app) - T3 (Next &#43; RN) base app  (1 month ago)
 - [Kodaps/js-first-steps](https://github.com/Kodaps/js-first-steps) - First steps with JS (1 month ago)
 - [Gosev/QwikTailwind](https://github.com/Gosev/QwikTailwind) - Test of QuickCity &#43; Tailwind template  (3 months ago)
