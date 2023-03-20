@@ -23,7 +23,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/KKqwh0gce30/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=KKqwh0gce30">NextJS Project: Routing &amp; Navigation &#43;  the NavBar</a> (4 days ago) <br/>
+<a href="https://www.youtube.com/watch?v=KKqwh0gce30">NextJS Tutorial: Routing &amp; Navigation &#43;  the NavBar</a> (4 days ago) <br/>
 <img src="https://img.shields.io/youtube/views/KKqwh0gce30?style=flat-square"> </img> 
 </td>
 </tr>
