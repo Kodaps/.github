@@ -23,7 +23,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/KKqwh0gce30/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=KKqwh0gce30">NextJS Tutorial: Routing &amp; Navigation &#43;  the NavBar</a> (6 days ago) <br/>
+<a href="https://www.youtube.com/watch?v=KKqwh0gce30">NextJS Tutorial: Routing &amp; Navigation &#43;  the NavBar</a> (1 week ago) <br/>
 <img src="https://img.shields.io/youtube/views/KKqwh0gce30?style=flat-square"> </img> 
 </td>
 </tr>
@@ -37,7 +37,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/a6XwC22TMYY/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=a6XwC22TMYY">tRPC: the API Game-Changer?</a> (4 weeks ago) <br/>
+<a href="https://www.youtube.com/watch?v=a6XwC22TMYY">tRPC: the API Game-Changer?</a> (1 month ago) <br/>
 <img src="https://img.shields.io/youtube/views/a6XwC22TMYY?style=flat-square"> </img> 
 </td>
 </tr>
@@ -78,7 +78,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/i5ujev590Xw/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=i5ujev590Xw">tRPC : l&#39;API révolutionnaire?</a> (4 weeks ago) <br/>
+<a href="https://www.youtube.com/watch?v=i5ujev590Xw">tRPC : l&#39;API révolutionnaire?</a> (1 month ago) <br/>
 <img src="https://img.shields.io/youtube/views/i5ujev590Xw?style=flat-square"> </img> 
 </td>
 </tr>
