@@ -30,7 +30,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/AaQfCKJLMGY/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=AaQfCKJLMGY">Next JS Project: Setup and First Steps</a> (3 weeks ago) <br/>
+<a href="https://www.youtube.com/watch?v=AaQfCKJLMGY">Next JS Project: Setup and First Steps</a> (4 weeks ago) <br/>
 <img src="https://img.shields.io/youtube/views/AaQfCKJLMGY?style=flat-square"> </img> 
 </td>
 </tr>
@@ -64,7 +64,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/eKRzywQCDaM/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=eKRzywQCDaM">NextJS: Routage, Navigation &amp; NavBar</a> (1 week ago) <br/>
+<a href="https://www.youtube.com/watch?v=eKRzywQCDaM">NextJS: Routage, Navigation &amp; NavBar</a> (2 weeks ago) <br/>
 <img src="https://img.shields.io/youtube/views/eKRzywQCDaM?style=flat-square"> </img> 
 </td>
 </tr>
@@ -135,12 +135,12 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Kodaps/nextjs-fullstack](https://github.com/Kodaps/nextjs-fullstack) -  (3 weeks ago)
+- [Kodaps/nextjs-fullstack](https://github.com/Kodaps/nextjs-fullstack) -  (4 weeks ago)
 - [Kodaps/okr-app](https://github.com/Kodaps/okr-app) - OKR app (1 month ago)
 - [Kodaps/t3-cross-app](https://github.com/Kodaps/t3-cross-app) - T3 (Next &#43; RN) base app  (1 month ago)
 - [Kodaps/js-first-steps](https://github.com/Kodaps/js-first-steps) - First steps with JS (2 months ago)
 - [Gosev/QwikTailwind](https://github.com/Gosev/QwikTailwind) - Test of QuickCity &#43; Tailwind template  (3 months ago)
-- [Gosev/AstroBlog](https://github.com/Gosev/AstroBlog) -  (6 months ago)
+- [Gosev/AstroBlog](https://github.com/Gosev/AstroBlog) -  (7 months ago)
 - [Gosev/nextjs-blog](https://github.com/Gosev/nextjs-blog) -  (7 months ago)
 - [Kodaps/faker](https://github.com/Kodaps/faker) - Test data for exercises based on SWAPI (7 months ago)
 - [Kodaps/.github](https://github.com/Kodaps/.github) - Public profile (9 months ago)
@@ -162,7 +162,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [Gosev/AstroBlog](https://github.com/Gosev/AstroBlog) ([0.0.8](https://github.com/Gosev/AstroBlog/releases/tag/0.0.8), 6 months ago) - 
+- [Gosev/AstroBlog](https://github.com/Gosev/AstroBlog) ([0.0.8](https://github.com/Gosev/AstroBlog/releases/tag/0.0.8), 7 months ago) - 
 - [Kodaps/faker](https://github.com/Kodaps/faker) ([0.0.11](https://github.com/Kodaps/faker/releases/tag/0.0.11), 7 months ago) - Test data for exercises based on SWAPI
 
 #### 🔨 My recent Pull Requests
