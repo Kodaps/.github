@@ -21,6 +21,13 @@
 <table>
 
 <tr>
+<td><img src="https://img.youtube.com/vi/MSgIRdyJ6rk/default.jpg"></img></td>
+<td>
+<a href="https://www.youtube.com/watch?v=MSgIRdyJ6rk">React Native vs React JS: Differences and Shared Features</a> (today) <br/>
+<img src="https://img.shields.io/youtube/views/MSgIRdyJ6rk?style=flat-square"> </img> 
+</td>
+</tr>
+<tr>
 <td><img src="https://img.youtube.com/vi/KKqwh0gce30/default.jpg"></img></td>
 <td>
 <a href="https://www.youtube.com/watch?v=KKqwh0gce30">NextJS Tutorial: Routing &amp; Navigation &#43;  the NavBar</a> (1 week ago) <br/>
@@ -46,13 +53,6 @@
 <td>
 <a href="https://www.youtube.com/watch?v=lYYGhm7p74Q">Understanding Svelte (vs React)</a> (1 month ago) <br/>
 <img src="https://img.shields.io/youtube/views/lYYGhm7p74Q?style=flat-square"> </img> 
-</td>
-</tr>
-<tr>
-<td><img src="https://img.youtube.com/vi/vHt2LC1EM3Q/default.jpg"></img></td>
-<td>
-<a href="https://www.youtube.com/watch?v=vHt2LC1EM3Q">Prisma, Eloquent, Doctrine: Why Use an ORM?</a> (1 month ago) <br/>
-<img src="https://img.shields.io/youtube/views/vHt2LC1EM3Q?style=flat-square"> </img> 
 </td>
 </tr>
 </table>
