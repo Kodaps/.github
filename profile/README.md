@@ -23,14 +23,14 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/MSgIRdyJ6rk/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=MSgIRdyJ6rk">React Native vs React JS: Differences and Shared Features</a> (today) <br/>
+<a href="https://www.youtube.com/watch?v=MSgIRdyJ6rk">React Native vs React JS: Differences and Shared Features</a> (1 day ago) <br/>
 <img src="https://img.shields.io/youtube/views/MSgIRdyJ6rk?style=flat-square"> </img> 
 </td>
 </tr>
 <tr>
 <td><img src="https://img.youtube.com/vi/KKqwh0gce30/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=KKqwh0gce30">NextJS Tutorial: Routing &amp; Navigation &#43;  the NavBar</a> (1 week ago) <br/>
+<a href="https://www.youtube.com/watch?v=KKqwh0gce30">NextJS Tutorial: Routing &amp; Navigation &#43;  the NavBar</a> (2 weeks ago) <br/>
 <img src="https://img.shields.io/youtube/views/KKqwh0gce30?style=flat-square"> </img> 
 </td>
 </tr>
@@ -71,7 +71,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/-SrqXDcjxKs/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=-SrqXDcjxKs">Next JS Project : Installation et Premier Pas</a> (4 weeks ago) <br/>
+<a href="https://www.youtube.com/watch?v=-SrqXDcjxKs">Next JS Project : Installation et Premier Pas</a> (1 month ago) <br/>
 <img src="https://img.shields.io/youtube/views/-SrqXDcjxKs?style=flat-square"> </img> 
 </td>
 </tr>
