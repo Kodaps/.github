@@ -23,7 +23,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/MSgIRdyJ6rk/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=MSgIRdyJ6rk">React Native vs React JS in 2023: Differences and Shared Features</a> (2 days ago) <br/>
+<a href="https://www.youtube.com/watch?v=MSgIRdyJ6rk">React Native vs React JS in 2023: Differences and Shared Features</a> (3 days ago) <br/>
 <img src="https://img.shields.io/youtube/views/MSgIRdyJ6rk?style=flat-square"> </img> 
 </td>
 </tr>
@@ -64,7 +64,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/dMoz1mxnj2w/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=dMoz1mxnj2w">React Native vs React JS: Différences &amp; Points Communs</a> (1 day ago) <br/>
+<a href="https://www.youtube.com/watch?v=dMoz1mxnj2w">React Native vs React JS: Différences &amp; Points Communs</a> (2 days ago) <br/>
 <img src="https://img.shields.io/youtube/views/dMoz1mxnj2w?style=flat-square"> </img> 
 </td>
 </tr>
@@ -106,7 +106,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/k-SM7b_OmbI/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=k-SM7b_OmbI">React, Angular, Vue, Svelte, Solid, Qwik : que disent les sondages?</a> (1 month ago) <br/>
+<a href="https://www.youtube.com/watch?v=k-SM7b_OmbI">React, Angular, Vue, Svelte, Solid, Qwik : que disent les sondages?</a> (2 months ago) <br/>
 <img src="https://img.shields.io/youtube/views/k-SM7b_OmbI?style=flat-square"> </img> 
 </td>
 </tr>
