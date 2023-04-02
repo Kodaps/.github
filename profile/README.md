@@ -23,7 +23,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/MSgIRdyJ6rk/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=MSgIRdyJ6rk">React Native vs React JS in 2023: Differences and Shared Features</a> (3 days ago) <br/>
+<a href="https://www.youtube.com/watch?v=MSgIRdyJ6rk">React Native vs React JS in 2023: Differences and Shared Features</a> (4 days ago) <br/>
 <img src="https://img.shields.io/youtube/views/MSgIRdyJ6rk?style=flat-square"> </img> 
 </td>
 </tr>
@@ -64,7 +64,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/dMoz1mxnj2w/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=dMoz1mxnj2w">React Native vs React JS: Différences &amp; Points Communs</a> (2 days ago) <br/>
+<a href="https://www.youtube.com/watch?v=dMoz1mxnj2w">React Native vs React JS: Différences &amp; Points Communs</a> (3 days ago) <br/>
 <img src="https://img.shields.io/youtube/views/dMoz1mxnj2w?style=flat-square"> </img> 
 </td>
 </tr>
@@ -139,7 +139,7 @@
 - [Kodaps/okr-app](https://github.com/Kodaps/okr-app) - OKR app (1 month ago)
 - [Kodaps/t3-cross-app](https://github.com/Kodaps/t3-cross-app) - T3 (Next &#43; RN) base app  (1 month ago)
 - [Kodaps/js-first-steps](https://github.com/Kodaps/js-first-steps) - First steps with JS (2 months ago)
-- [Gosev/QwikTailwind](https://github.com/Gosev/QwikTailwind) - Test of QuickCity &#43; Tailwind template  (3 months ago)
+- [Gosev/QwikTailwind](https://github.com/Gosev/QwikTailwind) - Test of QuickCity &#43; Tailwind template  (4 months ago)
 - [Gosev/AstroBlog](https://github.com/Gosev/AstroBlog) -  (7 months ago)
 - [Gosev/nextjs-blog](https://github.com/Gosev/nextjs-blog) -  (7 months ago)
 - [Kodaps/faker](https://github.com/Kodaps/faker) - Test data for exercises based on SWAPI (7 months ago)
