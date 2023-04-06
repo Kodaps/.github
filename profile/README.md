@@ -64,7 +64,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/dMoz1mxnj2w/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=dMoz1mxnj2w">React Native vs React JS: Différences &amp; Points Communs</a> (1 week ago) <br/>
+<a href="https://www.youtube.com/watch?v=dMoz1mxnj2w">React Native vs React JS en 2023: Différences &amp; Points Communs</a> (1 week ago) <br/>
 <img src="https://img.shields.io/youtube/views/dMoz1mxnj2w?style=flat-square"> </img> 
 </td>
 </tr>
