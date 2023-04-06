@@ -23,7 +23,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/HLe0Q1j1_fU/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=HLe0Q1j1_fU">Angular Signals a Reactive Revolution!</a> (today) <br/>
+<a href="https://www.youtube.com/watch?v=HLe0Q1j1_fU">Angular Signals: Reactive Revolution!</a> (today) <br/>
 <img src="https://img.shields.io/youtube/views/HLe0Q1j1_fU?style=flat-square"> </img> 
 </td>
 </tr>
