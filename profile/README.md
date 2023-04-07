@@ -23,7 +23,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/HLe0Q1j1_fU/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=HLe0Q1j1_fU">Angular Signals: Reactive Revolution!</a> (today) <br/>
+<a href="https://www.youtube.com/watch?v=HLe0Q1j1_fU">Angular Signals: Reactive Revolution!</a> (1 day ago) <br/>
 <img src="https://img.shields.io/youtube/views/HLe0Q1j1_fU?style=flat-square"> </img> 
 </td>
 </tr>
@@ -64,7 +64,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/4jV_ARoE-uM/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=4jV_ARoE-uM">Signaux Angular, la Revolution Reactive ?</a> (today) <br/>
+<a href="https://www.youtube.com/watch?v=4jV_ARoE-uM">Signaux Angular, la Revolution Reactive ?</a> (1 day ago) <br/>
 <img src="https://img.shields.io/youtube/views/4jV_ARoE-uM?style=flat-square"> </img> 
 </td>
 </tr>
@@ -143,7 +143,7 @@
 - [Gosev/AstroBlog](https://github.com/Gosev/AstroBlog) -  (7 months ago)
 - [Gosev/nextjs-blog](https://github.com/Gosev/nextjs-blog) -  (7 months ago)
 - [Kodaps/faker](https://github.com/Kodaps/faker) - Test data for exercises based on SWAPI (7 months ago)
-- [Kodaps/.github](https://github.com/Kodaps/.github) - Public profile (9 months ago)
+- [Kodaps/.github](https://github.com/Kodaps/.github) - Public profile (10 months ago)
 - [Gosev/TestRepository](https://github.com/Gosev/TestRepository) -  (10 months ago)
 
 #### 🌱 My latest projects
