@@ -23,7 +23,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/HLe0Q1j1_fU/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=HLe0Q1j1_fU">Angular Signals: Reactive Revolution!</a> (2 days ago) <br/>
+<a href="https://www.youtube.com/watch?v=HLe0Q1j1_fU">Angular Signals: Reactive Revolution!</a> (3 days ago) <br/>
 <img src="https://img.shields.io/youtube/views/HLe0Q1j1_fU?style=flat-square"> </img> 
 </td>
 </tr>
@@ -64,7 +64,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/4jV_ARoE-uM/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=4jV_ARoE-uM">Signaux Angular, la Revolution Reactive ?</a> (2 days ago) <br/>
+<a href="https://www.youtube.com/watch?v=4jV_ARoE-uM">Signaux Angular, la Revolution Reactive ?</a> (3 days ago) <br/>
 <img src="https://img.shields.io/youtube/views/4jV_ARoE-uM?style=flat-square"> </img> 
 </td>
 </tr>
