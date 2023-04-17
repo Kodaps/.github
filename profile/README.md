@@ -99,7 +99,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/VSHdmXaEGKo/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=VSHdmXaEGKo">Comprendre Svelte (vs React)</a> (1 month ago) <br/>
+<a href="https://www.youtube.com/watch?v=VSHdmXaEGKo">Comprendre Svelte (vs React)</a> (2 months ago) <br/>
 <img src="https://img.shields.io/youtube/views/VSHdmXaEGKo?style=flat-square"> </img> 
 </td>
 </tr>
@@ -141,7 +141,7 @@
 - [Kodaps/js-first-steps](https://github.com/Kodaps/js-first-steps) - First steps with JS (2 months ago)
 - [Gosev/QwikTailwind](https://github.com/Gosev/QwikTailwind) - Test of QuickCity &#43; Tailwind template  (4 months ago)
 - [Gosev/AstroBlog](https://github.com/Gosev/AstroBlog) -  (7 months ago)
-- [Gosev/nextjs-blog](https://github.com/Gosev/nextjs-blog) -  (7 months ago)
+- [Gosev/nextjs-blog](https://github.com/Gosev/nextjs-blog) -  (8 months ago)
 - [Kodaps/faker](https://github.com/Kodaps/faker) - Test data for exercises based on SWAPI (8 months ago)
 - [Kodaps/.github](https://github.com/Kodaps/.github) - Public profile (10 months ago)
 - [Gosev/TestRepository](https://github.com/Gosev/TestRepository) -  (10 months ago)
