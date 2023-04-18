@@ -21,6 +21,13 @@
 <table>
 
 <tr>
+<td><img src="https://img.youtube.com/vi/xTp3xsjref0/default.jpg"></img></td>
+<td>
+<a href="https://www.youtube.com/watch?v=xTp3xsjref0">NextJS Hosting: Why I Moved From AWS to Vercel!</a> (today) <br/>
+<img src="https://img.shields.io/youtube/views/xTp3xsjref0?style=flat-square"> </img> 
+</td>
+</tr>
+<tr>
 <td><img src="https://img.youtube.com/vi/HLe0Q1j1_fU/default.jpg"></img></td>
 <td>
 <a href="https://www.youtube.com/watch?v=HLe0Q1j1_fU">Angular Signals: Reactive Revolution!</a> (1 week ago) <br/>
@@ -46,13 +53,6 @@
 <td>
 <a href="https://www.youtube.com/watch?v=AaQfCKJLMGY">Next JS Project: Setup and First Steps</a> (1 month ago) <br/>
 <img src="https://img.shields.io/youtube/views/AaQfCKJLMGY?style=flat-square"> </img> 
-</td>
-</tr>
-<tr>
-<td><img src="https://img.youtube.com/vi/a6XwC22TMYY/default.jpg"></img></td>
-<td>
-<a href="https://www.youtube.com/watch?v=a6XwC22TMYY">tRPC: the API Game-Changer?</a> (1 month ago) <br/>
-<img src="https://img.shields.io/youtube/views/a6XwC22TMYY?style=flat-square"> </img> 
 </td>
 </tr>
 </table>
