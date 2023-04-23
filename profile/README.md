@@ -23,7 +23,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/xTp3xsjref0/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=xTp3xsjref0">NextJS Hosting: Why I Moved From AWS to Vercel!</a> (4 days ago) <br/>
+<a href="https://www.youtube.com/watch?v=xTp3xsjref0">NextJS Hosting: Why I Moved From AWS to Vercel!</a> (5 days ago) <br/>
 <img src="https://img.shields.io/youtube/views/xTp3xsjref0?style=flat-square"> </img> 
 </td>
 </tr>
@@ -120,7 +120,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/zZWPSMVi6io/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=zZWPSMVi6io">ChatGPT :  la face obscure</a> (2 months ago) <br/>
+<a href="https://www.youtube.com/watch?v=zZWPSMVi6io">ChatGPT :  la face obscure</a> (3 months ago) <br/>
 <img src="https://img.shields.io/youtube/views/zZWPSMVi6io?style=flat-square"> </img> 
 </td>
 </tr>
