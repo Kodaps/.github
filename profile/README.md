@@ -23,7 +23,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/xTp3xsjref0/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=xTp3xsjref0">NextJS Hosting: Why I Moved From AWS to Vercel!</a> (6 days ago) <br/>
+<a href="https://www.youtube.com/watch?v=xTp3xsjref0">NextJS Hosting: Why I Moved From AWS to Vercel!</a> (1 week ago) <br/>
 <img src="https://img.shields.io/youtube/views/xTp3xsjref0?style=flat-square"> </img> 
 </td>
 </tr>
@@ -136,7 +136,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [Kodaps/nextjs-fullstack](https://github.com/Kodaps/nextjs-fullstack) -  (1 month ago)
-- [Kodaps/okr-app](https://github.com/Kodaps/okr-app) - OKR app (1 month ago)
+- [Kodaps/okr-app](https://github.com/Kodaps/okr-app) - OKR app (2 months ago)
 - [Kodaps/t3-cross-app](https://github.com/Kodaps/t3-cross-app) - T3 (Next &#43; RN) base app  (2 months ago)
 - [Kodaps/js-first-steps](https://github.com/Kodaps/js-first-steps) - First steps with JS (3 months ago)
 - [Gosev/QwikTailwind](https://github.com/Gosev/QwikTailwind) - Test of QuickCity &#43; Tailwind template  (4 months ago)
