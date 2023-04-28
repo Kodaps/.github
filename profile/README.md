@@ -62,6 +62,13 @@
 <table>
 
 <tr>
+<td><img src="https://img.youtube.com/vi/Nh43Kqyx0w8/default.jpg"></img></td>
+<td>
+<a href="https://www.youtube.com/watch?v=Nh43Kqyx0w8">Tuto NextJS: Page web responsive avec Tailwind</a> (today) <br/>
+<img src="https://img.shields.io/youtube/views/Nh43Kqyx0w8?style=flat-square"> </img> 
+</td>
+</tr>
+<tr>
 <td><img src="https://img.youtube.com/vi/4jV_ARoE-uM/default.jpg"></img></td>
 <td>
 <a href="https://www.youtube.com/watch?v=4jV_ARoE-uM">Angular Signals, la Revolution Reactive ?</a> (3 weeks ago) <br/>
@@ -122,13 +129,6 @@
 <td>
 <a href="https://www.youtube.com/watch?v=zZWPSMVi6io">ChatGPT :  la face obscure</a> (3 months ago) <br/>
 <img src="https://img.shields.io/youtube/views/zZWPSMVi6io?style=flat-square"> </img> 
-</td>
-</tr>
-<tr>
-<td><img src="https://img.youtube.com/vi/pAFTSkGUfiI/default.jpg"></img></td>
-<td>
-<a href="https://www.youtube.com/watch?v=pAFTSkGUfiI">5 Projets de Dev Web A Découvrir (&amp; Suivre De Près)</a> (3 months ago) <br/>
-<img src="https://img.shields.io/youtube/views/pAFTSkGUfiI?style=flat-square"> </img> 
 </td>
 </tr>
 </table>
