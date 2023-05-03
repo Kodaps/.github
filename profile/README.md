@@ -62,6 +62,13 @@
 <table>
 
 <tr>
+<td><img src="https://img.youtube.com/vi/0jbyL2ZdtZY/default.jpg"></img></td>
+<td>
+<a href="https://www.youtube.com/watch?v=0jbyL2ZdtZY">Hébergement NextJS: AWS vs Vercel</a> (today) <br/>
+<img src="https://img.shields.io/youtube/views/0jbyL2ZdtZY?style=flat-square"> </img> 
+</td>
+</tr>
+<tr>
 <td><img src="https://img.youtube.com/vi/Nh43Kqyx0w8/default.jpg"></img></td>
 <td>
 <a href="https://www.youtube.com/watch?v=Nh43Kqyx0w8">Tuto NextJS: Page web responsive avec Tailwind</a> (5 days ago) <br/>
@@ -122,13 +129,6 @@
 <td>
 <a href="https://www.youtube.com/watch?v=k-SM7b_OmbI">React, Angular, Vue, Svelte, Solid, Qwik : que disent les sondages?</a> (3 months ago) <br/>
 <img src="https://img.shields.io/youtube/views/k-SM7b_OmbI?style=flat-square"> </img> 
-</td>
-</tr>
-<tr>
-<td><img src="https://img.youtube.com/vi/zZWPSMVi6io/default.jpg"></img></td>
-<td>
-<a href="https://www.youtube.com/watch?v=zZWPSMVi6io">ChatGPT :  la face obscure</a> (3 months ago) <br/>
-<img src="https://img.shields.io/youtube/views/zZWPSMVi6io?style=flat-square"> </img> 
 </td>
 </tr>
 </table>
