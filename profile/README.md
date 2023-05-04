@@ -12,7 +12,7 @@
 - [GraphQL vs REST](https://levelup.gitconnected.com/graphql-vs-rest-e918d9e0e271?source=rss-e68daed69805------2) (8 months ago)
 - [What is Astro?](https://javascript.plainenglish.io/what-is-astro-aa3369d5a7f4?source=rss-e68daed69805------2) (8 months ago)
 - [What is Art?](https://gosev.medium.com/what-is-art-2dce12548091?source=rss-e68daed69805------2) (8 months ago)
-- [How to Release Your Code Into the Wild](https://levelup.gitconnected.com/how-to-release-your-code-into-the-wild-dd144218cb9b?source=rss-e68daed69805------2) (8 months ago)
+- [How to Release Your Code Into the Wild](https://levelup.gitconnected.com/how-to-release-your-code-into-the-wild-dd144218cb9b?source=rss-e68daed69805------2) (9 months ago)
 - [5 Tips to Have Fun Using MidJourney AI Image Generation — The First Steps](https://gosev.medium.com/5-tips-to-have-fun-using-midjourney-ai-image-generation-the-first-steps-81cf44a53931?source=rss-e68daed69805------2) (9 months ago)
 - [3 Lessons I Learned While Managing The Project From Hell](https://medium.com/illumination/3-lessons-i-learned-while-managing-the-project-from-hell-e31196db2d5f?source=rss-e68daed69805------2) (9 months ago)
 
@@ -30,7 +30,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/HLe0Q1j1_fU/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=HLe0Q1j1_fU">Angular Signals: Reactive Revolution!</a> (3 weeks ago) <br/>
+<a href="https://www.youtube.com/watch?v=HLe0Q1j1_fU">Angular Signals: Reactive Revolution!</a> (4 weeks ago) <br/>
 <img src="https://img.shields.io/youtube/views/HLe0Q1j1_fU?style=flat-square"> </img> 
 </td>
 </tr>
@@ -64,21 +64,21 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/0jbyL2ZdtZY/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=0jbyL2ZdtZY">Hébergement NextJS: AWS vs Vercel</a> (today) <br/>
+<a href="https://www.youtube.com/watch?v=0jbyL2ZdtZY">Hébergement NextJS: AWS vs Vercel</a> (1 day ago) <br/>
 <img src="https://img.shields.io/youtube/views/0jbyL2ZdtZY?style=flat-square"> </img> 
 </td>
 </tr>
 <tr>
 <td><img src="https://img.youtube.com/vi/Nh43Kqyx0w8/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=Nh43Kqyx0w8">Tuto NextJS: Page web responsive avec Tailwind</a> (5 days ago) <br/>
+<a href="https://www.youtube.com/watch?v=Nh43Kqyx0w8">Tuto NextJS: Page web responsive avec Tailwind</a> (6 days ago) <br/>
 <img src="https://img.shields.io/youtube/views/Nh43Kqyx0w8?style=flat-square"> </img> 
 </td>
 </tr>
 <tr>
 <td><img src="https://img.youtube.com/vi/4jV_ARoE-uM/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=4jV_ARoE-uM">Angular Signals, la Revolution Reactive ?</a> (3 weeks ago) <br/>
+<a href="https://www.youtube.com/watch?v=4jV_ARoE-uM">Angular Signals, la Revolution Reactive ?</a> (4 weeks ago) <br/>
 <img src="https://img.shields.io/youtube/views/4jV_ARoE-uM?style=flat-square"> </img> 
 </td>
 </tr>
@@ -137,14 +137,14 @@
 
 - [Kodaps/nextjs-fullstack](https://github.com/Kodaps/nextjs-fullstack) -  (2 months ago)
 - [Kodaps/okr-app](https://github.com/Kodaps/okr-app) - OKR app (2 months ago)
-- [Kodaps/t3-cross-app](https://github.com/Kodaps/t3-cross-app) - T3 (Next &#43; RN) base app  (2 months ago)
+- [Kodaps/t3-cross-app](https://github.com/Kodaps/t3-cross-app) - T3 (Next &#43; RN) base app  (3 months ago)
 - [Kodaps/js-first-steps](https://github.com/Kodaps/js-first-steps) - First steps with JS (3 months ago)
 - [Gosev/QwikTailwind](https://github.com/Gosev/QwikTailwind) - Test of QuickCity &#43; Tailwind template  (5 months ago)
 - [Gosev/AstroBlog](https://github.com/Gosev/AstroBlog) -  (8 months ago)
 - [Gosev/nextjs-blog](https://github.com/Gosev/nextjs-blog) -  (8 months ago)
 - [Kodaps/faker](https://github.com/Kodaps/faker) - Test data for exercises based on SWAPI (8 months ago)
 - [Kodaps/.github](https://github.com/Kodaps/.github) - Public profile (10 months ago)
-- [Gosev/TestRepository](https://github.com/Gosev/TestRepository) -  (10 months ago)
+- [Gosev/TestRepository](https://github.com/Gosev/TestRepository) -  (11 months ago)
 
 #### 🌱 My latest projects
 
