@@ -64,7 +64,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/0jbyL2ZdtZY/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=0jbyL2ZdtZY">Hébergement NextJS: AWS vs Vercel</a> (3 days ago) <br/>
+<a href="https://www.youtube.com/watch?v=0jbyL2ZdtZY">Hébergement NextJS: AWS vs Vercel</a> (4 days ago) <br/>
 <img src="https://img.shields.io/youtube/views/0jbyL2ZdtZY?style=flat-square"> </img> 
 </td>
 </tr>
@@ -143,7 +143,7 @@
 - [Gosev/AstroBlog](https://github.com/Gosev/AstroBlog) -  (8 months ago)
 - [Gosev/nextjs-blog](https://github.com/Gosev/nextjs-blog) -  (8 months ago)
 - [Kodaps/faker](https://github.com/Kodaps/faker) - Test data for exercises based on SWAPI (8 months ago)
-- [Kodaps/.github](https://github.com/Kodaps/.github) - Public profile (10 months ago)
+- [Kodaps/.github](https://github.com/Kodaps/.github) - Public profile (11 months ago)
 - [Gosev/TestRepository](https://github.com/Gosev/TestRepository) -  (11 months ago)
 
 #### 🌱 My latest projects
