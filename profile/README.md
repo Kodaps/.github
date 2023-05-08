@@ -64,7 +64,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/0jbyL2ZdtZY/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=0jbyL2ZdtZY">Hébergement NextJS: AWS vs Vercel</a> (4 days ago) <br/>
+<a href="https://www.youtube.com/watch?v=0jbyL2ZdtZY">Hébergement NextJS: AWS vs Vercel</a> (5 days ago) <br/>
 <img src="https://img.shields.io/youtube/views/0jbyL2ZdtZY?style=flat-square"> </img> 
 </td>
 </tr>
@@ -120,7 +120,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/DXk73GfyV9I/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=DXk73GfyV9I">Prisma, Doctrine: Pourquoi utiliser un ORM ?</a> (2 months ago) <br/>
+<a href="https://www.youtube.com/watch?v=DXk73GfyV9I">Prisma, Doctrine: Pourquoi utiliser un ORM ?</a> (3 months ago) <br/>
 <img src="https://img.shields.io/youtube/views/DXk73GfyV9I?style=flat-square"> </img> 
 </td>
 </tr>
