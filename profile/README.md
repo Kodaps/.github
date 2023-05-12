@@ -71,7 +71,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/Nh43Kqyx0w8/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=Nh43Kqyx0w8">Tuto NextJS: Page web responsive avec Tailwind</a> (1 week ago) <br/>
+<a href="https://www.youtube.com/watch?v=Nh43Kqyx0w8">Tuto NextJS: Page web responsive avec Tailwind</a> (2 weeks ago) <br/>
 <img src="https://img.shields.io/youtube/views/Nh43Kqyx0w8?style=flat-square"> </img> 
 </td>
 </tr>
@@ -92,7 +92,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/eKRzywQCDaM/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=eKRzywQCDaM">NextJS: Routage, Navigation &amp; NavBar</a> (1 month ago) <br/>
+<a href="https://www.youtube.com/watch?v=eKRzywQCDaM">NextJS: Routage, Navigation &amp; NavBar</a> (2 months ago) <br/>
 <img src="https://img.shields.io/youtube/views/eKRzywQCDaM?style=flat-square"> </img> 
 </td>
 </tr>
