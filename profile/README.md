@@ -21,6 +21,13 @@
 <table>
 
 <tr>
+<td><img src="https://img.youtube.com/vi/b03xHADd0ms/default.jpg"></img></td>
+<td>
+<a href="https://www.youtube.com/watch?v=b03xHADd0ms">Why Qwik is the Future</a> (today) <br/>
+<img src="https://img.shields.io/youtube/views/b03xHADd0ms?style=flat-square"> </img> 
+</td>
+</tr>
+<tr>
 <td><img src="https://img.youtube.com/vi/xTp3xsjref0/default.jpg"></img></td>
 <td>
 <a href="https://www.youtube.com/watch?v=xTp3xsjref0">NextJS Hosting: Why I Moved From AWS to Vercel!</a> (3 weeks ago) <br/>
@@ -46,13 +53,6 @@
 <td>
 <a href="https://www.youtube.com/watch?v=KKqwh0gce30">NextJS Tutorial: Routing &amp; Navigation &#43;  the NavBar</a> (2 months ago) <br/>
 <img src="https://img.shields.io/youtube/views/KKqwh0gce30?style=flat-square"> </img> 
-</td>
-</tr>
-<tr>
-<td><img src="https://img.youtube.com/vi/AaQfCKJLMGY/default.jpg"></img></td>
-<td>
-<a href="https://www.youtube.com/watch?v=AaQfCKJLMGY">Next JS Project: Setup and First Steps</a> (2 months ago) <br/>
-<img src="https://img.shields.io/youtube/views/AaQfCKJLMGY?style=flat-square"> </img> 
 </td>
 </tr>
 </table>
