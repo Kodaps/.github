@@ -23,7 +23,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/b03xHADd0ms/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=b03xHADd0ms">Why Qwik is the Future</a> (1 day ago) <br/>
+<a href="https://www.youtube.com/watch?v=b03xHADd0ms">Why Qwik is the Future</a> (2 days ago) <br/>
 <img src="https://img.shields.io/youtube/views/b03xHADd0ms?style=flat-square"> </img> 
 </td>
 </tr>
@@ -64,7 +64,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/0jbyL2ZdtZY/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=0jbyL2ZdtZY">Hébergement NextJS: AWS vs Vercel</a> (1 week ago) <br/>
+<a href="https://www.youtube.com/watch?v=0jbyL2ZdtZY">Hébergement NextJS: AWS vs Vercel</a> (2 weeks ago) <br/>
 <img src="https://img.shields.io/youtube/views/0jbyL2ZdtZY?style=flat-square"> </img> 
 </td>
 </tr>
@@ -113,7 +113,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/VSHdmXaEGKo/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=VSHdmXaEGKo">Comprendre Svelte (vs React)</a> (2 months ago) <br/>
+<a href="https://www.youtube.com/watch?v=VSHdmXaEGKo">Comprendre Svelte (vs React)</a> (3 months ago) <br/>
 <img src="https://img.shields.io/youtube/views/VSHdmXaEGKo?style=flat-square"> </img> 
 </td>
 </tr>
@@ -141,7 +141,7 @@
 - [Kodaps/js-first-steps](https://github.com/Kodaps/js-first-steps) - First steps with JS (3 months ago)
 - [Gosev/QwikTailwind](https://github.com/Gosev/QwikTailwind) - Test of QuickCity &#43; Tailwind template  (5 months ago)
 - [Gosev/AstroBlog](https://github.com/Gosev/AstroBlog) -  (8 months ago)
-- [Gosev/nextjs-blog](https://github.com/Gosev/nextjs-blog) -  (8 months ago)
+- [Gosev/nextjs-blog](https://github.com/Gosev/nextjs-blog) -  (9 months ago)
 - [Kodaps/faker](https://github.com/Kodaps/faker) - Test data for exercises based on SWAPI (9 months ago)
 - [Kodaps/.github](https://github.com/Kodaps/.github) - Public profile (11 months ago)
 - [Gosev/TestRepository](https://github.com/Gosev/TestRepository) -  (11 months ago)
