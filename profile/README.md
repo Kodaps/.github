@@ -64,7 +64,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/iXS_YMoMANc/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=iXS_YMoMANc">Qwik: l&#39;Avenir des Frameworks JS ?</a> (today) <br/>
+<a href="https://www.youtube.com/watch?v=iXS_YMoMANc">Qwik: C&#39;est l&#39;Avenir</a> (today) <br/>
 <img src="https://img.shields.io/youtube/views/iXS_YMoMANc?style=flat-square"> </img> 
 </td>
 </tr>
