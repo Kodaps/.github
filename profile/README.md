@@ -62,6 +62,13 @@
 <table>
 
 <tr>
+<td><img src="https://img.youtube.com/vi/iXS_YMoMANc/default.jpg"></img></td>
+<td>
+<a href="https://www.youtube.com/watch?v=iXS_YMoMANc">Qwik: l&#39;Avenir des Frameworks JS ?</a> (today) <br/>
+<img src="https://img.shields.io/youtube/views/iXS_YMoMANc?style=flat-square"> </img> 
+</td>
+</tr>
+<tr>
 <td><img src="https://img.youtube.com/vi/0jbyL2ZdtZY/default.jpg"></img></td>
 <td>
 <a href="https://www.youtube.com/watch?v=0jbyL2ZdtZY">Hébergement NextJS: AWS vs Vercel</a> (2 weeks ago) <br/>
@@ -122,13 +129,6 @@
 <td>
 <a href="https://www.youtube.com/watch?v=DXk73GfyV9I">Prisma, Doctrine: Pourquoi utiliser un ORM ?</a> (3 months ago) <br/>
 <img src="https://img.shields.io/youtube/views/DXk73GfyV9I?style=flat-square"> </img> 
-</td>
-</tr>
-<tr>
-<td><img src="https://img.youtube.com/vi/k-SM7b_OmbI/default.jpg"></img></td>
-<td>
-<a href="https://www.youtube.com/watch?v=k-SM7b_OmbI">React, Angular, Vue, Svelte, Solid, Qwik : que disent les sondages?</a> (3 months ago) <br/>
-<img src="https://img.shields.io/youtube/views/k-SM7b_OmbI?style=flat-square"> </img> 
 </td>
 </tr>
 </table>
