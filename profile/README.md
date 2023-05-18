@@ -23,14 +23,14 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/b03xHADd0ms/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=b03xHADd0ms">Why Qwik is the Future</a> (2 days ago) <br/>
+<a href="https://www.youtube.com/watch?v=b03xHADd0ms">Why Qwik is the Future</a> (3 days ago) <br/>
 <img src="https://img.shields.io/youtube/views/b03xHADd0ms?style=flat-square"> </img> 
 </td>
 </tr>
 <tr>
 <td><img src="https://img.youtube.com/vi/xTp3xsjref0/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=xTp3xsjref0">NextJS Hosting: Why I Moved From AWS to Vercel!</a> (4 weeks ago) <br/>
+<a href="https://www.youtube.com/watch?v=xTp3xsjref0">NextJS Hosting: Why I Moved From AWS to Vercel!</a> (1 month ago) <br/>
 <img src="https://img.shields.io/youtube/views/xTp3xsjref0?style=flat-square"> </img> 
 </td>
 </tr>
@@ -64,7 +64,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/iXS_YMoMANc/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=iXS_YMoMANc">Pourquoi Qwik C&#39;est l&#39;Avenir</a> (today) <br/>
+<a href="https://www.youtube.com/watch?v=iXS_YMoMANc">Pourquoi Qwik C&#39;est l&#39;Avenir</a> (1 day ago) <br/>
 <img src="https://img.shields.io/youtube/views/iXS_YMoMANc?style=flat-square"> </img> 
 </td>
 </tr>
