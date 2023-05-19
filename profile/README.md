@@ -23,7 +23,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/b03xHADd0ms/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=b03xHADd0ms">Why Qwik is the Future</a> (3 days ago) <br/>
+<a href="https://www.youtube.com/watch?v=b03xHADd0ms">Why Qwik is the Future</a> (4 days ago) <br/>
 <img src="https://img.shields.io/youtube/views/b03xHADd0ms?style=flat-square"> </img> 
 </td>
 </tr>
@@ -64,7 +64,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/iXS_YMoMANc/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=iXS_YMoMANc">Pourquoi Qwik C&#39;est l&#39;Avenir</a> (1 day ago) <br/>
+<a href="https://www.youtube.com/watch?v=iXS_YMoMANc">Pourquoi Qwik C&#39;est l&#39;Avenir</a> (2 days ago) <br/>
 <img src="https://img.shields.io/youtube/views/iXS_YMoMANc?style=flat-square"> </img> 
 </td>
 </tr>
@@ -78,7 +78,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/Nh43Kqyx0w8/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=Nh43Kqyx0w8">Tuto NextJS: Page web responsive avec Tailwind</a> (2 weeks ago) <br/>
+<a href="https://www.youtube.com/watch?v=Nh43Kqyx0w8">Tuto NextJS: Page web responsive avec Tailwind</a> (3 weeks ago) <br/>
 <img src="https://img.shields.io/youtube/views/Nh43Kqyx0w8?style=flat-square"> </img> 
 </td>
 </tr>
@@ -138,7 +138,7 @@
 - [Kodaps/nextjs-fullstack](https://github.com/Kodaps/nextjs-fullstack) -  (2 months ago)
 - [Kodaps/okr-app](https://github.com/Kodaps/okr-app) - OKR app (2 months ago)
 - [Kodaps/t3-cross-app](https://github.com/Kodaps/t3-cross-app) - T3 (Next &#43; RN) base app  (3 months ago)
-- [Kodaps/js-first-steps](https://github.com/Kodaps/js-first-steps) - First steps with JS (3 months ago)
+- [Kodaps/js-first-steps](https://github.com/Kodaps/js-first-steps) - First steps with JS (4 months ago)
 - [Gosev/QwikTailwind](https://github.com/Gosev/QwikTailwind) - Test of QuickCity &#43; Tailwind template  (5 months ago)
 - [Gosev/AstroBlog](https://github.com/Gosev/AstroBlog) -  (8 months ago)
 - [Gosev/nextjs-blog](https://github.com/Gosev/nextjs-blog) -  (9 months ago)
