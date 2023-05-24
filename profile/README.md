@@ -64,14 +64,14 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/iXS_YMoMANc/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=iXS_YMoMANc">Pourquoi Qwik C&#39;est l&#39;Avenir</a> (6 days ago) <br/>
+<a href="https://www.youtube.com/watch?v=iXS_YMoMANc">Pourquoi Qwik C&#39;est l&#39;Avenir</a> (1 week ago) <br/>
 <img src="https://img.shields.io/youtube/views/iXS_YMoMANc?style=flat-square"> </img> 
 </td>
 </tr>
 <tr>
 <td><img src="https://img.youtube.com/vi/0jbyL2ZdtZY/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=0jbyL2ZdtZY">Hébergement NextJS: AWS vs Vercel</a> (2 weeks ago) <br/>
+<a href="https://www.youtube.com/watch?v=0jbyL2ZdtZY">Hébergement NextJS: AWS vs Vercel</a> (3 weeks ago) <br/>
 <img src="https://img.shields.io/youtube/views/0jbyL2ZdtZY?style=flat-square"> </img> 
 </td>
 </tr>
