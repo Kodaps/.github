@@ -44,7 +44,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/MSgIRdyJ6rk/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=MSgIRdyJ6rk">React Native vs React JS in 2023: Differences and Shared Features</a> (1 month ago) <br/>
+<a href="https://www.youtube.com/watch?v=MSgIRdyJ6rk">React Native vs React JS in 2023: Differences and Shared Features</a> (2 months ago) <br/>
 <img src="https://img.shields.io/youtube/views/MSgIRdyJ6rk?style=flat-square"> </img> 
 </td>
 </tr>
@@ -78,7 +78,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/Nh43Kqyx0w8/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=Nh43Kqyx0w8">Tuto NextJS: Page web responsive avec Tailwind</a> (4 weeks ago) <br/>
+<a href="https://www.youtube.com/watch?v=Nh43Kqyx0w8">Tuto NextJS: Page web responsive avec Tailwind</a> (1 month ago) <br/>
 <img src="https://img.shields.io/youtube/views/Nh43Kqyx0w8?style=flat-square"> </img> 
 </td>
 </tr>
@@ -135,7 +135,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Kodaps/nextjs-fullstack](https://github.com/Kodaps/nextjs-fullstack) -  (2 months ago)
+- [Kodaps/nextjs-fullstack](https://github.com/Kodaps/nextjs-fullstack) -  (3 months ago)
 - [Kodaps/okr-app](https://github.com/Kodaps/okr-app) - OKR app (3 months ago)
 - [Kodaps/t3-cross-app](https://github.com/Kodaps/t3-cross-app) - T3 (Next &#43; RN) base app  (3 months ago)
 - [Kodaps/js-first-steps](https://github.com/Kodaps/js-first-steps) - First steps with JS (4 months ago)
