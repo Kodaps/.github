@@ -21,6 +21,13 @@
 <table>
 
 <tr>
+<td><img src="https://img.youtube.com/vi/XJP1Kipit1g/default.jpg"></img></td>
+<td>
+<a href="https://www.youtube.com/watch?v=XJP1Kipit1g">Best Free Resources to Learn JavaScript (&amp; TypeScript)</a> (today) <br/>
+<img src="https://img.shields.io/youtube/views/XJP1Kipit1g?style=flat-square"> </img> 
+</td>
+</tr>
+<tr>
 <td><img src="https://img.youtube.com/vi/b03xHADd0ms/default.jpg"></img></td>
 <td>
 <a href="https://www.youtube.com/watch?v=b03xHADd0ms">Why Qwik is the Future</a> (2 weeks ago) <br/>
@@ -46,13 +53,6 @@
 <td>
 <a href="https://www.youtube.com/watch?v=MSgIRdyJ6rk">React Native vs React JS in 2023: Differences and Shared Features</a> (2 months ago) <br/>
 <img src="https://img.shields.io/youtube/views/MSgIRdyJ6rk?style=flat-square"> </img> 
-</td>
-</tr>
-<tr>
-<td><img src="https://img.youtube.com/vi/KKqwh0gce30/default.jpg"></img></td>
-<td>
-<a href="https://www.youtube.com/watch?v=KKqwh0gce30">NextJS Tutorial: Routing &amp; Navigation &#43;  the NavBar</a> (2 months ago) <br/>
-<img src="https://img.shields.io/youtube/views/KKqwh0gce30?style=flat-square"> </img> 
 </td>
 </tr>
 </table>
