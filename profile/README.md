@@ -23,7 +23,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/XJP1Kipit1g/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=XJP1Kipit1g">Best Free Resources to Learn JavaScript (&amp; TypeScript)</a> (3 days ago) <br/>
+<a href="https://www.youtube.com/watch?v=XJP1Kipit1g">Learning JavaScript? You Need THIS</a> (3 days ago) <br/>
 <img src="https://img.shields.io/youtube/views/XJP1Kipit1g?style=flat-square"> </img> 
 </td>
 </tr>
