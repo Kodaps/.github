@@ -23,7 +23,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/XJP1Kipit1g/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=XJP1Kipit1g">Learning JavaScript? You Need THIS</a> (3 days ago) <br/>
+<a href="https://www.youtube.com/watch?v=XJP1Kipit1g">Learning JavaScript? You Need THIS</a> (4 days ago) <br/>
 <img src="https://img.shields.io/youtube/views/XJP1Kipit1g?style=flat-square"> </img> 
 </td>
 </tr>
@@ -71,7 +71,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/0jbyL2ZdtZY/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=0jbyL2ZdtZY">Hébergement NextJS: AWS vs Vercel</a> (4 weeks ago) <br/>
+<a href="https://www.youtube.com/watch?v=0jbyL2ZdtZY">Hébergement NextJS: AWS vs Vercel</a> (1 month ago) <br/>
 <img src="https://img.shields.io/youtube/views/0jbyL2ZdtZY?style=flat-square"> </img> 
 </td>
 </tr>
@@ -180,7 +180,7 @@
 
 - [onwidget/astrowind](https://github.com/onwidget/astrowind) - ⭕️ AstroWind: A free template using Astro 2.0 and Tailwind CSS. (9 months ago)
 - [coronalabs/CoronaViewer](https://github.com/coronalabs/CoronaViewer) - CoronaViewer for SDK/Enterprise (8 years ago)
-- [Gosev/Jump](https://github.com/Gosev/Jump) - Jump website (10 years ago)
+- [Gosev/Jump](https://github.com/Gosev/Jump) - Jump website (11 years ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
