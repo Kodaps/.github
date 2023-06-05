@@ -23,14 +23,14 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/XJP1Kipit1g/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=XJP1Kipit1g">Learning JavaScript? You Need THIS</a> (6 days ago) <br/>
+<a href="https://www.youtube.com/watch?v=XJP1Kipit1g">Learning JavaScript? You Need THIS</a> (1 week ago) <br/>
 <img src="https://img.shields.io/youtube/views/XJP1Kipit1g?style=flat-square"> </img> 
 </td>
 </tr>
 <tr>
 <td><img src="https://img.youtube.com/vi/b03xHADd0ms/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=b03xHADd0ms">Why Qwik is the Future</a> (2 weeks ago) <br/>
+<a href="https://www.youtube.com/watch?v=b03xHADd0ms">Why Qwik is the Future</a> (3 weeks ago) <br/>
 <img src="https://img.shields.io/youtube/views/b03xHADd0ms?style=flat-square"> </img> 
 </td>
 </tr>
@@ -44,7 +44,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/HLe0Q1j1_fU/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=HLe0Q1j1_fU">Angular Signals: Reactive Revolution!</a> (1 month ago) <br/>
+<a href="https://www.youtube.com/watch?v=HLe0Q1j1_fU">Angular Signals: Reactive Revolution!</a> (2 months ago) <br/>
 <img src="https://img.shields.io/youtube/views/HLe0Q1j1_fU?style=flat-square"> </img> 
 </td>
 </tr>
@@ -85,7 +85,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/4jV_ARoE-uM/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=4jV_ARoE-uM">Angular Signals, la Revolution Reactive ?</a> (1 month ago) <br/>
+<a href="https://www.youtube.com/watch?v=4jV_ARoE-uM">Angular Signals, la Revolution Reactive ?</a> (2 months ago) <br/>
 <img src="https://img.shields.io/youtube/views/4jV_ARoE-uM?style=flat-square"> </img> 
 </td>
 </tr>
