@@ -143,7 +143,7 @@
 - [Gosev/AstroBlog](https://github.com/Gosev/AstroBlog) -  (9 months ago)
 - [Gosev/nextjs-blog](https://github.com/Gosev/nextjs-blog) -  (9 months ago)
 - [Kodaps/faker](https://github.com/Kodaps/faker) - Test data for exercises based on SWAPI (9 months ago)
-- [Kodaps/.github](https://github.com/Kodaps/.github) - Public profile (11 months ago)
+- [Kodaps/.github](https://github.com/Kodaps/.github) - Public profile (1 year ago)
 - [Gosev/TestRepository](https://github.com/Gosev/TestRepository) -  (1 year ago)
 
 #### 🌱 My latest projects
