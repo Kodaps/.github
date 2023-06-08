@@ -62,6 +62,13 @@
 <table>
 
 <tr>
+<td><img src="https://img.youtube.com/vi/gJvrCi8RHJc/default.jpg"></img></td>
+<td>
+<a href="https://www.youtube.com/watch?v=gJvrCi8RHJc">Apprendre le JS : les Meilleurs Ressources Gratuites</a> (today) <br/>
+<img src="https://img.shields.io/youtube/views/gJvrCi8RHJc?style=flat-square"> </img> 
+</td>
+</tr>
+<tr>
 <td><img src="https://img.youtube.com/vi/iXS_YMoMANc/default.jpg"></img></td>
 <td>
 <a href="https://www.youtube.com/watch?v=iXS_YMoMANc">Pourquoi Qwik C&#39;est l&#39;Avenir</a> (3 weeks ago) <br/>
@@ -122,13 +129,6 @@
 <td>
 <a href="https://www.youtube.com/watch?v=VSHdmXaEGKo">Comprendre Svelte (vs React)</a> (3 months ago) <br/>
 <img src="https://img.shields.io/youtube/views/VSHdmXaEGKo?style=flat-square"> </img> 
-</td>
-</tr>
-<tr>
-<td><img src="https://img.youtube.com/vi/DXk73GfyV9I/default.jpg"></img></td>
-<td>
-<a href="https://www.youtube.com/watch?v=DXk73GfyV9I">Prisma, Doctrine: Pourquoi utiliser un ORM ?</a> (4 months ago) <br/>
-<img src="https://img.shields.io/youtube/views/DXk73GfyV9I?style=flat-square"> </img> 
 </td>
 </tr>
 </table>
