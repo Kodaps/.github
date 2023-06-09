@@ -37,7 +37,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/xTp3xsjref0/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=xTp3xsjref0">NextJS Hosting: Why I Moved From AWS to Vercel!</a> (1 month ago) <br/>
+<a href="https://www.youtube.com/watch?v=xTp3xsjref0">NextJS Hosting: AWS vs Vercel!</a> (1 month ago) <br/>
 <img src="https://img.shields.io/youtube/views/xTp3xsjref0?style=flat-square"> </img> 
 </td>
 </tr>
