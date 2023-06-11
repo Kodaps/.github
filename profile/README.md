@@ -64,7 +64,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/gJvrCi8RHJc/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=gJvrCi8RHJc">Apprendre le JS : les Meilleurs Ressources Gratuites</a> (2 days ago) <br/>
+<a href="https://www.youtube.com/watch?v=gJvrCi8RHJc">Apprendre le JS : les Meilleurs Ressources Gratuites</a> (3 days ago) <br/>
 <img src="https://img.shields.io/youtube/views/gJvrCi8RHJc?style=flat-square"> </img> 
 </td>
 </tr>
@@ -106,7 +106,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/eKRzywQCDaM/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=eKRzywQCDaM">NextJS: Routage, Navigation &amp; NavBar</a> (2 months ago) <br/>
+<a href="https://www.youtube.com/watch?v=eKRzywQCDaM">NextJS: Routage, Navigation &amp; NavBar</a> (3 months ago) <br/>
 <img src="https://img.shields.io/youtube/views/eKRzywQCDaM?style=flat-square"> </img> 
 </td>
 </tr>
