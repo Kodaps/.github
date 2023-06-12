@@ -23,14 +23,14 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/XJP1Kipit1g/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=XJP1Kipit1g">Learning JavaScript? You Need THIS</a> (1 week ago) <br/>
+<a href="https://www.youtube.com/watch?v=XJP1Kipit1g">Learning JavaScript? You Need THIS</a> (2 weeks ago) <br/>
 <img src="https://img.shields.io/youtube/views/XJP1Kipit1g?style=flat-square"> </img> 
 </td>
 </tr>
 <tr>
 <td><img src="https://img.youtube.com/vi/b03xHADd0ms/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=b03xHADd0ms">Why Qwik is the Future</a> (3 weeks ago) <br/>
+<a href="https://www.youtube.com/watch?v=b03xHADd0ms">Why Qwik is the Future</a> (4 weeks ago) <br/>
 <img src="https://img.shields.io/youtube/views/b03xHADd0ms?style=flat-square"> </img> 
 </td>
 </tr>
@@ -64,7 +64,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/gJvrCi8RHJc/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=gJvrCi8RHJc">Apprendre le JS : les Meilleurs Ressources Gratuites</a> (3 days ago) <br/>
+<a href="https://www.youtube.com/watch?v=gJvrCi8RHJc">Apprendre le JS : les Meilleurs Ressources Gratuites</a> (4 days ago) <br/>
 <img src="https://img.shields.io/youtube/views/gJvrCi8RHJc?style=flat-square"> </img> 
 </td>
 </tr>
