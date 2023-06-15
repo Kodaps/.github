@@ -64,7 +64,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/gJvrCi8RHJc/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=gJvrCi8RHJc">Apprendre le JS : les Meilleurs Ressources Gratuites</a> (6 days ago) <br/>
+<a href="https://www.youtube.com/watch?v=gJvrCi8RHJc">Apprendre le JS : les Meilleurs Ressources Gratuites</a> (1 week ago) <br/>
 <img src="https://img.shields.io/youtube/views/gJvrCi8RHJc?style=flat-square"> </img> 
 </td>
 </tr>
