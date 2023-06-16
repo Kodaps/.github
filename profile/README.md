@@ -21,6 +21,13 @@
 <table>
 
 <tr>
+<td><img src="https://img.youtube.com/vi/zJyloN7imYI/default.jpg"></img></td>
+<td>
+<a href="https://www.youtube.com/watch?v=zJyloN7imYI">React Server Components: Why You NEED Them</a> (today) <br/>
+<img src="https://img.shields.io/youtube/views/zJyloN7imYI?style=flat-square"> </img> 
+</td>
+</tr>
+<tr>
 <td><img src="https://img.youtube.com/vi/XJP1Kipit1g/default.jpg"></img></td>
 <td>
 <a href="https://www.youtube.com/watch?v=XJP1Kipit1g">Learning JavaScript? You Need THIS</a> (2 weeks ago) <br/>
@@ -46,13 +53,6 @@
 <td>
 <a href="https://www.youtube.com/watch?v=HLe0Q1j1_fU">Angular Signals: Reactive Revolution!</a> (2 months ago) <br/>
 <img src="https://img.shields.io/youtube/views/HLe0Q1j1_fU?style=flat-square"> </img> 
-</td>
-</tr>
-<tr>
-<td><img src="https://img.youtube.com/vi/MSgIRdyJ6rk/default.jpg"></img></td>
-<td>
-<a href="https://www.youtube.com/watch?v=MSgIRdyJ6rk">React Native vs React JS in 2023: Differences and Shared Features</a> (2 months ago) <br/>
-<img src="https://img.shields.io/youtube/views/MSgIRdyJ6rk?style=flat-square"> </img> 
 </td>
 </tr>
 </table>
