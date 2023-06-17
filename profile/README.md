@@ -23,7 +23,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/zJyloN7imYI/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=zJyloN7imYI">React Server Components: Why You NEED Them</a> (today) <br/>
+<a href="https://www.youtube.com/watch?v=zJyloN7imYI">React Server Components: Why You NEED Them</a> (1 day ago) <br/>
 <img src="https://img.shields.io/youtube/views/zJyloN7imYI?style=flat-square"> </img> 
 </td>
 </tr>
@@ -44,7 +44,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/xTp3xsjref0/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=xTp3xsjref0">NextJS Hosting: AWS vs Vercel!</a> (1 month ago) <br/>
+<a href="https://www.youtube.com/watch?v=xTp3xsjref0">NextJS Hosting: AWS vs Vercel!</a> (2 months ago) <br/>
 <img src="https://img.shields.io/youtube/views/xTp3xsjref0?style=flat-square"> </img> 
 </td>
 </tr>
