@@ -23,7 +23,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/zJyloN7imYI/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=zJyloN7imYI">React Server Components: Why You NEED Them</a> (1 day ago) <br/>
+<a href="https://www.youtube.com/watch?v=zJyloN7imYI">React Server Components: Why You NEED Them</a> (2 days ago) <br/>
 <img src="https://img.shields.io/youtube/views/zJyloN7imYI?style=flat-square"> </img> 
 </td>
 </tr>
@@ -138,7 +138,7 @@
 - [Kodaps/nextjs-fullstack](https://github.com/Kodaps/nextjs-fullstack) -  (3 months ago)
 - [Kodaps/okr-app](https://github.com/Kodaps/okr-app) - OKR app (3 months ago)
 - [Kodaps/t3-cross-app](https://github.com/Kodaps/t3-cross-app) - T3 (Next &#43; RN) base app  (4 months ago)
-- [Kodaps/js-first-steps](https://github.com/Kodaps/js-first-steps) - First steps with JS (4 months ago)
+- [Kodaps/js-first-steps](https://github.com/Kodaps/js-first-steps) - First steps with JS (5 months ago)
 - [Gosev/QwikTailwind](https://github.com/Gosev/QwikTailwind) - Test of QuickCity &#43; Tailwind template  (6 months ago)
 - [Gosev/AstroBlog](https://github.com/Gosev/AstroBlog) -  (9 months ago)
 - [Gosev/nextjs-blog](https://github.com/Gosev/nextjs-blog) -  (10 months ago)
