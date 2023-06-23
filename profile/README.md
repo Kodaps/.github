@@ -23,7 +23,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/zJyloN7imYI/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=zJyloN7imYI">Why React On the Server?</a> (6 days ago) <br/>
+<a href="https://www.youtube.com/watch?v=zJyloN7imYI">Why React On the Server?</a> (1 week ago) <br/>
 <img src="https://img.shields.io/youtube/views/zJyloN7imYI?style=flat-square"> </img> 
 </td>
 </tr>
@@ -64,7 +64,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/Muv47j75_Cw/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=Muv47j75_Cw">Pourquoi React Côté Serveur?</a> (3 days ago) <br/>
+<a href="https://www.youtube.com/watch?v=Muv47j75_Cw">Pourquoi React Côté Serveur?</a> (4 days ago) <br/>
 <img src="https://img.shields.io/youtube/views/Muv47j75_Cw?style=flat-square"> </img> 
 </td>
 </tr>
