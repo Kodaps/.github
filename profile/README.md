@@ -23,7 +23,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/zJyloN7imYI/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=zJyloN7imYI">Why React On the Server?</a> (1 week ago) <br/>
+<a href="https://www.youtube.com/watch?v=zJyloN7imYI">Why React Server Components?</a> (1 week ago) <br/>
 <img src="https://img.shields.io/youtube/views/zJyloN7imYI?style=flat-square"> </img> 
 </td>
 </tr>
