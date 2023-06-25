@@ -64,7 +64,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/Muv47j75_Cw/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=Muv47j75_Cw">Pourquoi React Côté Serveur?</a> (5 days ago) <br/>
+<a href="https://www.youtube.com/watch?v=Muv47j75_Cw">Pourquoi React Côté Serveur?</a> (6 days ago) <br/>
 <img src="https://img.shields.io/youtube/views/Muv47j75_Cw?style=flat-square"> </img> 
 </td>
 </tr>
@@ -140,7 +140,7 @@
 - [Kodaps/t3-cross-app](https://github.com/Kodaps/t3-cross-app) - T3 (Next &#43; RN) base app  (4 months ago)
 - [Kodaps/js-first-steps](https://github.com/Kodaps/js-first-steps) - First steps with JS (5 months ago)
 - [Gosev/QwikTailwind](https://github.com/Gosev/QwikTailwind) - Test of QuickCity &#43; Tailwind template  (6 months ago)
-- [Gosev/AstroBlog](https://github.com/Gosev/AstroBlog) -  (9 months ago)
+- [Gosev/AstroBlog](https://github.com/Gosev/AstroBlog) -  (10 months ago)
 - [Gosev/nextjs-blog](https://github.com/Gosev/nextjs-blog) -  (10 months ago)
 - [Kodaps/faker](https://github.com/Kodaps/faker) - Test data for exercises based on SWAPI (10 months ago)
 
@@ -160,7 +160,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [Gosev/AstroBlog](https://github.com/Gosev/AstroBlog) ([0.0.8](https://github.com/Gosev/AstroBlog/releases/tag/0.0.8), 9 months ago) - 
+- [Gosev/AstroBlog](https://github.com/Gosev/AstroBlog) ([0.0.8](https://github.com/Gosev/AstroBlog/releases/tag/0.0.8), 10 months ago) - 
 - [Kodaps/faker](https://github.com/Kodaps/faker) ([0.0.11](https://github.com/Kodaps/faker/releases/tag/0.0.11), 10 months ago) - Test data for exercises based on SWAPI
 
 #### 🔨 My recent Pull Requests
