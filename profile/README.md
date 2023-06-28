@@ -30,7 +30,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/XJP1Kipit1g/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=XJP1Kipit1g">Learning JavaScript? You Need THIS</a> (4 weeks ago) <br/>
+<a href="https://www.youtube.com/watch?v=XJP1Kipit1g">Learning JavaScript? You Need THIS</a> (1 month ago) <br/>
 <img src="https://img.shields.io/youtube/views/XJP1Kipit1g?style=flat-square"> </img> 
 </td>
 </tr>
@@ -106,7 +106,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/dMoz1mxnj2w/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=dMoz1mxnj2w">React Native vs React JS en 2023: Différences &amp; Points Communs</a> (2 months ago) <br/>
+<a href="https://www.youtube.com/watch?v=dMoz1mxnj2w">React Native vs React JS en 2023: Différences &amp; Points Communs</a> (3 months ago) <br/>
 <img src="https://img.shields.io/youtube/views/dMoz1mxnj2w?style=flat-square"> </img> 
 </td>
 </tr>
@@ -120,7 +120,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/-SrqXDcjxKs/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=-SrqXDcjxKs">Next JS Project : Installation et Premier Pas</a> (3 months ago) <br/>
+<a href="https://www.youtube.com/watch?v=-SrqXDcjxKs">Next JS Project : Installation et Premier Pas</a> (4 months ago) <br/>
 <img src="https://img.shields.io/youtube/views/-SrqXDcjxKs?style=flat-square"> </img> 
 </td>
 </tr>
