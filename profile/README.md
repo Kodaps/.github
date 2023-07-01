@@ -139,7 +139,7 @@
 - [Kodaps/okr-app](https://github.com/Kodaps/okr-app) - OKR app (4 months ago)
 - [Kodaps/t3-cross-app](https://github.com/Kodaps/t3-cross-app) - T3 (Next &#43; RN) base app  (4 months ago)
 - [Kodaps/js-first-steps](https://github.com/Kodaps/js-first-steps) - First steps with JS (5 months ago)
-- [Gosev/QwikTailwind](https://github.com/Gosev/QwikTailwind) - Test of QuickCity &#43; Tailwind template  (6 months ago)
+- [Gosev/QwikTailwind](https://github.com/Gosev/QwikTailwind) - Test of QuickCity &#43; Tailwind template  (7 months ago)
 - [Gosev/AstroBlog](https://github.com/Gosev/AstroBlog) -  (10 months ago)
 - [Gosev/nextjs-blog](https://github.com/Gosev/nextjs-blog) -  (10 months ago)
 - [Kodaps/faker](https://github.com/Kodaps/faker) - Test data for exercises based on SWAPI (10 months ago)
