@@ -21,6 +21,13 @@
 <table>
 
 <tr>
+<td><img src="https://img.youtube.com/vi/40TLIuXvrU8/default.jpg"></img></td>
+<td>
+<a href="https://www.youtube.com/watch?v=40TLIuXvrU8">Why Nest JS, The Angular Inspired Server Framework</a> (today) <br/>
+<img src="https://img.shields.io/youtube/views/40TLIuXvrU8?style=flat-square"> </img> 
+</td>
+</tr>
+<tr>
 <td><img src="https://img.youtube.com/vi/zJyloN7imYI/default.jpg"></img></td>
 <td>
 <a href="https://www.youtube.com/watch?v=zJyloN7imYI">Why React Server Components?</a> (2 weeks ago) <br/>
@@ -48,19 +55,19 @@
 <img src="https://img.shields.io/youtube/views/xTp3xsjref0?style=flat-square"> </img> 
 </td>
 </tr>
-<tr>
-<td><img src="https://img.youtube.com/vi/HLe0Q1j1_fU/default.jpg"></img></td>
-<td>
-<a href="https://www.youtube.com/watch?v=HLe0Q1j1_fU">Angular Signals: Reactive Revolution!</a> (2 months ago) <br/>
-<img src="https://img.shields.io/youtube/views/HLe0Q1j1_fU?style=flat-square"> </img> 
-</td>
-</tr>
 </table>
 
 ## 📜 🇫🇷 My recent French videos
 <img src="https://img.shields.io/youtube/channel/subscribers/UCzdX32OIhpfrdxQRhN2s98w?style=for-the-badge"></img>
 <table>
 
+<tr>
+<td><img src="https://img.youtube.com/vi/pcZR7vgN604/default.jpg"></img></td>
+<td>
+<a href="https://www.youtube.com/watch?v=pcZR7vgN604">Pourquoi NestJS ?</a> (today) <br/>
+<img src="https://img.shields.io/youtube/views/pcZR7vgN604?style=flat-square"> </img> 
+</td>
+</tr>
 <tr>
 <td><img src="https://img.youtube.com/vi/Muv47j75_Cw/default.jpg"></img></td>
 <td>
@@ -122,13 +129,6 @@
 <td>
 <a href="https://www.youtube.com/watch?v=-SrqXDcjxKs">Next JS Project : Installation et Premier Pas</a> (4 months ago) <br/>
 <img src="https://img.shields.io/youtube/views/-SrqXDcjxKs?style=flat-square"> </img> 
-</td>
-</tr>
-<tr>
-<td><img src="https://img.youtube.com/vi/i5ujev590Xw/default.jpg"></img></td>
-<td>
-<a href="https://www.youtube.com/watch?v=i5ujev590Xw">tRPC : l&#39;API révolutionnaire?</a> (4 months ago) <br/>
-<img src="https://img.shields.io/youtube/views/i5ujev590Xw?style=flat-square"> </img> 
 </td>
 </tr>
 </table>
