@@ -23,7 +23,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/40TLIuXvrU8/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=40TLIuXvrU8">Why Nest JS, The Angular Inspired Server Framework</a> (1 day ago) <br/>
+<a href="https://www.youtube.com/watch?v=40TLIuXvrU8">Why NestJS?</a> (1 day ago) <br/>
 <img src="https://img.shields.io/youtube/views/40TLIuXvrU8?style=flat-square"> </img> 
 </td>
 </tr>
