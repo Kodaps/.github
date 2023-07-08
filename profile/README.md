@@ -23,7 +23,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/40TLIuXvrU8/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=40TLIuXvrU8">Why NestJS?</a> (4 days ago) <br/>
+<a href="https://www.youtube.com/watch?v=40TLIuXvrU8">Why NestJS?</a> (5 days ago) <br/>
 <img src="https://img.shields.io/youtube/views/40TLIuXvrU8?style=flat-square"> </img> 
 </td>
 </tr>
@@ -64,7 +64,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/pcZR7vgN604/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=pcZR7vgN604">Pourquoi NestJS ?</a> (4 days ago) <br/>
+<a href="https://www.youtube.com/watch?v=pcZR7vgN604">Pourquoi NestJS ?</a> (5 days ago) <br/>
 <img src="https://img.shields.io/youtube/views/pcZR7vgN604?style=flat-square"> </img> 
 </td>
 </tr>
@@ -78,7 +78,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/gJvrCi8RHJc/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=gJvrCi8RHJc">Apprendre le JS : les Meilleurs Ressources Gratuites</a> (4 weeks ago) <br/>
+<a href="https://www.youtube.com/watch?v=gJvrCi8RHJc">Apprendre le JS : les Meilleurs Ressources Gratuites</a> (1 month ago) <br/>
 <img src="https://img.shields.io/youtube/views/gJvrCi8RHJc?style=flat-square"> </img> 
 </td>
 </tr>
