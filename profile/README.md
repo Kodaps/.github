@@ -30,7 +30,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/zJyloN7imYI/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=zJyloN7imYI">Why React Server Components?</a> (4 weeks ago) <br/>
+<a href="https://www.youtube.com/watch?v=zJyloN7imYI">Why React Server Components?</a> (1 month ago) <br/>
 <img src="https://img.shields.io/youtube/views/zJyloN7imYI?style=flat-square"> </img> 
 </td>
 </tr>
@@ -85,7 +85,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/iXS_YMoMANc/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=iXS_YMoMANc">Pourquoi Qwik C&#39;est l&#39;Avenir</a> (1 month ago) <br/>
+<a href="https://www.youtube.com/watch?v=iXS_YMoMANc">Pourquoi Qwik C&#39;est l&#39;Avenir</a> (2 months ago) <br/>
 <img src="https://img.shields.io/youtube/views/iXS_YMoMANc?style=flat-square"> </img> 
 </td>
 </tr>
@@ -141,7 +141,7 @@
 - [Kodaps/js-first-steps](https://github.com/Kodaps/js-first-steps) - First steps with JS (5 months ago)
 - [Gosev/QwikTailwind](https://github.com/Gosev/QwikTailwind) - Test of QuickCity &#43; Tailwind template  (7 months ago)
 - [Gosev/AstroBlog](https://github.com/Gosev/AstroBlog) -  (10 months ago)
-- [Gosev/nextjs-blog](https://github.com/Gosev/nextjs-blog) -  (10 months ago)
+- [Gosev/nextjs-blog](https://github.com/Gosev/nextjs-blog) -  (11 months ago)
 - [Kodaps/faker](https://github.com/Kodaps/faker) - Test data for exercises based on SWAPI (11 months ago)
 
 #### 🌱 My latest projects
