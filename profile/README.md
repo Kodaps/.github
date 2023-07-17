@@ -113,7 +113,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/4jV_ARoE-uM/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=4jV_ARoE-uM">Angular Signals, la Revolution Reactive ?</a> (3 months ago) <br/>
+<a href="https://www.youtube.com/watch?v=4jV_ARoE-uM">Angular Signals : ça change tout !?</a> (3 months ago) <br/>
 <img src="https://img.shields.io/youtube/views/4jV_ARoE-uM?style=flat-square"> </img> 
 </td>
 </tr>
