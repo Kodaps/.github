@@ -21,6 +21,13 @@
 <table>
 
 <tr>
+<td><img src="https://img.youtube.com/vi/NEGsMjwCavs/default.jpg"></img></td>
+<td>
+<a href="https://www.youtube.com/watch?v=NEGsMjwCavs">How To Stay Up To Date As A Developer?</a> (today) <br/>
+<img src="https://img.shields.io/youtube/views/NEGsMjwCavs?style=flat-square"> </img> 
+</td>
+</tr>
+<tr>
 <td><img src="https://img.youtube.com/vi/40TLIuXvrU8/default.jpg"></img></td>
 <td>
 <a href="https://www.youtube.com/watch?v=40TLIuXvrU8">Why NestJS?</a> (2 weeks ago) <br/>
@@ -48,19 +55,19 @@
 <img src="https://img.shields.io/youtube/views/b03xHADd0ms?style=flat-square"> </img> 
 </td>
 </tr>
-<tr>
-<td><img src="https://img.youtube.com/vi/xTp3xsjref0/default.jpg"></img></td>
-<td>
-<a href="https://www.youtube.com/watch?v=xTp3xsjref0">NextJS Hosting: AWS vs Vercel!</a> (3 months ago) <br/>
-<img src="https://img.shields.io/youtube/views/xTp3xsjref0?style=flat-square"> </img> 
-</td>
-</tr>
 </table>
 
 ## 📜 🇫🇷 My recent French videos
 <img src="https://img.shields.io/youtube/channel/subscribers/UCzdX32OIhpfrdxQRhN2s98w?style=for-the-badge"></img>
 <table>
 
+<tr>
+<td><img src="https://img.youtube.com/vi/zED1-b3UJE8/default.jpg"></img></td>
+<td>
+<a href="https://www.youtube.com/watch?v=zED1-b3UJE8">Comment faire la veille techno, en tant que dev ?</a> (today) <br/>
+<img src="https://img.shields.io/youtube/views/zED1-b3UJE8?style=flat-square"> </img> 
+</td>
+</tr>
 <tr>
 <td><img src="https://img.youtube.com/vi/pcZR7vgN604/default.jpg"></img></td>
 <td>
@@ -122,13 +129,6 @@
 <td>
 <a href="https://www.youtube.com/watch?v=eKRzywQCDaM">NextJS: Routage, Navigation &amp; NavBar</a> (4 months ago) <br/>
 <img src="https://img.shields.io/youtube/views/eKRzywQCDaM?style=flat-square"> </img> 
-</td>
-</tr>
-<tr>
-<td><img src="https://img.youtube.com/vi/-SrqXDcjxKs/default.jpg"></img></td>
-<td>
-<a href="https://www.youtube.com/watch?v=-SrqXDcjxKs">Next JS Project : Installation et Premier Pas</a> (4 months ago) <br/>
-<img src="https://img.shields.io/youtube/views/-SrqXDcjxKs?style=flat-square"> </img> 
 </td>
 </tr>
 </table>
