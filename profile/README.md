@@ -23,7 +23,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/NEGsMjwCavs/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=NEGsMjwCavs">How To Stay Up To Date As A Developer?</a> (today) <br/>
+<a href="https://www.youtube.com/watch?v=NEGsMjwCavs">How To Stay Up To Date As A Developer?</a> (1 day ago) <br/>
 <img src="https://img.shields.io/youtube/views/NEGsMjwCavs?style=flat-square"> </img> 
 </td>
 </tr>
@@ -64,7 +64,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/zED1-b3UJE8/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=zED1-b3UJE8">Comment faire la veille techno, en tant que dev ?</a> (today) <br/>
+<a href="https://www.youtube.com/watch?v=zED1-b3UJE8">Comment faire la veille techno, en tant que dev ?</a> (1 day ago) <br/>
 <img src="https://img.shields.io/youtube/views/zED1-b3UJE8?style=flat-square"> </img> 
 </td>
 </tr>
@@ -138,7 +138,7 @@
 - [Kodaps/nextjs-fullstack](https://github.com/Kodaps/nextjs-fullstack) -  (4 months ago)
 - [Kodaps/okr-app](https://github.com/Kodaps/okr-app) - OKR app (4 months ago)
 - [Kodaps/t3-cross-app](https://github.com/Kodaps/t3-cross-app) - T3 (Next &#43; RN) base app  (5 months ago)
-- [Kodaps/js-first-steps](https://github.com/Kodaps/js-first-steps) - First steps with JS (5 months ago)
+- [Kodaps/js-first-steps](https://github.com/Kodaps/js-first-steps) - First steps with JS (6 months ago)
 - [Gosev/QwikTailwind](https://github.com/Gosev/QwikTailwind) - Test of QuickCity &#43; Tailwind template  (7 months ago)
 - [Gosev/AstroBlog](https://github.com/Gosev/AstroBlog) -  (10 months ago)
 - [Gosev/nextjs-blog](https://github.com/Gosev/nextjs-blog) -  (11 months ago)
