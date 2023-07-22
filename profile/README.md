@@ -23,7 +23,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/NEGsMjwCavs/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=NEGsMjwCavs">How To Stay Up To Date As A Developer?</a> (4 days ago) <br/>
+<a href="https://www.youtube.com/watch?v=NEGsMjwCavs">How To Stay Up To Date As A Developer?</a> (5 days ago) <br/>
 <img src="https://img.shields.io/youtube/views/NEGsMjwCavs?style=flat-square"> </img> 
 </td>
 </tr>
@@ -64,7 +64,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/zED1-b3UJE8/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=zED1-b3UJE8">Comment faire la veille techno, en tant que dev ?</a> (4 days ago) <br/>
+<a href="https://www.youtube.com/watch?v=zED1-b3UJE8">Comment faire la veille techno, en tant que dev ?</a> (5 days ago) <br/>
 <img src="https://img.shields.io/youtube/views/zED1-b3UJE8?style=flat-square"> </img> 
 </td>
 </tr>
