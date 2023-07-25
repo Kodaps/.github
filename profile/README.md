@@ -23,7 +23,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/kAMix8Hc9ME/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=kAMix8Hc9ME">Is ChatGPT getting dumber?</a> (today) <br/>
+<a href="https://www.youtube.com/watch?v=kAMix8Hc9ME">Is ChatGPT getting dumber?</a> (1 day ago) <br/>
 <img src="https://img.shields.io/youtube/views/kAMix8Hc9ME?style=flat-square"> </img> 
 </td>
 </tr>
@@ -140,7 +140,7 @@
 - [Kodaps/t3-cross-app](https://github.com/Kodaps/t3-cross-app) - T3 (Next &#43; RN) base app  (5 months ago)
 - [Kodaps/js-first-steps](https://github.com/Kodaps/js-first-steps) - First steps with JS (6 months ago)
 - [Gosev/QwikTailwind](https://github.com/Gosev/QwikTailwind) - Test of QuickCity &#43; Tailwind template  (7 months ago)
-- [Gosev/AstroBlog](https://github.com/Gosev/AstroBlog) -  (10 months ago)
+- [Gosev/AstroBlog](https://github.com/Gosev/AstroBlog) -  (11 months ago)
 - [Gosev/nextjs-blog](https://github.com/Gosev/nextjs-blog) -  (11 months ago)
 - [Kodaps/faker](https://github.com/Kodaps/faker) - Test data for exercises based on SWAPI (11 months ago)
 
@@ -160,7 +160,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [Gosev/AstroBlog](https://github.com/Gosev/AstroBlog) ([0.0.8](https://github.com/Gosev/AstroBlog/releases/tag/0.0.8), 10 months ago) - 
+- [Gosev/AstroBlog](https://github.com/Gosev/AstroBlog) ([0.0.8](https://github.com/Gosev/AstroBlog/releases/tag/0.0.8), 11 months ago) - 
 - [Kodaps/faker](https://github.com/Kodaps/faker) ([0.0.11](https://github.com/Kodaps/faker/releases/tag/0.0.11), 11 months ago) - Test data for exercises based on SWAPI
 
 #### 🔨 My recent Pull Requests
