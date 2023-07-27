@@ -23,7 +23,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/kAMix8Hc9ME/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=kAMix8Hc9ME">Is ChatGPT getting dumber?</a> (2 days ago) <br/>
+<a href="https://www.youtube.com/watch?v=kAMix8Hc9ME">Is ChatGPT getting dumber?</a> (3 days ago) <br/>
 <img src="https://img.shields.io/youtube/views/kAMix8Hc9ME?style=flat-square"> </img> 
 </td>
 </tr>
@@ -106,7 +106,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/Nh43Kqyx0w8/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=Nh43Kqyx0w8">Tuto NextJS: Page web responsive avec Tailwind</a> (2 months ago) <br/>
+<a href="https://www.youtube.com/watch?v=Nh43Kqyx0w8">Tuto NextJS: Page web responsive avec Tailwind</a> (3 months ago) <br/>
 <img src="https://img.shields.io/youtube/views/Nh43Kqyx0w8?style=flat-square"> </img> 
 </td>
 </tr>
@@ -135,7 +135,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Kodaps/nextjs-fullstack](https://github.com/Kodaps/nextjs-fullstack) -  (4 months ago)
+- [Kodaps/nextjs-fullstack](https://github.com/Kodaps/nextjs-fullstack) -  (5 months ago)
 - [Kodaps/okr-app](https://github.com/Kodaps/okr-app) - OKR app (5 months ago)
 - [Kodaps/t3-cross-app](https://github.com/Kodaps/t3-cross-app) - T3 (Next &#43; RN) base app  (5 months ago)
 - [Kodaps/js-first-steps](https://github.com/Kodaps/js-first-steps) - First steps with JS (6 months ago)
