@@ -23,7 +23,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/kAMix8Hc9ME/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=kAMix8Hc9ME">Is ChatGPT getting dumber?</a> (3 days ago) <br/>
+<a href="https://www.youtube.com/watch?v=kAMix8Hc9ME">Is ChatGPT getting dumber?</a> (4 days ago) <br/>
 <img src="https://img.shields.io/youtube/views/kAMix8Hc9ME?style=flat-square"> </img> 
 </td>
 </tr>
@@ -51,7 +51,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/XJP1Kipit1g/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=XJP1Kipit1g">Learning JavaScript? You Need THIS</a> (1 month ago) <br/>
+<a href="https://www.youtube.com/watch?v=XJP1Kipit1g">Learning JavaScript? You Need THIS</a> (2 months ago) <br/>
 <img src="https://img.shields.io/youtube/views/XJP1Kipit1g?style=flat-square"> </img> 
 </td>
 </tr>
@@ -120,7 +120,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/dMoz1mxnj2w/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=dMoz1mxnj2w">React Native vs React JS en 2023: Différences &amp; Points Communs</a> (3 months ago) <br/>
+<a href="https://www.youtube.com/watch?v=dMoz1mxnj2w">React Native vs React JS en 2023: Différences &amp; Points Communs</a> (4 months ago) <br/>
 <img src="https://img.shields.io/youtube/views/dMoz1mxnj2w?style=flat-square"> </img> 
 </td>
 </tr>
