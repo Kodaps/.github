@@ -12,7 +12,7 @@
 - [GraphQL vs REST](https://levelup.gitconnected.com/graphql-vs-rest-e918d9e0e271?source=rss-e68daed69805------2) (11 months ago)
 - [What is Astro?](https://javascript.plainenglish.io/what-is-astro-aa3369d5a7f4?source=rss-e68daed69805------2) (11 months ago)
 - [What is Art?](https://gosev.medium.com/what-is-art-2dce12548091?source=rss-e68daed69805------2) (11 months ago)
-- [How to Release Your Code Into the Wild](https://levelup.gitconnected.com/how-to-release-your-code-into-the-wild-dd144218cb9b?source=rss-e68daed69805------2) (11 months ago)
+- [How to Release Your Code Into the Wild](https://levelup.gitconnected.com/how-to-release-your-code-into-the-wild-dd144218cb9b?source=rss-e68daed69805------2) (1 year ago)
 - [5 Tips to Have Fun Using MidJourney AI Image Generation — The First Steps](https://gosev.medium.com/5-tips-to-have-fun-using-midjourney-ai-image-generation-the-first-steps-81cf44a53931?source=rss-e68daed69805------2) (1 year ago)
 - [3 Lessons I Learned While Managing The Project From Hell](https://medium.com/illumination/3-lessons-i-learned-while-managing-the-project-from-hell-e31196db2d5f?source=rss-e68daed69805------2) (1 year ago)
 
@@ -37,7 +37,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/40TLIuXvrU8/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=40TLIuXvrU8">Why NestJS?</a> (4 weeks ago) <br/>
+<a href="https://www.youtube.com/watch?v=40TLIuXvrU8">Why NestJS?</a> (1 month ago) <br/>
 <img src="https://img.shields.io/youtube/views/40TLIuXvrU8?style=flat-square"> </img> 
 </td>
 </tr>
@@ -71,7 +71,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/pcZR7vgN604/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=pcZR7vgN604">Pourquoi NestJS ?</a> (4 weeks ago) <br/>
+<a href="https://www.youtube.com/watch?v=pcZR7vgN604">Pourquoi NestJS ?</a> (1 month ago) <br/>
 <img src="https://img.shields.io/youtube/views/pcZR7vgN604?style=flat-square"> </img> 
 </td>
 </tr>
@@ -137,7 +137,7 @@
 
 - [Kodaps/nextjs-fullstack](https://github.com/Kodaps/nextjs-fullstack) -  (5 months ago)
 - [Kodaps/okr-app](https://github.com/Kodaps/okr-app) - OKR app (5 months ago)
-- [Kodaps/t3-cross-app](https://github.com/Kodaps/t3-cross-app) - T3 (Next &#43; RN) base app  (5 months ago)
+- [Kodaps/t3-cross-app](https://github.com/Kodaps/t3-cross-app) - T3 (Next &#43; RN) base app  (6 months ago)
 - [Kodaps/js-first-steps](https://github.com/Kodaps/js-first-steps) - First steps with JS (6 months ago)
 - [Gosev/QwikTailwind](https://github.com/Gosev/QwikTailwind) - Test of QuickCity &#43; Tailwind template  (8 months ago)
 - [Gosev/AstroBlog](https://github.com/Gosev/AstroBlog) -  (11 months ago)
