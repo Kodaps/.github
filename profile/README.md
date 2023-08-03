@@ -6,7 +6,7 @@
 ## 📜 🇬🇧 My recent blog posts
 
 - [5 Exciting Projects &amp; Tools to Discover in 2023](https://gosev.medium.com/5-exciting-projects-tools-to-discover-in-2023-d5b6f5886740?source=rss-e68daed69805------2) (6 months ago)
-- [The 7 JavaScript Skills You Need for React](https://javascript.plainenglish.io/the-7-javascript-skills-you-need-for-react-9244169ca80a?source=rss-e68daed69805------2) (9 months ago)
+- [The 7 JavaScript Skills You Need for React](https://javascript.plainenglish.io/the-7-javascript-skills-you-need-for-react-9244169ca80a?source=rss-e68daed69805------2) (10 months ago)
 - [What are JavaScript Promises &amp; How to Use Them](https://javascript.plainenglish.io/what-are-javascript-promises-how-to-use-them-84fdff5757b9?source=rss-e68daed69805------2) (10 months ago)
 - [What is 42, the School With No Teachers?](https://levelup.gitconnected.com/what-is-42-the-school-with-no-teachers-7e4d0f9a80c1?source=rss-e68daed69805------2) (10 months ago)
 - [GraphQL vs REST](https://levelup.gitconnected.com/graphql-vs-rest-e918d9e0e271?source=rss-e68daed69805------2) (11 months ago)
