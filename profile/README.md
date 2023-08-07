@@ -23,14 +23,14 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/kAMix8Hc9ME/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=kAMix8Hc9ME">Is ChatGPT getting dumber?</a> (1 week ago) <br/>
+<a href="https://www.youtube.com/watch?v=kAMix8Hc9ME">Is ChatGPT getting dumber?</a> (2 weeks ago) <br/>
 <img src="https://img.shields.io/youtube/views/kAMix8Hc9ME?style=flat-square"> </img> 
 </td>
 </tr>
 <tr>
 <td><img src="https://img.youtube.com/vi/NEGsMjwCavs/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=NEGsMjwCavs">How To Stay Up To Date As A Developer?</a> (2 weeks ago) <br/>
+<a href="https://www.youtube.com/watch?v=NEGsMjwCavs">How To Stay Up To Date As A Developer?</a> (3 weeks ago) <br/>
 <img src="https://img.shields.io/youtube/views/NEGsMjwCavs?style=flat-square"> </img> 
 </td>
 </tr>
@@ -64,7 +64,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/zED1-b3UJE8/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=zED1-b3UJE8">Comment faire la veille techno, en tant que dev ?</a> (2 weeks ago) <br/>
+<a href="https://www.youtube.com/watch?v=zED1-b3UJE8">Comment faire la veille techno, en tant que dev ?</a> (3 weeks ago) <br/>
 <img src="https://img.shields.io/youtube/views/zED1-b3UJE8?style=flat-square"> </img> 
 </td>
 </tr>
@@ -85,7 +85,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/gJvrCi8RHJc/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=gJvrCi8RHJc">Apprendre le JS : les Meilleurs Ressources Gratuites</a> (1 month ago) <br/>
+<a href="https://www.youtube.com/watch?v=gJvrCi8RHJc">Apprendre le JS : les Meilleurs Ressources Gratuites</a> (2 months ago) <br/>
 <img src="https://img.shields.io/youtube/views/gJvrCi8RHJc?style=flat-square"> </img> 
 </td>
 </tr>
