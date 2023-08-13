@@ -23,7 +23,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/ZraQxTXjP2A/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=ZraQxTXjP2A">3 Software Development Myths That Might Be Holding You Back</a> (5 days ago) <br/>
+<a href="https://www.youtube.com/watch?v=ZraQxTXjP2A">3 Software Development Myths That Might Be Holding You Back</a> (6 days ago) <br/>
 <img src="https://img.shields.io/youtube/views/ZraQxTXjP2A?style=flat-square"> </img> 
 </td>
 </tr>
@@ -142,7 +142,7 @@
 - [Gosev/QwikTailwind](https://github.com/Gosev/QwikTailwind) - Test of QuickCity &#43; Tailwind template  (8 months ago)
 - [Gosev/AstroBlog](https://github.com/Gosev/AstroBlog) -  (11 months ago)
 - [Gosev/nextjs-blog](https://github.com/Gosev/nextjs-blog) -  (11 months ago)
-- [Kodaps/faker](https://github.com/Kodaps/faker) - Test data for exercises based on SWAPI (11 months ago)
+- [Kodaps/faker](https://github.com/Kodaps/faker) - Test data for exercises based on SWAPI (1 year ago)
 
 #### 🌱 My latest projects
 
@@ -161,7 +161,7 @@
 #### 🔭 Latest releases I've contributed to
 
 - [Gosev/AstroBlog](https://github.com/Gosev/AstroBlog) ([0.0.8](https://github.com/Gosev/AstroBlog/releases/tag/0.0.8), 11 months ago) - 
-- [Kodaps/faker](https://github.com/Kodaps/faker) ([0.0.11](https://github.com/Kodaps/faker/releases/tag/0.0.11), 11 months ago) - Test data for exercises based on SWAPI
+- [Kodaps/faker](https://github.com/Kodaps/faker) ([0.0.11](https://github.com/Kodaps/faker/releases/tag/0.0.11), 1 year ago) - Test data for exercises based on SWAPI
 
 #### 🔨 My recent Pull Requests
 
