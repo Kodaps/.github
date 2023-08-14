@@ -23,21 +23,21 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/ZraQxTXjP2A/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=ZraQxTXjP2A">3 Software Development Myths That Might Be Holding You Back</a> (6 days ago) <br/>
+<a href="https://www.youtube.com/watch?v=ZraQxTXjP2A">3 Software Development Myths That Might Be Holding You Back</a> (1 week ago) <br/>
 <img src="https://img.shields.io/youtube/views/ZraQxTXjP2A?style=flat-square"> </img> 
 </td>
 </tr>
 <tr>
 <td><img src="https://img.youtube.com/vi/kAMix8Hc9ME/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=kAMix8Hc9ME">Is ChatGPT getting dumber?</a> (2 weeks ago) <br/>
+<a href="https://www.youtube.com/watch?v=kAMix8Hc9ME">Is ChatGPT getting dumber?</a> (3 weeks ago) <br/>
 <img src="https://img.shields.io/youtube/views/kAMix8Hc9ME?style=flat-square"> </img> 
 </td>
 </tr>
 <tr>
 <td><img src="https://img.youtube.com/vi/NEGsMjwCavs/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=NEGsMjwCavs">How To Stay Up To Date As A Developer?</a> (3 weeks ago) <br/>
+<a href="https://www.youtube.com/watch?v=NEGsMjwCavs">How To Stay Up To Date As A Developer?</a> (4 weeks ago) <br/>
 <img src="https://img.shields.io/youtube/views/NEGsMjwCavs?style=flat-square"> </img> 
 </td>
 </tr>
@@ -64,7 +64,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/zED1-b3UJE8/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=zED1-b3UJE8">Comment faire la veille techno, en tant que dev ?</a> (3 weeks ago) <br/>
+<a href="https://www.youtube.com/watch?v=zED1-b3UJE8">Comment faire la veille techno, en tant que dev ?</a> (4 weeks ago) <br/>
 <img src="https://img.shields.io/youtube/views/zED1-b3UJE8?style=flat-square"> </img> 
 </td>
 </tr>
@@ -177,7 +177,7 @@
 #### ⭐ Recent Stars
 
 - [onwidget/astrowind](https://github.com/onwidget/astrowind) - ⭕️ AstroWind: A free template using Astro 2.0 and Tailwind CSS. Astro starter theme. (1 year ago)
-- [coronalabs/CoronaViewer](https://github.com/coronalabs/CoronaViewer) - CoronaViewer for SDK/Enterprise (8 years ago)
+- [coronalabs/CoronaViewer](https://github.com/coronalabs/CoronaViewer) - CoronaViewer for SDK/Enterprise (9 years ago)
 - [Gosev/Jump](https://github.com/Gosev/Jump) - Jump website (11 years ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
