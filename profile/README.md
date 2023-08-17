@@ -64,7 +64,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/3v2asgR4H6M/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=3v2asgR4H6M">3 Idées Reçues du Développement Logiciel</a> (2 days ago) <br/>
+<a href="https://www.youtube.com/watch?v=3v2asgR4H6M">3 Idées Reçues du Développement Logiciel</a> (3 days ago) <br/>
 <img src="https://img.shields.io/youtube/views/3v2asgR4H6M?style=flat-square"> </img> 
 </td>
 </tr>
@@ -138,7 +138,7 @@
 - [Kodaps/nextjs-fullstack](https://github.com/Kodaps/nextjs-fullstack) -  (5 months ago)
 - [Kodaps/okr-app](https://github.com/Kodaps/okr-app) - OKR app (5 months ago)
 - [Kodaps/t3-cross-app](https://github.com/Kodaps/t3-cross-app) - T3 (Next &#43; RN) base app  (6 months ago)
-- [Kodaps/js-first-steps](https://github.com/Kodaps/js-first-steps) - First steps with JS (6 months ago)
+- [Kodaps/js-first-steps](https://github.com/Kodaps/js-first-steps) - First steps with JS (7 months ago)
 - [Gosev/QwikTailwind](https://github.com/Gosev/QwikTailwind) - Test of QuickCity &#43; Tailwind template  (8 months ago)
 - [Gosev/AstroBlog](https://github.com/Gosev/AstroBlog) -  (11 months ago)
 - [Gosev/nextjs-blog](https://github.com/Gosev/nextjs-blog) -  (1 year ago)
