@@ -5,12 +5,12 @@
 
 ## 📜 🇬🇧 My recent blog posts
 
-- [5 Exciting Projects &amp; Tools to Discover in 2023](https://gosev.medium.com/5-exciting-projects-tools-to-discover-in-2023-d5b6f5886740?source=rss-e68daed69805------2) (6 months ago)
+- [5 Exciting Projects &amp; Tools to Discover in 2023](https://gosev.medium.com/5-exciting-projects-tools-to-discover-in-2023-d5b6f5886740?source=rss-e68daed69805------2) (7 months ago)
 - [The 7 JavaScript Skills You Need for React](https://javascript.plainenglish.io/the-7-javascript-skills-you-need-for-react-9244169ca80a?source=rss-e68daed69805------2) (10 months ago)
 - [What are JavaScript Promises &amp; How to Use Them](https://javascript.plainenglish.io/what-are-javascript-promises-how-to-use-them-84fdff5757b9?source=rss-e68daed69805------2) (10 months ago)
 - [What is 42, the School With No Teachers?](https://levelup.gitconnected.com/what-is-42-the-school-with-no-teachers-7e4d0f9a80c1?source=rss-e68daed69805------2) (11 months ago)
 - [GraphQL vs REST](https://levelup.gitconnected.com/graphql-vs-rest-e918d9e0e271?source=rss-e68daed69805------2) (11 months ago)
-- [What is Astro?](https://javascript.plainenglish.io/what-is-astro-aa3369d5a7f4?source=rss-e68daed69805------2) (11 months ago)
+- [What is Astro?](https://javascript.plainenglish.io/what-is-astro-aa3369d5a7f4?source=rss-e68daed69805------2) (1 year ago)
 - [What is Art?](https://gosev.medium.com/what-is-art-2dce12548091?source=rss-e68daed69805------2) (1 year ago)
 - [How to Release Your Code Into the Wild](https://levelup.gitconnected.com/how-to-release-your-code-into-the-wild-dd144218cb9b?source=rss-e68daed69805------2) (1 year ago)
 - [5 Tips to Have Fun Using MidJourney AI Image Generation — The First Steps](https://gosev.medium.com/5-tips-to-have-fun-using-midjourney-ai-image-generation-the-first-steps-81cf44a53931?source=rss-e68daed69805------2) (1 year ago)
@@ -23,21 +23,21 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/pZ4mSs6KoE4/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=pZ4mSs6KoE4">Next JS App Router: The Basics</a> (1 day ago) <br/>
+<a href="https://www.youtube.com/watch?v=pZ4mSs6KoE4">Next JS App Router: The Basics</a> (2 days ago) <br/>
 <img src="https://img.shields.io/youtube/views/pZ4mSs6KoE4?style=flat-square"> </img> 
 </td>
 </tr>
 <tr>
 <td><img src="https://img.youtube.com/vi/SG0iaxkpPV0/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=SG0iaxkpPV0">Translating a Next Js Website (App Router i18n)</a> (1 day ago) <br/>
+<a href="https://www.youtube.com/watch?v=SG0iaxkpPV0">Translating a Next Js Website (App Router i18n)</a> (2 days ago) <br/>
 <img src="https://img.shields.io/youtube/views/SG0iaxkpPV0?style=flat-square"> </img> 
 </td>
 </tr>
 <tr>
 <td><img src="https://img.youtube.com/vi/Cf0UAlcqlGs/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=Cf0UAlcqlGs">How to SEO in NextJS 13: Metadata, Robots, Sitemap, Structured Data</a> (1 day ago) <br/>
+<a href="https://www.youtube.com/watch?v=Cf0UAlcqlGs">How to SEO in NextJS 13: Metadata, Robots, Sitemap, Structured Data</a> (2 days ago) <br/>
 <img src="https://img.shields.io/youtube/views/Cf0UAlcqlGs?style=flat-square"> </img> 
 </td>
 </tr>
@@ -64,7 +64,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/3v2asgR4H6M/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=3v2asgR4H6M">3 Idées Reçues du Développement Logiciel</a> (4 days ago) <br/>
+<a href="https://www.youtube.com/watch?v=3v2asgR4H6M">3 Idées Reçues du Développement Logiciel</a> (5 days ago) <br/>
 <img src="https://img.shields.io/youtube/views/3v2asgR4H6M?style=flat-square"> </img> 
 </td>
 </tr>
