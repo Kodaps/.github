@@ -62,6 +62,13 @@
 <table>
 
 <tr>
+<td><img src="https://img.youtube.com/vi/LiwvUSocvYY/default.jpg"></img></td>
+<td>
+<a href="https://www.youtube.com/watch?v=LiwvUSocvYY">Next JS Routeur App : Ce qu&#39;il faut savoir</a> (today) <br/>
+<img src="https://img.shields.io/youtube/views/LiwvUSocvYY?style=flat-square"> </img> 
+</td>
+</tr>
+<tr>
 <td><img src="https://img.youtube.com/vi/3v2asgR4H6M/default.jpg"></img></td>
 <td>
 <a href="https://www.youtube.com/watch?v=3v2asgR4H6M">3 Idées Reçues du Développement Logiciel</a> (6 days ago) <br/>
@@ -122,13 +129,6 @@
 <td>
 <a href="https://www.youtube.com/watch?v=4jV_ARoE-uM">Angular Signals : ça change tout !?</a> (4 months ago) <br/>
 <img src="https://img.shields.io/youtube/views/4jV_ARoE-uM?style=flat-square"> </img> 
-</td>
-</tr>
-<tr>
-<td><img src="https://img.youtube.com/vi/dMoz1mxnj2w/default.jpg"></img></td>
-<td>
-<a href="https://www.youtube.com/watch?v=dMoz1mxnj2w">React Native vs React JS en 2023: Différences &amp; Points Communs</a> (4 months ago) <br/>
-<img src="https://img.shields.io/youtube/views/dMoz1mxnj2w?style=flat-square"> </img> 
 </td>
 </tr>
 </table>
