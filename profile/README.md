@@ -141,8 +141,6 @@
 - [Kodaps/js-first-steps](https://github.com/Kodaps/js-first-steps) - First steps with JS (7 months ago)
 - [Gosev/QwikTailwind](https://github.com/Gosev/QwikTailwind) - Test of QuickCity &#43; Tailwind template  (8 months ago)
 - [Gosev/AstroBlog](https://github.com/Gosev/AstroBlog) -  (11 months ago)
-- [Gosev/nextjs-blog](https://github.com/Gosev/nextjs-blog) -  (1 year ago)
-- [Kodaps/faker](https://github.com/Kodaps/faker) - Test data for exercises based on SWAPI (1 year ago)
 
 #### 🌱 My latest projects
 
