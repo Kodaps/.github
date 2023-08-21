@@ -62,6 +62,20 @@
 <table>
 
 <tr>
+<td><img src="https://img.youtube.com/vi/zrpZjIiSS5k/default.jpg"></img></td>
+<td>
+<a href="https://www.youtube.com/watch?v=zrpZjIiSS5k">NextJS Routeur App : Traduction / i18n</a> (today) <br/>
+<img src="https://img.shields.io/youtube/views/zrpZjIiSS5k?style=flat-square"> </img> 
+</td>
+</tr>
+<tr>
+<td><img src="https://img.youtube.com/vi/QeascD-piHA/default.jpg"></img></td>
+<td>
+<a href="https://www.youtube.com/watch?v=QeascD-piHA">NextJS App : SEO, Sitemap, Metadata...</a> (today) <br/>
+<img src="https://img.shields.io/youtube/views/QeascD-piHA?style=flat-square"> </img> 
+</td>
+</tr>
+<tr>
 <td><img src="https://img.youtube.com/vi/LiwvUSocvYY/default.jpg"></img></td>
 <td>
 <a href="https://www.youtube.com/watch?v=LiwvUSocvYY">Next JS Routeur App : Ce qu&#39;il faut savoir</a> (1 day ago) <br/>
@@ -115,20 +129,6 @@
 <td>
 <a href="https://www.youtube.com/watch?v=0jbyL2ZdtZY">Hébergement NextJS: AWS vs Vercel</a> (3 months ago) <br/>
 <img src="https://img.shields.io/youtube/views/0jbyL2ZdtZY?style=flat-square"> </img> 
-</td>
-</tr>
-<tr>
-<td><img src="https://img.youtube.com/vi/Nh43Kqyx0w8/default.jpg"></img></td>
-<td>
-<a href="https://www.youtube.com/watch?v=Nh43Kqyx0w8">Tuto NextJS: Page web responsive avec Tailwind</a> (3 months ago) <br/>
-<img src="https://img.shields.io/youtube/views/Nh43Kqyx0w8?style=flat-square"> </img> 
-</td>
-</tr>
-<tr>
-<td><img src="https://img.youtube.com/vi/4jV_ARoE-uM/default.jpg"></img></td>
-<td>
-<a href="https://www.youtube.com/watch?v=4jV_ARoE-uM">Angular Signals : ça change tout !?</a> (4 months ago) <br/>
-<img src="https://img.shields.io/youtube/views/4jV_ARoE-uM?style=flat-square"> </img> 
 </td>
 </tr>
 </table>
