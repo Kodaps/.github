@@ -135,6 +135,7 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [Gosev/codecrafters-redis-go](https://github.com/Gosev/codecrafters-redis-go) -  (today)
 - [Kodaps/nextjs-fullstack](https://github.com/Kodaps/nextjs-fullstack) -  (5 months ago)
 - [Kodaps/okr-app](https://github.com/Kodaps/okr-app) - OKR app (5 months ago)
 - [Kodaps/t3-cross-app](https://github.com/Kodaps/t3-cross-app) - T3 (Next &#43; RN) base app  (6 months ago)
@@ -144,6 +145,7 @@
 
 #### 🌱 My latest projects
 
+- [Gosev/codecrafters-redis-go](https://github.com/Gosev/codecrafters-redis-go) - 
 - [Gosev/QwikTailwind](https://github.com/Gosev/QwikTailwind) - Test of QuickCity &#43; Tailwind template 
 - [Gosev/nextjs-blog](https://github.com/Gosev/nextjs-blog) - 
 - [Gosev/AstroBlog](https://github.com/Gosev/AstroBlog) - 
@@ -153,7 +155,6 @@
 - [Gosev/forestry-demo](https://github.com/Gosev/forestry-demo) - 
 - [Gosev/KodapsStarter](https://github.com/Gosev/KodapsStarter) - Repo &#34;starter kit&#34; pour commencer à utiliser Corona
 - [Gosev/CoronaApps](https://github.com/Gosev/CoronaApps) - Apprenez à coder des applications iOS et Android avec Corona
-- [Gosev/nomore_noless](https://github.com/Gosev/nomore_noless) - 
 
 
 #### 🔭 Latest releases I've contributed to
