@@ -23,21 +23,21 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/Cf0UAlcqlGs/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=Cf0UAlcqlGs">How to SEO in NextJS 13: Metadata, Robots, Sitemap, Structured Data</a> (today) <br/>
+<a href="https://www.youtube.com/watch?v=Cf0UAlcqlGs">How to SEO in NextJS 13: Metadata, Robots, Sitemap, Structured Data</a> (1 day ago) <br/>
 <img src="https://img.shields.io/youtube/views/Cf0UAlcqlGs?style=flat-square"> </img> 
 </td>
 </tr>
 <tr>
 <td><img src="https://img.youtube.com/vi/pZ4mSs6KoE4/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=pZ4mSs6KoE4">Next JS App Router: The Basics</a> (4 days ago) <br/>
+<a href="https://www.youtube.com/watch?v=pZ4mSs6KoE4">Next JS App Router: The Basics</a> (5 days ago) <br/>
 <img src="https://img.shields.io/youtube/views/pZ4mSs6KoE4?style=flat-square"> </img> 
 </td>
 </tr>
 <tr>
 <td><img src="https://img.youtube.com/vi/SG0iaxkpPV0/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=SG0iaxkpPV0">Translating a Next Js Website (App Router i18n)</a> (4 days ago) <br/>
+<a href="https://www.youtube.com/watch?v=SG0iaxkpPV0">Translating a Next Js Website (App Router i18n)</a> (5 days ago) <br/>
 <img src="https://img.shields.io/youtube/views/SG0iaxkpPV0?style=flat-square"> </img> 
 </td>
 </tr>
@@ -64,21 +64,21 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/LiwvUSocvYY/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=LiwvUSocvYY">Next JS Routeur App : Ce qu&#39;il faut savoir</a> (today) <br/>
+<a href="https://www.youtube.com/watch?v=LiwvUSocvYY">Next JS Routeur App : Ce qu&#39;il faut savoir</a> (1 day ago) <br/>
 <img src="https://img.shields.io/youtube/views/LiwvUSocvYY?style=flat-square"> </img> 
 </td>
 </tr>
 <tr>
 <td><img src="https://img.youtube.com/vi/zrpZjIiSS5k/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=zrpZjIiSS5k">NextJS Routeur App : Traduction / i18n</a> (today) <br/>
+<a href="https://www.youtube.com/watch?v=zrpZjIiSS5k">NextJS Routeur App : Traduction / i18n</a> (1 day ago) <br/>
 <img src="https://img.shields.io/youtube/views/zrpZjIiSS5k?style=flat-square"> </img> 
 </td>
 </tr>
 <tr>
 <td><img src="https://img.youtube.com/vi/QeascD-piHA/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=QeascD-piHA">NextJS App : SEO, Sitemap, Metadata...</a> (today) <br/>
+<a href="https://www.youtube.com/watch?v=QeascD-piHA">NextJS App : SEO, Sitemap, Metadata...</a> (1 day ago) <br/>
 <img src="https://img.shields.io/youtube/views/QeascD-piHA?style=flat-square"> </img> 
 </td>
 </tr>
