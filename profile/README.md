@@ -62,6 +62,13 @@
 <table>
 
 <tr>
+<td><img src="https://img.youtube.com/vi/zrpZjIiSS5k/default.jpg"></img></td>
+<td>
+<a href="https://www.youtube.com/watch?v=zrpZjIiSS5k">NextJS Routeur App : Traduction / i18n</a> (today) <br/>
+<img src="https://img.shields.io/youtube/views/zrpZjIiSS5k?style=flat-square"> </img> 
+</td>
+</tr>
+<tr>
 <td><img src="https://img.youtube.com/vi/QeascD-piHA/default.jpg"></img></td>
 <td>
 <a href="https://www.youtube.com/watch?v=QeascD-piHA">NextJS App : SEO, Sitemap, Metadata...</a> (2 days ago) <br/>
@@ -73,13 +80,6 @@
 <td>
 <a href="https://www.youtube.com/watch?v=LiwvUSocvYY">Next JS Routeur App : Ce qu&#39;il faut savoir</a> (4 days ago) <br/>
 <img src="https://img.shields.io/youtube/views/LiwvUSocvYY?style=flat-square"> </img> 
-</td>
-</tr>
-<tr>
-<td><img src="https://img.youtube.com/vi/zrpZjIiSS5k/default.jpg"></img></td>
-<td>
-<a href="https://www.youtube.com/watch?v=zrpZjIiSS5k">NextJS Routeur App : Traduction / i18n</a> (4 days ago) <br/>
-<img src="https://img.shields.io/youtube/views/zrpZjIiSS5k?style=flat-square"> </img> 
 </td>
 </tr>
 <tr>
