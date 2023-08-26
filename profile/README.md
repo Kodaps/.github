@@ -163,6 +163,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Update instructions.md to specify the error](https://github.com/exercism/lua/pull/388) on [exercism/lua](https://github.com/exercism/lua) (today)
 
 
 #### 📓 Gists I wrote
