@@ -159,7 +159,6 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [Gosev/AstroBlog](https://github.com/Gosev/AstroBlog) ([0.0.8](https://github.com/Gosev/AstroBlog/releases/tag/0.0.8), 1 year ago) - 
 
 #### 🔨 My recent Pull Requests
 
