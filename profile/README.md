@@ -23,7 +23,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/SG0iaxkpPV0/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=SG0iaxkpPV0">Translating a Next Js Website (App Router i18n)</a> (6 days ago) <br/>
+<a href="https://www.youtube.com/watch?v=SG0iaxkpPV0">Translating a Next Js Website (App Router i18n)</a> (1 week ago) <br/>
 <img src="https://img.shields.io/youtube/views/SG0iaxkpPV0?style=flat-square"> </img> 
 </td>
 </tr>
@@ -64,14 +64,14 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/zrpZjIiSS5k/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=zrpZjIiSS5k">NextJS Routeur App : Traduction / i18n</a> (4 days ago) <br/>
+<a href="https://www.youtube.com/watch?v=zrpZjIiSS5k">NextJS Routeur App : Traduction / i18n</a> (5 days ago) <br/>
 <img src="https://img.shields.io/youtube/views/zrpZjIiSS5k?style=flat-square"> </img> 
 </td>
 </tr>
 <tr>
 <td><img src="https://img.youtube.com/vi/QeascD-piHA/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=QeascD-piHA">NextJS App : SEO, Sitemap, Metadata...</a> (6 days ago) <br/>
+<a href="https://www.youtube.com/watch?v=QeascD-piHA">NextJS App : SEO, Sitemap, Metadata...</a> (1 week ago) <br/>
 <img src="https://img.shields.io/youtube/views/QeascD-piHA?style=flat-square"> </img> 
 </td>
 </tr>
@@ -140,7 +140,7 @@
 - [Kodaps/okr-app](https://github.com/Kodaps/okr-app) - OKR app (6 months ago)
 - [Kodaps/t3-cross-app](https://github.com/Kodaps/t3-cross-app) - T3 (Next &#43; RN) base app  (6 months ago)
 - [Kodaps/js-first-steps](https://github.com/Kodaps/js-first-steps) - First steps with JS (7 months ago)
-- [Gosev/QwikTailwind](https://github.com/Gosev/QwikTailwind) - Test of QuickCity &#43; Tailwind template  (8 months ago)
+- [Gosev/QwikTailwind](https://github.com/Gosev/QwikTailwind) - Test of QuickCity &#43; Tailwind template  (9 months ago)
 - [Gosev/AstroBlog](https://github.com/Gosev/AstroBlog) -  (1 year ago)
 
 #### 🌱 My latest projects
@@ -162,7 +162,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Update instructions.md to specify the error](https://github.com/exercism/lua/pull/388) on [exercism/lua](https://github.com/exercism/lua) (3 days ago)
+- [Update instructions.md to specify the error](https://github.com/exercism/lua/pull/388) on [exercism/lua](https://github.com/exercism/lua) (4 days ago)
 
 
 #### 📓 Gists I wrote
