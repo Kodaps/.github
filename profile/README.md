@@ -174,7 +174,7 @@
 
 #### ⭐ Recent Stars
 
-- [onwidget/astrowind](https://github.com/onwidget/astrowind) - ⭕️ AstroWind: A free template using Astro 2.0 and Tailwind CSS. Astro starter theme. (1 year ago)
+- [onwidget/astrowind](https://github.com/onwidget/astrowind) - ⭕️ AstroWind: A free template using Astro 3.0 and Tailwind CSS. Astro starter theme. (1 year ago)
 - [coronalabs/CoronaViewer](https://github.com/coronalabs/CoronaViewer) - CoronaViewer for SDK/Enterprise (9 years ago)
 - [Gosev/Jump](https://github.com/Gosev/Jump) - Jump website (11 years ago)
 
