@@ -21,6 +21,13 @@
 <table>
 
 <tr>
+<td><img src="https://img.youtube.com/vi/4kbgkpj7hBM/default.jpg"></img></td>
+<td>
+<a href="https://www.youtube.com/watch?v=4kbgkpj7hBM">The Best Way To Learn To Code (IMHO)</a> (today) <br/>
+<img src="https://img.shields.io/youtube/views/4kbgkpj7hBM?style=flat-square"> </img> 
+</td>
+</tr>
+<tr>
 <td><img src="https://img.youtube.com/vi/SG0iaxkpPV0/default.jpg"></img></td>
 <td>
 <a href="https://www.youtube.com/watch?v=SG0iaxkpPV0">Translating a Next Js Website (App Router i18n)</a> (1 week ago) <br/>
@@ -46,13 +53,6 @@
 <td>
 <a href="https://www.youtube.com/watch?v=ZraQxTXjP2A">3 Coding Myths Holding You Back</a> (3 weeks ago) <br/>
 <img src="https://img.shields.io/youtube/views/ZraQxTXjP2A?style=flat-square"> </img> 
-</td>
-</tr>
-<tr>
-<td><img src="https://img.youtube.com/vi/kAMix8Hc9ME/default.jpg"></img></td>
-<td>
-<a href="https://www.youtube.com/watch?v=kAMix8Hc9ME">Is ChatGPT getting dumber?</a> (1 month ago) <br/>
-<img src="https://img.shields.io/youtube/views/kAMix8Hc9ME?style=flat-square"> </img> 
 </td>
 </tr>
 </table>
