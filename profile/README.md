@@ -23,7 +23,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/4kbgkpj7hBM/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=4kbgkpj7hBM">The Best Way To Learn To Code (IMHO)</a> (today) <br/>
+<a href="https://www.youtube.com/watch?v=4kbgkpj7hBM">The Best Way To Learn To Code (IMHO)</a> (1 day ago) <br/>
 <img src="https://img.shields.io/youtube/views/4kbgkpj7hBM?style=flat-square"> </img> 
 </td>
 </tr>
@@ -64,7 +64,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/zrpZjIiSS5k/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=zrpZjIiSS5k">NextJS Routeur App : Traduction / i18n</a> (6 days ago) <br/>
+<a href="https://www.youtube.com/watch?v=zrpZjIiSS5k">NextJS Routeur App : Traduction / i18n</a> (1 week ago) <br/>
 <img src="https://img.shields.io/youtube/views/zrpZjIiSS5k?style=flat-square"> </img> 
 </td>
 </tr>
@@ -99,7 +99,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/pcZR7vgN604/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=pcZR7vgN604">Pourquoi NestJS ?</a> (1 month ago) <br/>
+<a href="https://www.youtube.com/watch?v=pcZR7vgN604">Pourquoi NestJS ?</a> (2 months ago) <br/>
 <img src="https://img.shields.io/youtube/views/pcZR7vgN604?style=flat-square"> </img> 
 </td>
 </tr>
@@ -138,7 +138,7 @@
 - [Gosev/codecrafters-redis-go](https://github.com/Gosev/codecrafters-redis-go) -  (1 week ago)
 - [Kodaps/nextjs-fullstack](https://github.com/Kodaps/nextjs-fullstack) -  (6 months ago)
 - [Kodaps/okr-app](https://github.com/Kodaps/okr-app) - OKR app (6 months ago)
-- [Kodaps/t3-cross-app](https://github.com/Kodaps/t3-cross-app) - T3 (Next &#43; RN) base app  (6 months ago)
+- [Kodaps/t3-cross-app](https://github.com/Kodaps/t3-cross-app) - T3 (Next &#43; RN) base app  (7 months ago)
 - [Kodaps/js-first-steps](https://github.com/Kodaps/js-first-steps) - First steps with JS (7 months ago)
 - [Gosev/QwikTailwind](https://github.com/Gosev/QwikTailwind) - Test of QuickCity &#43; Tailwind template  (9 months ago)
 - [Gosev/AstroBlog](https://github.com/Gosev/AstroBlog) -  (1 year ago)
@@ -162,7 +162,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Update instructions.md to specify the error](https://github.com/exercism/lua/pull/388) on [exercism/lua](https://github.com/exercism/lua) (5 days ago)
+- [Update instructions.md to specify the error](https://github.com/exercism/lua/pull/388) on [exercism/lua](https://github.com/exercism/lua) (6 days ago)
 
 
 #### 📓 Gists I wrote
