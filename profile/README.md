@@ -141,7 +141,6 @@
 - [Kodaps/t3-cross-app](https://github.com/Kodaps/t3-cross-app) - T3 (Next &#43; RN) base app  (7 months ago)
 - [Kodaps/js-first-steps](https://github.com/Kodaps/js-first-steps) - First steps with JS (7 months ago)
 - [Gosev/QwikTailwind](https://github.com/Gosev/QwikTailwind) - Test of QuickCity &#43; Tailwind template  (9 months ago)
-- [Gosev/AstroBlog](https://github.com/Gosev/AstroBlog) -  (1 year ago)
 
 #### 🌱 My latest projects
 
