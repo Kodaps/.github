@@ -51,7 +51,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/ZraQxTXjP2A/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=ZraQxTXjP2A">3 Coding Myths Holding You Back</a> (4 weeks ago) <br/>
+<a href="https://www.youtube.com/watch?v=ZraQxTXjP2A">3 Coding Myths You NEED to Know</a> (4 weeks ago) <br/>
 <img src="https://img.shields.io/youtube/views/ZraQxTXjP2A?style=flat-square"> </img> 
 </td>
 </tr>
