@@ -64,7 +64,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/nfYaXb7OjcQ/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=nfYaXb7OjcQ">Comment Apprendre un Language de Programmation</a> (today) <br/>
+<a href="https://www.youtube.com/watch?v=nfYaXb7OjcQ">Comment J&#39;apprends Le Code</a> (today) <br/>
 <img src="https://img.shields.io/youtube/views/nfYaXb7OjcQ?style=flat-square"> </img> 
 </td>
 </tr>
