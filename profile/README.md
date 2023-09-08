@@ -21,6 +21,13 @@
 <table>
 
 <tr>
+<td><img src="https://img.youtube.com/vi/jEJEFAc8tSI/default.jpg"></img></td>
+<td>
+<a href="https://www.youtube.com/watch?v=jEJEFAc8tSI">React:  Server Components vs SSR</a> (today) <br/>
+<img src="https://img.shields.io/youtube/views/jEJEFAc8tSI?style=flat-square"> </img> 
+</td>
+</tr>
+<tr>
 <td><img src="https://img.youtube.com/vi/4kbgkpj7hBM/default.jpg"></img></td>
 <td>
 <a href="https://www.youtube.com/watch?v=4kbgkpj7hBM">The Best Way To Learn To Code (IMHO)</a> (1 week ago) <br/>
@@ -46,13 +53,6 @@
 <td>
 <a href="https://www.youtube.com/watch?v=pZ4mSs6KoE4">Next JS App Router: The Basics</a> (3 weeks ago) <br/>
 <img src="https://img.shields.io/youtube/views/pZ4mSs6KoE4?style=flat-square"> </img> 
-</td>
-</tr>
-<tr>
-<td><img src="https://img.youtube.com/vi/ZraQxTXjP2A/default.jpg"></img></td>
-<td>
-<a href="https://www.youtube.com/watch?v=ZraQxTXjP2A">3 Coding Myths You NEED to Know</a> (1 month ago) <br/>
-<img src="https://img.shields.io/youtube/views/ZraQxTXjP2A?style=flat-square"> </img> 
 </td>
 </tr>
 </table>
