@@ -23,7 +23,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/jEJEFAc8tSI/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=jEJEFAc8tSI">React:  Server Components vs SSR</a> (today) <br/>
+<a href="https://www.youtube.com/watch?v=jEJEFAc8tSI">React:  Server Components vs SSR</a> (1 day ago) <br/>
 <img src="https://img.shields.io/youtube/views/jEJEFAc8tSI?style=flat-square"> </img> 
 </td>
 </tr>
@@ -64,7 +64,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/nfYaXb7OjcQ/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=nfYaXb7OjcQ">De 0 à Codeur : Apprendre les Langages de Programmation par la Pratique</a> (2 days ago) <br/>
+<a href="https://www.youtube.com/watch?v=nfYaXb7OjcQ">De 0 à Codeur : Apprendre les Langages de Programmation par la Pratique</a> (3 days ago) <br/>
 <img src="https://img.shields.io/youtube/views/nfYaXb7OjcQ?style=flat-square"> </img> 
 </td>
 </tr>
@@ -161,7 +161,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Update instructions.md to specify the error](https://github.com/exercism/lua/pull/388) on [exercism/lua](https://github.com/exercism/lua) (1 week ago)
+- [Update instructions.md to specify the error](https://github.com/exercism/lua/pull/388) on [exercism/lua](https://github.com/exercism/lua) (2 weeks ago)
 
 
 #### 📓 Gists I wrote
