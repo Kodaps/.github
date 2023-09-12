@@ -23,7 +23,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/jEJEFAc8tSI/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=jEJEFAc8tSI">React:  Server Components vs SSR</a> (3 days ago) <br/>
+<a href="https://www.youtube.com/watch?v=jEJEFAc8tSI">React:  Server Components vs SSR</a> (4 days ago) <br/>
 <img src="https://img.shields.io/youtube/views/jEJEFAc8tSI?style=flat-square"> </img> 
 </td>
 </tr>
@@ -64,7 +64,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/nfYaXb7OjcQ/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=nfYaXb7OjcQ">De 0 à Codeur : Apprendre les Langages de Programmation par la Pratique</a> (5 days ago) <br/>
+<a href="https://www.youtube.com/watch?v=nfYaXb7OjcQ">De 0 à Codeur : Apprendre les Langages de Programmation par la Pratique</a> (6 days ago) <br/>
 <img src="https://img.shields.io/youtube/views/nfYaXb7OjcQ?style=flat-square"> </img> 
 </td>
 </tr>
@@ -135,7 +135,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Gosev/codecrafters-redis-go](https://github.com/Gosev/codecrafters-redis-go) -  (2 weeks ago)
+- [Gosev/codecrafters-redis-go](https://github.com/Gosev/codecrafters-redis-go) -  (3 weeks ago)
 - [Kodaps/nextjs-fullstack](https://github.com/Kodaps/nextjs-fullstack) -  (6 months ago)
 - [Kodaps/okr-app](https://github.com/Kodaps/okr-app) - OKR app (6 months ago)
 - [Kodaps/t3-cross-app](https://github.com/Kodaps/t3-cross-app) - T3 (Next &#43; RN) base app  (7 months ago)
