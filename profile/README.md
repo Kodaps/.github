@@ -23,14 +23,14 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/jEJEFAc8tSI/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=jEJEFAc8tSI">React:  Server Components vs SSR</a> (5 days ago) <br/>
+<a href="https://www.youtube.com/watch?v=jEJEFAc8tSI">React:  Server Components vs SSR</a> (6 days ago) <br/>
 <img src="https://img.shields.io/youtube/views/jEJEFAc8tSI?style=flat-square"> </img> 
 </td>
 </tr>
 <tr>
 <td><img src="https://img.youtube.com/vi/4kbgkpj7hBM/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=4kbgkpj7hBM">The Best Way To Learn A Programming Language (IMHO)</a> (1 week ago) <br/>
+<a href="https://www.youtube.com/watch?v=4kbgkpj7hBM">The Best Way To Learn A Programming Language (IMHO)</a> (2 weeks ago) <br/>
 <img src="https://img.shields.io/youtube/views/4kbgkpj7hBM?style=flat-square"> </img> 
 </td>
 </tr>
@@ -51,7 +51,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/pZ4mSs6KoE4/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=pZ4mSs6KoE4">Next JS App Router: The Basics</a> (3 weeks ago) <br/>
+<a href="https://www.youtube.com/watch?v=pZ4mSs6KoE4">Next JS App Router: The Basics</a> (4 weeks ago) <br/>
 <img src="https://img.shields.io/youtube/views/pZ4mSs6KoE4?style=flat-square"> </img> 
 </td>
 </tr>
@@ -127,7 +127,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/iXS_YMoMANc/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=iXS_YMoMANc">Pourquoi Qwik C&#39;est l&#39;Avenir</a> (3 months ago) <br/>
+<a href="https://www.youtube.com/watch?v=iXS_YMoMANc">Pourquoi Qwik C&#39;est l&#39;Avenir</a> (4 months ago) <br/>
 <img src="https://img.shields.io/youtube/views/iXS_YMoMANc?style=flat-square"> </img> 
 </td>
 </tr>
