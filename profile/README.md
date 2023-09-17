@@ -30,7 +30,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/4kbgkpj7hBM/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=4kbgkpj7hBM">The Best Way To Learn A Programming Language (IMHO)</a> (2 weeks ago) <br/>
+<a href="https://www.youtube.com/watch?v=4kbgkpj7hBM">How I Learn A New Programming Language (by Doing)</a> (2 weeks ago) <br/>
 <img src="https://img.shields.io/youtube/views/4kbgkpj7hBM?style=flat-square"> </img> 
 </td>
 </tr>
