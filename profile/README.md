@@ -62,6 +62,13 @@
 <table>
 
 <tr>
+<td><img src="https://img.youtube.com/vi/pKwRMnRbWww/default.jpg"></img></td>
+<td>
+<a href="https://www.youtube.com/watch?v=pKwRMnRbWww">Comprendre React : Composants Serveur vs SSR</a> (today) <br/>
+<img src="https://img.shields.io/youtube/views/pKwRMnRbWww?style=flat-square"> </img> 
+</td>
+</tr>
+<tr>
 <td><img src="https://img.youtube.com/vi/nfYaXb7OjcQ/default.jpg"></img></td>
 <td>
 <a href="https://www.youtube.com/watch?v=nfYaXb7OjcQ">De 0 à Codeur : Apprendre les Langages de Programmation par la Pratique</a> (1 week ago) <br/>
@@ -122,13 +129,6 @@
 <td>
 <a href="https://www.youtube.com/watch?v=gJvrCi8RHJc">Apprendre le JS : les Meilleurs Ressources Gratuites</a> (3 months ago) <br/>
 <img src="https://img.shields.io/youtube/views/gJvrCi8RHJc?style=flat-square"> </img> 
-</td>
-</tr>
-<tr>
-<td><img src="https://img.youtube.com/vi/iXS_YMoMANc/default.jpg"></img></td>
-<td>
-<a href="https://www.youtube.com/watch?v=iXS_YMoMANc">Pourquoi Qwik C&#39;est l&#39;Avenir</a> (4 months ago) <br/>
-<img src="https://img.shields.io/youtube/views/iXS_YMoMANc?style=flat-square"> </img> 
 </td>
 </tr>
 </table>
