@@ -64,7 +64,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/pKwRMnRbWww/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=pKwRMnRbWww">Comprendre React : Composants Serveur vs SSR</a> (today) <br/>
+<a href="https://www.youtube.com/watch?v=pKwRMnRbWww">Comprendre React : Composants Serveur vs SSR</a> (1 day ago) <br/>
 <img src="https://img.shields.io/youtube/views/pKwRMnRbWww?style=flat-square"> </img> 
 </td>
 </tr>
@@ -135,7 +135,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Gosev/codecrafters-redis-go](https://github.com/Gosev/codecrafters-redis-go) -  (3 weeks ago)
+- [Gosev/codecrafters-redis-go](https://github.com/Gosev/codecrafters-redis-go) -  (4 weeks ago)
 - [Kodaps/nextjs-fullstack](https://github.com/Kodaps/nextjs-fullstack) -  (6 months ago)
 - [Kodaps/okr-app](https://github.com/Kodaps/okr-app) - OKR app (6 months ago)
 - [Kodaps/t3-cross-app](https://github.com/Kodaps/t3-cross-app) - T3 (Next &#43; RN) base app  (7 months ago)
