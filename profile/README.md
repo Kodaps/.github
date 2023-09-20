@@ -23,7 +23,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/QwRD_z5STko/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=QwRD_z5STko">Container vs VM tech (Why Docker is Important)</a> (today) <br/>
+<a href="https://www.youtube.com/watch?v=QwRD_z5STko">Container vs VM tech (Why Docker is Important)</a> (1 day ago) <br/>
 <img src="https://img.shields.io/youtube/views/QwRD_z5STko?style=flat-square"> </img> 
 </td>
 </tr>
@@ -44,14 +44,14 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/SG0iaxkpPV0/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=SG0iaxkpPV0">Translating a Next Js Website (App Router i18n)</a> (3 weeks ago) <br/>
+<a href="https://www.youtube.com/watch?v=SG0iaxkpPV0">Translating a Next Js Website (App Router i18n)</a> (4 weeks ago) <br/>
 <img src="https://img.shields.io/youtube/views/SG0iaxkpPV0?style=flat-square"> </img> 
 </td>
 </tr>
 <tr>
 <td><img src="https://img.youtube.com/vi/Cf0UAlcqlGs/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=Cf0UAlcqlGs">How to SEO in NextJS 13: Metadata, Robots, Sitemap, Structured Data</a> (4 weeks ago) <br/>
+<a href="https://www.youtube.com/watch?v=Cf0UAlcqlGs">How to SEO in NextJS 13: Metadata, Robots, Sitemap, Structured Data</a> (1 month ago) <br/>
 <img src="https://img.shields.io/youtube/views/Cf0UAlcqlGs?style=flat-square"> </img> 
 </td>
 </tr>
@@ -64,14 +64,14 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/pKwRMnRbWww/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=pKwRMnRbWww">Comprendre React : Composants Serveur vs SSR</a> (1 day ago) <br/>
+<a href="https://www.youtube.com/watch?v=pKwRMnRbWww">Comprendre React : Composants Serveur vs SSR</a> (2 days ago) <br/>
 <img src="https://img.shields.io/youtube/views/pKwRMnRbWww?style=flat-square"> </img> 
 </td>
 </tr>
 <tr>
 <td><img src="https://img.youtube.com/vi/nfYaXb7OjcQ/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=nfYaXb7OjcQ">De 0 à Codeur : Apprendre les Langages de Programmation par la Pratique</a> (1 week ago) <br/>
+<a href="https://www.youtube.com/watch?v=nfYaXb7OjcQ">De 0 à Codeur : Apprendre les Langages de Programmation par la Pratique</a> (2 weeks ago) <br/>
 <img src="https://img.shields.io/youtube/views/nfYaXb7OjcQ?style=flat-square"> </img> 
 </td>
 </tr>
@@ -85,14 +85,14 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/QeascD-piHA/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=QeascD-piHA">NextJS App : SEO, Sitemap, Metadata...</a> (3 weeks ago) <br/>
+<a href="https://www.youtube.com/watch?v=QeascD-piHA">NextJS App : SEO, Sitemap, Metadata...</a> (4 weeks ago) <br/>
 <img src="https://img.shields.io/youtube/views/QeascD-piHA?style=flat-square"> </img> 
 </td>
 </tr>
 <tr>
 <td><img src="https://img.youtube.com/vi/LiwvUSocvYY/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=LiwvUSocvYY">Next JS Routeur App : Ce qu&#39;il faut savoir</a> (4 weeks ago) <br/>
+<a href="https://www.youtube.com/watch?v=LiwvUSocvYY">Next JS Routeur App : Ce qu&#39;il faut savoir</a> (1 month ago) <br/>
 <img src="https://img.shields.io/youtube/views/LiwvUSocvYY?style=flat-square"> </img> 
 </td>
 </tr>
@@ -173,7 +173,7 @@
 
 #### ⭐ Recent Stars
 
-- [opentffoundation/manifesto](https://github.com/opentffoundation/manifesto) - The OpenTF Manifesto expresses concern over HashiCorp&#39;s switch of the Terraform license from open-source to the Business Source License (BSL) and calls for the tool&#39;s return to a truly open-source license. (2 weeks ago)
+- [opentofu/manifesto](https://github.com/opentofu/manifesto) - The OpenTF Manifesto expresses concern over HashiCorp&#39;s switch of the Terraform license from open-source to the Business Source License (BSL) and calls for the tool&#39;s return to a truly open-source license. (2 weeks ago)
 - [onwidget/astrowind](https://github.com/onwidget/astrowind) - ⭕️ AstroWind: A free template using Astro 3.0 and Tailwind CSS. Astro starter theme. (1 year ago)
 - [coronalabs/CoronaViewer](https://github.com/coronalabs/CoronaViewer) - CoronaViewer for SDK/Enterprise (9 years ago)
 - [Gosev/Jump](https://github.com/Gosev/Jump) - Jump website (11 years ago)
