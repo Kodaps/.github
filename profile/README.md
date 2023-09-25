@@ -23,7 +23,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/QwRD_z5STko/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=QwRD_z5STko">Container vs VM tech (Why Docker is Important)</a> (5 days ago) <br/>
+<a href="https://www.youtube.com/watch?v=QwRD_z5STko">Container vs VM tech (Why Docker is Important)</a> (6 days ago) <br/>
 <img src="https://img.shields.io/youtube/views/QwRD_z5STko?style=flat-square"> </img> 
 </td>
 </tr>
@@ -64,7 +64,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/pKwRMnRbWww/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=pKwRMnRbWww">React : Composants Serveur vs SSR</a> (6 days ago) <br/>
+<a href="https://www.youtube.com/watch?v=pKwRMnRbWww">React : Composants Serveur vs SSR</a> (1 week ago) <br/>
 <img src="https://img.shields.io/youtube/views/pKwRMnRbWww?style=flat-square"> </img> 
 </td>
 </tr>
@@ -136,7 +136,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [Gosev/codecrafters-redis-go](https://github.com/Gosev/codecrafters-redis-go) -  (1 month ago)
-- [Kodaps/nextjs-fullstack](https://github.com/Kodaps/nextjs-fullstack) -  (6 months ago)
+- [Kodaps/nextjs-fullstack](https://github.com/Kodaps/nextjs-fullstack) -  (7 months ago)
 - [Kodaps/okr-app](https://github.com/Kodaps/okr-app) - OKR app (7 months ago)
 - [Kodaps/t3-cross-app](https://github.com/Kodaps/t3-cross-app) - T3 (Next &#43; RN) base app  (7 months ago)
 - [Kodaps/js-first-steps](https://github.com/Kodaps/js-first-steps) - First steps with JS (8 months ago)
@@ -161,7 +161,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Update instructions.md to specify the error](https://github.com/exercism/lua/pull/388) on [exercism/lua](https://github.com/exercism/lua) (4 weeks ago)
+- [Update instructions.md to specify the error](https://github.com/exercism/lua/pull/388) on [exercism/lua](https://github.com/exercism/lua) (1 month ago)
 
 
 #### 📓 Gists I wrote
