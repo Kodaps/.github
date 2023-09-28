@@ -23,7 +23,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/-ptq9HCrI_U/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=-ptq9HCrI_U">HTMX, the anti JS framework (vs React)</a> (today) <br/>
+<a href="https://www.youtube.com/watch?v=-ptq9HCrI_U">HTMX, the anti JS framework (vs React)</a> (1 day ago) <br/>
 <img src="https://img.shields.io/youtube/views/-ptq9HCrI_U?style=flat-square"> </img> 
 </td>
 </tr>
@@ -44,7 +44,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/4kbgkpj7hBM/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=4kbgkpj7hBM">How I Learn A New Programming Language (by Doing)</a> (3 weeks ago) <br/>
+<a href="https://www.youtube.com/watch?v=4kbgkpj7hBM">How I Learn A New Programming Language (by Doing)</a> (4 weeks ago) <br/>
 <img src="https://img.shields.io/youtube/views/4kbgkpj7hBM?style=flat-square"> </img> 
 </td>
 </tr>
