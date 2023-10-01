@@ -23,7 +23,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/-ptq9HCrI_U/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=-ptq9HCrI_U">HTMX, the anti JS framework (vs React)</a> (3 days ago) <br/>
+<a href="https://www.youtube.com/watch?v=-ptq9HCrI_U">HTMX, the anti JS framework (vs React)</a> (4 days ago) <br/>
 <img src="https://img.shields.io/youtube/views/-ptq9HCrI_U?style=flat-square"> </img> 
 </td>
 </tr>
@@ -113,7 +113,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/pcZR7vgN604/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=pcZR7vgN604">Pourquoi NestJS ?</a> (2 months ago) <br/>
+<a href="https://www.youtube.com/watch?v=pcZR7vgN604">Pourquoi NestJS ?</a> (3 months ago) <br/>
 <img src="https://img.shields.io/youtube/views/pcZR7vgN604?style=flat-square"> </img> 
 </td>
 </tr>
@@ -138,7 +138,7 @@
 - [Gosev/codecrafters-redis-go](https://github.com/Gosev/codecrafters-redis-go) -  (1 month ago)
 - [Kodaps/nextjs-fullstack](https://github.com/Kodaps/nextjs-fullstack) -  (7 months ago)
 - [Kodaps/okr-app](https://github.com/Kodaps/okr-app) - OKR app (7 months ago)
-- [Kodaps/t3-cross-app](https://github.com/Kodaps/t3-cross-app) - T3 (Next &#43; RN) base app  (7 months ago)
+- [Kodaps/t3-cross-app](https://github.com/Kodaps/t3-cross-app) - T3 (Next &#43; RN) base app  (8 months ago)
 - [Kodaps/js-first-steps](https://github.com/Kodaps/js-first-steps) - First steps with JS (8 months ago)
 - [Gosev/QwikTailwind](https://github.com/Gosev/QwikTailwind) - Test of QuickCity &#43; Tailwind template  (10 months ago)
 
@@ -173,7 +173,7 @@
 
 #### ⭐ Recent Stars
 
-- [opentofu/manifesto](https://github.com/opentofu/manifesto) - The OpenTF Manifesto expresses concern over HashiCorp&#39;s switch of the Terraform license from open-source to the Business Source License (BSL) and calls for the tool&#39;s return to a truly open-source license. (4 weeks ago)
+- [opentofu/manifesto](https://github.com/opentofu/manifesto) - The OpenTF Manifesto expresses concern over HashiCorp&#39;s switch of the Terraform license from open-source to the Business Source License (BSL) and calls for the tool&#39;s return to a truly open-source license. (1 month ago)
 - [onwidget/astrowind](https://github.com/onwidget/astrowind) - ⭕️ AstroWind: A free template using Astro 3.0 and Tailwind CSS. Astro starter theme. (1 year ago)
 - [coronalabs/CoronaViewer](https://github.com/coronalabs/CoronaViewer) - CoronaViewer for SDK/Enterprise (9 years ago)
 - [Gosev/Jump](https://github.com/Gosev/Jump) - Jump website (11 years ago)
