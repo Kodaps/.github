@@ -30,7 +30,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/QwRD_z5STko/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=QwRD_z5STko">Container vs VM tech (Why Docker is Important)</a> (1 week ago) <br/>
+<a href="https://www.youtube.com/watch?v=QwRD_z5STko">Container vs VM (Why Docker is Important)</a> (1 week ago) <br/>
 <img src="https://img.shields.io/youtube/views/QwRD_z5STko?style=flat-square"> </img> 
 </td>
 </tr>
@@ -61,6 +61,13 @@
 <img src="https://img.shields.io/youtube/channel/subscribers/UCzdX32OIhpfrdxQRhN2s98w?style=for-the-badge"></img>
 <table>
 
+<tr>
+<td><img src="https://img.youtube.com/vi/kJrL9e5cfkE/default.jpg"></img></td>
+<td>
+<a href="https://www.youtube.com/watch?v=kJrL9e5cfkE">Containers vs VMs (pourquoi utiliser Docker)</a> (today) <br/>
+<img src="https://img.shields.io/youtube/views/kJrL9e5cfkE?style=flat-square"> </img> 
+</td>
+</tr>
 <tr>
 <td><img src="https://img.youtube.com/vi/pKwRMnRbWww/default.jpg"></img></td>
 <td>
@@ -122,13 +129,6 @@
 <td>
 <a href="https://www.youtube.com/watch?v=Muv47j75_Cw">Pourquoi React Côté Serveur?</a> (3 months ago) <br/>
 <img src="https://img.shields.io/youtube/views/Muv47j75_Cw?style=flat-square"> </img> 
-</td>
-</tr>
-<tr>
-<td><img src="https://img.youtube.com/vi/gJvrCi8RHJc/default.jpg"></img></td>
-<td>
-<a href="https://www.youtube.com/watch?v=gJvrCi8RHJc">Apprendre le JS : les Meilleurs Ressources Gratuites</a> (3 months ago) <br/>
-<img src="https://img.shields.io/youtube/views/gJvrCi8RHJc?style=flat-square"> </img> 
 </td>
 </tr>
 </table>
