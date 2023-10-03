@@ -23,14 +23,14 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/-ptq9HCrI_U/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=-ptq9HCrI_U">HTMX, the anti JS framework (vs React)</a> (5 days ago) <br/>
+<a href="https://www.youtube.com/watch?v=-ptq9HCrI_U">HTMX, the anti JS framework (vs React)</a> (6 days ago) <br/>
 <img src="https://img.shields.io/youtube/views/-ptq9HCrI_U?style=flat-square"> </img> 
 </td>
 </tr>
 <tr>
 <td><img src="https://img.youtube.com/vi/QwRD_z5STko/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=QwRD_z5STko">Container vs VM (Why Docker is Important)</a> (1 week ago) <br/>
+<a href="https://www.youtube.com/watch?v=QwRD_z5STko">Container vs VM (Why Docker is Important)</a> (2 weeks ago) <br/>
 <img src="https://img.shields.io/youtube/views/QwRD_z5STko?style=flat-square"> </img> 
 </td>
 </tr>
@@ -64,7 +64,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/kJrL9e5cfkE/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=kJrL9e5cfkE">Containers vs VMs (pourquoi utiliser Docker)</a> (today) <br/>
+<a href="https://www.youtube.com/watch?v=kJrL9e5cfkE">Containers vs VMs (pourquoi utiliser Docker)</a> (1 day ago) <br/>
 <img src="https://img.shields.io/youtube/views/kJrL9e5cfkE?style=flat-square"> </img> 
 </td>
 </tr>
