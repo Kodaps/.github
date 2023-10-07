@@ -30,7 +30,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/QwRD_z5STko/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=QwRD_z5STko">Container vs VM (Why Docker is Important)</a> (2 weeks ago) <br/>
+<a href="https://www.youtube.com/watch?v=QwRD_z5STko">Container vs VM (Why use Docker?)</a> (2 weeks ago) <br/>
 <img src="https://img.shields.io/youtube/views/QwRD_z5STko?style=flat-square"> </img> 
 </td>
 </tr>
