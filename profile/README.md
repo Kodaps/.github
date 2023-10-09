@@ -21,6 +21,13 @@
 <table>
 
 <tr>
+<td><img src="https://img.youtube.com/vi/VQuS8Lr6j2k/default.jpg"></img></td>
+<td>
+<a href="https://www.youtube.com/watch?v=VQuS8Lr6j2k">Runes: The Answer to Svelte&#39;s Magic Problem?</a> (today) <br/>
+<img src="https://img.shields.io/youtube/views/VQuS8Lr6j2k?style=flat-square"> </img> 
+</td>
+</tr>
+<tr>
 <td><img src="https://img.youtube.com/vi/-ptq9HCrI_U/default.jpg"></img></td>
 <td>
 <a href="https://www.youtube.com/watch?v=-ptq9HCrI_U">HTMX, the anti JS framework (vs React)</a> (1 week ago) <br/>
@@ -46,13 +53,6 @@
 <td>
 <a href="https://www.youtube.com/watch?v=4kbgkpj7hBM">How I Learn A New Programming Language (by Doing)</a> (1 month ago) <br/>
 <img src="https://img.shields.io/youtube/views/4kbgkpj7hBM?style=flat-square"> </img> 
-</td>
-</tr>
-<tr>
-<td><img src="https://img.youtube.com/vi/SG0iaxkpPV0/default.jpg"></img></td>
-<td>
-<a href="https://www.youtube.com/watch?v=SG0iaxkpPV0">Translating a Next Js Website (App Router i18n)</a> (1 month ago) <br/>
-<img src="https://img.shields.io/youtube/views/SG0iaxkpPV0?style=flat-square"> </img> 
 </td>
 </tr>
 </table>
