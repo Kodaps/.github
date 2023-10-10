@@ -23,7 +23,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/VQuS8Lr6j2k/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=VQuS8Lr6j2k">Runes: The Answer to Svelte&#39;s Magic Problem?</a> (today) <br/>
+<a href="https://www.youtube.com/watch?v=VQuS8Lr6j2k">Runes: The Answer to Svelte&#39;s Magic Problem?</a> (1 day ago) <br/>
 <img src="https://img.shields.io/youtube/views/VQuS8Lr6j2k?style=flat-square"> </img> 
 </td>
 </tr>
@@ -37,7 +37,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/QwRD_z5STko/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=QwRD_z5STko">Container vs VM (Why use Docker?)</a> (2 weeks ago) <br/>
+<a href="https://www.youtube.com/watch?v=QwRD_z5STko">Container vs VM (Why use Docker?)</a> (3 weeks ago) <br/>
 <img src="https://img.shields.io/youtube/views/QwRD_z5STko?style=flat-square"> </img> 
 </td>
 </tr>
