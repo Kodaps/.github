@@ -23,7 +23,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/VQuS8Lr6j2k/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=VQuS8Lr6j2k">Runes: The Solution to Svelte&#39;s Magic Problem?</a> (3 days ago) <br/>
+<a href="https://www.youtube.com/watch?v=VQuS8Lr6j2k">Runes: The Solution to Svelte&#39;s Magic Problem?</a> (4 days ago) <br/>
 <img src="https://img.shields.io/youtube/views/VQuS8Lr6j2k?style=flat-square"> </img> 
 </td>
 </tr>
@@ -106,7 +106,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/3v2asgR4H6M/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=3v2asgR4H6M">3 Idées Reçues du Développement Logiciel</a> (1 month ago) <br/>
+<a href="https://www.youtube.com/watch?v=3v2asgR4H6M">3 Idées Reçues du Développement Logiciel</a> (2 months ago) <br/>
 <img src="https://img.shields.io/youtube/views/3v2asgR4H6M?style=flat-square"> </img> 
 </td>
 </tr>
