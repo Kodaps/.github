@@ -23,7 +23,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/VQuS8Lr6j2k/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=VQuS8Lr6j2k">Runes: The Solution to Svelte&#39;s Magic Problem?</a> (5 days ago) <br/>
+<a href="https://www.youtube.com/watch?v=VQuS8Lr6j2k">Runes: The Solution to Svelte&#39;s Magic Problem?</a> (6 days ago) <br/>
 <img src="https://img.shields.io/youtube/views/VQuS8Lr6j2k?style=flat-square"> </img> 
 </td>
 </tr>
@@ -113,7 +113,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/zED1-b3UJE8/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=zED1-b3UJE8">Comment faire la veille techno, en tant que dev ?</a> (2 months ago) <br/>
+<a href="https://www.youtube.com/watch?v=zED1-b3UJE8">Comment faire la veille techno, en tant que dev ?</a> (3 months ago) <br/>
 <img src="https://img.shields.io/youtube/views/zED1-b3UJE8?style=flat-square"> </img> 
 </td>
 </tr>
