@@ -23,7 +23,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/VQuS8Lr6j2k/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=VQuS8Lr6j2k">Runes: The Solution to Svelte&#39;s Magic Problem?</a> (6 days ago) <br/>
+<a href="https://www.youtube.com/watch?v=VQuS8Lr6j2k">Runes: The Solution to Svelte&#39;s Magic Problem?</a> (1 week ago) <br/>
 <img src="https://img.shields.io/youtube/views/VQuS8Lr6j2k?style=flat-square"> </img> 
 </td>
 </tr>
@@ -64,14 +64,14 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/kJrL9e5cfkE/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=kJrL9e5cfkE">Containers vs VMs (pourquoi utiliser Docker)</a> (1 week ago) <br/>
+<a href="https://www.youtube.com/watch?v=kJrL9e5cfkE">Containers vs VMs (pourquoi utiliser Docker)</a> (2 weeks ago) <br/>
 <img src="https://img.shields.io/youtube/views/kJrL9e5cfkE?style=flat-square"> </img> 
 </td>
 </tr>
 <tr>
 <td><img src="https://img.youtube.com/vi/pKwRMnRbWww/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=pKwRMnRbWww">React : Composants Serveur vs SSR</a> (3 weeks ago) <br/>
+<a href="https://www.youtube.com/watch?v=pKwRMnRbWww">React : Composants Serveur vs SSR</a> (4 weeks ago) <br/>
 <img src="https://img.shields.io/youtube/views/pKwRMnRbWww?style=flat-square"> </img> 
 </td>
 </tr>
@@ -139,7 +139,7 @@
 - [Kodaps/nextjs-fullstack](https://github.com/Kodaps/nextjs-fullstack) -  (7 months ago)
 - [Kodaps/okr-app](https://github.com/Kodaps/okr-app) - OKR app (7 months ago)
 - [Kodaps/t3-cross-app](https://github.com/Kodaps/t3-cross-app) - T3 (Next &#43; RN) base app  (8 months ago)
-- [Kodaps/js-first-steps](https://github.com/Kodaps/js-first-steps) - First steps with JS (8 months ago)
+- [Kodaps/js-first-steps](https://github.com/Kodaps/js-first-steps) - First steps with JS (9 months ago)
 - [Gosev/QwikTailwind](https://github.com/Gosev/QwikTailwind) - Test of QuickCity &#43; Tailwind template  (10 months ago)
 
 #### 🌱 My latest projects
