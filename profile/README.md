@@ -62,6 +62,13 @@
 <table>
 
 <tr>
+<td><img src="https://img.youtube.com/vi/YFFNVEL0Blw/default.jpg"></img></td>
+<td>
+<a href="https://www.youtube.com/watch?v=YFFNVEL0Blw">HTMX, l&#39;anti Framework JS (vs React)</a> (today) <br/>
+<img src="https://img.shields.io/youtube/views/YFFNVEL0Blw?style=flat-square"> </img> 
+</td>
+</tr>
+<tr>
 <td><img src="https://img.youtube.com/vi/kJrL9e5cfkE/default.jpg"></img></td>
 <td>
 <a href="https://www.youtube.com/watch?v=kJrL9e5cfkE">Containers vs VMs (pourquoi utiliser Docker)</a> (2 weeks ago) <br/>
@@ -122,13 +129,6 @@
 <td>
 <a href="https://www.youtube.com/watch?v=pcZR7vgN604">Pourquoi NestJS ?</a> (3 months ago) <br/>
 <img src="https://img.shields.io/youtube/views/pcZR7vgN604?style=flat-square"> </img> 
-</td>
-</tr>
-<tr>
-<td><img src="https://img.youtube.com/vi/Muv47j75_Cw/default.jpg"></img></td>
-<td>
-<a href="https://www.youtube.com/watch?v=Muv47j75_Cw">Pourquoi React Côté Serveur?</a> (3 months ago) <br/>
-<img src="https://img.shields.io/youtube/views/Muv47j75_Cw?style=flat-square"> </img> 
 </td>
 </tr>
 </table>
