@@ -23,7 +23,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/iTGdKpyETOc/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=iTGdKpyETOc">How to Ace a Tech Job Interview (20&#43; years of tech recruiting)</a> (4 days ago) <br/>
+<a href="https://www.youtube.com/watch?v=iTGdKpyETOc">How to Ace a Tech Job Interview (20&#43; years of tech recruiting)</a> (today) <br/>
 <img src="https://img.shields.io/youtube/views/iTGdKpyETOc?style=flat-square"> </img> 
 </td>
 </tr>
