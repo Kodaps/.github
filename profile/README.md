@@ -5,7 +5,7 @@
 
 ## 📜 🇬🇧 My recent blog posts
 
-- [5 Exciting Projects &amp; Tools to Discover in 2023](https://gosev.medium.com/5-exciting-projects-tools-to-discover-in-2023-d5b6f5886740?source=rss-e68daed69805------2) (8 months ago)
+- [5 Exciting Projects &amp; Tools to Discover in 2023](https://gosev.medium.com/5-exciting-projects-tools-to-discover-in-2023-d5b6f5886740?source=rss-e68daed69805------2) (9 months ago)
 - [The 7 JavaScript Skills You Need for React](https://javascript.plainenglish.io/the-7-javascript-skills-you-need-for-react-9244169ca80a?source=rss-e68daed69805------2) (1 year ago)
 - [What are JavaScript Promises &amp; How to Use Them](https://javascript.plainenglish.io/what-are-javascript-promises-how-to-use-them-84fdff5757b9?source=rss-e68daed69805------2) (1 year ago)
 - [What is 42, the School With No Teachers?](https://levelup.gitconnected.com/what-is-42-the-school-with-no-teachers-7e4d0f9a80c1?source=rss-e68daed69805------2) (1 year ago)
@@ -23,7 +23,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/iTGdKpyETOc/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=iTGdKpyETOc">5 Tech Job Interview Tips (20&#43; years of tech recruiting)</a> (1 day ago) <br/>
+<a href="https://www.youtube.com/watch?v=iTGdKpyETOc">5 Tech Job Interview Tips (20&#43; years of tech recruiting)</a> (2 days ago) <br/>
 <img src="https://img.shields.io/youtube/views/iTGdKpyETOc?style=flat-square"> </img> 
 </td>
 </tr>
@@ -37,7 +37,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/-ptq9HCrI_U/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=-ptq9HCrI_U">HTMX, the anti JS framework (vs React)</a> (2 weeks ago) <br/>
+<a href="https://www.youtube.com/watch?v=-ptq9HCrI_U">HTMX, the anti JS framework (vs React)</a> (3 weeks ago) <br/>
 <img src="https://img.shields.io/youtube/views/-ptq9HCrI_U?style=flat-square"> </img> 
 </td>
 </tr>
@@ -64,7 +64,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/YFFNVEL0Blw/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=YFFNVEL0Blw">HTMX, l&#39;anti Framework JS (vs React)</a> (1 day ago) <br/>
+<a href="https://www.youtube.com/watch?v=YFFNVEL0Blw">HTMX, l&#39;anti Framework JS (vs React)</a> (2 days ago) <br/>
 <img src="https://img.shields.io/youtube/views/YFFNVEL0Blw?style=flat-square"> </img> 
 </td>
 </tr>
@@ -78,7 +78,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/pKwRMnRbWww/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=pKwRMnRbWww">React : Composants Serveur vs SSR</a> (4 weeks ago) <br/>
+<a href="https://www.youtube.com/watch?v=pKwRMnRbWww">React : Composants Serveur vs SSR</a> (1 month ago) <br/>
 <img src="https://img.shields.io/youtube/views/pKwRMnRbWww?style=flat-square"> </img> 
 </td>
 </tr>
