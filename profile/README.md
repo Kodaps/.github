@@ -64,7 +64,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/V20SdIRJQzs/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=V20SdIRJQzs">Les Runes: Quel Avenir Pour Svelte ?</a> (today) <br/>
+<a href="https://www.youtube.com/watch?v=V20SdIRJQzs">Runes: La Solution au “Problème Magique” de Svelte ?</a> (today) <br/>
 <img src="https://img.shields.io/youtube/views/V20SdIRJQzs?style=flat-square"> </img> 
 </td>
 </tr>
