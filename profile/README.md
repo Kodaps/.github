@@ -21,6 +21,13 @@
 <table>
 
 <tr>
+<td><img src="https://img.youtube.com/vi/LjIe4w_-vzk/default.jpg"></img></td>
+<td>
+<a href="https://www.youtube.com/watch?v=LjIe4w_-vzk">Go vs Rust which to learn in 2024</a> (today) <br/>
+<img src="https://img.shields.io/youtube/views/LjIe4w_-vzk?style=flat-square"> </img> 
+</td>
+</tr>
+<tr>
 <td><img src="https://img.youtube.com/vi/iTGdKpyETOc/default.jpg"></img></td>
 <td>
 <a href="https://www.youtube.com/watch?v=iTGdKpyETOc">5 Tech Job Interview Tips (20&#43; years of tech recruiting)</a> (1 week ago) <br/>
@@ -48,19 +55,19 @@
 <img src="https://img.shields.io/youtube/views/QwRD_z5STko?style=flat-square"> </img> 
 </td>
 </tr>
-<tr>
-<td><img src="https://img.youtube.com/vi/jEJEFAc8tSI/default.jpg"></img></td>
-<td>
-<a href="https://www.youtube.com/watch?v=jEJEFAc8tSI">React:  Server Components vs SSR</a> (1 month ago) <br/>
-<img src="https://img.shields.io/youtube/views/jEJEFAc8tSI?style=flat-square"> </img> 
-</td>
-</tr>
 </table>
 
 ## 📜 🇫🇷 My recent French videos
 <img src="https://img.shields.io/youtube/channel/subscribers/UCzdX32OIhpfrdxQRhN2s98w?style=for-the-badge"></img>
 <table>
 
+<tr>
+<td><img src="https://img.youtube.com/vi/V20SdIRJQzs/default.jpg"></img></td>
+<td>
+<a href="https://www.youtube.com/watch?v=V20SdIRJQzs">Les Runes: Quel avenir pour Svelte ?</a> (today) <br/>
+<img src="https://img.shields.io/youtube/views/V20SdIRJQzs?style=flat-square"> </img> 
+</td>
+</tr>
 <tr>
 <td><img src="https://img.youtube.com/vi/YFFNVEL0Blw/default.jpg"></img></td>
 <td>
@@ -122,13 +129,6 @@
 <td>
 <a href="https://www.youtube.com/watch?v=zED1-b3UJE8">Comment faire la veille techno, en tant que dev ?</a> (3 months ago) <br/>
 <img src="https://img.shields.io/youtube/views/zED1-b3UJE8?style=flat-square"> </img> 
-</td>
-</tr>
-<tr>
-<td><img src="https://img.youtube.com/vi/pcZR7vgN604/default.jpg"></img></td>
-<td>
-<a href="https://www.youtube.com/watch?v=pcZR7vgN604">Pourquoi NestJS ?</a> (3 months ago) <br/>
-<img src="https://img.shields.io/youtube/views/pcZR7vgN604?style=flat-square"> </img> 
 </td>
 </tr>
 </table>
