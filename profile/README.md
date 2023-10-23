@@ -23,14 +23,14 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/iTGdKpyETOc/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=iTGdKpyETOc">5 Tech Job Interview Tips (20&#43; years of tech recruiting)</a> (6 days ago) <br/>
+<a href="https://www.youtube.com/watch?v=iTGdKpyETOc">5 Tech Job Interview Tips (20&#43; years of tech recruiting)</a> (1 week ago) <br/>
 <img src="https://img.shields.io/youtube/views/iTGdKpyETOc?style=flat-square"> </img> 
 </td>
 </tr>
 <tr>
 <td><img src="https://img.youtube.com/vi/VQuS8Lr6j2k/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=VQuS8Lr6j2k">Runes: The Solution to Svelte&#39;s Magic Problem?</a> (1 week ago) <br/>
+<a href="https://www.youtube.com/watch?v=VQuS8Lr6j2k">Runes: The Solution to Svelte&#39;s Magic Problem?</a> (2 weeks ago) <br/>
 <img src="https://img.shields.io/youtube/views/VQuS8Lr6j2k?style=flat-square"> </img> 
 </td>
 </tr>
@@ -64,14 +64,14 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/YFFNVEL0Blw/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=YFFNVEL0Blw">HTMX, l&#39;anti Framework JS (vs React)</a> (6 days ago) <br/>
+<a href="https://www.youtube.com/watch?v=YFFNVEL0Blw">HTMX, l&#39;anti Framework JS (vs React)</a> (1 week ago) <br/>
 <img src="https://img.shields.io/youtube/views/YFFNVEL0Blw?style=flat-square"> </img> 
 </td>
 </tr>
 <tr>
 <td><img src="https://img.youtube.com/vi/kJrL9e5cfkE/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=kJrL9e5cfkE">Containers vs VMs (pourquoi utiliser Docker)</a> (2 weeks ago) <br/>
+<a href="https://www.youtube.com/watch?v=kJrL9e5cfkE">Containers vs VMs (pourquoi utiliser Docker)</a> (3 weeks ago) <br/>
 <img src="https://img.shields.io/youtube/views/kJrL9e5cfkE?style=flat-square"> </img> 
 </td>
 </tr>
