@@ -23,7 +23,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/LjIe4w_-vzk/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=LjIe4w_-vzk">Go vs Rust: Which To Learn In 2024?</a> (1 day ago) <br/>
+<a href="https://www.youtube.com/watch?v=LjIe4w_-vzk">Go vs Rust: Which To Learn In 2024?</a> (2 days ago) <br/>
 <img src="https://img.shields.io/youtube/views/LjIe4w_-vzk?style=flat-square"> </img> 
 </td>
 </tr>
@@ -44,7 +44,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/-ptq9HCrI_U/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=-ptq9HCrI_U">HTMX, the anti JS framework (vs React)</a> (3 weeks ago) <br/>
+<a href="https://www.youtube.com/watch?v=-ptq9HCrI_U">HTMX, the anti JS framework (vs React)</a> (4 weeks ago) <br/>
 <img src="https://img.shields.io/youtube/views/-ptq9HCrI_U?style=flat-square"> </img> 
 </td>
 </tr>
@@ -64,7 +64,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/V20SdIRJQzs/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=V20SdIRJQzs">Runes: La Solution au “Problème Magique” de Svelte ?</a> (1 day ago) <br/>
+<a href="https://www.youtube.com/watch?v=V20SdIRJQzs">Runes: La Solution au “Problème Magique” de Svelte ?</a> (2 days ago) <br/>
 <img src="https://img.shields.io/youtube/views/V20SdIRJQzs?style=flat-square"> </img> 
 </td>
 </tr>
@@ -136,7 +136,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [Gosev/codecrafters-redis-go](https://github.com/Gosev/codecrafters-redis-go) -  (2 months ago)
-- [Kodaps/nextjs-fullstack](https://github.com/Kodaps/nextjs-fullstack) -  (7 months ago)
+- [Kodaps/nextjs-fullstack](https://github.com/Kodaps/nextjs-fullstack) -  (8 months ago)
 - [Kodaps/okr-app](https://github.com/Kodaps/okr-app) - OKR app (8 months ago)
 - [Kodaps/t3-cross-app](https://github.com/Kodaps/t3-cross-app) - T3 (Next &#43; RN) base app  (8 months ago)
 - [Kodaps/js-first-steps](https://github.com/Kodaps/js-first-steps) - First steps with JS (9 months ago)
@@ -161,7 +161,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Update instructions.md to specify the error](https://github.com/exercism/lua/pull/388) on [exercism/lua](https://github.com/exercism/lua) (1 month ago)
+- [Update instructions.md to specify the error](https://github.com/exercism/lua/pull/388) on [exercism/lua](https://github.com/exercism/lua) (2 months ago)
 
 
 #### 📓 Gists I wrote
