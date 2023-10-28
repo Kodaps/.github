@@ -23,7 +23,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/LjIe4w_-vzk/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=LjIe4w_-vzk">Go vs Rust: Which To Learn In 2024?</a> (4 days ago) <br/>
+<a href="https://www.youtube.com/watch?v=LjIe4w_-vzk">Go vs Rust: Which To Learn In 2024?</a> (5 days ago) <br/>
 <img src="https://img.shields.io/youtube/views/LjIe4w_-vzk?style=flat-square"> </img> 
 </td>
 </tr>
@@ -64,7 +64,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/V20SdIRJQzs/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=V20SdIRJQzs">Runes: La Solution au “Problème Magique” de Svelte ?</a> (4 days ago) <br/>
+<a href="https://www.youtube.com/watch?v=V20SdIRJQzs">Runes: La Solution au “Problème Magique” de Svelte ?</a> (5 days ago) <br/>
 <img src="https://img.shields.io/youtube/views/V20SdIRJQzs?style=flat-square"> </img> 
 </td>
 </tr>
