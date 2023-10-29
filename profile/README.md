@@ -62,9 +62,16 @@
 <table>
 
 <tr>
+<td><img src="https://img.youtube.com/vi/9KCkPo42mto/default.jpg"></img></td>
+<td>
+<a href="https://www.youtube.com/watch?v=9KCkPo42mto">Next JS Conf &amp; Next 14: 3 Points Clefs</a> (today) <br/>
+<img src="https://img.shields.io/youtube/views/9KCkPo42mto?style=flat-square"> </img> 
+</td>
+</tr>
+<tr>
 <td><img src="https://img.youtube.com/vi/V20SdIRJQzs/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=V20SdIRJQzs">Runes: La Solution au “Problème Magique” de Svelte ?</a> (6 days ago) <br/>
+<a href="https://www.youtube.com/watch?v=V20SdIRJQzs">Les Runes &amp; la Magie de  Svelte 5</a> (6 days ago) <br/>
 <img src="https://img.shields.io/youtube/views/V20SdIRJQzs?style=flat-square"> </img> 
 </td>
 </tr>
@@ -122,13 +129,6 @@
 <td>
 <a href="https://www.youtube.com/watch?v=3v2asgR4H6M">3 Idées Reçues du Développement Logiciel</a> (2 months ago) <br/>
 <img src="https://img.shields.io/youtube/views/3v2asgR4H6M?style=flat-square"> </img> 
-</td>
-</tr>
-<tr>
-<td><img src="https://img.youtube.com/vi/zED1-b3UJE8/default.jpg"></img></td>
-<td>
-<a href="https://www.youtube.com/watch?v=zED1-b3UJE8">Comment faire la veille techno, en tant que dev ?</a> (3 months ago) <br/>
-<img src="https://img.shields.io/youtube/views/zED1-b3UJE8?style=flat-square"> </img> 
 </td>
 </tr>
 </table>
