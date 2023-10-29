@@ -23,7 +23,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/LjIe4w_-vzk/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=LjIe4w_-vzk">Go vs Rust: Which To Learn In 2024?</a> (5 days ago) <br/>
+<a href="https://www.youtube.com/watch?v=LjIe4w_-vzk">Go vs Rust: Which To Learn In 2024?</a> (6 days ago) <br/>
 <img src="https://img.shields.io/youtube/views/LjIe4w_-vzk?style=flat-square"> </img> 
 </td>
 </tr>
@@ -64,7 +64,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/V20SdIRJQzs/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=V20SdIRJQzs">Runes: La Solution au “Problème Magique” de Svelte ?</a> (5 days ago) <br/>
+<a href="https://www.youtube.com/watch?v=V20SdIRJQzs">Runes: La Solution au “Problème Magique” de Svelte ?</a> (6 days ago) <br/>
 <img src="https://img.shields.io/youtube/views/V20SdIRJQzs?style=flat-square"> </img> 
 </td>
 </tr>
@@ -140,7 +140,7 @@
 - [Kodaps/okr-app](https://github.com/Kodaps/okr-app) - OKR app (8 months ago)
 - [Kodaps/t3-cross-app](https://github.com/Kodaps/t3-cross-app) - T3 (Next &#43; RN) base app  (8 months ago)
 - [Kodaps/js-first-steps](https://github.com/Kodaps/js-first-steps) - First steps with JS (9 months ago)
-- [Gosev/QwikTailwind](https://github.com/Gosev/QwikTailwind) - Test of QuickCity &#43; Tailwind template  (10 months ago)
+- [Gosev/QwikTailwind](https://github.com/Gosev/QwikTailwind) - Test of QuickCity &#43; Tailwind template  (11 months ago)
 
 #### 🌱 My latest projects
 
