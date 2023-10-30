@@ -23,7 +23,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/JAaLpOmHk0I/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=JAaLpOmHk0I">Next JS Conf : Next 14 &amp; 3 Key Takeways</a> (1 day ago) <br/>
+<a href="https://www.youtube.com/watch?v=JAaLpOmHk0I">Next JS Conf : Next 14 &amp; 3 Key Takeways</a> (today) <br/>
 <img src="https://img.shields.io/youtube/views/JAaLpOmHk0I?style=flat-square"> </img> 
 </td>
 </tr>
