@@ -135,6 +135,7 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [Kodaps/nextjs-learn](https://github.com/Kodaps/nextjs-learn) -  (today)
 - [Gosev/codecrafters-redis-go](https://github.com/Gosev/codecrafters-redis-go) -  (2 months ago)
 - [Kodaps/nextjs-fullstack](https://github.com/Kodaps/nextjs-fullstack) -  (8 months ago)
 - [Kodaps/okr-app](https://github.com/Kodaps/okr-app) - OKR app (8 months ago)
