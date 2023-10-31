@@ -23,7 +23,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/JAaLpOmHk0I/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=JAaLpOmHk0I">Next JS Conf : Next 14 &amp; 3 Key Takeways</a> (today) <br/>
+<a href="https://www.youtube.com/watch?v=JAaLpOmHk0I">Next JS Conf : Next 14 &amp; 3 Key Takeways</a> (1 day ago) <br/>
 <img src="https://img.shields.io/youtube/views/JAaLpOmHk0I?style=flat-square"> </img> 
 </td>
 </tr>
@@ -64,7 +64,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/9KCkPo42mto/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=9KCkPo42mto">Next JS Conf &amp; Next 14: 3 Points Clefs</a> (today) <br/>
+<a href="https://www.youtube.com/watch?v=9KCkPo42mto">Next JS Conf &amp; Next 14: 3 Points Clefs</a> (1 day ago) <br/>
 <img src="https://img.shields.io/youtube/views/9KCkPo42mto?style=flat-square"> </img> 
 </td>
 </tr>
@@ -135,11 +135,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Kodaps/nextjs-learn](https://github.com/Kodaps/nextjs-learn) -  (today)
+- [Kodaps/nextjs-learn](https://github.com/Kodaps/nextjs-learn) -  (1 day ago)
 - [Gosev/codecrafters-redis-go](https://github.com/Gosev/codecrafters-redis-go) -  (2 months ago)
 - [Kodaps/nextjs-fullstack](https://github.com/Kodaps/nextjs-fullstack) -  (8 months ago)
 - [Kodaps/okr-app](https://github.com/Kodaps/okr-app) - OKR app (8 months ago)
-- [Kodaps/t3-cross-app](https://github.com/Kodaps/t3-cross-app) - T3 (Next &#43; RN) base app  (8 months ago)
+- [Kodaps/t3-cross-app](https://github.com/Kodaps/t3-cross-app) - T3 (Next &#43; RN) base app  (9 months ago)
 - [Kodaps/js-first-steps](https://github.com/Kodaps/js-first-steps) - First steps with JS (9 months ago)
 - [Gosev/QwikTailwind](https://github.com/Gosev/QwikTailwind) - Test of QuickCity &#43; Tailwind template  (11 months ago)
 
@@ -174,7 +174,7 @@
 
 #### ⭐ Recent Stars
 
-- [opentofu/manifesto](https://github.com/opentofu/manifesto) - The OpenTF Manifesto expresses concern over HashiCorp&#39;s switch of the Terraform license from open-source to the Business Source License (BSL) and calls for the tool&#39;s return to a truly open-source license. (1 month ago)
+- [opentofu/manifesto](https://github.com/opentofu/manifesto) - The OpenTF Manifesto expresses concern over HashiCorp&#39;s switch of the Terraform license from open-source to the Business Source License (BSL) and calls for the tool&#39;s return to a truly open-source license. (2 months ago)
 - [onwidget/astrowind](https://github.com/onwidget/astrowind) - ⭕️ AstroWind: A free template using Astro 3.0 and Tailwind CSS. Astro starter theme. (1 year ago)
 - [coronalabs/CoronaViewer](https://github.com/coronalabs/CoronaViewer) - CoronaViewer for SDK/Enterprise (9 years ago)
 - [Gosev/Jump](https://github.com/Gosev/Jump) - Jump website (11 years ago)
