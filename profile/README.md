@@ -23,28 +23,28 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/JAaLpOmHk0I/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=JAaLpOmHk0I">Next JS Conf : Next 14 &amp; 3 Key Takeways</a> (6 days ago) <br/>
+<a href="https://www.youtube.com/watch?v=JAaLpOmHk0I">Next JS Conf : Next 14 &amp; 3 Key Takeways</a> (1 week ago) <br/>
 <img src="https://img.shields.io/youtube/views/JAaLpOmHk0I?style=flat-square"> </img> 
 </td>
 </tr>
 <tr>
 <td><img src="https://img.youtube.com/vi/LjIe4w_-vzk/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=LjIe4w_-vzk">Go vs Rust: Which To Learn In 2024?</a> (1 week ago) <br/>
+<a href="https://www.youtube.com/watch?v=LjIe4w_-vzk">Go vs Rust: Which To Learn In 2024?</a> (2 weeks ago) <br/>
 <img src="https://img.shields.io/youtube/views/LjIe4w_-vzk?style=flat-square"> </img> 
 </td>
 </tr>
 <tr>
 <td><img src="https://img.youtube.com/vi/iTGdKpyETOc/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=iTGdKpyETOc">5 Tech Job Interview Tips (20&#43; years of tech recruiting)</a> (2 weeks ago) <br/>
+<a href="https://www.youtube.com/watch?v=iTGdKpyETOc">5 Tech Job Interview Tips (20&#43; years of tech recruiting)</a> (3 weeks ago) <br/>
 <img src="https://img.shields.io/youtube/views/iTGdKpyETOc?style=flat-square"> </img> 
 </td>
 </tr>
 <tr>
 <td><img src="https://img.youtube.com/vi/VQuS8Lr6j2k/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=VQuS8Lr6j2k">Runes: The Solution to Svelte&#39;s Magic Problem?</a> (3 weeks ago) <br/>
+<a href="https://www.youtube.com/watch?v=VQuS8Lr6j2k">Runes: The Solution to Svelte&#39;s Magic Problem?</a> (4 weeks ago) <br/>
 <img src="https://img.shields.io/youtube/views/VQuS8Lr6j2k?style=flat-square"> </img> 
 </td>
 </tr>
@@ -64,21 +64,21 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/9KCkPo42mto/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=9KCkPo42mto">Next JS Conf &amp; Next 14: 3 Points Clefs</a> (6 days ago) <br/>
+<a href="https://www.youtube.com/watch?v=9KCkPo42mto">Next JS Conf &amp; Next 14: 3 Points Clefs</a> (1 week ago) <br/>
 <img src="https://img.shields.io/youtube/views/9KCkPo42mto?style=flat-square"> </img> 
 </td>
 </tr>
 <tr>
 <td><img src="https://img.youtube.com/vi/V20SdIRJQzs/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=V20SdIRJQzs">Les Runes &amp; la Magie de  Svelte 5</a> (1 week ago) <br/>
+<a href="https://www.youtube.com/watch?v=V20SdIRJQzs">Les Runes &amp; la Magie de  Svelte 5</a> (2 weeks ago) <br/>
 <img src="https://img.shields.io/youtube/views/V20SdIRJQzs?style=flat-square"> </img> 
 </td>
 </tr>
 <tr>
 <td><img src="https://img.youtube.com/vi/YFFNVEL0Blw/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=YFFNVEL0Blw">HTMX, l&#39;anti Framework JS (vs React)</a> (2 weeks ago) <br/>
+<a href="https://www.youtube.com/watch?v=YFFNVEL0Blw">HTMX, l&#39;anti Framework JS (vs React)</a> (3 weeks ago) <br/>
 <img src="https://img.shields.io/youtube/views/YFFNVEL0Blw?style=flat-square"> </img> 
 </td>
 </tr>
@@ -135,7 +135,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Kodaps/nextjs-learn](https://github.com/Kodaps/nextjs-learn) -  (6 days ago)
+- [Kodaps/nextjs-learn](https://github.com/Kodaps/nextjs-learn) -  (1 week ago)
 - [Gosev/codecrafters-redis-go](https://github.com/Gosev/codecrafters-redis-go) -  (2 months ago)
 - [Kodaps/nextjs-fullstack](https://github.com/Kodaps/nextjs-fullstack) -  (8 months ago)
 - [Kodaps/okr-app](https://github.com/Kodaps/okr-app) - OKR app (8 months ago)
