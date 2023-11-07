@@ -23,7 +23,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/zboIKTnHmPg/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=zboIKTnHmPg">Is Vercel’s Course The Best Way To Master  NextJS?</a> (today) <br/>
+<a href="https://www.youtube.com/watch?v=zboIKTnHmPg">Is Vercel’s Course The Best Way To Master  NextJS?</a> (1 day ago) <br/>
 <img src="https://img.shields.io/youtube/views/zboIKTnHmPg?style=flat-square"> </img> 
 </td>
 </tr>
