@@ -62,6 +62,13 @@
 <table>
 
 <tr>
+<td><img src="https://img.youtube.com/vi/z-XsuazXz14/default.jpg"></img></td>
+<td>
+<a href="https://www.youtube.com/watch?v=z-XsuazXz14">Next Js Learn : Que Vaut Le Tuto Officiel?</a> (today) <br/>
+<img src="https://img.shields.io/youtube/views/z-XsuazXz14?style=flat-square"> </img> 
+</td>
+</tr>
+<tr>
 <td><img src="https://img.youtube.com/vi/9KCkPo42mto/default.jpg"></img></td>
 <td>
 <a href="https://www.youtube.com/watch?v=9KCkPo42mto">Next JS Conf &amp; Next 14: 3 Points Clefs</a> (1 week ago) <br/>
@@ -122,13 +129,6 @@
 <td>
 <a href="https://www.youtube.com/watch?v=LiwvUSocvYY">Next JS Routeur App : Ce qu&#39;il faut savoir</a> (2 months ago) <br/>
 <img src="https://img.shields.io/youtube/views/LiwvUSocvYY?style=flat-square"> </img> 
-</td>
-</tr>
-<tr>
-<td><img src="https://img.youtube.com/vi/3v2asgR4H6M/default.jpg"></img></td>
-<td>
-<a href="https://www.youtube.com/watch?v=3v2asgR4H6M">3 Idées Reçues du Développement Logiciel</a> (2 months ago) <br/>
-<img src="https://img.shields.io/youtube/views/3v2asgR4H6M?style=flat-square"> </img> 
 </td>
 </tr>
 </table>
