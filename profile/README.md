@@ -23,7 +23,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/zboIKTnHmPg/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=zboIKTnHmPg">Is Vercel’s Course The Best Way To Master  NextJS?</a> (1 day ago) <br/>
+<a href="https://www.youtube.com/watch?v=zboIKTnHmPg">Is Vercel’s Course The Best Way To Master  NextJS?</a> (2 days ago) <br/>
 <img src="https://img.shields.io/youtube/views/zboIKTnHmPg?style=flat-square"> </img> 
 </td>
 </tr>
@@ -51,7 +51,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/VQuS8Lr6j2k/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=VQuS8Lr6j2k">Runes: The Solution to Svelte&#39;s Magic Problem?</a> (4 weeks ago) <br/>
+<a href="https://www.youtube.com/watch?v=VQuS8Lr6j2k">Runes: The Solution to Svelte&#39;s Magic Problem?</a> (1 month ago) <br/>
 <img src="https://img.shields.io/youtube/views/VQuS8Lr6j2k?style=flat-square"> </img> 
 </td>
 </tr>
@@ -64,7 +64,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/z-XsuazXz14/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=z-XsuazXz14">Next Js Learn : Que Vaut Le Tuto Officiel?</a> (today) <br/>
+<a href="https://www.youtube.com/watch?v=z-XsuazXz14">Next Js Learn : Que Vaut Le Tuto Officiel?</a> (1 day ago) <br/>
 <img src="https://img.shields.io/youtube/views/z-XsuazXz14?style=flat-square"> </img> 
 </td>
 </tr>
