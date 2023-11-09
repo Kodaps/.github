@@ -23,7 +23,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/zboIKTnHmPg/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=zboIKTnHmPg">Is Vercel’s Course The Best Way To Master  NextJS?</a> (2 days ago) <br/>
+<a href="https://www.youtube.com/watch?v=zboIKTnHmPg">Is Vercel’s Course The Best Way To Master  NextJS?</a> (3 days ago) <br/>
 <img src="https://img.shields.io/youtube/views/zboIKTnHmPg?style=flat-square"> </img> 
 </td>
 </tr>
@@ -64,7 +64,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/z-XsuazXz14/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=z-XsuazXz14">Next Js Learn : Que Vaut Le Tuto Officiel?</a> (1 day ago) <br/>
+<a href="https://www.youtube.com/watch?v=z-XsuazXz14">Next Js Learn : Que Vaut Le Tuto Officiel?</a> (2 days ago) <br/>
 <img src="https://img.shields.io/youtube/views/z-XsuazXz14?style=flat-square"> </img> 
 </td>
 </tr>
