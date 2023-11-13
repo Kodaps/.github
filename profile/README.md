@@ -64,7 +64,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/ySF903Ht0kM/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=ySF903Ht0kM">Go vs Rust lequel aaprendre en 2024</a> (1 day ago) <br/>
+<a href="https://www.youtube.com/watch?v=ySF903Ht0kM">Go vs Rust lequel aaprendre en 2024</a> (today) <br/>
 <img src="https://img.shields.io/youtube/views/ySF903Ht0kM?style=flat-square"> </img> 
 </td>
 </tr>
