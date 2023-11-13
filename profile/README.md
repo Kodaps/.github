@@ -62,6 +62,13 @@
 <table>
 
 <tr>
+<td><img src="https://img.youtube.com/vi/ySF903Ht0kM/default.jpg"></img></td>
+<td>
+<a href="https://www.youtube.com/watch?v=ySF903Ht0kM">Go vs Rust lequel aaprendre en 2024</a> (1 day ago) <br/>
+<img src="https://img.shields.io/youtube/views/ySF903Ht0kM?style=flat-square"> </img> 
+</td>
+</tr>
+<tr>
 <td><img src="https://img.youtube.com/vi/z-XsuazXz14/default.jpg"></img></td>
 <td>
 <a href="https://www.youtube.com/watch?v=z-XsuazXz14">Next Js Learn : Que Vaut Le Tuto Officiel?</a> (6 days ago) <br/>
@@ -122,13 +129,6 @@
 <td>
 <a href="https://www.youtube.com/watch?v=QeascD-piHA">NextJS App : SEO, Sitemap, Metadata...</a> (2 months ago) <br/>
 <img src="https://img.shields.io/youtube/views/QeascD-piHA?style=flat-square"> </img> 
-</td>
-</tr>
-<tr>
-<td><img src="https://img.youtube.com/vi/LiwvUSocvYY/default.jpg"></img></td>
-<td>
-<a href="https://www.youtube.com/watch?v=LiwvUSocvYY">Next JS Routeur App : Ce qu&#39;il faut savoir</a> (2 months ago) <br/>
-<img src="https://img.shields.io/youtube/views/LiwvUSocvYY?style=flat-square"> </img> 
 </td>
 </tr>
 </table>
