@@ -5,7 +5,7 @@
 
 ## 📜 🇬🇧 My recent blog posts
 
-- [5 Exciting Projects &amp; Tools to Discover in 2023](https://gosev.medium.com/5-exciting-projects-tools-to-discover-in-2023-d5b6f5886740?source=rss-e68daed69805------2) (9 months ago)
+- [5 Exciting Projects &amp; Tools to Discover in 2023](https://gosev.medium.com/5-exciting-projects-tools-to-discover-in-2023-d5b6f5886740?source=rss-e68daed69805------2) (10 months ago)
 - [The 7 JavaScript Skills You Need for React](https://javascript.plainenglish.io/the-7-javascript-skills-you-need-for-react-9244169ca80a?source=rss-e68daed69805------2) (1 year ago)
 - [What are JavaScript Promises &amp; How to Use Them](https://javascript.plainenglish.io/what-are-javascript-promises-how-to-use-them-84fdff5757b9?source=rss-e68daed69805------2) (1 year ago)
 - [What is 42, the School With No Teachers?](https://levelup.gitconnected.com/what-is-42-the-school-with-no-teachers-7e4d0f9a80c1?source=rss-e68daed69805------2) (1 year ago)
@@ -23,7 +23,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/Yla__s2eF8s/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=Yla__s2eF8s">This Tool Makes Markdown GLOW Up!</a> (1 day ago) <br/>
+<a href="https://www.youtube.com/watch?v=Yla__s2eF8s">This Tool Makes Markdown GLOW Up!</a> (2 days ago) <br/>
 <img src="https://img.shields.io/youtube/views/Yla__s2eF8s?style=flat-square"> </img> 
 </td>
 </tr>
@@ -64,7 +64,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/ySF903Ht0kM/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=ySF903Ht0kM">Go vs Rust lequel apprendre en 2024 ?</a> (3 days ago) <br/>
+<a href="https://www.youtube.com/watch?v=ySF903Ht0kM">Go vs Rust lequel apprendre en 2024 ?</a> (4 days ago) <br/>
 <img src="https://img.shields.io/youtube/views/ySF903Ht0kM?style=flat-square"> </img> 
 </td>
 </tr>
@@ -106,7 +106,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/pKwRMnRbWww/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=pKwRMnRbWww">React : Composants Serveur vs SSR</a> (1 month ago) <br/>
+<a href="https://www.youtube.com/watch?v=pKwRMnRbWww">React : Composants Serveur vs SSR</a> (2 months ago) <br/>
 <img src="https://img.shields.io/youtube/views/pKwRMnRbWww?style=flat-square"> </img> 
 </td>
 </tr>
