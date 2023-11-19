@@ -23,7 +23,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/Yla__s2eF8s/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=Yla__s2eF8s">This Tool Makes Markdown GLOW Up!</a> (3 days ago) <br/>
+<a href="https://www.youtube.com/watch?v=Yla__s2eF8s">This Tool Makes Markdown GLOW Up!</a> (4 days ago) <br/>
 <img src="https://img.shields.io/youtube/views/Yla__s2eF8s?style=flat-square"> </img> 
 </td>
 </tr>
@@ -64,7 +64,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/ySF903Ht0kM/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=ySF903Ht0kM">Go vs Rust lequel apprendre en 2024 ?</a> (5 days ago) <br/>
+<a href="https://www.youtube.com/watch?v=ySF903Ht0kM">Go vs Rust lequel apprendre en 2024 ?</a> (6 days ago) <br/>
 <img src="https://img.shields.io/youtube/views/ySF903Ht0kM?style=flat-square"> </img> 
 </td>
 </tr>
