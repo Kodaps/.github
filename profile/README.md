@@ -23,7 +23,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/Yla__s2eF8s/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=Yla__s2eF8s">This Tool Makes Markdown GLOW Up!</a> (6 days ago) <br/>
+<a href="https://www.youtube.com/watch?v=Yla__s2eF8s">This Tool Makes Markdown GLOW Up!</a> (1 week ago) <br/>
 <img src="https://img.shields.io/youtube/views/Yla__s2eF8s?style=flat-square"> </img> 
 </td>
 </tr>
@@ -44,7 +44,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/LjIe4w_-vzk/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=LjIe4w_-vzk">Go vs Rust: Which To Learn In 2024?</a> (4 weeks ago) <br/>
+<a href="https://www.youtube.com/watch?v=LjIe4w_-vzk">Go vs Rust: Which To Learn In 2024?</a> (1 month ago) <br/>
 <img src="https://img.shields.io/youtube/views/LjIe4w_-vzk?style=flat-square"> </img> 
 </td>
 </tr>
@@ -85,7 +85,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/V20SdIRJQzs/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=V20SdIRJQzs">Les Runes de Svelte 5</a> (4 weeks ago) <br/>
+<a href="https://www.youtube.com/watch?v=V20SdIRJQzs">Les Runes de Svelte 5</a> (1 month ago) <br/>
 <img src="https://img.shields.io/youtube/views/V20SdIRJQzs?style=flat-square"> </img> 
 </td>
 </tr>
@@ -135,7 +135,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Kodaps/notion-parse](https://github.com/Kodaps/notion-parse) - An NPM module for downloading and Notion content and saving it as Markdown for NextJS (today)
+- [Kodaps/notion-parse](https://github.com/Kodaps/notion-parse) - An NPM module for downloading and Notion content and saving it as Markdown for NextJS (1 day ago)
 - [Kodaps/nextjs-learn](https://github.com/Kodaps/nextjs-learn) -  (3 weeks ago)
 - [Gosev/codecrafters-redis-go](https://github.com/Gosev/codecrafters-redis-go) -  (3 months ago)
 - [Kodaps/nextjs-fullstack](https://github.com/Kodaps/nextjs-fullstack) -  (8 months ago)
@@ -160,7 +160,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [Kodaps/notion-parse](https://github.com/Kodaps/notion-parse) ([0.0.8](https://github.com/Kodaps/notion-parse/releases/tag/0.0.8), today) - An NPM module for downloading and Notion content and saving it as Markdown for NextJS
+- [Kodaps/notion-parse](https://github.com/Kodaps/notion-parse) ([0.0.8](https://github.com/Kodaps/notion-parse/releases/tag/0.0.8), 1 day ago) - An NPM module for downloading and Notion content and saving it as Markdown for NextJS
 
 #### 🔨 My recent Pull Requests
 
