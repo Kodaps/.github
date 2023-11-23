@@ -21,6 +21,13 @@
 <table>
 
 <tr>
+<td><img src="https://img.youtube.com/vi/i9-qtkYM4ZM/default.jpg"></img></td>
+<td>
+<a href="https://www.youtube.com/watch?v=i9-qtkYM4ZM">How I Use Notion as a CMS (with Next JS)</a> (today) <br/>
+<img src="https://img.shields.io/youtube/views/i9-qtkYM4ZM?style=flat-square"> </img> 
+</td>
+</tr>
+<tr>
 <td><img src="https://img.youtube.com/vi/Yla__s2eF8s/default.jpg"></img></td>
 <td>
 <a href="https://www.youtube.com/watch?v=Yla__s2eF8s">This Tool Makes Markdown GLOW Up!</a> (1 week ago) <br/>
@@ -48,19 +55,19 @@
 <img src="https://img.shields.io/youtube/views/LjIe4w_-vzk?style=flat-square"> </img> 
 </td>
 </tr>
-<tr>
-<td><img src="https://img.youtube.com/vi/iTGdKpyETOc/default.jpg"></img></td>
-<td>
-<a href="https://www.youtube.com/watch?v=iTGdKpyETOc">5 Tech Job Interview Tips (20&#43; years of tech recruiting)</a> (1 month ago) <br/>
-<img src="https://img.shields.io/youtube/views/iTGdKpyETOc?style=flat-square"> </img> 
-</td>
-</tr>
 </table>
 
 ## 📜 🇫🇷 My recent French videos
 <img src="https://img.shields.io/youtube/channel/subscribers/UCzdX32OIhpfrdxQRhN2s98w?style=for-the-badge"></img>
 <table>
 
+<tr>
+<td><img src="https://img.youtube.com/vi/A7SLY_bOVeA/default.jpg"></img></td>
+<td>
+<a href="https://www.youtube.com/watch?v=A7SLY_bOVeA">Cet Outil REVOLUTIONNE Markdown!</a> (today) <br/>
+<img src="https://img.shields.io/youtube/views/A7SLY_bOVeA?style=flat-square"> </img> 
+</td>
+</tr>
 <tr>
 <td><img src="https://img.youtube.com/vi/ySF903Ht0kM/default.jpg"></img></td>
 <td>
@@ -122,13 +129,6 @@
 <td>
 <a href="https://www.youtube.com/watch?v=zrpZjIiSS5k">NextJS Routeur App : Traduction / i18n</a> (3 months ago) <br/>
 <img src="https://img.shields.io/youtube/views/zrpZjIiSS5k?style=flat-square"> </img> 
-</td>
-</tr>
-<tr>
-<td><img src="https://img.youtube.com/vi/QeascD-piHA/default.jpg"></img></td>
-<td>
-<a href="https://www.youtube.com/watch?v=QeascD-piHA">NextJS App : SEO, Sitemap, Metadata...</a> (3 months ago) <br/>
-<img src="https://img.shields.io/youtube/views/QeascD-piHA?style=flat-square"> </img> 
 </td>
 </tr>
 </table>
