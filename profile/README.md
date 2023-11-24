@@ -23,7 +23,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/i9-qtkYM4ZM/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=i9-qtkYM4ZM">How I Use Notion as a CMS (with Next JS)</a> (today) <br/>
+<a href="https://www.youtube.com/watch?v=i9-qtkYM4ZM">How I Use Notion as a CMS (with Next JS)</a> (1 day ago) <br/>
 <img src="https://img.shields.io/youtube/views/i9-qtkYM4ZM?style=flat-square"> </img> 
 </td>
 </tr>
@@ -64,7 +64,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/A7SLY_bOVeA/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=A7SLY_bOVeA">Cet Outil REVOLUTIONNE Markdown!</a> (today) <br/>
+<a href="https://www.youtube.com/watch?v=A7SLY_bOVeA">Cet Outil REVOLUTIONNE Markdown!</a> (1 day ago) <br/>
 <img src="https://img.shields.io/youtube/views/A7SLY_bOVeA?style=flat-square"> </img> 
 </td>
 </tr>
@@ -135,11 +135,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Kodaps/gradient-ascent](https://github.com/Kodaps/gradient-ascent) - A NextJS starter being built in public (i.e. the hard way) (today)
-- [Kodaps/notion-parse](https://github.com/Kodaps/notion-parse) - An NPM module for downloading and Notion content and saving it as Markdown for NextJS (1 day ago)
+- [Kodaps/gradient-ascent](https://github.com/Kodaps/gradient-ascent) - A NextJS starter being built in public (i.e. the hard way) (1 day ago)
+- [Kodaps/notion-parse](https://github.com/Kodaps/notion-parse) - An NPM module for downloading and Notion content and saving it as Markdown for NextJS (2 days ago)
 - [Kodaps/nextjs-learn](https://github.com/Kodaps/nextjs-learn) -  (3 weeks ago)
 - [Gosev/codecrafters-redis-go](https://github.com/Gosev/codecrafters-redis-go) -  (3 months ago)
-- [Kodaps/nextjs-fullstack](https://github.com/Kodaps/nextjs-fullstack) -  (8 months ago)
+- [Kodaps/nextjs-fullstack](https://github.com/Kodaps/nextjs-fullstack) -  (9 months ago)
 - [Kodaps/okr-app](https://github.com/Kodaps/okr-app) - OKR app (9 months ago)
 - [Kodaps/t3-cross-app](https://github.com/Kodaps/t3-cross-app) - T3 (Next &#43; RN) base app  (9 months ago)
 - [Kodaps/js-first-steps](https://github.com/Kodaps/js-first-steps) - First steps with JS (10 months ago)
@@ -161,11 +161,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [Kodaps/notion-parse](https://github.com/Kodaps/notion-parse) ([0.0.8](https://github.com/Kodaps/notion-parse/releases/tag/0.0.8), 2 days ago) - An NPM module for downloading and Notion content and saving it as Markdown for NextJS
+- [Kodaps/notion-parse](https://github.com/Kodaps/notion-parse) ([0.0.8](https://github.com/Kodaps/notion-parse/releases/tag/0.0.8), 3 days ago) - An NPM module for downloading and Notion content and saving it as Markdown for NextJS
 
 #### 🔨 My recent Pull Requests
 
-- [Update instructions.md to specify the error](https://github.com/exercism/lua/pull/388) on [exercism/lua](https://github.com/exercism/lua) (2 months ago)
+- [Update instructions.md to specify the error](https://github.com/exercism/lua/pull/388) on [exercism/lua](https://github.com/exercism/lua) (3 months ago)
 
 
 #### 📓 Gists I wrote
