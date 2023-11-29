@@ -23,7 +23,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/oaYbW-n7tE0/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=oaYbW-n7tE0">OpenAI vs Sam Altman: Understanding the Clash</a> (today) <br/>
+<a href="https://www.youtube.com/watch?v=oaYbW-n7tE0">OpenAI vs Sam Altman: The Full Story</a> (today) <br/>
 <img src="https://img.shields.io/youtube/views/oaYbW-n7tE0?style=flat-square"> </img> 
 </td>
 </tr>
