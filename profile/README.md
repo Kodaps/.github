@@ -21,6 +21,13 @@
 <table>
 
 <tr>
+<td><img src="https://img.youtube.com/vi/oaYbW-n7tE0/default.jpg"></img></td>
+<td>
+<a href="https://www.youtube.com/watch?v=oaYbW-n7tE0">OpenAI vs Sam Altman: Understanding the Clash</a> (today) <br/>
+<img src="https://img.shields.io/youtube/views/oaYbW-n7tE0?style=flat-square"> </img> 
+</td>
+</tr>
+<tr>
 <td><img src="https://img.youtube.com/vi/i9-qtkYM4ZM/default.jpg"></img></td>
 <td>
 <a href="https://www.youtube.com/watch?v=i9-qtkYM4ZM">How I Use Notion as a CMS (with Next JS)</a> (6 days ago) <br/>
@@ -46,13 +53,6 @@
 <td>
 <a href="https://www.youtube.com/watch?v=JAaLpOmHk0I">Next JS Conf : Next 14 &amp; 3 Key Takeways</a> (1 month ago) <br/>
 <img src="https://img.shields.io/youtube/views/JAaLpOmHk0I?style=flat-square"> </img> 
-</td>
-</tr>
-<tr>
-<td><img src="https://img.youtube.com/vi/LjIe4w_-vzk/default.jpg"></img></td>
-<td>
-<a href="https://www.youtube.com/watch?v=LjIe4w_-vzk">Go vs Rust: Which To Learn In 2024?</a> (1 month ago) <br/>
-<img src="https://img.shields.io/youtube/views/LjIe4w_-vzk?style=flat-square"> </img> 
 </td>
 </tr>
 </table>
