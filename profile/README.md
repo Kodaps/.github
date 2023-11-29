@@ -23,14 +23,14 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/i9-qtkYM4ZM/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=i9-qtkYM4ZM">How I Use Notion as a CMS (with Next JS)</a> (5 days ago) <br/>
+<a href="https://www.youtube.com/watch?v=i9-qtkYM4ZM">How I Use Notion as a CMS (with Next JS)</a> (6 days ago) <br/>
 <img src="https://img.shields.io/youtube/views/i9-qtkYM4ZM?style=flat-square"> </img> 
 </td>
 </tr>
 <tr>
 <td><img src="https://img.youtube.com/vi/Yla__s2eF8s/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=Yla__s2eF8s">This Tool Makes Markdown GLOW Up!</a> (1 week ago) <br/>
+<a href="https://www.youtube.com/watch?v=Yla__s2eF8s">This Tool Makes Markdown GLOW Up!</a> (2 weeks ago) <br/>
 <img src="https://img.shields.io/youtube/views/Yla__s2eF8s?style=flat-square"> </img> 
 </td>
 </tr>
@@ -44,7 +44,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/JAaLpOmHk0I/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=JAaLpOmHk0I">Next JS Conf : Next 14 &amp; 3 Key Takeways</a> (4 weeks ago) <br/>
+<a href="https://www.youtube.com/watch?v=JAaLpOmHk0I">Next JS Conf : Next 14 &amp; 3 Key Takeways</a> (1 month ago) <br/>
 <img src="https://img.shields.io/youtube/views/JAaLpOmHk0I?style=flat-square"> </img> 
 </td>
 </tr>
@@ -64,7 +64,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/A7SLY_bOVeA/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=A7SLY_bOVeA">Cet Outil REVOLUTIONNE Markdown!</a> (5 days ago) <br/>
+<a href="https://www.youtube.com/watch?v=A7SLY_bOVeA">Cet Outil REVOLUTIONNE Markdown!</a> (6 days ago) <br/>
 <img src="https://img.shields.io/youtube/views/A7SLY_bOVeA?style=flat-square"> </img> 
 </td>
 </tr>
@@ -85,7 +85,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/9KCkPo42mto/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=9KCkPo42mto">Next JS Conf &amp; Next 14: 3 Points Clefs</a> (4 weeks ago) <br/>
+<a href="https://www.youtube.com/watch?v=9KCkPo42mto">Next JS Conf &amp; Next 14: 3 Points Clefs</a> (1 month ago) <br/>
 <img src="https://img.shields.io/youtube/views/9KCkPo42mto?style=flat-square"> </img> 
 </td>
 </tr>
@@ -135,9 +135,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Kodaps/notion-parse](https://github.com/Kodaps/notion-parse) - An NPM module for downloading and Notion content and saving it as Markdown for NextJS (1 day ago)
-- [Kodaps/gradient-ascent](https://github.com/Kodaps/gradient-ascent) - A NextJS starter being built in public (i.e. the hard way) (5 days ago)
-- [Kodaps/nextjs-learn](https://github.com/Kodaps/nextjs-learn) -  (4 weeks ago)
+- [Kodaps/notion-parse](https://github.com/Kodaps/notion-parse) - An NPM module for downloading and Notion content and saving it as Markdown for NextJS (2 days ago)
+- [Kodaps/gradient-ascent](https://github.com/Kodaps/gradient-ascent) - A NextJS starter being built in public (i.e. the hard way) (6 days ago)
+- [Kodaps/nextjs-learn](https://github.com/Kodaps/nextjs-learn) -  (1 month ago)
 - [Gosev/codecrafters-redis-go](https://github.com/Gosev/codecrafters-redis-go) -  (3 months ago)
 - [Kodaps/nextjs-fullstack](https://github.com/Kodaps/nextjs-fullstack) -  (9 months ago)
 - [Kodaps/okr-app](https://github.com/Kodaps/okr-app) - OKR app (9 months ago)
