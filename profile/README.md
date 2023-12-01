@@ -62,6 +62,13 @@
 <table>
 
 <tr>
+<td><img src="https://img.youtube.com/vi/cvNSUEznLFQ/default.jpg"></img></td>
+<td>
+<a href="https://www.youtube.com/watch?v=cvNSUEznLFQ">Sam Altman &amp; d&#39;Open AI : Une semaine explosive</a> (today) <br/>
+<img src="https://img.shields.io/youtube/views/cvNSUEznLFQ?style=flat-square"> </img> 
+</td>
+</tr>
+<tr>
 <td><img src="https://img.youtube.com/vi/A7SLY_bOVeA/default.jpg"></img></td>
 <td>
 <a href="https://www.youtube.com/watch?v=A7SLY_bOVeA">Cet Outil REVOLUTIONNE Markdown!</a> (1 week ago) <br/>
@@ -122,13 +129,6 @@
 <td>
 <a href="https://www.youtube.com/watch?v=nfYaXb7OjcQ">De 0 à Codeur : Commend apprendre à coder par la Pratique</a> (2 months ago) <br/>
 <img src="https://img.shields.io/youtube/views/nfYaXb7OjcQ?style=flat-square"> </img> 
-</td>
-</tr>
-<tr>
-<td><img src="https://img.youtube.com/vi/zrpZjIiSS5k/default.jpg"></img></td>
-<td>
-<a href="https://www.youtube.com/watch?v=zrpZjIiSS5k">NextJS Routeur App : Traduction / i18n</a> (3 months ago) <br/>
-<img src="https://img.shields.io/youtube/views/zrpZjIiSS5k?style=flat-square"> </img> 
 </td>
 </tr>
 </table>
