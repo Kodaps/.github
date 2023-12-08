@@ -135,6 +135,7 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [Kodaps/portfolio-example](https://github.com/Kodaps/portfolio-example) -  (today)
 - [Kodaps/notion-parse](https://github.com/Kodaps/notion-parse) - An NPM module for downloading and Notion content and saving it as Markdown for NextJS (1 week ago)
 - [Kodaps/gradient-ascent](https://github.com/Kodaps/gradient-ascent) - A NextJS starter being built in public (i.e. the hard way) (2 weeks ago)
 - [Kodaps/nextjs-learn](https://github.com/Kodaps/nextjs-learn) -  (1 month ago)
