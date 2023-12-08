@@ -64,7 +64,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/cvNSUEznLFQ/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=cvNSUEznLFQ">Sam Altman &amp; OpenAI : Le Gros CLASH!</a> (6 days ago) <br/>
+<a href="https://www.youtube.com/watch?v=cvNSUEznLFQ">Sam Altman &amp; OpenAI : Le Gros CLASH!</a> (1 week ago) <br/>
 <img src="https://img.shields.io/youtube/views/cvNSUEznLFQ?style=flat-square"> </img> 
 </td>
 </tr>
