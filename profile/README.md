@@ -21,6 +21,13 @@
 <table>
 
 <tr>
+<td><img src="https://img.youtube.com/vi/FknaQpe9Y5s/default.jpg"></img></td>
+<td>
+<a href="https://www.youtube.com/watch?v=FknaQpe9Y5s">React &#43; TypeScript: Level Up Your Code!</a> (today) <br/>
+<img src="https://img.shields.io/youtube/views/FknaQpe9Y5s?style=flat-square"> </img> 
+</td>
+</tr>
+<tr>
 <td><img src="https://img.youtube.com/vi/Hl7hSVRKKmw/default.jpg"></img></td>
 <td>
 <a href="https://www.youtube.com/watch?v=Hl7hSVRKKmw">Full NextJS Project Tutorial: Portfolio Website</a> (1 week ago) <br/>
@@ -46,13 +53,6 @@
 <td>
 <a href="https://www.youtube.com/watch?v=Yla__s2eF8s">NextJS:  ContentLayer Makes Markdown GLOW Up!</a> (1 month ago) <br/>
 <img src="https://img.shields.io/youtube/views/Yla__s2eF8s?style=flat-square"> </img> 
-</td>
-</tr>
-<tr>
-<td><img src="https://img.youtube.com/vi/zboIKTnHmPg/default.jpg"></img></td>
-<td>
-<a href="https://www.youtube.com/watch?v=zboIKTnHmPg">Is Vercel’s Course The Best Way To Master  NextJS?</a> (1 month ago) <br/>
-<img src="https://img.shields.io/youtube/views/zboIKTnHmPg?style=flat-square"> </img> 
 </td>
 </tr>
 </table>
