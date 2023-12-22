@@ -23,14 +23,14 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/FknaQpe9Y5s/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=FknaQpe9Y5s">React &#43; TypeScript: Best Practices Tutorial for Beginners</a> (6 days ago) <br/>
+<a href="https://www.youtube.com/watch?v=FknaQpe9Y5s">React &#43; TypeScript: Best Practices Tutorial for Beginners</a> (1 week ago) <br/>
 <img src="https://img.shields.io/youtube/views/FknaQpe9Y5s?style=flat-square"> </img> 
 </td>
 </tr>
 <tr>
 <td><img src="https://img.youtube.com/vi/Hl7hSVRKKmw/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=Hl7hSVRKKmw">Full NextJS Project Tutorial: Portfolio Website</a> (1 week ago) <br/>
+<a href="https://www.youtube.com/watch?v=Hl7hSVRKKmw">Full NextJS Project Tutorial: Portfolio Website</a> (2 weeks ago) <br/>
 <img src="https://img.shields.io/youtube/views/Hl7hSVRKKmw?style=flat-square"> </img> 
 </td>
 </tr>
@@ -64,7 +64,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/cvNSUEznLFQ/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=cvNSUEznLFQ">Sam Altman &amp; OpenAI : Le Gros CLASH!</a> (2 weeks ago) <br/>
+<a href="https://www.youtube.com/watch?v=cvNSUEznLFQ">Sam Altman &amp; OpenAI : Le Gros CLASH!</a> (3 weeks ago) <br/>
 <img src="https://img.shields.io/youtube/views/cvNSUEznLFQ?style=flat-square"> </img> 
 </td>
 </tr>
@@ -99,7 +99,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/V20SdIRJQzs/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=V20SdIRJQzs">Les Runes de Svelte 5</a> (1 month ago) <br/>
+<a href="https://www.youtube.com/watch?v=V20SdIRJQzs">Les Runes de Svelte 5</a> (2 months ago) <br/>
 <img src="https://img.shields.io/youtube/views/V20SdIRJQzs?style=flat-square"> </img> 
 </td>
 </tr>
@@ -135,7 +135,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Kodaps/portfolio-example](https://github.com/Kodaps/portfolio-example) -  (1 week ago)
+- [Kodaps/portfolio-example](https://github.com/Kodaps/portfolio-example) -  (2 weeks ago)
 - [Kodaps/notion-parse](https://github.com/Kodaps/notion-parse) - An NPM module for downloading and Notion content and saving it as Markdown for NextJS (3 weeks ago)
 - [Kodaps/gradient-ascent](https://github.com/Kodaps/gradient-ascent) - A NextJS starter being built in public (i.e. the hard way) (4 weeks ago)
 - [Kodaps/nextjs-learn](https://github.com/Kodaps/nextjs-learn) -  (1 month ago)
