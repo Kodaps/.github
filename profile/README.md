@@ -21,6 +21,13 @@
 <table>
 
 <tr>
+<td><img src="https://img.youtube.com/vi/qKtm2A_PjmU/default.jpg"></img></td>
+<td>
+<a href="https://www.youtube.com/watch?v=qKtm2A_PjmU">v0: The Next Big Thing in AI Driven UI Development?</a> (today) <br/>
+<img src="https://img.shields.io/youtube/views/qKtm2A_PjmU?style=flat-square"> </img> 
+</td>
+</tr>
+<tr>
 <td><img src="https://img.youtube.com/vi/FknaQpe9Y5s/default.jpg"></img></td>
 <td>
 <a href="https://www.youtube.com/watch?v=FknaQpe9Y5s">React &#43; TypeScript: Best Practices Tutorial for Beginners</a> (1 week ago) <br/>
@@ -46,13 +53,6 @@
 <td>
 <a href="https://www.youtube.com/watch?v=i9-qtkYM4ZM">How I Use Notion as a CMS (with Next JS)</a> (4 weeks ago) <br/>
 <img src="https://img.shields.io/youtube/views/i9-qtkYM4ZM?style=flat-square"> </img> 
-</td>
-</tr>
-<tr>
-<td><img src="https://img.youtube.com/vi/Yla__s2eF8s/default.jpg"></img></td>
-<td>
-<a href="https://www.youtube.com/watch?v=Yla__s2eF8s">NextJS:  ContentLayer Makes Markdown GLOW Up!</a> (1 month ago) <br/>
-<img src="https://img.shields.io/youtube/views/Yla__s2eF8s?style=flat-square"> </img> 
 </td>
 </tr>
 </table>
