@@ -23,7 +23,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/qKtm2A_PjmU/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=qKtm2A_PjmU">v0: The Next Big Thing in AI Frontend Development?</a> (1 day ago) <br/>
+<a href="https://www.youtube.com/watch?v=qKtm2A_PjmU">v0: AI for React JS ?</a> (1 day ago) <br/>
 <img src="https://img.shields.io/youtube/views/qKtm2A_PjmU?style=flat-square"> </img> 
 </td>
 </tr>
