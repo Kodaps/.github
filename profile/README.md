@@ -23,7 +23,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/qKtm2A_PjmU/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=qKtm2A_PjmU">v0: AI for React JS ?</a> (1 day ago) <br/>
+<a href="https://www.youtube.com/watch?v=qKtm2A_PjmU">v0: AI for React JS ?</a> (2 days ago) <br/>
 <img src="https://img.shields.io/youtube/views/qKtm2A_PjmU?style=flat-square"> </img> 
 </td>
 </tr>
@@ -140,7 +140,7 @@
 - [Kodaps/gradient-ascent](https://github.com/Kodaps/gradient-ascent) - A NextJS starter being built in public (i.e. the hard way) (1 month ago)
 - [Kodaps/nextjs-learn](https://github.com/Kodaps/nextjs-learn) -  (1 month ago)
 - [Gosev/codecrafters-redis-go](https://github.com/Gosev/codecrafters-redis-go) -  (4 months ago)
-- [Kodaps/nextjs-fullstack](https://github.com/Kodaps/nextjs-fullstack) -  (9 months ago)
+- [Kodaps/nextjs-fullstack](https://github.com/Kodaps/nextjs-fullstack) -  (10 months ago)
 - [Kodaps/okr-app](https://github.com/Kodaps/okr-app) - OKR app (10 months ago)
 - [Kodaps/t3-cross-app](https://github.com/Kodaps/t3-cross-app) - T3 (Next &#43; RN) base app  (10 months ago)
 - [Kodaps/js-first-steps](https://github.com/Kodaps/js-first-steps) - First steps with JS (11 months ago)
@@ -165,7 +165,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Update instructions.md to specify the error](https://github.com/exercism/lua/pull/388) on [exercism/lua](https://github.com/exercism/lua) (3 months ago)
+- [Update instructions.md to specify the error](https://github.com/exercism/lua/pull/388) on [exercism/lua](https://github.com/exercism/lua) (4 months ago)
 
 
 #### 📓 Gists I wrote
@@ -173,7 +173,7 @@
 - [](https://gist.github.com/ce3defb6415b67ec03f48fa11fc158f0) (2 years ago)
 - [pages/jokes.tsx in NextJS : useEffect &#43; useState &#43; Axios ](https://gist.github.com/fbd960d5a653bf0f527678f038d5bee1) (2 years ago)
 - [NextJS copy index.html files to their folder name](https://gist.github.com/e04abeb6079273b3be54ee6496a0b309) (2 years ago)
-- [](https://gist.github.com/a144834b9542ab523a10) (7 years ago)
+- [](https://gist.github.com/a144834b9542ab523a10) (8 years ago)
 
 #### ⭐ Recent Stars
 
