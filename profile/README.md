@@ -23,28 +23,28 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/qKtm2A_PjmU/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=qKtm2A_PjmU">v0: AI for React JS ?</a> (6 days ago) <br/>
+<a href="https://www.youtube.com/watch?v=qKtm2A_PjmU">v0: AI for React JS ?</a> (1 week ago) <br/>
 <img src="https://img.shields.io/youtube/views/qKtm2A_PjmU?style=flat-square"> </img> 
 </td>
 </tr>
 <tr>
 <td><img src="https://img.youtube.com/vi/FknaQpe9Y5s/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=FknaQpe9Y5s">React &#43; TypeScript: Best Practices Tutorial for Beginners</a> (1 week ago) <br/>
+<a href="https://www.youtube.com/watch?v=FknaQpe9Y5s">React &#43; TypeScript: Best Practices Tutorial for Beginners</a> (2 weeks ago) <br/>
 <img src="https://img.shields.io/youtube/views/FknaQpe9Y5s?style=flat-square"> </img> 
 </td>
 </tr>
 <tr>
 <td><img src="https://img.youtube.com/vi/Hl7hSVRKKmw/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=Hl7hSVRKKmw">Full NextJS Project Tutorial: Portfolio Website</a> (2 weeks ago) <br/>
+<a href="https://www.youtube.com/watch?v=Hl7hSVRKKmw">Full NextJS Project Tutorial: Portfolio Website</a> (3 weeks ago) <br/>
 <img src="https://img.shields.io/youtube/views/Hl7hSVRKKmw?style=flat-square"> </img> 
 </td>
 </tr>
 <tr>
 <td><img src="https://img.youtube.com/vi/oaYbW-n7tE0/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=oaYbW-n7tE0">OpenAI vs Sam Altman: The Full Story</a> (4 weeks ago) <br/>
+<a href="https://www.youtube.com/watch?v=oaYbW-n7tE0">OpenAI vs Sam Altman: The Full Story</a> (1 month ago) <br/>
 <img src="https://img.shields.io/youtube/views/oaYbW-n7tE0?style=flat-square"> </img> 
 </td>
 </tr>
@@ -64,7 +64,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/cvNSUEznLFQ/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=cvNSUEznLFQ">Sam Altman &amp; OpenAI : Le Gros CLASH!</a> (3 weeks ago) <br/>
+<a href="https://www.youtube.com/watch?v=cvNSUEznLFQ">Sam Altman &amp; OpenAI : Le Gros CLASH!</a> (4 weeks ago) <br/>
 <img src="https://img.shields.io/youtube/views/cvNSUEznLFQ?style=flat-square"> </img> 
 </td>
 </tr>
@@ -92,7 +92,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/9KCkPo42mto/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=9KCkPo42mto">Next JS Conf &amp; Next 14: 3 Points Clefs</a> (1 month ago) <br/>
+<a href="https://www.youtube.com/watch?v=9KCkPo42mto">Next JS Conf &amp; Next 14: 3 Points Clefs</a> (2 months ago) <br/>
 <img src="https://img.shields.io/youtube/views/9KCkPo42mto?style=flat-square"> </img> 
 </td>
 </tr>
@@ -135,10 +135,10 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Kodaps/portfolio-example](https://github.com/Kodaps/portfolio-example) -  (2 weeks ago)
+- [Kodaps/portfolio-example](https://github.com/Kodaps/portfolio-example) -  (3 weeks ago)
 - [Kodaps/notion-parse](https://github.com/Kodaps/notion-parse) - An NPM module for downloading and Notion content and saving it as Markdown for NextJS (1 month ago)
 - [Kodaps/gradient-ascent](https://github.com/Kodaps/gradient-ascent) - A NextJS starter being built in public (i.e. the hard way) (1 month ago)
-- [Kodaps/nextjs-learn](https://github.com/Kodaps/nextjs-learn) -  (1 month ago)
+- [Kodaps/nextjs-learn](https://github.com/Kodaps/nextjs-learn) -  (2 months ago)
 - [Gosev/codecrafters-redis-go](https://github.com/Gosev/codecrafters-redis-go) -  (4 months ago)
 - [Kodaps/nextjs-fullstack](https://github.com/Kodaps/nextjs-fullstack) -  (10 months ago)
 - [Kodaps/okr-app](https://github.com/Kodaps/okr-app) - OKR app (10 months ago)
