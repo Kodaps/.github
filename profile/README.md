@@ -23,21 +23,21 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/qKtm2A_PjmU/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=qKtm2A_PjmU">v0: AI for React JS ?</a> (1 week ago) <br/>
+<a href="https://www.youtube.com/watch?v=qKtm2A_PjmU">v0: AI for React JS ?</a> (2 weeks ago) <br/>
 <img src="https://img.shields.io/youtube/views/qKtm2A_PjmU?style=flat-square"> </img> 
 </td>
 </tr>
 <tr>
 <td><img src="https://img.youtube.com/vi/FknaQpe9Y5s/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=FknaQpe9Y5s">React &#43; TypeScript: Best Practices Tutorial for Beginners</a> (2 weeks ago) <br/>
+<a href="https://www.youtube.com/watch?v=FknaQpe9Y5s">React &#43; TypeScript: Best Practices Tutorial for Beginners</a> (3 weeks ago) <br/>
 <img src="https://img.shields.io/youtube/views/FknaQpe9Y5s?style=flat-square"> </img> 
 </td>
 </tr>
 <tr>
 <td><img src="https://img.youtube.com/vi/Hl7hSVRKKmw/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=Hl7hSVRKKmw">Full NextJS Project Tutorial: Portfolio Website</a> (3 weeks ago) <br/>
+<a href="https://www.youtube.com/watch?v=Hl7hSVRKKmw">Full NextJS Project Tutorial: Portfolio Website</a> (4 weeks ago) <br/>
 <img src="https://img.shields.io/youtube/views/Hl7hSVRKKmw?style=flat-square"> </img> 
 </td>
 </tr>
@@ -135,7 +135,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Kodaps/portfolio-example](https://github.com/Kodaps/portfolio-example) -  (3 weeks ago)
+- [Kodaps/portfolio-example](https://github.com/Kodaps/portfolio-example) -  (4 weeks ago)
 - [Kodaps/notion-parse](https://github.com/Kodaps/notion-parse) - An NPM module for downloading and Notion content and saving it as Markdown for NextJS (1 month ago)
 - [Kodaps/gradient-ascent](https://github.com/Kodaps/gradient-ascent) - A NextJS starter being built in public (i.e. the hard way) (1 month ago)
 - [Kodaps/nextjs-learn](https://github.com/Kodaps/nextjs-learn) -  (2 months ago)
