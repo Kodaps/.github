@@ -14,7 +14,7 @@
 - [What is Art?](https://gosev.medium.com/what-is-art-2dce12548091?source=rss-e68daed69805------2) (1 year ago)
 - [How to Release Your Code Into the Wild](https://levelup.gitconnected.com/how-to-release-your-code-into-the-wild-dd144218cb9b?source=rss-e68daed69805------2) (1 year ago)
 - [5 Tips to Have Fun Using MidJourney AI Image Generation — The First Steps](https://gosev.medium.com/5-tips-to-have-fun-using-midjourney-ai-image-generation-the-first-steps-81cf44a53931?source=rss-e68daed69805------2) (1 year ago)
-- [3 Lessons I Learned While Managing The Project From Hell](https://medium.com/illumination/3-lessons-i-learned-while-managing-the-project-from-hell-e31196db2d5f?source=rss-e68daed69805------2) (1 year ago)
+- [3 Lessons I Learned While Managing The Project From Hell](https://medium.com/illumination/3-lessons-i-learned-while-managing-the-project-from-hell-e31196db2d5f?source=rss-e68daed69805------2) (2 years ago)
 
 ## 📽 🇬🇧 My recent English videos
 <img src="https://img.shields.io/youtube/channel/subscribers/UC2DOovF-OjIQ6nHClUyLKKQ?style=for-the-badge"></img>
@@ -85,7 +85,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/z-XsuazXz14/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=z-XsuazXz14">Next Js Learn : Que Vaut Le Tuto Officiel?</a> (1 month ago) <br/>
+<a href="https://www.youtube.com/watch?v=z-XsuazXz14">Next Js Learn : Que Vaut Le Tuto Officiel?</a> (2 months ago) <br/>
 <img src="https://img.shields.io/youtube/views/z-XsuazXz14?style=flat-square"> </img> 
 </td>
 </tr>
