@@ -21,6 +21,13 @@
 <table>
 
 <tr>
+<td><img src="https://img.youtube.com/vi/AJgkF0zfeJg/default.jpg"></img></td>
+<td>
+<a href="https://www.youtube.com/watch?v=AJgkF0zfeJg">Fullstack Web Developer Roadmap 2024 : How I&#39;d start again:</a> (today) <br/>
+<img src="https://img.shields.io/youtube/views/AJgkF0zfeJg?style=flat-square"> </img> 
+</td>
+</tr>
+<tr>
 <td><img src="https://img.youtube.com/vi/qKtm2A_PjmU/default.jpg"></img></td>
 <td>
 <a href="https://www.youtube.com/watch?v=qKtm2A_PjmU">v0: AI for React JS ?</a> (3 weeks ago) <br/>
@@ -46,13 +53,6 @@
 <td>
 <a href="https://www.youtube.com/watch?v=oaYbW-n7tE0">OpenAI vs Sam Altman: The Full Story</a> (1 month ago) <br/>
 <img src="https://img.shields.io/youtube/views/oaYbW-n7tE0?style=flat-square"> </img> 
-</td>
-</tr>
-<tr>
-<td><img src="https://img.youtube.com/vi/i9-qtkYM4ZM/default.jpg"></img></td>
-<td>
-<a href="https://www.youtube.com/watch?v=i9-qtkYM4ZM">How I Use Notion as a CMS (with Next JS)</a> (1 month ago) <br/>
-<img src="https://img.shields.io/youtube/views/i9-qtkYM4ZM?style=flat-square"> </img> 
 </td>
 </tr>
 </table>
