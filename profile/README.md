@@ -51,7 +51,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/oaYbW-n7tE0/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=oaYbW-n7tE0">OpenAI vs Sam Altman: The Full Story</a> (1 month ago) <br/>
+<a href="https://www.youtube.com/watch?v=oaYbW-n7tE0">OpenAI vs Sam Altman: The Full Story</a> (2 months ago) <br/>
 <img src="https://img.shields.io/youtube/views/oaYbW-n7tE0?style=flat-square"> </img> 
 </td>
 </tr>
@@ -92,7 +92,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/9KCkPo42mto/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=9KCkPo42mto">Next JS Conf &amp; Next 14: 3 Points Clefs</a> (2 months ago) <br/>
+<a href="https://www.youtube.com/watch?v=9KCkPo42mto">Next JS Conf &amp; Next 14: 3 Points Clefs</a> (3 months ago) <br/>
 <img src="https://img.shields.io/youtube/views/9KCkPo42mto?style=flat-square"> </img> 
 </td>
 </tr>
@@ -138,7 +138,7 @@
 - [Kodaps/portfolio-example](https://github.com/Kodaps/portfolio-example) -  (1 month ago)
 - [Kodaps/notion-parse](https://github.com/Kodaps/notion-parse) - An NPM module for downloading and Notion content and saving it as Markdown for NextJS (2 months ago)
 - [Kodaps/gradient-ascent](https://github.com/Kodaps/gradient-ascent) - A NextJS starter being built in public (i.e. the hard way) (2 months ago)
-- [Kodaps/nextjs-learn](https://github.com/Kodaps/nextjs-learn) -  (2 months ago)
+- [Kodaps/nextjs-learn](https://github.com/Kodaps/nextjs-learn) -  (3 months ago)
 - [Gosev/codecrafters-redis-go](https://github.com/Gosev/codecrafters-redis-go) -  (5 months ago)
 - [Kodaps/nextjs-fullstack](https://github.com/Kodaps/nextjs-fullstack) -  (11 months ago)
 - [Kodaps/okr-app](https://github.com/Kodaps/okr-app) - OKR app (11 months ago)
