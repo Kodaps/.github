@@ -12,7 +12,7 @@
 - [GraphQL vs REST](https://levelup.gitconnected.com/graphql-vs-rest-e918d9e0e271?source=rss-e68daed69805------2) (1 year ago)
 - [What is Astro?](https://javascript.plainenglish.io/what-is-astro-aa3369d5a7f4?source=rss-e68daed69805------2) (1 year ago)
 - [What is Art?](https://gosev.medium.com/what-is-art-2dce12548091?source=rss-e68daed69805------2) (1 year ago)
-- [How to Release Your Code Into the Wild](https://levelup.gitconnected.com/how-to-release-your-code-into-the-wild-dd144218cb9b?source=rss-e68daed69805------2) (1 year ago)
+- [How to Release Your Code Into the Wild](https://levelup.gitconnected.com/how-to-release-your-code-into-the-wild-dd144218cb9b?source=rss-e68daed69805------2) (2 years ago)
 - [5 Tips to Have Fun Using MidJourney AI Image Generation — The First Steps](https://gosev.medium.com/5-tips-to-have-fun-using-midjourney-ai-image-generation-the-first-steps-81cf44a53931?source=rss-e68daed69805------2) (2 years ago)
 - [3 Lessons I Learned While Managing The Project From Hell](https://medium.com/illumination/3-lessons-i-learned-while-managing-the-project-from-hell-e31196db2d5f?source=rss-e68daed69805------2) (2 years ago)
 
@@ -23,7 +23,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/AJgkF0zfeJg/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=AJgkF0zfeJg">Fullstack Web Developer Roadmap 2024 : How I&#39;d start again:</a> (1 week ago) <br/>
+<a href="https://www.youtube.com/watch?v=AJgkF0zfeJg">Fullstack Web Developer Roadmap 2024 : How I&#39;d start again:</a> (2 weeks ago) <br/>
 <img src="https://img.shields.io/youtube/views/AJgkF0zfeJg?style=flat-square"> </img> 
 </td>
 </tr>
@@ -142,7 +142,7 @@
 - [Gosev/codecrafters-redis-go](https://github.com/Gosev/codecrafters-redis-go) -  (5 months ago)
 - [Kodaps/nextjs-fullstack](https://github.com/Kodaps/nextjs-fullstack) -  (11 months ago)
 - [Kodaps/okr-app](https://github.com/Kodaps/okr-app) - OKR app (11 months ago)
-- [Kodaps/t3-cross-app](https://github.com/Kodaps/t3-cross-app) - T3 (Next &#43; RN) base app  (11 months ago)
+- [Kodaps/t3-cross-app](https://github.com/Kodaps/t3-cross-app) - T3 (Next &#43; RN) base app  (1 year ago)
 
 #### 🌱 My latest projects
 
@@ -176,7 +176,7 @@
 
 #### ⭐ Recent Stars
 
-- [opentofu/manifesto](https://github.com/opentofu/manifesto) - The OpenTF Manifesto expresses concern over HashiCorp&#39;s switch of the Terraform license from open-source to the Business Source License (BSL) and calls for the tool&#39;s return to a truly open-source license. (4 months ago)
+- [opentofu/manifesto](https://github.com/opentofu/manifesto) - The OpenTF Manifesto expresses concern over HashiCorp&#39;s switch of the Terraform license from open-source to the Business Source License (BSL) and calls for the tool&#39;s return to a truly open-source license. (5 months ago)
 - [onwidget/astrowind](https://github.com/onwidget/astrowind) - ⭕️ AstroWind: A free template using Astro 4.0 and Tailwind CSS. Astro starter theme. (1 year ago)
 - [coronalabs/CoronaViewer](https://github.com/coronalabs/CoronaViewer) - CoronaViewer for SDK/Enterprise (9 years ago)
 - [Gosev/Jump](https://github.com/Gosev/Jump) - Jump website (11 years ago)
