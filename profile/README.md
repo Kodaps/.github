@@ -64,7 +64,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/cvNSUEznLFQ/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=cvNSUEznLFQ">Sam Altman &amp; OpenAI : Le Gros CLASH!</a> (1 month ago) <br/>
+<a href="https://www.youtube.com/watch?v=cvNSUEznLFQ">Sam Altman &amp; OpenAI : Le Gros CLASH!</a> (2 months ago) <br/>
 <img src="https://img.shields.io/youtube/views/cvNSUEznLFQ?style=flat-square"> </img> 
 </td>
 </tr>
@@ -113,7 +113,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/kJrL9e5cfkE/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=kJrL9e5cfkE">Containers vs VMs (pourquoi utiliser Docker)</a> (3 months ago) <br/>
+<a href="https://www.youtube.com/watch?v=kJrL9e5cfkE">Containers vs VMs (pourquoi utiliser Docker)</a> (4 months ago) <br/>
 <img src="https://img.shields.io/youtube/views/kJrL9e5cfkE?style=flat-square"> </img> 
 </td>
 </tr>
@@ -170,7 +170,7 @@
 #### 📓 Gists I wrote
 
 - [](https://gist.github.com/ce3defb6415b67ec03f48fa11fc158f0) (2 years ago)
-- [pages/jokes.tsx in NextJS : useEffect &#43; useState &#43; Axios ](https://gist.github.com/fbd960d5a653bf0f527678f038d5bee1) (2 years ago)
+- [pages/jokes.tsx in NextJS : useEffect &#43; useState &#43; Axios ](https://gist.github.com/fbd960d5a653bf0f527678f038d5bee1) (3 years ago)
 - [NextJS copy index.html files to their folder name](https://gist.github.com/e04abeb6079273b3be54ee6496a0b309) (3 years ago)
 - [](https://gist.github.com/a144834b9542ab523a10) (8 years ago)
 
