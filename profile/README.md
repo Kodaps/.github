@@ -142,7 +142,6 @@
 - [Gosev/codecrafters-redis-go](https://github.com/Gosev/codecrafters-redis-go) -  (5 months ago)
 - [Kodaps/nextjs-fullstack](https://github.com/Kodaps/nextjs-fullstack) -  (11 months ago)
 - [Kodaps/okr-app](https://github.com/Kodaps/okr-app) - OKR app (11 months ago)
-- [Kodaps/t3-cross-app](https://github.com/Kodaps/t3-cross-app) - T3 (Next &#43; RN) base app  (1 year ago)
 
 #### 🌱 My latest projects
 
