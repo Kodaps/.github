@@ -141,7 +141,7 @@
 - [Kodaps/nextjs-learn](https://github.com/Kodaps/nextjs-learn) -  (3 months ago)
 - [Gosev/codecrafters-redis-go](https://github.com/Gosev/codecrafters-redis-go) -  (6 months ago)
 - [Kodaps/nextjs-fullstack](https://github.com/Kodaps/nextjs-fullstack) -  (11 months ago)
-- [Kodaps/okr-app](https://github.com/Kodaps/okr-app) - OKR app (11 months ago)
+- [Kodaps/okr-app](https://github.com/Kodaps/okr-app) - OKR app (1 year ago)
 
 #### 🌱 My latest projects
 
@@ -159,7 +159,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [Kodaps/notion-parse](https://github.com/Kodaps/notion-parse) ([0.0.8](https://github.com/Kodaps/notion-parse/releases/tag/0.0.8), 2 months ago) - An NPM module for downloading and Notion content and saving it as Markdown for NextJS
+- [Kodaps/notion-parse](https://github.com/Kodaps/notion-parse) ([0.0.8](https://github.com/Kodaps/notion-parse/releases/tag/0.0.8), 3 months ago) - An NPM module for downloading and Notion content and saving it as Markdown for NextJS
 
 #### 🔨 My recent Pull Requests
 
