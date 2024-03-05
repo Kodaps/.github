@@ -23,7 +23,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/iJ_B_5W-pDA/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=iJ_B_5W-pDA">How to Use OpenAI&#39;s ChatGPT API in JavaScript</a> (4 days ago) <br/>
+<a href="https://www.youtube.com/watch?v=iJ_B_5W-pDA">How to Use OpenAI&#39;s ChatGPT API in JavaScript</a> (5 days ago) <br/>
 <img src="https://img.shields.io/youtube/views/iJ_B_5W-pDA?style=flat-square"> </img> 
 </td>
 </tr>
