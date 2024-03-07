@@ -23,7 +23,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/iJ_B_5W-pDA/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=iJ_B_5W-pDA">How to Use OpenAI&#39;s ChatGPT API in JavaScript</a> (6 days ago) <br/>
+<a href="https://www.youtube.com/watch?v=iJ_B_5W-pDA">How to Use OpenAI&#39;s ChatGPT API in JavaScript</a> (1 week ago) <br/>
 <img src="https://img.shields.io/youtube/views/iJ_B_5W-pDA?style=flat-square"> </img> 
 </td>
 </tr>
@@ -51,7 +51,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/Hl7hSVRKKmw/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=Hl7hSVRKKmw">Full NextJS Project Tutorial: Portfolio Website</a> (2 months ago) <br/>
+<a href="https://www.youtube.com/watch?v=Hl7hSVRKKmw">Full NextJS Project Tutorial: Portfolio Website</a> (3 months ago) <br/>
 <img src="https://img.shields.io/youtube/views/Hl7hSVRKKmw?style=flat-square"> </img> 
 </td>
 </tr>
@@ -135,7 +135,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Kodaps/portfolio-example](https://github.com/Kodaps/portfolio-example) -  (2 months ago)
+- [Kodaps/portfolio-example](https://github.com/Kodaps/portfolio-example) -  (3 months ago)
 - [Kodaps/notion-parse](https://github.com/Kodaps/notion-parse) - An NPM module for downloading and Notion content and saving it as Markdown for NextJS (3 months ago)
 - [Kodaps/gradient-ascent](https://github.com/Kodaps/gradient-ascent) - A NextJS starter being built in public (i.e. the hard way) (3 months ago)
 - [Kodaps/nextjs-learn](https://github.com/Kodaps/nextjs-learn) -  (4 months ago)
