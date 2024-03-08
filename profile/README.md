@@ -21,6 +21,13 @@
 <table>
 
 <tr>
+<td><img src="https://img.youtube.com/vi/I_rzFahRFeE/default.jpg"></img></td>
+<td>
+<a href="https://www.youtube.com/watch?v=I_rzFahRFeE">Why learn LUA?</a> (today) <br/>
+<img src="https://img.shields.io/youtube/views/I_rzFahRFeE?style=flat-square"> </img> 
+</td>
+</tr>
+<tr>
 <td><img src="https://img.youtube.com/vi/iJ_B_5W-pDA/default.jpg"></img></td>
 <td>
 <a href="https://www.youtube.com/watch?v=iJ_B_5W-pDA">How to Use OpenAI&#39;s ChatGPT API in JavaScript</a> (1 week ago) <br/>
@@ -46,13 +53,6 @@
 <td>
 <a href="https://www.youtube.com/watch?v=FknaQpe9Y5s">React &#43; TypeScript: Best Practices Tutorial for Beginners</a> (2 months ago) <br/>
 <img src="https://img.shields.io/youtube/views/FknaQpe9Y5s?style=flat-square"> </img> 
-</td>
-</tr>
-<tr>
-<td><img src="https://img.youtube.com/vi/Hl7hSVRKKmw/default.jpg"></img></td>
-<td>
-<a href="https://www.youtube.com/watch?v=Hl7hSVRKKmw">Full NextJS Project Tutorial: Portfolio Website</a> (3 months ago) <br/>
-<img src="https://img.shields.io/youtube/views/Hl7hSVRKKmw?style=flat-square"> </img> 
 </td>
 </tr>
 </table>
