@@ -23,7 +23,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/I_rzFahRFeE/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=I_rzFahRFeE">Why learn LUA?</a> (4 days ago) <br/>
+<a href="https://www.youtube.com/watch?v=I_rzFahRFeE">Why learn LUA?</a> (5 days ago) <br/>
 <img src="https://img.shields.io/youtube/views/I_rzFahRFeE?style=flat-square"> </img> 
 </td>
 </tr>
