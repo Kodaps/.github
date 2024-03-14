@@ -23,14 +23,14 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/I_rzFahRFeE/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=I_rzFahRFeE">Why learn LUA?</a> (5 days ago) <br/>
+<a href="https://www.youtube.com/watch?v=I_rzFahRFeE">Why learn LUA?</a> (6 days ago) <br/>
 <img src="https://img.shields.io/youtube/views/I_rzFahRFeE?style=flat-square"> </img> 
 </td>
 </tr>
 <tr>
 <td><img src="https://img.youtube.com/vi/iJ_B_5W-pDA/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=iJ_B_5W-pDA">How to Use OpenAI&#39;s ChatGPT API in JavaScript</a> (1 week ago) <br/>
+<a href="https://www.youtube.com/watch?v=iJ_B_5W-pDA">How to Use OpenAI&#39;s ChatGPT API in JavaScript</a> (2 weeks ago) <br/>
 <img src="https://img.shields.io/youtube/views/iJ_B_5W-pDA?style=flat-square"> </img> 
 </td>
 </tr>
@@ -51,7 +51,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/FknaQpe9Y5s/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=FknaQpe9Y5s">React &#43; TypeScript: Best Practices Tutorial for Beginners</a> (2 months ago) <br/>
+<a href="https://www.youtube.com/watch?v=FknaQpe9Y5s">React &#43; TypeScript: Best Practices Tutorial for Beginners</a> (3 months ago) <br/>
 <img src="https://img.shields.io/youtube/views/FknaQpe9Y5s?style=flat-square"> </img> 
 </td>
 </tr>
@@ -106,7 +106,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/YFFNVEL0Blw/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=YFFNVEL0Blw">HTMX, l&#39;anti Framework JS (vs React)</a> (4 months ago) <br/>
+<a href="https://www.youtube.com/watch?v=YFFNVEL0Blw">HTMX, l&#39;anti Framework JS (vs React)</a> (5 months ago) <br/>
 <img src="https://img.shields.io/youtube/views/YFFNVEL0Blw?style=flat-square"> </img> 
 </td>
 </tr>
