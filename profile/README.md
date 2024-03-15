@@ -23,7 +23,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/I_rzFahRFeE/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=I_rzFahRFeE">Why learn LUA?</a> (6 days ago) <br/>
+<a href="https://www.youtube.com/watch?v=I_rzFahRFeE">Why learn LUA?</a> (1 week ago) <br/>
 <img src="https://img.shields.io/youtube/views/I_rzFahRFeE?style=flat-square"> </img> 
 </td>
 </tr>
@@ -37,7 +37,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/AJgkF0zfeJg/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=AJgkF0zfeJg">Fullstack Web Developer Roadmap 2024 : How I&#39;d start again:</a> (1 month ago) <br/>
+<a href="https://www.youtube.com/watch?v=AJgkF0zfeJg">Fullstack Web Developer Roadmap 2024 : How I&#39;d start again:</a> (2 months ago) <br/>
 <img src="https://img.shields.io/youtube/views/AJgkF0zfeJg?style=flat-square"> </img> 
 </td>
 </tr>
