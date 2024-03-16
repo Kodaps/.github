@@ -120,7 +120,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/pKwRMnRbWww/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=pKwRMnRbWww">React : Composants Serveur vs SSR</a> (5 months ago) <br/>
+<a href="https://www.youtube.com/watch?v=pKwRMnRbWww">React : Composants Serveur vs SSR</a> (6 months ago) <br/>
 <img src="https://img.shields.io/youtube/views/pKwRMnRbWww?style=flat-square"> </img> 
 </td>
 </tr>
