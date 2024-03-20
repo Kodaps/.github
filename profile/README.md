@@ -23,7 +23,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/4JuPQBXivaw/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=4JuPQBXivaw">Understanding React 19&#39;s Changes</a> (1 day ago) <br/>
+<a href="https://www.youtube.com/watch?v=4JuPQBXivaw">Understanding React 19&#39;s Changes</a> (2 days ago) <br/>
 <img src="https://img.shields.io/youtube/views/4JuPQBXivaw?style=flat-square"> </img> 
 </td>
 </tr>
@@ -157,7 +157,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [Kodaps/notion-parse](https://github.com/Kodaps/notion-parse) ([0.0.8](https://github.com/Kodaps/notion-parse/releases/tag/0.0.8), 3 months ago) - An NPM module for downloading and Notion content and saving it as Markdown for NextJS
+- [Kodaps/notion-parse](https://github.com/Kodaps/notion-parse) ([0.0.8](https://github.com/Kodaps/notion-parse/releases/tag/0.0.8), 4 months ago) - An NPM module for downloading and Notion content and saving it as Markdown for NextJS
 
 #### 🔨 My recent Pull Requests
 
