@@ -23,7 +23,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/4JuPQBXivaw/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=4JuPQBXivaw">Understanding React 19&#39;s Changes</a> (2 days ago) <br/>
+<a href="https://www.youtube.com/watch?v=4JuPQBXivaw">Understanding React 19&#39;s Changes</a> (3 days ago) <br/>
 <img src="https://img.shields.io/youtube/views/4JuPQBXivaw?style=flat-square"> </img> 
 </td>
 </tr>
@@ -37,7 +37,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/iJ_B_5W-pDA/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=iJ_B_5W-pDA">How to Use OpenAI&#39;s ChatGPT API in JavaScript</a> (2 weeks ago) <br/>
+<a href="https://www.youtube.com/watch?v=iJ_B_5W-pDA">How to Use OpenAI&#39;s ChatGPT API in JavaScript</a> (3 weeks ago) <br/>
 <img src="https://img.shields.io/youtube/views/iJ_B_5W-pDA?style=flat-square"> </img> 
 </td>
 </tr>
@@ -51,7 +51,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/qKtm2A_PjmU/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=qKtm2A_PjmU">v0: AI for React JS ?</a> (2 months ago) <br/>
+<a href="https://www.youtube.com/watch?v=qKtm2A_PjmU">v0: AI for React JS ?</a> (3 months ago) <br/>
 <img src="https://img.shields.io/youtube/views/qKtm2A_PjmU?style=flat-square"> </img> 
 </td>
 </tr>
@@ -99,7 +99,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/V20SdIRJQzs/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=V20SdIRJQzs">Les Runes de Svelte 5</a> (4 months ago) <br/>
+<a href="https://www.youtube.com/watch?v=V20SdIRJQzs">Les Runes de Svelte 5</a> (5 months ago) <br/>
 <img src="https://img.shields.io/youtube/views/V20SdIRJQzs?style=flat-square"> </img> 
 </td>
 </tr>
