@@ -23,7 +23,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/4JuPQBXivaw/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=4JuPQBXivaw">Understanding React 19&#39;s Changes</a> (3 weeks ago) <br/>
+<a href="https://www.youtube.com/watch?v=4JuPQBXivaw">Understanding React 19&#39;s Changes</a> (4 weeks ago) <br/>
 <img src="https://img.shields.io/youtube/views/4JuPQBXivaw?style=flat-square"> </img> 
 </td>
 </tr>
@@ -120,7 +120,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/pKwRMnRbWww/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=pKwRMnRbWww">React : Composants Serveur vs SSR</a> (6 months ago) <br/>
+<a href="https://www.youtube.com/watch?v=pKwRMnRbWww">React : Composants Serveur vs SSR</a> (7 months ago) <br/>
 <img src="https://img.shields.io/youtube/views/pKwRMnRbWww?style=flat-square"> </img> 
 </td>
 </tr>
