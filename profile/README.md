@@ -21,6 +21,13 @@
 <table>
 
 <tr>
+<td><img src="https://img.youtube.com/vi/K9vBpIq8Wck/default.jpg"></img></td>
+<td>
+<a href="https://www.youtube.com/watch?v=K9vBpIq8Wck">React vs Angular in 2024</a> (today) <br/>
+<img src="https://img.shields.io/youtube/views/K9vBpIq8Wck?style=flat-square"> </img> 
+</td>
+</tr>
+<tr>
 <td><img src="https://img.youtube.com/vi/4JuPQBXivaw/default.jpg"></img></td>
 <td>
 <a href="https://www.youtube.com/watch?v=4JuPQBXivaw">Understanding React 19&#39;s Changes</a> (4 weeks ago) <br/>
@@ -46,13 +53,6 @@
 <td>
 <a href="https://www.youtube.com/watch?v=AJgkF0zfeJg">Fullstack Web Developer Roadmap 2024 : How I&#39;d start again:</a> (3 months ago) <br/>
 <img src="https://img.shields.io/youtube/views/AJgkF0zfeJg?style=flat-square"> </img> 
-</td>
-</tr>
-<tr>
-<td><img src="https://img.youtube.com/vi/qKtm2A_PjmU/default.jpg"></img></td>
-<td>
-<a href="https://www.youtube.com/watch?v=qKtm2A_PjmU">v0: AI for React JS ?</a> (3 months ago) <br/>
-<img src="https://img.shields.io/youtube/views/qKtm2A_PjmU?style=flat-square"> </img> 
 </td>
 </tr>
 </table>
