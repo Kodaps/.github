@@ -23,7 +23,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/K9vBpIq8Wck/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=K9vBpIq8Wck">React vs Angular in 2024</a> (today) <br/>
+<a href="https://www.youtube.com/watch?v=K9vBpIq8Wck">React vs Angular in 2024</a> (1 day ago) <br/>
 <img src="https://img.shields.io/youtube/views/K9vBpIq8Wck?style=flat-square"> </img> 
 </td>
 </tr>
