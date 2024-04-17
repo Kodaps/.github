@@ -23,14 +23,14 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/K9vBpIq8Wck/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=K9vBpIq8Wck">React vs Angular in 2024</a> (1 day ago) <br/>
+<a href="https://www.youtube.com/watch?v=K9vBpIq8Wck">React vs Angular in 2024</a> (2 days ago) <br/>
 <img src="https://img.shields.io/youtube/views/K9vBpIq8Wck?style=flat-square"> </img> 
 </td>
 </tr>
 <tr>
 <td><img src="https://img.youtube.com/vi/4JuPQBXivaw/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=4JuPQBXivaw">Understanding React 19&#39;s Changes</a> (4 weeks ago) <br/>
+<a href="https://www.youtube.com/watch?v=4JuPQBXivaw">Understanding React 19&#39;s Changes</a> (1 month ago) <br/>
 <img src="https://img.shields.io/youtube/views/4JuPQBXivaw?style=flat-square"> </img> 
 </td>
 </tr>
