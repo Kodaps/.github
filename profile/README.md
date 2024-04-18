@@ -23,7 +23,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/K9vBpIq8Wck/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=K9vBpIq8Wck">React vs Angular in 2024</a> (2 days ago) <br/>
+<a href="https://www.youtube.com/watch?v=K9vBpIq8Wck">React vs Angular in 2024</a> (3 days ago) <br/>
 <img src="https://img.shields.io/youtube/views/K9vBpIq8Wck?style=flat-square"> </img> 
 </td>
 </tr>
@@ -139,7 +139,7 @@
 - [Kodaps/notion-parse](https://github.com/Kodaps/notion-parse) - An NPM module for downloading and Notion content and saving it as Markdown for NextJS (4 months ago)
 - [Kodaps/gradient-ascent](https://github.com/Kodaps/gradient-ascent) - A NextJS starter being built in public (i.e. the hard way) (4 months ago)
 - [Kodaps/nextjs-learn](https://github.com/Kodaps/nextjs-learn) -  (5 months ago)
-- [Gosev/codecrafters-redis-go](https://github.com/Gosev/codecrafters-redis-go) -  (7 months ago)
+- [Gosev/codecrafters-redis-go](https://github.com/Gosev/codecrafters-redis-go) -  (8 months ago)
 
 #### 🌱 My latest projects
 
