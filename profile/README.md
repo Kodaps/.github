@@ -23,14 +23,14 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/UggfWoeRhw0/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=UggfWoeRhw0">React vs Angular:  What Do the Latest Surveys Say? #programming #reactjs  #coding</a> (today) <br/>
+<a href="https://www.youtube.com/watch?v=UggfWoeRhw0">React vs Angular:  What Do the Latest Surveys Say? #programming #reactjs  #coding</a> (1 day ago) <br/>
 <img src="https://img.shields.io/youtube/views/UggfWoeRhw0?style=flat-square"> </img> 
 </td>
 </tr>
 <tr>
 <td><img src="https://img.youtube.com/vi/K9vBpIq8Wck/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=K9vBpIq8Wck">React vs Angular in 2024</a> (2 weeks ago) <br/>
+<a href="https://www.youtube.com/watch?v=K9vBpIq8Wck">React vs Angular in 2024</a> (3 weeks ago) <br/>
 <img src="https://img.shields.io/youtube/views/K9vBpIq8Wck?style=flat-square"> </img> 
 </td>
 </tr>
@@ -135,7 +135,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Kodaps/portfolio-example](https://github.com/Kodaps/portfolio-example) -  (4 months ago)
+- [Kodaps/portfolio-example](https://github.com/Kodaps/portfolio-example) -  (5 months ago)
 - [Kodaps/notion-parse](https://github.com/Kodaps/notion-parse) - An NPM module for downloading and Notion content and saving it as Markdown for NextJS (5 months ago)
 - [Kodaps/gradient-ascent](https://github.com/Kodaps/gradient-ascent) - A NextJS starter being built in public (i.e. the hard way) (5 months ago)
 - [Kodaps/nextjs-learn](https://github.com/Kodaps/nextjs-learn) -  (6 months ago)
