@@ -21,6 +21,13 @@
 <table>
 
 <tr>
+<td><img src="https://img.youtube.com/vi/V7zIPbxZ8Jc/default.jpg"></img></td>
+<td>
+<a href="https://www.youtube.com/watch?v=V7zIPbxZ8Jc">Rust&#39;s Origin Story #programming #coding</a> (today) <br/>
+<img src="https://img.shields.io/youtube/views/V7zIPbxZ8Jc?style=flat-square"> </img> 
+</td>
+</tr>
+<tr>
 <td><img src="https://img.youtube.com/vi/wKAsZImDtak/default.jpg"></img></td>
 <td>
 <a href="https://www.youtube.com/watch?v=wKAsZImDtak">Why does Zig pay more?</a> (1 day ago) <br/>
@@ -46,13 +53,6 @@
 <td>
 <a href="https://www.youtube.com/watch?v=4JuPQBXivaw">Understanding React 19&#39;s Changes</a> (1 month ago) <br/>
 <img src="https://img.shields.io/youtube/views/4JuPQBXivaw?style=flat-square"> </img> 
-</td>
-</tr>
-<tr>
-<td><img src="https://img.youtube.com/vi/I_rzFahRFeE/default.jpg"></img></td>
-<td>
-<a href="https://www.youtube.com/watch?v=I_rzFahRFeE">Why learn LUA?</a> (2 months ago) <br/>
-<img src="https://img.shields.io/youtube/views/I_rzFahRFeE?style=flat-square"> </img> 
 </td>
 </tr>
 </table>
