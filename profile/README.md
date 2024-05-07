@@ -23,14 +23,14 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/wKAsZImDtak/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=wKAsZImDtak">Why does Zig pay more?</a> (today) <br/>
+<a href="https://www.youtube.com/watch?v=wKAsZImDtak">Why does Zig pay more?</a> (1 day ago) <br/>
 <img src="https://img.shields.io/youtube/views/wKAsZImDtak?style=flat-square"> </img> 
 </td>
 </tr>
 <tr>
 <td><img src="https://img.youtube.com/vi/UggfWoeRhw0/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=UggfWoeRhw0">React vs Angular:  What Do the Latest Surveys Say? #programming #reactjs  #coding</a> (1 day ago) <br/>
+<a href="https://www.youtube.com/watch?v=UggfWoeRhw0">React vs Angular:  What Do the Latest Surveys Say? #programming #reactjs  #coding</a> (2 days ago) <br/>
 <img src="https://img.shields.io/youtube/views/UggfWoeRhw0?style=flat-square"> </img> 
 </td>
 </tr>
@@ -51,7 +51,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/I_rzFahRFeE/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=I_rzFahRFeE">Why learn LUA?</a> (1 month ago) <br/>
+<a href="https://www.youtube.com/watch?v=I_rzFahRFeE">Why learn LUA?</a> (2 months ago) <br/>
 <img src="https://img.shields.io/youtube/views/I_rzFahRFeE?style=flat-square"> </img> 
 </td>
 </tr>
