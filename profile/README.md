@@ -23,21 +23,21 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/V7zIPbxZ8Jc/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=V7zIPbxZ8Jc">Rust&#39;s Origin Story #programming #coding</a> (3 days ago) <br/>
+<a href="https://www.youtube.com/watch?v=V7zIPbxZ8Jc">Rust&#39;s Origin Story #programming #coding</a> (4 days ago) <br/>
 <img src="https://img.shields.io/youtube/views/V7zIPbxZ8Jc?style=flat-square"> </img> 
 </td>
 </tr>
 <tr>
 <td><img src="https://img.youtube.com/vi/wKAsZImDtak/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=wKAsZImDtak">Why does Zig pay more?</a> (4 days ago) <br/>
+<a href="https://www.youtube.com/watch?v=wKAsZImDtak">Why does Zig pay more?</a> (5 days ago) <br/>
 <img src="https://img.shields.io/youtube/views/wKAsZImDtak?style=flat-square"> </img> 
 </td>
 </tr>
 <tr>
 <td><img src="https://img.youtube.com/vi/UggfWoeRhw0/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=UggfWoeRhw0">React vs Angular:  What Do the Latest Surveys Say? #programming #reactjs  #coding</a> (5 days ago) <br/>
+<a href="https://www.youtube.com/watch?v=UggfWoeRhw0">React vs Angular:  What Do the Latest Surveys Say? #programming #reactjs  #coding</a> (6 days ago) <br/>
 <img src="https://img.shields.io/youtube/views/UggfWoeRhw0?style=flat-square"> </img> 
 </td>
 </tr>
@@ -78,7 +78,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/ySF903Ht0kM/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=ySF903Ht0kM">Go vs Rust lequel apprendre en 2024 ?</a> (5 months ago) <br/>
+<a href="https://www.youtube.com/watch?v=ySF903Ht0kM">Go vs Rust lequel apprendre en 2024 ?</a> (6 months ago) <br/>
 <img src="https://img.shields.io/youtube/views/ySF903Ht0kM?style=flat-square"> </img> 
 </td>
 </tr>
