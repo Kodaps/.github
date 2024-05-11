@@ -21,6 +21,13 @@
 <table>
 
 <tr>
+<td><img src="https://img.youtube.com/vi/kgBm0JtvJuo/default.jpg"></img></td>
+<td>
+<a href="https://www.youtube.com/watch?v=kgBm0JtvJuo">JavaScript vs Python: Which one is for you?</a> (today) <br/>
+<img src="https://img.shields.io/youtube/views/kgBm0JtvJuo?style=flat-square"> </img> 
+</td>
+</tr>
+<tr>
 <td><img src="https://img.youtube.com/vi/V7zIPbxZ8Jc/default.jpg"></img></td>
 <td>
 <a href="https://www.youtube.com/watch?v=V7zIPbxZ8Jc">Rust&#39;s Origin Story #programming #coding</a> (4 days ago) <br/>
@@ -46,13 +53,6 @@
 <td>
 <a href="https://www.youtube.com/watch?v=K9vBpIq8Wck">React vs Angular in 2024</a> (3 weeks ago) <br/>
 <img src="https://img.shields.io/youtube/views/K9vBpIq8Wck?style=flat-square"> </img> 
-</td>
-</tr>
-<tr>
-<td><img src="https://img.youtube.com/vi/4JuPQBXivaw/default.jpg"></img></td>
-<td>
-<a href="https://www.youtube.com/watch?v=4JuPQBXivaw">Understanding React 19&#39;s Changes</a> (1 month ago) <br/>
-<img src="https://img.shields.io/youtube/views/4JuPQBXivaw?style=flat-square"> </img> 
 </td>
 </tr>
 </table>
