@@ -23,14 +23,14 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/kgBm0JtvJuo/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=kgBm0JtvJuo">JavaScript vs Python: Which one is for you?</a> (today) <br/>
+<a href="https://www.youtube.com/watch?v=kgBm0JtvJuo">JavaScript vs Python: Which one is for you?</a> (1 day ago) <br/>
 <img src="https://img.shields.io/youtube/views/kgBm0JtvJuo?style=flat-square"> </img> 
 </td>
 </tr>
 <tr>
 <td><img src="https://img.youtube.com/vi/V7zIPbxZ8Jc/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=V7zIPbxZ8Jc">Rust&#39;s Origin Story #programming #coding</a> (6 days ago) <br/>
+<a href="https://www.youtube.com/watch?v=V7zIPbxZ8Jc">Rust&#39;s Origin Story #programming #coding</a> (1 week ago) <br/>
 <img src="https://img.shields.io/youtube/views/V7zIPbxZ8Jc?style=flat-square"> </img> 
 </td>
 </tr>
