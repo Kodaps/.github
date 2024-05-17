@@ -23,7 +23,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/kgBm0JtvJuo/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=kgBm0JtvJuo">JavaScript vs Python: Which one is for you?</a> (3 days ago) <br/>
+<a href="https://www.youtube.com/watch?v=kgBm0JtvJuo">JavaScript vs Python: Which one is for you?</a> (4 days ago) <br/>
 <img src="https://img.shields.io/youtube/views/kgBm0JtvJuo?style=flat-square"> </img> 
 </td>
 </tr>
