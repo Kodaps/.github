@@ -23,7 +23,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/kgBm0JtvJuo/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=kgBm0JtvJuo">JavaScript vs Python: Which one should you learn?</a> (5 days ago) <br/>
+<a href="https://www.youtube.com/watch?v=kgBm0JtvJuo">JavaScript vs Python: Which one should you learn?</a> (6 days ago) <br/>
 <img src="https://img.shields.io/youtube/views/kgBm0JtvJuo?style=flat-square"> </img> 
 </td>
 </tr>
@@ -44,7 +44,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/UggfWoeRhw0/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=UggfWoeRhw0">React vs Angular:  What Do the Latest Surveys Say? #programming #reactjs  #coding</a> (1 week ago) <br/>
+<a href="https://www.youtube.com/watch?v=UggfWoeRhw0">React vs Angular:  What Do the Latest Surveys Say? #programming #reactjs  #coding</a> (2 weeks ago) <br/>
 <img src="https://img.shields.io/youtube/views/UggfWoeRhw0?style=flat-square"> </img> 
 </td>
 </tr>
@@ -157,7 +157,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [Kodaps/notion-parse](https://github.com/Kodaps/notion-parse) ([0.0.8](https://github.com/Kodaps/notion-parse/releases/tag/0.0.8), 5 months ago) - An NPM module for downloading and Notion content and saving it as Markdown for NextJS
+- [Kodaps/notion-parse](https://github.com/Kodaps/notion-parse) ([0.0.8](https://github.com/Kodaps/notion-parse/releases/tag/0.0.8), 6 months ago) - An NPM module for downloading and Notion content and saving it as Markdown for NextJS
 
 #### 🔨 My recent Pull Requests
 
