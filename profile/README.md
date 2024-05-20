@@ -23,14 +23,14 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/Fceni6cdYOk/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=Fceni6cdYOk">Drizzle vs Prisma: Which ORM is right for YOU?</a> (today) <br/>
+<a href="https://www.youtube.com/watch?v=Fceni6cdYOk">Drizzle vs Prisma: Which ORM is right for YOU?</a> (1 day ago) <br/>
 <img src="https://img.shields.io/youtube/views/Fceni6cdYOk?style=flat-square"> </img> 
 </td>
 </tr>
 <tr>
 <td><img src="https://img.youtube.com/vi/kgBm0JtvJuo/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=kgBm0JtvJuo">JavaScript vs Python: Which do you NEED?</a> (6 days ago) <br/>
+<a href="https://www.youtube.com/watch?v=kgBm0JtvJuo">JavaScript vs Python: Which do you NEED?</a> (1 week ago) <br/>
 <img src="https://img.shields.io/youtube/views/kgBm0JtvJuo?style=flat-square"> </img> 
 </td>
 </tr>
@@ -44,7 +44,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/wKAsZImDtak/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=wKAsZImDtak">Why does Zig pay more?</a> (1 week ago) <br/>
+<a href="https://www.youtube.com/watch?v=wKAsZImDtak">Why does Zig pay more?</a> (2 weeks ago) <br/>
 <img src="https://img.shields.io/youtube/views/wKAsZImDtak?style=flat-square"> </img> 
 </td>
 </tr>
@@ -99,7 +99,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/V20SdIRJQzs/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=V20SdIRJQzs">Les Runes de Svelte 5</a> (6 months ago) <br/>
+<a href="https://www.youtube.com/watch?v=V20SdIRJQzs">Les Runes de Svelte 5</a> (7 months ago) <br/>
 <img src="https://img.shields.io/youtube/views/V20SdIRJQzs?style=flat-square"> </img> 
 </td>
 </tr>
