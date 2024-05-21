@@ -23,7 +23,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/Fceni6cdYOk/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=Fceni6cdYOk">Drizzle vs Prisma: Which ORM is right for YOU?</a> (today) <br/>
+<a href="https://www.youtube.com/watch?v=Fceni6cdYOk">Drizzle vs Prisma: Which ORM is right for YOU?</a> (1 day ago) <br/>
 <img src="https://img.shields.io/youtube/views/Fceni6cdYOk?style=flat-square"> </img> 
 </td>
 </tr>
@@ -37,7 +37,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/V7zIPbxZ8Jc/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=V7zIPbxZ8Jc">Rust&#39;s Origin Story #programming #coding</a> (1 week ago) <br/>
+<a href="https://www.youtube.com/watch?v=V7zIPbxZ8Jc">Rust&#39;s Origin Story #programming #coding</a> (2 weeks ago) <br/>
 <img src="https://img.shields.io/youtube/views/V7zIPbxZ8Jc?style=flat-square"> </img> 
 </td>
 </tr>
@@ -71,7 +71,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/A7SLY_bOVeA/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=A7SLY_bOVeA">Cet Outil REVOLUTIONNE Markdown!</a> (5 months ago) <br/>
+<a href="https://www.youtube.com/watch?v=A7SLY_bOVeA">Cet Outil REVOLUTIONNE Markdown!</a> (6 months ago) <br/>
 <img src="https://img.shields.io/youtube/views/A7SLY_bOVeA?style=flat-square"> </img> 
 </td>
 </tr>
@@ -137,7 +137,7 @@
 
 - [Kodaps/portfolio-example](https://github.com/Kodaps/portfolio-example) -  (5 months ago)
 - [Kodaps/notion-parse](https://github.com/Kodaps/notion-parse) - An NPM module for downloading and Notion content and saving it as Markdown for NextJS (5 months ago)
-- [Kodaps/gradient-ascent](https://github.com/Kodaps/gradient-ascent) - A NextJS starter being built in public (i.e. the hard way) (5 months ago)
+- [Kodaps/gradient-ascent](https://github.com/Kodaps/gradient-ascent) - A NextJS starter being built in public (i.e. the hard way) (6 months ago)
 - [Kodaps/nextjs-learn](https://github.com/Kodaps/nextjs-learn) -  (6 months ago)
 - [Gosev/codecrafters-redis-go](https://github.com/Gosev/codecrafters-redis-go) -  (9 months ago)
 
