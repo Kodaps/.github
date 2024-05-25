@@ -23,7 +23,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/Fceni6cdYOk/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=Fceni6cdYOk">Drizzle vs Prisma: Which ORM is right for YOU?</a> (4 days ago) <br/>
+<a href="https://www.youtube.com/watch?v=Fceni6cdYOk">Drizzle vs Prisma: Which ORM is right for YOU?</a> (5 days ago) <br/>
 <img src="https://img.shields.io/youtube/views/Fceni6cdYOk?style=flat-square"> </img> 
 </td>
 </tr>
@@ -136,7 +136,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [Kodaps/portfolio-example](https://github.com/Kodaps/portfolio-example) -  (5 months ago)
-- [Kodaps/notion-parse](https://github.com/Kodaps/notion-parse) - An NPM module for downloading and Notion content and saving it as Markdown for NextJS (5 months ago)
+- [Kodaps/notion-parse](https://github.com/Kodaps/notion-parse) - An NPM module for downloading and Notion content and saving it as Markdown for NextJS (6 months ago)
 - [Kodaps/gradient-ascent](https://github.com/Kodaps/gradient-ascent) - A NextJS starter being built in public (i.e. the hard way) (6 months ago)
 - [Kodaps/nextjs-learn](https://github.com/Kodaps/nextjs-learn) -  (6 months ago)
 - [Gosev/codecrafters-redis-go](https://github.com/Gosev/codecrafters-redis-go) -  (9 months ago)
