@@ -23,7 +23,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/Fceni6cdYOk/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=Fceni6cdYOk">Drizzle vs Prisma: Which ORM is right for YOU?</a> (5 days ago) <br/>
+<a href="https://www.youtube.com/watch?v=Fceni6cdYOk">Drizzle vs Prisma: Which ORM is right for YOU?</a> (6 days ago) <br/>
 <img src="https://img.shields.io/youtube/views/Fceni6cdYOk?style=flat-square"> </img> 
 </td>
 </tr>
@@ -51,7 +51,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/UggfWoeRhw0/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=UggfWoeRhw0">React vs Angular:  What Do the Latest Surveys Say? #programming #reactjs  #coding</a> (2 weeks ago) <br/>
+<a href="https://www.youtube.com/watch?v=UggfWoeRhw0">React vs Angular:  What Do the Latest Surveys Say? #programming #reactjs  #coding</a> (3 weeks ago) <br/>
 <img src="https://img.shields.io/youtube/views/UggfWoeRhw0?style=flat-square"> </img> 
 </td>
 </tr>
