@@ -23,7 +23,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/_YRmI-MasEA/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=_YRmI-MasEA">React vs HTMX: Why we chose HTMX?</a> (today) <br/>
+<a href="https://www.youtube.com/watch?v=_YRmI-MasEA">React vs HTMX: Why we chose HTMX?</a> (1 day ago) <br/>
 <img src="https://img.shields.io/youtube/views/_YRmI-MasEA?style=flat-square"> </img> 
 </td>
 </tr>
@@ -44,7 +44,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/V7zIPbxZ8Jc/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=V7zIPbxZ8Jc">Rust&#39;s Origin Story #programming #coding</a> (2 weeks ago) <br/>
+<a href="https://www.youtube.com/watch?v=V7zIPbxZ8Jc">Rust&#39;s Origin Story #programming #coding</a> (3 weeks ago) <br/>
 <img src="https://img.shields.io/youtube/views/V7zIPbxZ8Jc?style=flat-square"> </img> 
 </td>
 </tr>
@@ -173,7 +173,7 @@
 
 #### ⭐ Recent Stars
 
-- [opentofu/manifesto](https://github.com/opentofu/manifesto) - The OpenTF Manifesto expresses concern over HashiCorp&#39;s switch of the Terraform license from open-source to the Business Source License (BSL) and calls for the tool&#39;s return to a truly open-source license. (8 months ago)
+- [opentofu/manifesto](https://github.com/opentofu/manifesto) - The OpenTF Manifesto expresses concern over HashiCorp&#39;s switch of the Terraform license from open-source to the Business Source License (BSL) and calls for the tool&#39;s return to a truly open-source license. (9 months ago)
 - [onwidget/astrowind](https://github.com/onwidget/astrowind) - ⭕️ AstroWind: A free template using Astro 4.0 and Tailwind CSS. Astro starter theme. (2 years ago)
 - [coronalabs/CoronaViewer](https://github.com/coronalabs/CoronaViewer) - CoronaViewer for SDK/Enterprise (9 years ago)
 - [Gosev/Jump](https://github.com/Gosev/Jump) - Jump website (12 years ago)
