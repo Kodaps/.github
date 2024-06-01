@@ -23,7 +23,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/_YRmI-MasEA/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=_YRmI-MasEA">React vs HTMX: Why we chose HTMX?</a> (4 days ago) <br/>
+<a href="https://www.youtube.com/watch?v=_YRmI-MasEA">React vs HTMX: Why we chose HTMX?</a> (5 days ago) <br/>
 <img src="https://img.shields.io/youtube/views/_YRmI-MasEA?style=flat-square"> </img> 
 </td>
 </tr>
