@@ -21,6 +21,13 @@
 <table>
 
 <tr>
+<td><img src="https://img.youtube.com/vi/VNUSttj8QQc/default.jpg"></img></td>
+<td>
+<a href="https://www.youtube.com/watch?v=VNUSttj8QQc">SolidStart : Breaking NextJS’s Mold</a> (today) <br/>
+<img src="https://img.shields.io/youtube/views/VNUSttj8QQc?style=flat-square"> </img> 
+</td>
+</tr>
+<tr>
 <td><img src="https://img.youtube.com/vi/_YRmI-MasEA/default.jpg"></img></td>
 <td>
 <a href="https://www.youtube.com/watch?v=_YRmI-MasEA">React vs HTMX: Why we chose HTMX?</a> (1 week ago) <br/>
@@ -46,13 +53,6 @@
 <td>
 <a href="https://www.youtube.com/watch?v=V7zIPbxZ8Jc">Rust&#39;s Origin Story #programming #coding</a> (1 month ago) <br/>
 <img src="https://img.shields.io/youtube/views/V7zIPbxZ8Jc?style=flat-square"> </img> 
-</td>
-</tr>
-<tr>
-<td><img src="https://img.youtube.com/vi/wKAsZImDtak/default.jpg"></img></td>
-<td>
-<a href="https://www.youtube.com/watch?v=wKAsZImDtak">Why does Zig pay more?</a> (1 month ago) <br/>
-<img src="https://img.shields.io/youtube/views/wKAsZImDtak?style=flat-square"> </img> 
 </td>
 </tr>
 </table>
