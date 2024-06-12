@@ -23,7 +23,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/VNUSttj8QQc/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=VNUSttj8QQc">SolidStart : Breaking NextJS’s Mold</a> (1 day ago) <br/>
+<a href="https://www.youtube.com/watch?v=VNUSttj8QQc">SolidStart : Breaking NextJS’s Mold</a> (2 days ago) <br/>
 <img src="https://img.shields.io/youtube/views/VNUSttj8QQc?style=flat-square"> </img> 
 </td>
 </tr>
@@ -44,7 +44,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/kgBm0JtvJuo/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=kgBm0JtvJuo">JavaScript vs Python: Which do you NEED?</a> (4 weeks ago) <br/>
+<a href="https://www.youtube.com/watch?v=kgBm0JtvJuo">JavaScript vs Python: Which do you NEED?</a> (1 month ago) <br/>
 <img src="https://img.shields.io/youtube/views/kgBm0JtvJuo?style=flat-square"> </img> 
 </td>
 </tr>
@@ -106,7 +106,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/YFFNVEL0Blw/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=YFFNVEL0Blw">HTMX, l&#39;anti Framework JS (vs React)</a> (7 months ago) <br/>
+<a href="https://www.youtube.com/watch?v=YFFNVEL0Blw">HTMX, l&#39;anti Framework JS (vs React)</a> (8 months ago) <br/>
 <img src="https://img.shields.io/youtube/views/YFFNVEL0Blw?style=flat-square"> </img> 
 </td>
 </tr>
