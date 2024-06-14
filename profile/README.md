@@ -23,7 +23,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/VNUSttj8QQc/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=VNUSttj8QQc">SolidStart : Breaking NextJS’s Mold</a> (3 days ago) <br/>
+<a href="https://www.youtube.com/watch?v=VNUSttj8QQc">SolidStart : Breaking NextJS’s Mold</a> (4 days ago) <br/>
 <img src="https://img.shields.io/youtube/views/VNUSttj8QQc?style=flat-square"> </img> 
 </td>
 </tr>
@@ -120,7 +120,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/pKwRMnRbWww/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=pKwRMnRbWww">React : Composants Serveur vs SSR</a> (8 months ago) <br/>
+<a href="https://www.youtube.com/watch?v=pKwRMnRbWww">React : Composants Serveur vs SSR</a> (9 months ago) <br/>
 <img src="https://img.shields.io/youtube/views/pKwRMnRbWww?style=flat-square"> </img> 
 </td>
 </tr>
