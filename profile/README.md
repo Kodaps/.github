@@ -157,7 +157,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [Kodaps/notion-parse](https://github.com/Kodaps/notion-parse) ([0.0.8](https://github.com/Kodaps/notion-parse/releases/tag/0.0.8), 6 months ago) - An NPM module for downloading and Notion content and saving it as Markdown for NextJS
+- [Kodaps/notion-parse](https://github.com/Kodaps/notion-parse) ([0.0.8](https://github.com/Kodaps/notion-parse/releases/tag/0.0.8), 7 months ago) - An NPM module for downloading and Notion content and saving it as Markdown for NextJS
 
 #### 🔨 My recent Pull Requests
 
