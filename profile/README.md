@@ -23,7 +23,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/goQiRVEKACE/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=goQiRVEKACE">9 Essential VS Code Extensions</a> (today) <br/>
+<a href="https://www.youtube.com/watch?v=goQiRVEKACE">9 Essential VS Code Extensions</a> (1 day ago) <br/>
 <img src="https://img.shields.io/youtube/views/goQiRVEKACE?style=flat-square"> </img> 
 </td>
 </tr>
@@ -44,7 +44,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/Fceni6cdYOk/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=Fceni6cdYOk">Drizzle vs Prisma: Which ORM is right for YOU?</a> (4 weeks ago) <br/>
+<a href="https://www.youtube.com/watch?v=Fceni6cdYOk">Drizzle vs Prisma: Which ORM is right for YOU?</a> (1 month ago) <br/>
 <img src="https://img.shields.io/youtube/views/Fceni6cdYOk?style=flat-square"> </img> 
 </td>
 </tr>
@@ -99,7 +99,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/V20SdIRJQzs/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=V20SdIRJQzs">Les Runes de Svelte 5</a> (7 months ago) <br/>
+<a href="https://www.youtube.com/watch?v=V20SdIRJQzs">Les Runes de Svelte 5</a> (8 months ago) <br/>
 <img src="https://img.shields.io/youtube/views/V20SdIRJQzs?style=flat-square"> </img> 
 </td>
 </tr>
