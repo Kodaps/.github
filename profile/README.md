@@ -23,7 +23,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/goQiRVEKACE/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=goQiRVEKACE">9 Essential VS Code Extensions</a> (1 day ago) <br/>
+<a href="https://www.youtube.com/watch?v=goQiRVEKACE">9 Essential VS Code Extensions (and The Problems They Solve)</a> (1 day ago) <br/>
 <img src="https://img.shields.io/youtube/views/goQiRVEKACE?style=flat-square"> </img> 
 </td>
 </tr>
