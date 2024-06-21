@@ -23,7 +23,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/goQiRVEKACE/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=goQiRVEKACE">9 Essential VS Code Extensions (and The Problems They Solve)</a> (2 days ago) <br/>
+<a href="https://www.youtube.com/watch?v=goQiRVEKACE">9 Essential VS Code Extensions (and The Problems They Solve)</a> (3 days ago) <br/>
 <img src="https://img.shields.io/youtube/views/goQiRVEKACE?style=flat-square"> </img> 
 </td>
 </tr>
@@ -161,7 +161,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Update instructions.md to specify the error](https://github.com/exercism/lua/pull/388) on [exercism/lua](https://github.com/exercism/lua) (9 months ago)
+- [Update instructions.md to specify the error](https://github.com/exercism/lua/pull/388) on [exercism/lua](https://github.com/exercism/lua) (10 months ago)
 
 
 #### 📓 Gists I wrote
