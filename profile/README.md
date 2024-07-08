@@ -30,7 +30,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/VNUSttj8QQc/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=VNUSttj8QQc">SolidStart : Breaking NextJS’s Mold</a> (3 weeks ago) <br/>
+<a href="https://www.youtube.com/watch?v=VNUSttj8QQc">SolidStart : Breaking NextJS’s Mold</a> (4 weeks ago) <br/>
 <img src="https://img.shields.io/youtube/views/VNUSttj8QQc?style=flat-square"> </img> 
 </td>
 </tr>
