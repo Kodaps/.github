@@ -139,7 +139,7 @@
 - [Kodaps/notion-parse](https://github.com/Kodaps/notion-parse) - An NPM module for downloading and Notion content and saving it as Markdown for NextJS (7 months ago)
 - [Kodaps/gradient-ascent](https://github.com/Kodaps/gradient-ascent) - A NextJS starter being built in public (i.e. the hard way) (7 months ago)
 - [Kodaps/nextjs-learn](https://github.com/Kodaps/nextjs-learn) -  (8 months ago)
-- [Gosev/codecrafters-redis-go](https://github.com/Gosev/codecrafters-redis-go) -  (10 months ago)
+- [Gosev/codecrafters-redis-go](https://github.com/Gosev/codecrafters-redis-go) -  (11 months ago)
 
 #### 🌱 My latest projects
 
