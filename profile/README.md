@@ -21,6 +21,27 @@
 <table>
 
 <tr>
+<td><img src="https://img.youtube.com/vi/NpFzOCrpN3A/default.jpg"></img></td>
+<td>
+<a href="https://www.youtube.com/watch?v=NpFzOCrpN3A">Understanding ACID Rules | SQL vs NoSQL (1/3)</a> (today) <br/>
+<img src="https://img.shields.io/youtube/views/NpFzOCrpN3A?style=flat-square"> </img> 
+</td>
+</tr>
+<tr>
+<td><img src="https://img.youtube.com/vi/9JHrL0UWrWs/default.jpg"></img></td>
+<td>
+<a href="https://www.youtube.com/watch?v=9JHrL0UWrWs">Understanding NoSQL vs SQL (via Redis, MongoDB, DynamoDB)</a> (1 day ago) <br/>
+<img src="https://img.shields.io/youtube/views/9JHrL0UWrWs?style=flat-square"> </img> 
+</td>
+</tr>
+<tr>
+<td><img src="https://img.youtube.com/vi/w78TfcemGdc/default.jpg"></img></td>
+<td>
+<a href="https://www.youtube.com/watch?v=w78TfcemGdc">Why Database Normalisation? | NoSQL vs SQL (2/3)</a> (1 day ago) <br/>
+<img src="https://img.shields.io/youtube/views/w78TfcemGdc?style=flat-square"> </img> 
+</td>
+</tr>
+<tr>
 <td><img src="https://img.youtube.com/vi/goQiRVEKACE/default.jpg"></img></td>
 <td>
 <a href="https://www.youtube.com/watch?v=goQiRVEKACE">9 Essential VS Code Extensions (and The Problems They Solve)</a> (1 month ago) <br/>
@@ -32,27 +53,6 @@
 <td>
 <a href="https://www.youtube.com/watch?v=VNUSttj8QQc">SolidStart : Breaking NextJS’s Mold</a> (1 month ago) <br/>
 <img src="https://img.shields.io/youtube/views/VNUSttj8QQc?style=flat-square"> </img> 
-</td>
-</tr>
-<tr>
-<td><img src="https://img.youtube.com/vi/_YRmI-MasEA/default.jpg"></img></td>
-<td>
-<a href="https://www.youtube.com/watch?v=_YRmI-MasEA">React vs HTMX: Why we chose HTMX?</a> (2 months ago) <br/>
-<img src="https://img.shields.io/youtube/views/_YRmI-MasEA?style=flat-square"> </img> 
-</td>
-</tr>
-<tr>
-<td><img src="https://img.youtube.com/vi/Fceni6cdYOk/default.jpg"></img></td>
-<td>
-<a href="https://www.youtube.com/watch?v=Fceni6cdYOk">Drizzle vs Prisma: Which ORM is right for YOU?</a> (2 months ago) <br/>
-<img src="https://img.shields.io/youtube/views/Fceni6cdYOk?style=flat-square"> </img> 
-</td>
-</tr>
-<tr>
-<td><img src="https://img.youtube.com/vi/kgBm0JtvJuo/default.jpg"></img></td>
-<td>
-<a href="https://www.youtube.com/watch?v=kgBm0JtvJuo">JavaScript vs Python: Which do you NEED?</a> (2 months ago) <br/>
-<img src="https://img.shields.io/youtube/views/kgBm0JtvJuo?style=flat-square"> </img> 
 </td>
 </tr>
 </table>
