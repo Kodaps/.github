@@ -23,21 +23,21 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/w78TfcemGdc/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=w78TfcemGdc">Why Database Normalisation? | NoSQL vs SQL (2/3)</a> (2 days ago) <br/>
+<a href="https://www.youtube.com/watch?v=w78TfcemGdc">Why Database Normalisation? | NoSQL vs SQL (2/3)</a> (3 days ago) <br/>
 <img src="https://img.shields.io/youtube/views/w78TfcemGdc?style=flat-square"> </img> 
 </td>
 </tr>
 <tr>
 <td><img src="https://img.youtube.com/vi/NpFzOCrpN3A/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=NpFzOCrpN3A">Understanding ACID Rules | SQL vs NoSQL (1/3)</a> (4 days ago) <br/>
+<a href="https://www.youtube.com/watch?v=NpFzOCrpN3A">Understanding ACID Rules | SQL vs NoSQL (1/3)</a> (5 days ago) <br/>
 <img src="https://img.shields.io/youtube/views/NpFzOCrpN3A?style=flat-square"> </img> 
 </td>
 </tr>
 <tr>
 <td><img src="https://img.youtube.com/vi/9JHrL0UWrWs/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=9JHrL0UWrWs">Understanding NoSQL vs SQL (via Redis, MongoDB, DynamoDB)</a> (5 days ago) <br/>
+<a href="https://www.youtube.com/watch?v=9JHrL0UWrWs">Understanding NoSQL vs SQL (via Redis, MongoDB, DynamoDB)</a> (6 days ago) <br/>
 <img src="https://img.shields.io/youtube/views/9JHrL0UWrWs?style=flat-square"> </img> 
 </td>
 </tr>
@@ -85,7 +85,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/z-XsuazXz14/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=z-XsuazXz14">Next Js Learn : Que Vaut Le Tuto Officiel?</a> (8 months ago) <br/>
+<a href="https://www.youtube.com/watch?v=z-XsuazXz14">Next Js Learn : Que Vaut Le Tuto Officiel?</a> (9 months ago) <br/>
 <img src="https://img.shields.io/youtube/views/z-XsuazXz14?style=flat-square"> </img> 
 </td>
 </tr>
@@ -135,7 +135,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Kodaps/notion-parse](https://github.com/Kodaps/notion-parse) - An NPM module for downloading and Notion content and saving it as Markdown for NextJS (5 days ago)
+- [Kodaps/notion-parse](https://github.com/Kodaps/notion-parse) - An NPM module for downloading and Notion content and saving it as Markdown for NextJS (6 days ago)
 - [Kodaps/portfolio-example](https://github.com/Kodaps/portfolio-example) -  (7 months ago)
 - [Kodaps/gradient-ascent](https://github.com/Kodaps/gradient-ascent) - A NextJS starter being built in public (i.e. the hard way) (8 months ago)
 - [Kodaps/nextjs-learn](https://github.com/Kodaps/nextjs-learn) -  (9 months ago)
