@@ -23,14 +23,14 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/w78TfcemGdc/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=w78TfcemGdc">Why Database Normalisation? | NoSQL vs SQL (2/3)</a> (4 days ago) <br/>
+<a href="https://www.youtube.com/watch?v=w78TfcemGdc">Why Database Normalisation? | NoSQL vs SQL (2/3)</a> (5 days ago) <br/>
 <img src="https://img.shields.io/youtube/views/w78TfcemGdc?style=flat-square"> </img> 
 </td>
 </tr>
 <tr>
 <td><img src="https://img.youtube.com/vi/NpFzOCrpN3A/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=NpFzOCrpN3A">Understanding ACID Rules | SQL vs NoSQL (1/3)</a> (6 days ago) <br/>
+<a href="https://www.youtube.com/watch?v=NpFzOCrpN3A">Understanding ACID Rules | SQL vs NoSQL (1/3)</a> (1 week ago) <br/>
 <img src="https://img.shields.io/youtube/views/NpFzOCrpN3A?style=flat-square"> </img> 
 </td>
 </tr>
