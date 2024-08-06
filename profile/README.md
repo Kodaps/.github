@@ -23,14 +23,14 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/9JHrL0UWrWs/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=9JHrL0UWrWs">Understanding NoSQL vs SQL (via Redis, MongoDB, DynamoDB)</a> (today) <br/>
+<a href="https://www.youtube.com/watch?v=9JHrL0UWrWs">Understanding NoSQL vs SQL (via Redis, MongoDB, DynamoDB)</a> (1 day ago) <br/>
 <img src="https://img.shields.io/youtube/views/9JHrL0UWrWs?style=flat-square"> </img> 
 </td>
 </tr>
 <tr>
 <td><img src="https://img.youtube.com/vi/w78TfcemGdc/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=w78TfcemGdc">Why Database Normalisation? | NoSQL vs SQL (2/3)</a> (5 days ago) <br/>
+<a href="https://www.youtube.com/watch?v=w78TfcemGdc">Why Database Normalisation? | NoSQL vs SQL (2/3)</a> (6 days ago) <br/>
 <img src="https://img.shields.io/youtube/views/w78TfcemGdc?style=flat-square"> </img> 
 </td>
 </tr>
