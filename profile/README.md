@@ -23,7 +23,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/9JHrL0UWrWs/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=9JHrL0UWrWs">Understanding NoSQL vs SQL (via Redis, MongoDB, DynamoDB)</a> (4 days ago) <br/>
+<a href="https://www.youtube.com/watch?v=9JHrL0UWrWs">Understanding NoSQL vs SQL (via Redis, MongoDB, DynamoDB)</a> (5 days ago) <br/>
 <img src="https://img.shields.io/youtube/views/9JHrL0UWrWs?style=flat-square"> </img> 
 </td>
 </tr>
