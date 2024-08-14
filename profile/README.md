@@ -30,7 +30,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/w78TfcemGdc/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=w78TfcemGdc">Why Database Normalisation? | NoSQL vs SQL (2/3)</a> (1 week ago) <br/>
+<a href="https://www.youtube.com/watch?v=w78TfcemGdc">Why Database Normalisation? | NoSQL vs SQL (2/3)</a> (2 weeks ago) <br/>
 <img src="https://img.shields.io/youtube/views/w78TfcemGdc?style=flat-square"> </img> 
 </td>
 </tr>
@@ -135,7 +135,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Kodaps/gradient-ascent](https://github.com/Kodaps/gradient-ascent) - A NextJS starter being built in public (i.e. the hard way) (today)
+- [Kodaps/gradient-ascent](https://github.com/Kodaps/gradient-ascent) - A NextJS starter being built in public (i.e. the hard way) (1 day ago)
 - [Kodaps/notion-parse](https://github.com/Kodaps/notion-parse) - An NPM module for downloading and Notion content and saving it as Markdown for NextJS (2 weeks ago)
 - [Kodaps/portfolio-example](https://github.com/Kodaps/portfolio-example) -  (8 months ago)
 - [Kodaps/nextjs-learn](https://github.com/Kodaps/nextjs-learn) -  (9 months ago)
