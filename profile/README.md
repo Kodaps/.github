@@ -44,7 +44,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/goQiRVEKACE/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=goQiRVEKACE">9 Essential VS Code Extensions (and The Problems They Solve)</a> (1 month ago) <br/>
+<a href="https://www.youtube.com/watch?v=goQiRVEKACE">9 Essential VS Code Extensions (and The Problems They Solve)</a> (2 months ago) <br/>
 <img src="https://img.shields.io/youtube/views/goQiRVEKACE?style=flat-square"> </img> 
 </td>
 </tr>
@@ -135,7 +135,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Kodaps/gradient-ascent](https://github.com/Kodaps/gradient-ascent) - A NextJS starter being built in public (i.e. the hard way) (1 day ago)
+- [Kodaps/gradient-ascent](https://github.com/Kodaps/gradient-ascent) - A NextJS starter being built in public (i.e. the hard way) (2 days ago)
 - [Kodaps/notion-parse](https://github.com/Kodaps/notion-parse) - An NPM module for downloading and Notion content and saving it as Markdown for NextJS (2 weeks ago)
 - [Kodaps/portfolio-example](https://github.com/Kodaps/portfolio-example) -  (8 months ago)
 - [Kodaps/nextjs-learn](https://github.com/Kodaps/nextjs-learn) -  (9 months ago)
@@ -157,7 +157,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [Kodaps/notion-parse](https://github.com/Kodaps/notion-parse) ([0.0.8](https://github.com/Kodaps/notion-parse/releases/tag/0.0.8), 8 months ago) - An NPM module for downloading and Notion content and saving it as Markdown for NextJS
+- [Kodaps/notion-parse](https://github.com/Kodaps/notion-parse) ([0.0.8](https://github.com/Kodaps/notion-parse/releases/tag/0.0.8), 9 months ago) - An NPM module for downloading and Notion content and saving it as Markdown for NextJS
 
 #### 🔨 My recent Pull Requests
 
