@@ -23,7 +23,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/9JHrL0UWrWs/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=9JHrL0UWrWs">Understanding NoSQL vs SQL (via Redis, MongoDB, DynamoDB)</a> (2 weeks ago) <br/>
+<a href="https://www.youtube.com/watch?v=9JHrL0UWrWs">Understanding NoSQL vs SQL (via Redis, MongoDB, DynamoDB)</a> (3 weeks ago) <br/>
 <img src="https://img.shields.io/youtube/views/9JHrL0UWrWs?style=flat-square"> </img> 
 </td>
 </tr>
@@ -37,7 +37,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/NpFzOCrpN3A/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=NpFzOCrpN3A">Understanding ACID Rules | SQL vs NoSQL (1/3)</a> (3 weeks ago) <br/>
+<a href="https://www.youtube.com/watch?v=NpFzOCrpN3A">Understanding ACID Rules | SQL vs NoSQL (1/3)</a> (4 weeks ago) <br/>
 <img src="https://img.shields.io/youtube/views/NpFzOCrpN3A?style=flat-square"> </img> 
 </td>
 </tr>
@@ -135,7 +135,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Kodaps/image-resize-cdn](https://github.com/Kodaps/image-resize-cdn) -  (6 days ago)
+- [Kodaps/image-resize-cdn](https://github.com/Kodaps/image-resize-cdn) -  (1 week ago)
 - [Kodaps/gradient-ascent](https://github.com/Kodaps/gradient-ascent) - A NextJS starter being built in public (i.e. the hard way) (1 week ago)
 - [Kodaps/notion-parse](https://github.com/Kodaps/notion-parse) - An NPM module for downloading and Notion content and saving it as Markdown for NextJS (4 weeks ago)
 - [Kodaps/portfolio-example](https://github.com/Kodaps/portfolio-example) -  (8 months ago)
@@ -174,7 +174,7 @@
 
 #### ⭐ Recent Stars
 
-- [opentofu/manifesto](https://github.com/opentofu/manifesto) - The OpenTF Manifesto expresses concern over HashiCorp&#39;s switch of the Terraform license from open-source to the Business Source License (BSL) and calls for the tool&#39;s return to a truly open-source license. (11 months ago)
+- [opentofu/manifesto](https://github.com/opentofu/manifesto) - The OpenTF Manifesto expresses concern over HashiCorp&#39;s switch of the Terraform license from open-source to the Business Source License (BSL) and calls for the tool&#39;s return to a truly open-source license. (1 year ago)
 - [onwidget/astrowind](https://github.com/onwidget/astrowind) - ⭕️ AstroWind: A free template using Astro 4.0 and Tailwind CSS. Astro starter theme. (2 years ago)
 - [coronalabs/CoronaViewer](https://github.com/coronalabs/CoronaViewer) - CoronaViewer for SDK/Enterprise (10 years ago)
 - [Gosev/Jump](https://github.com/Gosev/Jump) - Jump website (12 years ago)
