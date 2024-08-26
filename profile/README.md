@@ -140,7 +140,6 @@
 - [Kodaps/notion-parse](https://github.com/Kodaps/notion-parse) - An NPM module for downloading and Notion content and saving it as Markdown for NextJS (4 weeks ago)
 - [Kodaps/portfolio-example](https://github.com/Kodaps/portfolio-example) -  (8 months ago)
 - [Kodaps/nextjs-learn](https://github.com/Kodaps/nextjs-learn) -  (10 months ago)
-- [Gosev/codecrafters-redis-go](https://github.com/Gosev/codecrafters-redis-go) -  (1 year ago)
 
 #### 🌱 My latest projects
 
