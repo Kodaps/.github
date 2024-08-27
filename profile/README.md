@@ -23,7 +23,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/cM3DDnEioMY/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=cM3DDnEioMY">JavaScript For Beginners: Understanding Scopes &amp; Closures</a> (2 days ago) <br/>
+<a href="https://www.youtube.com/watch?v=cM3DDnEioMY">JavaScript For Beginners: Understanding Scopes &amp; Closures</a> (today) <br/>
 <img src="https://img.shields.io/youtube/views/cM3DDnEioMY?style=flat-square"> </img> 
 </td>
 </tr>
