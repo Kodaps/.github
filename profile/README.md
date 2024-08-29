@@ -23,7 +23,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/cM3DDnEioMY/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=cM3DDnEioMY">JavaScript Fundamentals: Scopes &amp; Closures</a> (1 day ago) <br/>
+<a href="https://www.youtube.com/watch?v=cM3DDnEioMY">JavaScript Fundamentals: Scopes &amp; Closures</a> (2 days ago) <br/>
 <img src="https://img.shields.io/youtube/views/cM3DDnEioMY?style=flat-square"> </img> 
 </td>
 </tr>
@@ -136,7 +136,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [Kodaps/image-resize-cdn](https://github.com/Kodaps/image-resize-cdn) -  (1 week ago)
-- [Kodaps/gradient-ascent](https://github.com/Kodaps/gradient-ascent) - A NextJS starter being built in public (i.e. the hard way) (1 week ago)
+- [Kodaps/gradient-ascent](https://github.com/Kodaps/gradient-ascent) - A NextJS starter being built in public (i.e. the hard way) (2 weeks ago)
 - [Kodaps/notion-parse](https://github.com/Kodaps/notion-parse) - An NPM module for downloading and Notion content and saving it as Markdown for NextJS (1 month ago)
 - [Kodaps/portfolio-example](https://github.com/Kodaps/portfolio-example) -  (8 months ago)
 - [Kodaps/nextjs-learn](https://github.com/Kodaps/nextjs-learn) -  (10 months ago)
