@@ -21,6 +21,13 @@
 <table>
 
 <tr>
+<td><img src="https://img.youtube.com/vi/RKdyR25-_yE/default.jpg"></img></td>
+<td>
+<a href="https://www.youtube.com/watch?v=RKdyR25-_yE">FastHTML: Python&#39;s Answer to NextJS?</a> (today) <br/>
+<img src="https://img.shields.io/youtube/views/RKdyR25-_yE?style=flat-square"> </img> 
+</td>
+</tr>
+<tr>
 <td><img src="https://img.youtube.com/vi/cM3DDnEioMY/default.jpg"></img></td>
 <td>
 <a href="https://www.youtube.com/watch?v=cM3DDnEioMY">JavaScript Fundamentals: Scopes &amp; Closures</a> (6 days ago) <br/>
@@ -46,13 +53,6 @@
 <td>
 <a href="https://www.youtube.com/watch?v=NpFzOCrpN3A">Understanding ACID Rules | SQL vs NoSQL (1/3)</a> (1 month ago) <br/>
 <img src="https://img.shields.io/youtube/views/NpFzOCrpN3A?style=flat-square"> </img> 
-</td>
-</tr>
-<tr>
-<td><img src="https://img.youtube.com/vi/goQiRVEKACE/default.jpg"></img></td>
-<td>
-<a href="https://www.youtube.com/watch?v=goQiRVEKACE">9 Essential VS Code Extensions (and The Problems They Solve)</a> (2 months ago) <br/>
-<img src="https://img.shields.io/youtube/views/goQiRVEKACE?style=flat-square"> </img> 
 </td>
 </tr>
 </table>
