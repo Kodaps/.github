@@ -23,7 +23,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/RKdyR25-_yE/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=RKdyR25-_yE">FastHTML: Python&#39;s Answer to NextJS?</a> (1 day ago) <br/>
+<a href="https://www.youtube.com/watch?v=RKdyR25-_yE">FastHTML: Python&#39;s Answer to NextJS?</a> (2 days ago) <br/>
 <img src="https://img.shields.io/youtube/views/RKdyR25-_yE?style=flat-square"> </img> 
 </td>
 </tr>
@@ -37,7 +37,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/9JHrL0UWrWs/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=9JHrL0UWrWs">Understanding NoSQL vs SQL (via Redis, MongoDB, DynamoDB)</a> (4 weeks ago) <br/>
+<a href="https://www.youtube.com/watch?v=9JHrL0UWrWs">Understanding NoSQL vs SQL (via Redis, MongoDB, DynamoDB)</a> (1 month ago) <br/>
 <img src="https://img.shields.io/youtube/views/9JHrL0UWrWs?style=flat-square"> </img> 
 </td>
 </tr>
