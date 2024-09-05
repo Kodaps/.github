@@ -23,7 +23,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/RKdyR25-_yE/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=RKdyR25-_yE">FastHTML: Python&#39;s Answer to NextJS?</a> (2 days ago) <br/>
+<a href="https://www.youtube.com/watch?v=RKdyR25-_yE">FastHTML: Python&#39;s Answer to NextJS?</a> (3 days ago) <br/>
 <img src="https://img.shields.io/youtube/views/RKdyR25-_yE?style=flat-square"> </img> 
 </td>
 </tr>
@@ -136,7 +136,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [Kodaps/image-resize-cdn](https://github.com/Kodaps/image-resize-cdn) -  (2 weeks ago)
-- [Kodaps/gradient-ascent](https://github.com/Kodaps/gradient-ascent) - A NextJS starter being built in public (i.e. the hard way) (2 weeks ago)
+- [Kodaps/gradient-ascent](https://github.com/Kodaps/gradient-ascent) - A NextJS starter being built in public (i.e. the hard way) (3 weeks ago)
 - [Kodaps/notion-parse](https://github.com/Kodaps/notion-parse) - An NPM module for downloading and Notion content and saving it as Markdown for NextJS (1 month ago)
 - [Kodaps/portfolio-example](https://github.com/Kodaps/portfolio-example) -  (9 months ago)
 - [Kodaps/nextjs-learn](https://github.com/Kodaps/nextjs-learn) -  (10 months ago)
