@@ -23,7 +23,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/RKdyR25-_yE/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=RKdyR25-_yE">FastHTML: Python&#39;s Answer to NextJS?</a> (3 days ago) <br/>
+<a href="https://www.youtube.com/watch?v=RKdyR25-_yE">FastHTML: Python&#39;s Answer to NextJS?</a> (4 days ago) <br/>
 <img src="https://img.shields.io/youtube/views/RKdyR25-_yE?style=flat-square"> </img> 
 </td>
 </tr>
