@@ -23,7 +23,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/RKdyR25-_yE/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=RKdyR25-_yE">FastHTML: Python&#39;s Answer to NextJS?</a> (5 days ago) <br/>
+<a href="https://www.youtube.com/watch?v=RKdyR25-_yE">FastHTML: Python&#39;s Answer to NextJS?</a> (6 days ago) <br/>
 <img src="https://img.shields.io/youtube/views/RKdyR25-_yE?style=flat-square"> </img> 
 </td>
 </tr>
@@ -78,7 +78,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/ySF903Ht0kM/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=ySF903Ht0kM">Go vs Rust lequel apprendre en 2024 ?</a> (9 months ago) <br/>
+<a href="https://www.youtube.com/watch?v=ySF903Ht0kM">Go vs Rust lequel apprendre en 2024 ?</a> (10 months ago) <br/>
 <img src="https://img.shields.io/youtube/views/ySF903Ht0kM?style=flat-square"> </img> 
 </td>
 </tr>
