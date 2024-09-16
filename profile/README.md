@@ -23,21 +23,21 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/QiWP-pEXnhk/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=QiWP-pEXnhk">AWS&#39; Origin Story &amp; How it Shaped the Cloud</a> (4 days ago) <br/>
+<a href="https://www.youtube.com/watch?v=QiWP-pEXnhk">AWS&#39; Origin Story &amp; How it Shaped the Cloud</a> (5 days ago) <br/>
 <img src="https://img.shields.io/youtube/views/QiWP-pEXnhk?style=flat-square"> </img> 
 </td>
 </tr>
 <tr>
 <td><img src="https://img.youtube.com/vi/Js3zZyC-bS8/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=Js3zZyC-bS8">The 7 AWS Services You NEED to Know as a Web Dev</a> (5 days ago) <br/>
+<a href="https://www.youtube.com/watch?v=Js3zZyC-bS8">The 7 AWS Services You NEED to Know as a Web Dev</a> (6 days ago) <br/>
 <img src="https://img.shields.io/youtube/views/Js3zZyC-bS8?style=flat-square"> </img> 
 </td>
 </tr>
 <tr>
 <td><img src="https://img.youtube.com/vi/RKdyR25-_yE/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=RKdyR25-_yE">FastHTML: Python&#39;s Answer to NextJS?</a> (1 week ago) <br/>
+<a href="https://www.youtube.com/watch?v=RKdyR25-_yE">FastHTML: Python&#39;s Answer to NextJS?</a> (2 weeks ago) <br/>
 <img src="https://img.shields.io/youtube/views/RKdyR25-_yE?style=flat-square"> </img> 
 </td>
 </tr>
@@ -135,7 +135,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Kodaps/image-resize-cdn](https://github.com/Kodaps/image-resize-cdn) -  (3 weeks ago)
+- [Kodaps/image-resize-cdn](https://github.com/Kodaps/image-resize-cdn) -  (4 weeks ago)
 - [Kodaps/gradient-ascent](https://github.com/Kodaps/gradient-ascent) - A NextJS starter being built in public (i.e. the hard way) (1 month ago)
 - [Kodaps/notion-parse](https://github.com/Kodaps/notion-parse) - An NPM module for downloading and Notion content and saving it as Markdown for NextJS (1 month ago)
 - [Kodaps/portfolio-example](https://github.com/Kodaps/portfolio-example) -  (9 months ago)
@@ -157,7 +157,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [Kodaps/notion-parse](https://github.com/Kodaps/notion-parse) ([0.0.8](https://github.com/Kodaps/notion-parse/releases/tag/0.0.8), 9 months ago) - An NPM module for downloading and Notion content and saving it as Markdown for NextJS
+- [Kodaps/notion-parse](https://github.com/Kodaps/notion-parse) ([0.0.8](https://github.com/Kodaps/notion-parse/releases/tag/0.0.8), 10 months ago) - An NPM module for downloading and Notion content and saving it as Markdown for NextJS
 
 #### 🔨 My recent Pull Requests
 
