@@ -23,14 +23,14 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/Js3zZyC-bS8/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=Js3zZyC-bS8">The 7 AWS Services You NEED to Know as a Web Dev</a> (today) <br/>
+<a href="https://www.youtube.com/watch?v=Js3zZyC-bS8">The 7 AWS Services You NEED to Know as a Web Dev</a> (1 day ago) <br/>
 <img src="https://img.shields.io/youtube/views/Js3zZyC-bS8?style=flat-square"> </img> 
 </td>
 </tr>
 <tr>
 <td><img src="https://img.youtube.com/vi/QiWP-pEXnhk/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=QiWP-pEXnhk">AWS&#39; Origin Story &amp; How it Shaped the Cloud</a> (5 days ago) <br/>
+<a href="https://www.youtube.com/watch?v=QiWP-pEXnhk">AWS&#39; Origin Story &amp; How it Shaped the Cloud</a> (6 days ago) <br/>
 <img src="https://img.shields.io/youtube/views/QiWP-pEXnhk?style=flat-square"> </img> 
 </td>
 </tr>
@@ -44,7 +44,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/cM3DDnEioMY/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=cM3DDnEioMY">JavaScript Fundamentals: Scopes &amp; Closures</a> (2 weeks ago) <br/>
+<a href="https://www.youtube.com/watch?v=cM3DDnEioMY">JavaScript Fundamentals: Scopes &amp; Closures</a> (3 weeks ago) <br/>
 <img src="https://img.shields.io/youtube/views/cM3DDnEioMY?style=flat-square"> </img> 
 </td>
 </tr>
@@ -99,7 +99,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/V20SdIRJQzs/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=V20SdIRJQzs">Les Runes de Svelte 5</a> (10 months ago) <br/>
+<a href="https://www.youtube.com/watch?v=V20SdIRJQzs">Les Runes de Svelte 5</a> (11 months ago) <br/>
 <img src="https://img.shields.io/youtube/views/V20SdIRJQzs?style=flat-square"> </img> 
 </td>
 </tr>
