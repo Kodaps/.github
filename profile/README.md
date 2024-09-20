@@ -23,7 +23,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/Js3zZyC-bS8/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=Js3zZyC-bS8">The 7 AWS Services You NEED to Know as a Web Dev</a> (3 days ago) <br/>
+<a href="https://www.youtube.com/watch?v=Js3zZyC-bS8">The 7 AWS Services You NEED to Know as a Web Dev</a> (4 days ago) <br/>
 <img src="https://img.shields.io/youtube/views/Js3zZyC-bS8?style=flat-square"> </img> 
 </td>
 </tr>
