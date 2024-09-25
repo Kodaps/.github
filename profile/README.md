@@ -30,7 +30,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/QiWP-pEXnhk/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=QiWP-pEXnhk">AWS&#39; Origin Story &amp; How it Shaped the Cloud</a> (1 week ago) <br/>
+<a href="https://www.youtube.com/watch?v=QiWP-pEXnhk">AWS&#39; Origin Story &amp; How it Shaped the Cloud</a> (2 weeks ago) <br/>
 <img src="https://img.shields.io/youtube/views/QiWP-pEXnhk?style=flat-square"> </img> 
 </td>
 </tr>
