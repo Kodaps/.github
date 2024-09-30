@@ -23,7 +23,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/Js3zZyC-bS8/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=Js3zZyC-bS8">The 7 AWS Services You NEED to Know as a Web Dev</a> (1 week ago) <br/>
+<a href="https://www.youtube.com/watch?v=Js3zZyC-bS8">The 7 AWS Services You NEED to Know as a Web Dev</a> (2 weeks ago) <br/>
 <img src="https://img.shields.io/youtube/views/Js3zZyC-bS8?style=flat-square"> </img> 
 </td>
 </tr>
@@ -37,7 +37,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/RKdyR25-_yE/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=RKdyR25-_yE">FastHTML: Python&#39;s Answer to NextJS?</a> (3 weeks ago) <br/>
+<a href="https://www.youtube.com/watch?v=RKdyR25-_yE">FastHTML: Python&#39;s Answer to NextJS?</a> (4 weeks ago) <br/>
 <img src="https://img.shields.io/youtube/views/RKdyR25-_yE?style=flat-square"> </img> 
 </td>
 </tr>
