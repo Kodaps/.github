@@ -23,7 +23,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/8nZOsYm9Xzs/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=8nZOsYm9Xzs">How Sentry.io Saved Me From Disaster</a> (today) <br/>
+<a href="https://www.youtube.com/watch?v=8nZOsYm9Xzs">How Sentry.io Saved Me From Disaster</a> (1 day ago) <br/>
 <img src="https://img.shields.io/youtube/views/8nZOsYm9Xzs?style=flat-square"> </img> 
 </td>
 </tr>
@@ -37,14 +37,14 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/QiWP-pEXnhk/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=QiWP-pEXnhk">AWS&#39; Origin Story &amp; How it Shaped the Cloud</a> (2 weeks ago) <br/>
+<a href="https://www.youtube.com/watch?v=QiWP-pEXnhk">AWS&#39; Origin Story &amp; How it Shaped the Cloud</a> (3 weeks ago) <br/>
 <img src="https://img.shields.io/youtube/views/QiWP-pEXnhk?style=flat-square"> </img> 
 </td>
 </tr>
 <tr>
 <td><img src="https://img.youtube.com/vi/RKdyR25-_yE/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=RKdyR25-_yE">FastHTML: Python&#39;s Answer to NextJS?</a> (4 weeks ago) <br/>
+<a href="https://www.youtube.com/watch?v=RKdyR25-_yE">FastHTML: Python&#39;s Answer to NextJS?</a> (1 month ago) <br/>
 <img src="https://img.shields.io/youtube/views/RKdyR25-_yE?style=flat-square"> </img> 
 </td>
 </tr>
@@ -85,7 +85,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/z-XsuazXz14/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=z-XsuazXz14">Next Js Learn : Que Vaut Le Tuto Officiel?</a> (10 months ago) <br/>
+<a href="https://www.youtube.com/watch?v=z-XsuazXz14">Next Js Learn : Que Vaut Le Tuto Officiel?</a> (11 months ago) <br/>
 <img src="https://img.shields.io/youtube/views/z-XsuazXz14?style=flat-square"> </img> 
 </td>
 </tr>
