@@ -23,7 +23,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/8nZOsYm9Xzs/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=8nZOsYm9Xzs">How Sentry.io Saved Me From Disaster</a> (1 day ago) <br/>
+<a href="https://www.youtube.com/watch?v=8nZOsYm9Xzs">How Sentry.io Saved Me From Disaster</a> (2 days ago) <br/>
 <img src="https://img.shields.io/youtube/views/8nZOsYm9Xzs?style=flat-square"> </img> 
 </td>
 </tr>
@@ -138,7 +138,7 @@
 - [Kodaps/image-resize-cdn](https://github.com/Kodaps/image-resize-cdn) -  (1 month ago)
 - [Kodaps/gradient-ascent](https://github.com/Kodaps/gradient-ascent) - A NextJS starter being built in public (i.e. the hard way) (1 month ago)
 - [Kodaps/notion-parse](https://github.com/Kodaps/notion-parse) - An NPM module for downloading and Notion content and saving it as Markdown for NextJS (2 months ago)
-- [Kodaps/portfolio-example](https://github.com/Kodaps/portfolio-example) -  (9 months ago)
+- [Kodaps/portfolio-example](https://github.com/Kodaps/portfolio-example) -  (10 months ago)
 - [Kodaps/nextjs-learn](https://github.com/Kodaps/nextjs-learn) -  (11 months ago)
 
 #### 🌱 My latest projects
