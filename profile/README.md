@@ -21,6 +21,13 @@
 <table>
 
 <tr>
+<td><img src="https://img.youtube.com/vi/7ZiQKHLctJE/default.jpg"></img></td>
+<td>
+<a href="https://www.youtube.com/watch?v=7ZiQKHLctJE">Why Your Favourite Open Source Project Might Be At Risk</a> (today) <br/>
+<img src="https://img.shields.io/youtube/views/7ZiQKHLctJE?style=flat-square"> </img> 
+</td>
+</tr>
+<tr>
 <td><img src="https://img.youtube.com/vi/8nZOsYm9Xzs/default.jpg"></img></td>
 <td>
 <a href="https://www.youtube.com/watch?v=8nZOsYm9Xzs">How Sentry.io Saved Me From Disaster</a> (1 week ago) <br/>
@@ -46,13 +53,6 @@
 <td>
 <a href="https://www.youtube.com/watch?v=RKdyR25-_yE">FastHTML: Python&#39;s Answer to NextJS?</a> (1 month ago) <br/>
 <img src="https://img.shields.io/youtube/views/RKdyR25-_yE?style=flat-square"> </img> 
-</td>
-</tr>
-<tr>
-<td><img src="https://img.youtube.com/vi/cM3DDnEioMY/default.jpg"></img></td>
-<td>
-<a href="https://www.youtube.com/watch?v=cM3DDnEioMY">JavaScript Fundamentals: Scopes &amp; Closures</a> (1 month ago) <br/>
-<img src="https://img.shields.io/youtube/views/cM3DDnEioMY?style=flat-square"> </img> 
 </td>
 </tr>
 </table>
