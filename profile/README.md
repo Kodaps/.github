@@ -37,7 +37,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/Js3zZyC-bS8/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=Js3zZyC-bS8">The 7 AWS Services You NEED to Know as a Web Dev</a> (4 weeks ago) <br/>
+<a href="https://www.youtube.com/watch?v=Js3zZyC-bS8">The 7 AWS Services You NEED to Know as a Web Dev</a> (1 month ago) <br/>
 <img src="https://img.shields.io/youtube/views/Js3zZyC-bS8?style=flat-square"> </img> 
 </td>
 </tr>
@@ -157,7 +157,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [Kodaps/notion-parse](https://github.com/Kodaps/notion-parse) ([0.0.8](https://github.com/Kodaps/notion-parse/releases/tag/0.0.8), 10 months ago) - An NPM module for downloading and Notion content and saving it as Markdown for NextJS
+- [Kodaps/notion-parse](https://github.com/Kodaps/notion-parse) ([0.0.8](https://github.com/Kodaps/notion-parse/releases/tag/0.0.8), 11 months ago) - An NPM module for downloading and Notion content and saving it as Markdown for NextJS
 
 #### 🔨 My recent Pull Requests
 
