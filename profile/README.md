@@ -21,6 +21,13 @@
 <table>
 
 <tr>
+<td><img src="https://img.youtube.com/vi/BtvFuSOAR3E/default.jpg"></img></td>
+<td>
+<a href="https://www.youtube.com/watch?v=BtvFuSOAR3E">PostgreSQL vs MySQL: The Breakdown</a> (today) <br/>
+<img src="https://img.shields.io/youtube/views/BtvFuSOAR3E?style=flat-square"> </img> 
+</td>
+</tr>
+<tr>
 <td><img src="https://img.youtube.com/vi/7ZiQKHLctJE/default.jpg"></img></td>
 <td>
 <a href="https://www.youtube.com/watch?v=7ZiQKHLctJE">Why Open Source Projects Are In Danger</a> (1 week ago) <br/>
@@ -46,13 +53,6 @@
 <td>
 <a href="https://www.youtube.com/watch?v=QiWP-pEXnhk">AWS&#39; Origin Story &amp; How it Shaped the Cloud</a> (1 month ago) <br/>
 <img src="https://img.shields.io/youtube/views/QiWP-pEXnhk?style=flat-square"> </img> 
-</td>
-</tr>
-<tr>
-<td><img src="https://img.youtube.com/vi/RKdyR25-_yE/default.jpg"></img></td>
-<td>
-<a href="https://www.youtube.com/watch?v=RKdyR25-_yE">FastHTML: Python&#39;s Answer to NextJS?</a> (1 month ago) <br/>
-<img src="https://img.shields.io/youtube/views/RKdyR25-_yE?style=flat-square"> </img> 
 </td>
 </tr>
 </table>
