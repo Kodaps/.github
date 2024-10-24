@@ -23,7 +23,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/BtvFuSOAR3E/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=BtvFuSOAR3E">PostgreSQL vs MySQL: The Breakdown</a> (2 days ago) <br/>
+<a href="https://www.youtube.com/watch?v=BtvFuSOAR3E">PostgreSQL vs MySQL: The Breakdown</a> (3 days ago) <br/>
 <img src="https://img.shields.io/youtube/views/BtvFuSOAR3E?style=flat-square"> </img> 
 </td>
 </tr>
@@ -92,7 +92,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/9KCkPo42mto/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=9KCkPo42mto">Next JS Conf &amp; Next 14: 3 Points Clefs</a> (11 months ago) <br/>
+<a href="https://www.youtube.com/watch?v=9KCkPo42mto">Next JS Conf &amp; Next 14: 3 Points Clefs</a> (1 year ago) <br/>
 <img src="https://img.shields.io/youtube/views/9KCkPo42mto?style=flat-square"> </img> 
 </td>
 </tr>
@@ -135,12 +135,12 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Kodaps/stackoverflow-analysis](https://github.com/Kodaps/stackoverflow-analysis) -  (3 days ago)
+- [Kodaps/stackoverflow-analysis](https://github.com/Kodaps/stackoverflow-analysis) -  (4 days ago)
 - [Kodaps/image-resize-cdn](https://github.com/Kodaps/image-resize-cdn) -  (2 months ago)
 - [Kodaps/gradient-ascent](https://github.com/Kodaps/gradient-ascent) - A NextJS starter being built in public (i.e. the hard way) (2 months ago)
 - [Kodaps/notion-parse](https://github.com/Kodaps/notion-parse) - An NPM module for downloading and Notion content and saving it as Markdown for NextJS (2 months ago)
 - [Kodaps/portfolio-example](https://github.com/Kodaps/portfolio-example) -  (10 months ago)
-- [Kodaps/nextjs-learn](https://github.com/Kodaps/nextjs-learn) -  (11 months ago)
+- [Kodaps/nextjs-learn](https://github.com/Kodaps/nextjs-learn) -  (1 year ago)
 
 #### 🌱 My latest projects
 
