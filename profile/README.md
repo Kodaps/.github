@@ -30,14 +30,14 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/7ZiQKHLctJE/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=7ZiQKHLctJE">Why Open Source Projects Are In Danger</a> (2 weeks ago) <br/>
+<a href="https://www.youtube.com/watch?v=7ZiQKHLctJE">Why Open Source Projects Are In Danger</a> (3 weeks ago) <br/>
 <img src="https://img.shields.io/youtube/views/7ZiQKHLctJE?style=flat-square"> </img> 
 </td>
 </tr>
 <tr>
 <td><img src="https://img.youtube.com/vi/8nZOsYm9Xzs/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=8nZOsYm9Xzs">How Sentry.io Saved Me From Disaster</a> (3 weeks ago) <br/>
+<a href="https://www.youtube.com/watch?v=8nZOsYm9Xzs">How Sentry.io Saved Me From Disaster</a> (4 weeks ago) <br/>
 <img src="https://img.shields.io/youtube/views/8nZOsYm9Xzs?style=flat-square"> </img> 
 </td>
 </tr>
