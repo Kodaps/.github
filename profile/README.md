@@ -62,6 +62,13 @@
 <table>
 
 <tr>
+<td><img src="https://img.youtube.com/vi/p-79uGKIfbc/default.jpg"></img></td>
+<td>
+<a href="https://www.youtube.com/watch?v=p-79uGKIfbc">Pourquoi Apprendre le LUA ?</a> (today) <br/>
+<img src="https://img.shields.io/youtube/views/p-79uGKIfbc?style=flat-square"> </img> 
+</td>
+</tr>
+<tr>
 <td><img src="https://img.youtube.com/vi/cvNSUEznLFQ/default.jpg"></img></td>
 <td>
 <a href="https://www.youtube.com/watch?v=cvNSUEznLFQ">Sam Altman &amp; OpenAI : Le Gros CLASH!</a> (11 months ago) <br/>
@@ -122,13 +129,6 @@
 <td>
 <a href="https://www.youtube.com/watch?v=pKwRMnRbWww">React : Composants Serveur vs SSR</a> (1 year ago) <br/>
 <img src="https://img.shields.io/youtube/views/pKwRMnRbWww?style=flat-square"> </img> 
-</td>
-</tr>
-<tr>
-<td><img src="https://img.youtube.com/vi/nfYaXb7OjcQ/default.jpg"></img></td>
-<td>
-<a href="https://www.youtube.com/watch?v=nfYaXb7OjcQ">De 0 à Codeur : Commend apprendre à coder par la Pratique</a> (1 year ago) <br/>
-<img src="https://img.shields.io/youtube/views/nfYaXb7OjcQ?style=flat-square"> </img> 
 </td>
 </tr>
 </table>
