@@ -23,7 +23,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/as5UXa08Q5s/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=as5UXa08Q5s">He Built an AI Micro SaaS to 10k$ MRR with Laravel</a> (1 day ago) <br/>
+<a href="https://www.youtube.com/watch?v=as5UXa08Q5s">He Built an AI Micro SaaS to 10k$ MRR with Laravel</a> (2 days ago) <br/>
 <img src="https://img.shields.io/youtube/views/as5UXa08Q5s?style=flat-square"> </img> 
 </td>
 </tr>
@@ -44,7 +44,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/8nZOsYm9Xzs/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=8nZOsYm9Xzs">How Sentry.io Saved Me From Disaster</a> (4 weeks ago) <br/>
+<a href="https://www.youtube.com/watch?v=8nZOsYm9Xzs">How Sentry.io Saved Me From Disaster</a> (1 month ago) <br/>
 <img src="https://img.shields.io/youtube/views/8nZOsYm9Xzs?style=flat-square"> </img> 
 </td>
 </tr>
@@ -64,7 +64,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/p-79uGKIfbc/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=p-79uGKIfbc">Pourquoi Apprendre le LUA ?</a> (1 day ago) <br/>
+<a href="https://www.youtube.com/watch?v=p-79uGKIfbc">Pourquoi Apprendre le LUA ?</a> (2 days ago) <br/>
 <img src="https://img.shields.io/youtube/views/p-79uGKIfbc?style=flat-square"> </img> 
 </td>
 </tr>
