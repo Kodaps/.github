@@ -23,7 +23,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/as5UXa08Q5s/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=as5UXa08Q5s">He Built an AI Micro SaaS to 10k$ MRR with Laravel</a> (3 days ago) <br/>
+<a href="https://www.youtube.com/watch?v=as5UXa08Q5s">He Built an AI Micro SaaS to 10k$ MRR with Laravel</a> (4 days ago) <br/>
 <img src="https://img.shields.io/youtube/views/as5UXa08Q5s?style=flat-square"> </img> 
 </td>
 </tr>
@@ -64,7 +64,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/p-79uGKIfbc/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=p-79uGKIfbc">Pourquoi Apprendre le LUA ?</a> (3 days ago) <br/>
+<a href="https://www.youtube.com/watch?v=p-79uGKIfbc">Pourquoi Apprendre le LUA ?</a> (4 days ago) <br/>
 <img src="https://img.shields.io/youtube/views/p-79uGKIfbc?style=flat-square"> </img> 
 </td>
 </tr>
@@ -139,7 +139,7 @@
 - [Kodaps/image-resize-cdn](https://github.com/Kodaps/image-resize-cdn) -  (2 months ago)
 - [Kodaps/gradient-ascent](https://github.com/Kodaps/gradient-ascent) - A NextJS starter being built in public (i.e. the hard way) (2 months ago)
 - [Kodaps/notion-parse](https://github.com/Kodaps/notion-parse) - An NPM module for downloading and Notion content and saving it as Markdown for NextJS (3 months ago)
-- [Kodaps/portfolio-example](https://github.com/Kodaps/portfolio-example) -  (10 months ago)
+- [Kodaps/portfolio-example](https://github.com/Kodaps/portfolio-example) -  (11 months ago)
 - [Kodaps/nextjs-learn](https://github.com/Kodaps/nextjs-learn) -  (1 year ago)
 
 #### 🌱 My latest projects
