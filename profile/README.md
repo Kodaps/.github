@@ -64,7 +64,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/1Wj0fzTJb6c/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=1Wj0fzTJb6c">PostgreSQL vs MySQL : Quelle DB choisir?</a> (today) <br/>
+<a href="https://www.youtube.com/watch?v=1Wj0fzTJb6c">PostgreSQL vs MySQL : Quelle DB choisir?</a> (1 day ago) <br/>
 <img src="https://img.shields.io/youtube/views/1Wj0fzTJb6c?style=flat-square"> </img> 
 </td>
 </tr>
