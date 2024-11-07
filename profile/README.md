@@ -37,7 +37,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/7ZiQKHLctJE/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=7ZiQKHLctJE">Why Open Source Projects Are In Danger</a> (4 weeks ago) <br/>
+<a href="https://www.youtube.com/watch?v=7ZiQKHLctJE">Why Open Source Projects Are In Danger</a> (1 month ago) <br/>
 <img src="https://img.shields.io/youtube/views/7ZiQKHLctJE?style=flat-square"> </img> 
 </td>
 </tr>
@@ -64,7 +64,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/1Wj0fzTJb6c/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=1Wj0fzTJb6c">PostgreSQL vs MySQL : Quelle DB choisir?</a> (1 day ago) <br/>
+<a href="https://www.youtube.com/watch?v=1Wj0fzTJb6c">PostgreSQL vs MySQL : Quelle DB choisir?</a> (2 days ago) <br/>
 <img src="https://img.shields.io/youtube/views/1Wj0fzTJb6c?style=flat-square"> </img> 
 </td>
 </tr>
@@ -92,7 +92,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/ySF903Ht0kM/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=ySF903Ht0kM">Go vs Rust lequel apprendre en 2024 ?</a> (11 months ago) <br/>
+<a href="https://www.youtube.com/watch?v=ySF903Ht0kM">Go vs Rust lequel apprendre en 2024 ?</a> (1 year ago) <br/>
 <img src="https://img.shields.io/youtube/views/ySF903Ht0kM?style=flat-square"> </img> 
 </td>
 </tr>
@@ -173,7 +173,7 @@
 
 #### ⭐ Recent Stars
 
-- [latitude-dev/latitude-llm](https://github.com/latitude-dev/latitude-llm) - Latitude is the open-source prompt engineering platform to build, evaluate, and refine your prompts with AI (today)
+- [latitude-dev/latitude-llm](https://github.com/latitude-dev/latitude-llm) - Latitude is the open-source prompt engineering platform to build, evaluate, and refine your prompts with AI (1 day ago)
 - [opentofu/manifesto](https://github.com/opentofu/manifesto) - The OpenTF Manifesto expresses concern over HashiCorp&#39;s switch of the Terraform license from open-source to the Business Source License (BSL) and calls for the tool&#39;s return to a truly open-source license. (1 year ago)
 - [onwidget/astrowind](https://github.com/onwidget/astrowind) - ⭕️ AstroWind: A free template using Astro 4.0 and Tailwind CSS. Astro starter theme. (2 years ago)
 - [coronalabs/CoronaViewer](https://github.com/coronalabs/CoronaViewer) - CoronaViewer for SDK/Enterprise (10 years ago)
