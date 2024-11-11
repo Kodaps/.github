@@ -5,7 +5,7 @@
 
 ## 📜 🇬🇧 My recent blog posts
 
-- [3 Lessons I Am Learning As A Solopreneur Tech Educational Creator](https://gosev.medium.com/3-lessons-i-am-learning-as-a-solopreneur-tech-educational-creator-8d514a0af1c5?source=rss-e68daed69805------2) (today)
+- [3 Lessons I Am Learning As A Solopreneur Tech Educational Creator](https://gosev.medium.com/3-lessons-i-am-learning-as-a-solopreneur-tech-educational-creator-8d514a0af1c5?source=rss-e68daed69805------2) (1 day ago)
 - [5 Exciting Projects &amp; Tools to Discover in 2023](https://gosev.medium.com/5-exciting-projects-tools-to-discover-in-2023-d5b6f5886740?source=rss-e68daed69805------2) (2 years ago)
 - [The 7 JavaScript Skills You Need for React](https://javascript.plainenglish.io/the-7-javascript-skills-you-need-for-react-9244169ca80a?source=rss-e68daed69805------2) (2 years ago)
 - [What are JavaScript Promises &amp; How to Use Them](https://javascript.plainenglish.io/what-are-javascript-promises-how-to-use-them-84fdff5757b9?source=rss-e68daed69805------2) (2 years ago)
@@ -30,7 +30,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/BtvFuSOAR3E/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=BtvFuSOAR3E">PostgreSQL vs MySQL: The Breakdown</a> (2 weeks ago) <br/>
+<a href="https://www.youtube.com/watch?v=BtvFuSOAR3E">PostgreSQL vs MySQL: The Breakdown</a> (3 weeks ago) <br/>
 <img src="https://img.shields.io/youtube/views/BtvFuSOAR3E?style=flat-square"> </img> 
 </td>
 </tr>
@@ -64,14 +64,14 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/dFmFBgroZa4/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=dFmFBgroZa4">Drizzle vs Prisma : Quel ORM Typescript choisir?</a> (1 day ago) <br/>
+<a href="https://www.youtube.com/watch?v=dFmFBgroZa4">Drizzle vs Prisma : Quel ORM Typescript choisir?</a> (2 days ago) <br/>
 <img src="https://img.shields.io/youtube/views/dFmFBgroZa4?style=flat-square"> </img> 
 </td>
 </tr>
 <tr>
 <td><img src="https://img.youtube.com/vi/1Wj0fzTJb6c/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=1Wj0fzTJb6c">PostgreSQL vs MySQL : Quelle DB choisir?</a> (5 days ago) <br/>
+<a href="https://www.youtube.com/watch?v=1Wj0fzTJb6c">PostgreSQL vs MySQL : Quelle DB choisir?</a> (6 days ago) <br/>
 <img src="https://img.shields.io/youtube/views/1Wj0fzTJb6c?style=flat-square"> </img> 
 </td>
 </tr>
@@ -173,7 +173,7 @@
 
 #### ⭐ Recent Stars
 
-- [latitude-dev/latitude-llm](https://github.com/latitude-dev/latitude-llm) - Latitude is the open-source prompt engineering platform to build, evaluate, and refine your prompts with AI (4 days ago)
+- [latitude-dev/latitude-llm](https://github.com/latitude-dev/latitude-llm) - Latitude is the open-source prompt engineering platform to build, evaluate, and refine your prompts with AI (5 days ago)
 - [opentofu/manifesto](https://github.com/opentofu/manifesto) - The OpenTF Manifesto expresses concern over HashiCorp&#39;s switch of the Terraform license from open-source to the Business Source License (BSL) and calls for the tool&#39;s return to a truly open-source license. (1 year ago)
 - [onwidget/astrowind](https://github.com/onwidget/astrowind) - ⭕️ AstroWind: A free template using Astro 4.0 and Tailwind CSS. Astro starter theme. (2 years ago)
 - [coronalabs/CoronaViewer](https://github.com/coronalabs/CoronaViewer) - CoronaViewer for SDK/Enterprise (10 years ago)
