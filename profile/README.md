@@ -5,6 +5,7 @@
 
 ## 📜 🇬🇧 My recent blog posts
 
+- [With OneDiagram, ShadCN Just Changed How I Think About Web Development](https://gosev.medium.com/with-onediagram-shadcn-just-changed-how-i-think-about-web-development-5fe47eeb0d41?source=rss-e68daed69805------2) (today)
 - [3 Lessons I Am Learning As A Solopreneur Tech Educational Creator](https://gosev.medium.com/3-lessons-i-am-learning-as-a-solopreneur-tech-educational-creator-8d514a0af1c5?source=rss-e68daed69805------2) (2 days ago)
 - [5 Exciting Projects &amp; Tools to Discover in 2023](https://gosev.medium.com/5-exciting-projects-tools-to-discover-in-2023-d5b6f5886740?source=rss-e68daed69805------2) (2 years ago)
 - [The 7 JavaScript Skills You Need for React](https://javascript.plainenglish.io/the-7-javascript-skills-you-need-for-react-9244169ca80a?source=rss-e68daed69805------2) (2 years ago)
@@ -14,7 +15,6 @@
 - [What is Astro?](https://javascript.plainenglish.io/what-is-astro-aa3369d5a7f4?source=rss-e68daed69805------2) (2 years ago)
 - [What is Art?](https://gosev.medium.com/what-is-art-2dce12548091?source=rss-e68daed69805------2) (2 years ago)
 - [How to Release Your Code Into the Wild](https://levelup.gitconnected.com/how-to-release-your-code-into-the-wild-dd144218cb9b?source=rss-e68daed69805------2) (2 years ago)
-- [5 Tips to Have Fun Using MidJourney AI Image Generation — The First Steps](https://gosev.medium.com/5-tips-to-have-fun-using-midjourney-ai-image-generation-the-first-steps-81cf44a53931?source=rss-e68daed69805------2) (2 years ago)
 
 ## 📽 🇬🇧 My recent English videos
 <img src="https://img.shields.io/youtube/channel/subscribers/UC2DOovF-OjIQ6nHClUyLKKQ?style=for-the-badge"></img>
