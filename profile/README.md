@@ -64,7 +64,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/dFmFBgroZa4/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=dFmFBgroZa4">Drizzle vs Prisma : Quel ORM Typescript choisir?</a> (3 days ago) <br/>
+<a href="https://www.youtube.com/watch?v=dFmFBgroZa4">Drizzle vs Prisma : Quel ORM Typescript choisir?</a> (today) <br/>
 <img src="https://img.shields.io/youtube/views/dFmFBgroZa4?style=flat-square"> </img> 
 </td>
 </tr>
