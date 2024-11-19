@@ -5,10 +5,10 @@
 
 ## 📜 🇬🇧 My recent blog posts
 
-- [If You Want to Master Online Storytelling, Learn These 6 Lessons](https://gosev.medium.com/if-you-want-to-master-online-storytelling-learn-these-6-lessons-e971cce30409?source=rss-e68daed69805------2) (3 days ago)
-- [Top 3 Traits of Successful Programmers](https://gosev.medium.com/top-3-traits-of-successful-programmers-8f9f0c7a197f?source=rss-e68daed69805------2) (4 days ago)
-- [5 Tips To Help Non-Developers Write Better Feature Requests &amp; Bug Reports](https://gosev.medium.com/5-tips-to-help-non-developers-write-better-feature-requests-bug-reports-aa1f03518646?source=rss-e68daed69805------2) (5 days ago)
-- [With OneDiagram, ShadCN Just Changed How I Think About Web Development](https://gosev.medium.com/with-onediagram-shadcn-just-changed-how-i-think-about-web-development-5fe47eeb0d41?source=rss-e68daed69805------2) (6 days ago)
+- [If You Want to Master Online Storytelling, Learn These 6 Lessons](https://gosev.medium.com/if-you-want-to-master-online-storytelling-learn-these-6-lessons-e971cce30409?source=rss-e68daed69805------2) (4 days ago)
+- [Top 3 Traits of Successful Programmers](https://gosev.medium.com/top-3-traits-of-successful-programmers-8f9f0c7a197f?source=rss-e68daed69805------2) (5 days ago)
+- [5 Tips To Help Non-Developers Write Better Feature Requests &amp; Bug Reports](https://gosev.medium.com/5-tips-to-help-non-developers-write-better-feature-requests-bug-reports-aa1f03518646?source=rss-e68daed69805------2) (6 days ago)
+- [With OneDiagram, ShadCN Just Changed How I Think About Web Development](https://gosev.medium.com/with-onediagram-shadcn-just-changed-how-i-think-about-web-development-5fe47eeb0d41?source=rss-e68daed69805------2) (1 week ago)
 - [3 Lessons I Am Learning As A Solopreneur Tech Educational Creator](https://gosev.medium.com/3-lessons-i-am-learning-as-a-solopreneur-tech-educational-creator-8d514a0af1c5?source=rss-e68daed69805------2) (1 week ago)
 - [5 Exciting Projects &amp; Tools to Discover in 2023](https://gosev.medium.com/5-exciting-projects-tools-to-discover-in-2023-d5b6f5886740?source=rss-e68daed69805------2) (2 years ago)
 - [The 7 JavaScript Skills You Need for React](https://javascript.plainenglish.io/the-7-javascript-skills-you-need-for-react-9244169ca80a?source=rss-e68daed69805------2) (2 years ago)
@@ -23,14 +23,14 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/9y_FdpwHf-8/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=9y_FdpwHf-8">React Email &amp; Resend in NextJS (How &amp; Why)</a> (6 days ago) <br/>
+<a href="https://www.youtube.com/watch?v=9y_FdpwHf-8">React Email &amp; Resend in NextJS (How &amp; Why)</a> (1 week ago) <br/>
 <img src="https://img.shields.io/youtube/views/9y_FdpwHf-8?style=flat-square"> </img> 
 </td>
 </tr>
 <tr>
 <td><img src="https://img.youtube.com/vi/as5UXa08Q5s/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=as5UXa08Q5s">He Built an AI Micro SaaS to 10k$ MRR with Laravel</a> (2 weeks ago) <br/>
+<a href="https://www.youtube.com/watch?v=as5UXa08Q5s">He Built an AI Micro SaaS to 10k$ MRR with Laravel</a> (3 weeks ago) <br/>
 <img src="https://img.shields.io/youtube/views/as5UXa08Q5s?style=flat-square"> </img> 
 </td>
 </tr>
@@ -64,21 +64,21 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/dFmFBgroZa4/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=dFmFBgroZa4">Drizzle vs Prisma : Quel ORM Typescript choisir?</a> (6 days ago) <br/>
+<a href="https://www.youtube.com/watch?v=dFmFBgroZa4">Drizzle vs Prisma : Quel ORM Typescript choisir?</a> (1 week ago) <br/>
 <img src="https://img.shields.io/youtube/views/dFmFBgroZa4?style=flat-square"> </img> 
 </td>
 </tr>
 <tr>
 <td><img src="https://img.youtube.com/vi/1Wj0fzTJb6c/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=1Wj0fzTJb6c">PostgreSQL vs MySQL : Quelle DB choisir?</a> (1 week ago) <br/>
+<a href="https://www.youtube.com/watch?v=1Wj0fzTJb6c">PostgreSQL vs MySQL : Quelle DB choisir?</a> (2 weeks ago) <br/>
 <img src="https://img.shields.io/youtube/views/1Wj0fzTJb6c?style=flat-square"> </img> 
 </td>
 </tr>
 <tr>
 <td><img src="https://img.youtube.com/vi/p-79uGKIfbc/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=p-79uGKIfbc">Pourquoi Apprendre le LUA ?</a> (2 weeks ago) <br/>
+<a href="https://www.youtube.com/watch?v=p-79uGKIfbc">Pourquoi Apprendre le LUA ?</a> (3 weeks ago) <br/>
 <img src="https://img.shields.io/youtube/views/p-79uGKIfbc?style=flat-square"> </img> 
 </td>
 </tr>
@@ -136,7 +136,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [Kodaps/next-base](https://github.com/Kodaps/next-base) - A starting point for Next using App router (1 week ago)
-- [Kodaps/stackoverflow-analysis](https://github.com/Kodaps/stackoverflow-analysis) -  (4 weeks ago)
+- [Kodaps/stackoverflow-analysis](https://github.com/Kodaps/stackoverflow-analysis) -  (1 month ago)
 - [Kodaps/image-resize-cdn](https://github.com/Kodaps/image-resize-cdn) -  (3 months ago)
 - [Kodaps/gradient-ascent](https://github.com/Kodaps/gradient-ascent) - A NextJS starter being built in public (i.e. the hard way) (3 months ago)
 - [Kodaps/notion-parse](https://github.com/Kodaps/notion-parse) - An NPM module for downloading and Notion content and saving it as Markdown for NextJS (3 months ago)
