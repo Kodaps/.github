@@ -85,7 +85,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/cvNSUEznLFQ/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=cvNSUEznLFQ">Sam Altman &amp; OpenAI : Le Gros CLASH!</a> (11 months ago) <br/>
+<a href="https://www.youtube.com/watch?v=cvNSUEznLFQ">Sam Altman &amp; OpenAI : Le Gros CLASH!</a> (1 year ago) <br/>
 <img src="https://img.shields.io/youtube/views/cvNSUEznLFQ?style=flat-square"> </img> 
 </td>
 </tr>
@@ -135,11 +135,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Kodaps/next-base](https://github.com/Kodaps/next-base) - A starting point for Next using App router (1 week ago)
+- [Kodaps/next-base](https://github.com/Kodaps/next-base) - A starting point for Next using App router (2 weeks ago)
 - [Kodaps/stackoverflow-analysis](https://github.com/Kodaps/stackoverflow-analysis) -  (1 month ago)
 - [Kodaps/image-resize-cdn](https://github.com/Kodaps/image-resize-cdn) -  (3 months ago)
 - [Kodaps/gradient-ascent](https://github.com/Kodaps/gradient-ascent) - A NextJS starter being built in public (i.e. the hard way) (3 months ago)
-- [Kodaps/notion-parse](https://github.com/Kodaps/notion-parse) - An NPM module for downloading and Notion content and saving it as Markdown for NextJS (3 months ago)
+- [Kodaps/notion-parse](https://github.com/Kodaps/notion-parse) - An NPM module for downloading and Notion content and saving it as Markdown for NextJS (4 months ago)
 - [Kodaps/portfolio-example](https://github.com/Kodaps/portfolio-example) -  (11 months ago)
 
 #### 🌱 My latest projects
