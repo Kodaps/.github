@@ -5,12 +5,12 @@
 
 ## 📜 🇬🇧 My recent blog posts
 
-- [4 Tips for Making Technical Concepts Relatable to Non-Technical Stakeholders](https://gosev.medium.com/4-tips-for-making-technical-concepts-relatable-to-non-technical-stakeholders-d667ea71b406?source=rss-e68daed69805------2) (4 days ago)
+- [4 Tips for Making Technical Concepts Relatable to Non-Technical Stakeholders](https://gosev.medium.com/4-tips-for-making-technical-concepts-relatable-to-non-technical-stakeholders-d667ea71b406?source=rss-e68daed69805------2) (5 days ago)
 - [If You Want to Master Online Storytelling, Learn These 6 Lessons](https://gosev.medium.com/if-you-want-to-master-online-storytelling-learn-these-6-lessons-e971cce30409?source=rss-e68daed69805------2) (2 weeks ago)
 - [Top 3 Traits of Successful Programmers](https://gosev.medium.com/top-3-traits-of-successful-programmers-8f9f0c7a197f?source=rss-e68daed69805------2) (2 weeks ago)
 - [5 Tips To Help Non-Developers Write Better Feature Requests &amp; Bug Reports](https://gosev.medium.com/5-tips-to-help-non-developers-write-better-feature-requests-bug-reports-aa1f03518646?source=rss-e68daed69805------2) (2 weeks ago)
 - [With OneDiagram, ShadCN Just Changed How I Think About Web Development](https://gosev.medium.com/with-onediagram-shadcn-just-changed-how-i-think-about-web-development-5fe47eeb0d41?source=rss-e68daed69805------2) (2 weeks ago)
-- [3 Lessons I Am Learning As A Solopreneur Tech Educational Creator](https://gosev.medium.com/3-lessons-i-am-learning-as-a-solopreneur-tech-educational-creator-8d514a0af1c5?source=rss-e68daed69805------2) (2 weeks ago)
+- [3 Lessons I Am Learning As A Solopreneur Tech Educational Creator](https://gosev.medium.com/3-lessons-i-am-learning-as-a-solopreneur-tech-educational-creator-8d514a0af1c5?source=rss-e68daed69805------2) (3 weeks ago)
 - [5 Exciting Projects &amp; Tools to Discover in 2023](https://gosev.medium.com/5-exciting-projects-tools-to-discover-in-2023-d5b6f5886740?source=rss-e68daed69805------2) (2 years ago)
 - [The 7 JavaScript Skills You Need for React](https://javascript.plainenglish.io/the-7-javascript-skills-you-need-for-react-9244169ca80a?source=rss-e68daed69805------2) (2 years ago)
 - [What are JavaScript Promises &amp; How to Use Them](https://javascript.plainenglish.io/what-are-javascript-promises-how-to-use-them-84fdff5757b9?source=rss-e68daed69805------2) (2 years ago)
