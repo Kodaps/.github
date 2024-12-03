@@ -21,6 +21,13 @@
 <table>
 
 <tr>
+<td><img src="https://img.youtube.com/vi/faV4ab1C5jM/default.jpg"></img></td>
+<td>
+<a href="https://www.youtube.com/watch?v=faV4ab1C5jM">3 Projects To Learn ReactJS #coding</a> (today) <br/>
+<img src="https://img.shields.io/youtube/views/faV4ab1C5jM?style=flat-square"> </img> 
+</td>
+</tr>
+<tr>
 <td><img src="https://img.youtube.com/vi/9y_FdpwHf-8/default.jpg"></img></td>
 <td>
 <a href="https://www.youtube.com/watch?v=9y_FdpwHf-8">React Email &amp; Resend in NextJS (How &amp; Why)</a> (3 weeks ago) <br/>
@@ -46,13 +53,6 @@
 <td>
 <a href="https://www.youtube.com/watch?v=7ZiQKHLctJE">Why Open Source Projects Are In Danger</a> (1 month ago) <br/>
 <img src="https://img.shields.io/youtube/views/7ZiQKHLctJE?style=flat-square"> </img> 
-</td>
-</tr>
-<tr>
-<td><img src="https://img.youtube.com/vi/8nZOsYm9Xzs/default.jpg"></img></td>
-<td>
-<a href="https://www.youtube.com/watch?v=8nZOsYm9Xzs">How Sentry.io Saved Me From Disaster</a> (2 months ago) <br/>
-<img src="https://img.shields.io/youtube/views/8nZOsYm9Xzs?style=flat-square"> </img> 
 </td>
 </tr>
 </table>
