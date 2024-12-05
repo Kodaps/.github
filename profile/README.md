@@ -7,7 +7,7 @@
 
 - [4 Tips for Making Technical Concepts Relatable to Non-Technical Stakeholders](https://gosev.medium.com/4-tips-for-making-technical-concepts-relatable-to-non-technical-stakeholders-d667ea71b406?source=rss-e68daed69805------2) (1 week ago)
 - [If You Want to Master Online Storytelling, Learn These 6 Lessons](https://gosev.medium.com/if-you-want-to-master-online-storytelling-learn-these-6-lessons-e971cce30409?source=rss-e68daed69805------2) (2 weeks ago)
-- [Top 3 Traits of Successful Programmers](https://gosev.medium.com/top-3-traits-of-successful-programmers-8f9f0c7a197f?source=rss-e68daed69805------2) (2 weeks ago)
+- [Top 3 Traits of Successful Programmers](https://gosev.medium.com/top-3-traits-of-successful-programmers-8f9f0c7a197f?source=rss-e68daed69805------2) (3 weeks ago)
 - [5 Tips To Help Non-Developers Write Better Feature Requests &amp; Bug Reports](https://gosev.medium.com/5-tips-to-help-non-developers-write-better-feature-requests-bug-reports-aa1f03518646?source=rss-e68daed69805------2) (3 weeks ago)
 - [With OneDiagram, ShadCN Just Changed How I Think About Web Development](https://gosev.medium.com/with-onediagram-shadcn-just-changed-how-i-think-about-web-development-5fe47eeb0d41?source=rss-e68daed69805------2) (3 weeks ago)
 - [3 Lessons I Am Learning As A Solopreneur Tech Educational Creator](https://gosev.medium.com/3-lessons-i-am-learning-as-a-solopreneur-tech-educational-creator-8d514a0af1c5?source=rss-e68daed69805------2) (3 weeks ago)
@@ -23,7 +23,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/faV4ab1C5jM/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=faV4ab1C5jM">3 Projects To Learn ReactJS #coding</a> (1 day ago) <br/>
+<a href="https://www.youtube.com/watch?v=faV4ab1C5jM">3 Projects To Learn ReactJS #coding</a> (2 days ago) <br/>
 <img src="https://img.shields.io/youtube/views/faV4ab1C5jM?style=flat-square"> </img> 
 </td>
 </tr>
@@ -71,7 +71,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/1Wj0fzTJb6c/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=1Wj0fzTJb6c">PostgreSQL vs MySQL : Quelle DB choisir?</a> (4 weeks ago) <br/>
+<a href="https://www.youtube.com/watch?v=1Wj0fzTJb6c">PostgreSQL vs MySQL : Quelle DB choisir?</a> (1 month ago) <br/>
 <img src="https://img.shields.io/youtube/views/1Wj0fzTJb6c?style=flat-square"> </img> 
 </td>
 </tr>
