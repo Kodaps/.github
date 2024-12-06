@@ -6,7 +6,7 @@
 ## 📜 🇬🇧 My recent blog posts
 
 - [4 Tips for Making Technical Concepts Relatable to Non-Technical Stakeholders](https://gosev.medium.com/4-tips-for-making-technical-concepts-relatable-to-non-technical-stakeholders-d667ea71b406?source=rss-e68daed69805------2) (1 week ago)
-- [If You Want to Master Online Storytelling, Learn These 6 Lessons](https://gosev.medium.com/if-you-want-to-master-online-storytelling-learn-these-6-lessons-e971cce30409?source=rss-e68daed69805------2) (2 weeks ago)
+- [If You Want to Master Online Storytelling, Learn These 6 Lessons](https://gosev.medium.com/if-you-want-to-master-online-storytelling-learn-these-6-lessons-e971cce30409?source=rss-e68daed69805------2) (3 weeks ago)
 - [Top 3 Traits of Successful Programmers](https://gosev.medium.com/top-3-traits-of-successful-programmers-8f9f0c7a197f?source=rss-e68daed69805------2) (3 weeks ago)
 - [5 Tips To Help Non-Developers Write Better Feature Requests &amp; Bug Reports](https://gosev.medium.com/5-tips-to-help-non-developers-write-better-feature-requests-bug-reports-aa1f03518646?source=rss-e68daed69805------2) (3 weeks ago)
 - [With OneDiagram, ShadCN Just Changed How I Think About Web Development](https://gosev.medium.com/with-onediagram-shadcn-just-changed-how-i-think-about-web-development-5fe47eeb0d41?source=rss-e68daed69805------2) (3 weeks ago)
@@ -23,7 +23,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/faV4ab1C5jM/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=faV4ab1C5jM">3 Projects To Learn ReactJS #coding</a> (2 days ago) <br/>
+<a href="https://www.youtube.com/watch?v=faV4ab1C5jM">3 Projects To Learn ReactJS #coding</a> (3 days ago) <br/>
 <img src="https://img.shields.io/youtube/views/faV4ab1C5jM?style=flat-square"> </img> 
 </td>
 </tr>
@@ -174,7 +174,7 @@
 
 #### ⭐ Recent Stars
 
-- [latitude-dev/latitude-llm](https://github.com/latitude-dev/latitude-llm) - Latitude is the open-source prompt engineering platform to build, evaluate, and refine your prompts with AI (4 weeks ago)
+- [latitude-dev/latitude-llm](https://github.com/latitude-dev/latitude-llm) - Latitude is the open-source prompt engineering platform to build, evaluate, and refine your prompts with AI (1 month ago)
 - [opentofu/manifesto](https://github.com/opentofu/manifesto) - The OpenTF Manifesto expresses concern over HashiCorp&#39;s switch of the Terraform license from open-source to the Business Source License (BSL) and calls for the tool&#39;s return to a truly open-source license. (1 year ago)
 - [onwidget/astrowind](https://github.com/onwidget/astrowind) - ⭕️ AstroWind: A free template using Astro 4.0 and Tailwind CSS. Astro starter theme. (2 years ago)
 - [coronalabs/CoronaViewer](https://github.com/coronalabs/CoronaViewer) - CoronaViewer for SDK/Enterprise (10 years ago)
