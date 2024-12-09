@@ -140,7 +140,6 @@
 - [Kodaps/image-resize-cdn](https://github.com/Kodaps/image-resize-cdn) -  (3 months ago)
 - [Kodaps/gradient-ascent](https://github.com/Kodaps/gradient-ascent) - A NextJS starter being built in public (i.e. the hard way) (3 months ago)
 - [Kodaps/notion-parse](https://github.com/Kodaps/notion-parse) - An NPM module for downloading and Notion content and saving it as Markdown for NextJS (4 months ago)
-- [Kodaps/portfolio-example](https://github.com/Kodaps/portfolio-example) -  (1 year ago)
 
 #### 🌱 My latest projects
 
