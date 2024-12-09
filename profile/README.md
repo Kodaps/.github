@@ -23,7 +23,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/faV4ab1C5jM/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=faV4ab1C5jM">3 Projects To Learn ReactJS #coding</a> (5 days ago) <br/>
+<a href="https://www.youtube.com/watch?v=faV4ab1C5jM">3 Projects To Learn ReactJS #coding</a> (6 days ago) <br/>
 <img src="https://img.shields.io/youtube/views/faV4ab1C5jM?style=flat-square"> </img> 
 </td>
 </tr>
@@ -135,7 +135,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Kodaps/next-base](https://github.com/Kodaps/next-base) - A starting point for Next using App router (3 weeks ago)
+- [Kodaps/next-base](https://github.com/Kodaps/next-base) - A starting point for Next using App router (4 weeks ago)
 - [Kodaps/stackoverflow-analysis](https://github.com/Kodaps/stackoverflow-analysis) -  (1 month ago)
 - [Kodaps/image-resize-cdn](https://github.com/Kodaps/image-resize-cdn) -  (3 months ago)
 - [Kodaps/gradient-ascent](https://github.com/Kodaps/gradient-ascent) - A NextJS starter being built in public (i.e. the hard way) (3 months ago)
