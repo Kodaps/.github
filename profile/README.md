@@ -23,7 +23,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/faV4ab1C5jM/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=faV4ab1C5jM">3 Projects To Learn ReactJS #coding</a> (4 weeks ago) <br/>
+<a href="https://www.youtube.com/watch?v=faV4ab1C5jM">3 Projects To Learn ReactJS #coding</a> (1 month ago) <br/>
 <img src="https://img.shields.io/youtube/views/faV4ab1C5jM?style=flat-square"> </img> 
 </td>
 </tr>
@@ -168,7 +168,7 @@
 
 - [](https://gist.github.com/ce3defb6415b67ec03f48fa11fc158f0) (3 years ago)
 - [pages/jokes.tsx in NextJS : useEffect &#43; useState &#43; Axios ](https://gist.github.com/fbd960d5a653bf0f527678f038d5bee1) (3 years ago)
-- [NextJS copy index.html files to their folder name](https://gist.github.com/e04abeb6079273b3be54ee6496a0b309) (3 years ago)
+- [NextJS copy index.html files to their folder name](https://gist.github.com/e04abeb6079273b3be54ee6496a0b309) (4 years ago)
 - [](https://gist.github.com/a144834b9542ab523a10) (9 years ago)
 
 #### ⭐ Recent Stars
