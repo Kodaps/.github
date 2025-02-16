@@ -161,7 +161,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Update instructions.md to specify the error](https://github.com/exercism/lua/pull/388) on [exercism/lua](https://github.com/exercism/lua) (1 year ago)
+- [Update instructions.md to specify the error](https://github.com/exercism/lua/pull/388) on [exercism/lua](https://github.com/exercism/lua) (2 years ago)
 
 
 #### 📓 Gists I wrote
