@@ -44,7 +44,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/BtvFuSOAR3E/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=BtvFuSOAR3E">PostgreSQL vs MySQL: The Breakdown</a> (3 months ago) <br/>
+<a href="https://www.youtube.com/watch?v=BtvFuSOAR3E">PostgreSQL vs MySQL: The Breakdown</a> (4 months ago) <br/>
 <img src="https://img.shields.io/youtube/views/BtvFuSOAR3E?style=flat-square"> </img> 
 </td>
 </tr>
