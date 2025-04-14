@@ -6,7 +6,7 @@
 ## 📜 🇬🇧 My recent blog posts
 
 - [4 Tips for Making Technical Concepts Relatable to Non-Technical Stakeholders](https://gosev.medium.com/4-tips-for-making-technical-concepts-relatable-to-non-technical-stakeholders-d667ea71b406?source=rss-e68daed69805------2) (4 months ago)
-- [If You Want to Master Online Storytelling, Learn These 6 Lessons](https://gosev.medium.com/if-you-want-to-master-online-storytelling-learn-these-6-lessons-e971cce30409?source=rss-e68daed69805------2) (4 months ago)
+- [If You Want to Master Online Storytelling, Learn These 6 Lessons](https://gosev.medium.com/if-you-want-to-master-online-storytelling-learn-these-6-lessons-e971cce30409?source=rss-e68daed69805------2) (5 months ago)
 - [Top 3 Traits of Successful Programmers](https://gosev.medium.com/top-3-traits-of-successful-programmers-8f9f0c7a197f?source=rss-e68daed69805------2) (5 months ago)
 - [5 Tips To Help Non-Developers Write Better Feature Requests &amp; Bug Reports](https://gosev.medium.com/5-tips-to-help-non-developers-write-better-feature-requests-bug-reports-aa1f03518646?source=rss-e68daed69805------2) (5 months ago)
 - [With OneDiagram, ShadCN Just Changed How I Think About Web Development](https://gosev.medium.com/with-onediagram-shadcn-just-changed-how-i-think-about-web-development-5fe47eeb0d41?source=rss-e68daed69805------2) (5 months ago)
