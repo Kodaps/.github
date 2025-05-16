@@ -92,7 +92,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/A7SLY_bOVeA/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=A7SLY_bOVeA">Cet Outil REVOLUTIONNE Markdown!</a> (1 year ago) <br/>
+<a href="https://www.youtube.com/watch?v=A7SLY_bOVeA">Cet Outil REVOLUTIONNE Markdown!</a> (2 years ago) <br/>
 <img src="https://img.shields.io/youtube/views/A7SLY_bOVeA?style=flat-square"> </img> 
 </td>
 </tr>
@@ -137,7 +137,7 @@
 
 - [Kodaps/next-base](https://github.com/Kodaps/next-base) - A starting point for Next using App router (6 months ago)
 - [Kodaps/stackoverflow-analysis](https://github.com/Kodaps/stackoverflow-analysis) -  (6 months ago)
-- [Kodaps/image-resize-cdn](https://github.com/Kodaps/image-resize-cdn) -  (8 months ago)
+- [Kodaps/image-resize-cdn](https://github.com/Kodaps/image-resize-cdn) -  (9 months ago)
 - [Kodaps/gradient-ascent](https://github.com/Kodaps/gradient-ascent) - A NextJS starter being built in public (i.e. the hard way) (9 months ago)
 - [Kodaps/notion-parse](https://github.com/Kodaps/notion-parse) - An NPM module for downloading and Notion content and saving it as Markdown for NextJS (9 months ago)
 
