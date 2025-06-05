@@ -51,7 +51,7 @@
 <tr>
 <td><img src="https://img.youtube.com/vi/7ZiQKHLctJE/default.jpg"></img></td>
 <td>
-<a href="https://www.youtube.com/watch?v=7ZiQKHLctJE">Why Open Source Projects Are In Danger</a> (7 months ago) <br/>
+<a href="https://www.youtube.com/watch?v=7ZiQKHLctJE">Why Open Source Projects Are In Danger</a> (8 months ago) <br/>
 <img src="https://img.shields.io/youtube/views/7ZiQKHLctJE?style=flat-square"> </img> 
 </td>
 </tr>
