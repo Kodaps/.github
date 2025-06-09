@@ -135,7 +135,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Kodaps/next-base](https://github.com/Kodaps/next-base) - A starting point for Next using App router (6 months ago)
+- [Kodaps/next-base](https://github.com/Kodaps/next-base) - A starting point for Next using App router (7 months ago)
 - [Kodaps/stackoverflow-analysis](https://github.com/Kodaps/stackoverflow-analysis) -  (7 months ago)
 - [Kodaps/image-resize-cdn](https://github.com/Kodaps/image-resize-cdn) -  (9 months ago)
 - [Kodaps/gradient-ascent](https://github.com/Kodaps/gradient-ascent) - A NextJS starter being built in public (i.e. the hard way) (9 months ago)
