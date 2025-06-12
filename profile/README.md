@@ -184,11 +184,11 @@
 
 #### 👯 Check out some of my recent followers
 
+- [d9k](https://github.com/d9k)
 - [sebthiertant](https://github.com/sebthiertant)
 - [13inccc](https://github.com/13inccc)
 - [maxencecabezon](https://github.com/maxencecabezon)
 - [saadazghour](https://github.com/saadazghour)
-- [Babali42](https://github.com/Babali42)
 
 #### 💬 Feedback
 
