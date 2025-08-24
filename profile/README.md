@@ -137,7 +137,6 @@
 
 - [Kodaps/next-base](https://github.com/Kodaps/next-base) - A starting point for Next using App router (9 months ago)
 - [Kodaps/stackoverflow-analysis](https://github.com/Kodaps/stackoverflow-analysis) -  (10 months ago)
-- [Kodaps/image-resize-cdn](https://github.com/Kodaps/image-resize-cdn) -  (1 year ago)
 
 #### 🌱 My latest projects
 
