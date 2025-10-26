@@ -136,7 +136,6 @@
 #### 👷 Check out what I'm currently working on
 
 - [Kodaps/next-base](https://github.com/Kodaps/next-base) - A starting point for Next using App router (11 months ago)
-- [Kodaps/stackoverflow-analysis](https://github.com/Kodaps/stackoverflow-analysis) -  (1 year ago)
 
 #### 🌱 My latest projects
 
