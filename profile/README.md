@@ -161,7 +161,7 @@
 #### 📓 Gists I wrote
 
 - [](https://gist.github.com/ce3defb6415b67ec03f48fa11fc158f0) (4 years ago)
-- [pages/jokes.tsx in NextJS : useEffect &#43; useState &#43; Axios ](https://gist.github.com/fbd960d5a653bf0f527678f038d5bee1) (4 years ago)
+- [pages/jokes.tsx in NextJS : useEffect &#43; useState &#43; Axios ](https://gist.github.com/fbd960d5a653bf0f527678f038d5bee1) (5 years ago)
 - [NextJS copy index.html files to their folder name](https://gist.github.com/e04abeb6079273b3be54ee6496a0b309) (5 years ago)
 - [](https://gist.github.com/a144834b9542ab523a10) (10 years ago)
 
