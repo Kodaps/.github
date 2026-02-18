@@ -167,7 +167,7 @@
 
 #### ⭐ Recent Stars
 
-- [latitude-dev/latitude-llm](https://github.com/latitude-dev/latitude-llm) - Latitude is the open-source prompt engineering platform to build, evaluate, and refine your prompts with AI (1 year ago)
+- [latitude-dev/latitude-llm](https://github.com/latitude-dev/latitude-llm) - Latitude is the open-source agent engineering platform (1 year ago)
 - [opentofu/manifesto](https://github.com/opentofu/manifesto) - The OpenTF Manifesto expresses concern over HashiCorp&#39;s switch of the Terraform license from open-source to the Business Source License (BSL) and calls for the tool&#39;s return to a truly open-source license. (2 years ago)
 - [arthelokyo/astrowind](https://github.com/arthelokyo/astrowind) - ⭕️ AstroWind: A free template using Astro 5 and Tailwind CSS. Astro starter theme. (3 years ago)
 - [coronalabs/CoronaViewer](https://github.com/coronalabs/CoronaViewer) - CoronaViewer for SDK/Enterprise (11 years ago)
