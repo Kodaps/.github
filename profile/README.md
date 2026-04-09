@@ -135,7 +135,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Kodaps/dev-skills](https://github.com/Kodaps/dev-skills) - Skills for AI driven development  (2 days ago)
+- [Kodaps/dev-skills](https://github.com/Kodaps/dev-skills) - Skills for AI driven development  (3 days ago)
 
 #### 🌱 My latest projects
 
